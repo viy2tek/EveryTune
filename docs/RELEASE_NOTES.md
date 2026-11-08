@@ -1,13 +1,16 @@
-# EveryTune v0.4.0-beta.1
+# EveryTune v0.4.0-beta.2
 
-Primeira beta: busca musical local em várias fontes, com resultados que tenham
+Beta com executável direto: busca musical local em várias fontes, com resultados que tenham
 áudio confirmado pelo conector e preparação de arquivos para salvar pelo navegador.
 
 ## Windows x64
 
-Baixe `EveryTune-v0.4.0-beta.1-windows-x64.zip`, extraia e abra `EveryTune.exe`.
-Não precisa instalar Python, Bend, Node ou WSL. O arquivo `SHA256SUMS.txt` permite
-conferir o pacote. FFprobe é opcional e não acompanha a distribuição.
+**[Baixar o executável](https://github.com/viy2tek/EveryTune/releases/download/v0.4.0-beta.2/EveryTune-v0.4.0-beta.2-windows-x64.exe)**
+
+Baixe o `.exe` e abra com dois cliques. Não precisa extrair ZIP nem instalar Python,
+Bend, Node ou WSL. As licenças e instruções estão incorporadas, no link do rodapé.
+O ZIP continua disponível como alternativa; `SHA256SUMS.txt` permite conferir
+os dois arquivos. FFprobe é opcional e não acompanha a distribuição.
 
 O servidor escuta em `127.0.0.1`; o navegador abre quando ele estiver pronto.
 Para encerrar, use Ajustes → Encerrar EveryTune ou Ctrl+C na janela do aplicativo.

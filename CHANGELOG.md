@@ -1,5 +1,12 @@
 # Alterações
 
+## 0.4.0-beta.2 — 2026-11-08
+
+- Download direto de um único executável Windows x64, sem extração de ZIP.
+- Licenças do projeto, componentes e instruções incorporadas ao executável,
+  acessíveis no rodapé da interface.
+- Pacote opcional ZIP mantido; SHA-256 publicado para os dois formatos.
+
 ## 0.4.0-beta.1 — 2026-11-08
 
 Primeira beta pública preparada para Windows x64 e execução local a partir do código.

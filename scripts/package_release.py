@@ -1,9 +1,11 @@
 """Package an already verified Windows build; never upload or modify user data."""
 import argparse
 import hashlib
+from html import escape
 from importlib import metadata
 from pathlib import Path
 import re
+import shutil
 import sys
 import tomllib
 import zipfile
@@ -33,10 +35,7 @@ def dependency_licenses(names):
     return files
 
 
-def package(executable, output):
-    if not executable.is_file():raise ValueError('Build the executable before packaging.')
-    version=tomllib.loads((ROOT/'pyproject.toml').read_text(encoding='utf-8'))['project']['version']
-    tag=re.sub(r'b(\d+)$',r'-beta.\1',version)
+def release_documents():
     docs={name:(ROOT/name).read_bytes() for name in ['LICENSE','CHANGELOG.md','THIRD_PARTY_NOTICES.md']}
     docs['LEIA-ME.txt']=(ROOT/'docs/RELEASE_USER_GUIDE.txt').read_bytes()
     names=[Requirement(line).name for line in (ROOT/'requirements.txt').read_text().splitlines() if line.strip() and not line.startswith('#')]
@@ -44,6 +43,18 @@ def package(executable, output):
     python_license=Path(sys.base_prefix)/'LICENSE.txt'
     if not python_license.is_file():raise ValueError('Python LICENSE.txt is required in the Windows distribution.')
     docs['third-party/Python/LICENSE.txt']=python_license.read_bytes()
+    return docs
+
+
+def license_fragment(docs):
+    return ''.join(f'<details><summary>{escape(name)}</summary><pre>{escape(data.decode("utf-8"))}</pre></details>' for name,data in sorted(docs.items()))
+
+
+def package(executable, output):
+    if not executable.is_file():raise ValueError('Build the executable before packaging.')
+    version=tomllib.loads((ROOT/'pyproject.toml').read_text(encoding='utf-8'))['project']['version']
+    tag=re.sub(r'b(\d+)$',r'-beta.\1',version)
+    docs=release_documents()
     output.mkdir(parents=True,exist_ok=True)
     archive=output/f'EveryTune-v{tag}-windows-x64.zip'
     temporary=archive.with_suffix('.zip.tmp')
@@ -53,8 +64,15 @@ def package(executable, output):
             for name,data in sorted(docs.items()):bundle.writestr(name,data)
         temporary.replace(archive)
     finally:temporary.unlink(missing_ok=True)
-    with archive.open('rb') as stream:digest=hashlib.file_digest(stream,'sha256').hexdigest()
-    (output/'SHA256SUMS.txt').write_text(f'{digest}  {archive.name}\n',encoding='utf-8')
+    direct=archive.with_suffix('.exe');temporary=direct.with_suffix('.exe.tmp')
+    try:
+        shutil.copyfile(executable,temporary);temporary.replace(direct)
+    finally:temporary.unlink(missing_ok=True)
+    sums=[]
+    for path in [archive,direct]:
+        with path.open('rb') as stream:digest=hashlib.file_digest(stream,'sha256').hexdigest()
+        sums.append(f'{digest}  {path.name}\n')
+    (output/'SHA256SUMS.txt').write_text(''.join(sums),encoding='utf-8')
     return archive
 
 

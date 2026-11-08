@@ -6,8 +6,9 @@ Cada resultado preserva sua origem e os termos informados por ela.
 
 O aplicativo usa Python, FastAPI, Uvicorn, HTTPX, Pydantic, Beautiful Soup,
 Soup Sieve e suas dependências. O executável Windows é empacotado pelo
-PyInstaller. O pacote da release inclui os avisos de licença disponíveis nas
-distribuições instaladas, dentro de `third-party/`; as licenças desses componentes
+PyInstaller. O executável incorpora os avisos de licença disponíveis nas distribuições
+instaladas, acessíveis pelo link Licenças e instruções no rodapé. O ZIP opcional
+também os inclui dentro de `third-party/`; as licenças desses componentes
 continuam aplicáveis. Consulte também os avisos da distribuição Python usada.
 
 A interface contém módulos gerados a partir do código Bend 2 do repositório.

@@ -42,11 +42,12 @@ with tempfile.TemporaryDirectory(prefix="everytune-smoke-") as directory:
                 break
             except OSError: time.sleep(.1)
         else: raise AssertionError("Server never became ready")
-        for path in ("/", "/api/health", "/api/profile", "/api/custom-sources", "/api/sources", "/api/source-audit", "/api/downloads/jobs", "/static/app.js", "/static/preferences.js", "/static/downloads.js", "/static/style.css", "/static/expansion.css", "/static/downloads.css", "/static/icon.svg", "/openapi.json"):
+        for path in ("/", "/api/health", "/api/profile", "/api/custom-sources", "/api/sources", "/api/source-audit", "/api/downloads/jobs", "/static/app.js", "/static/preferences.js", "/static/downloads.js", "/static/style.css", "/static/expansion.css", "/static/downloads.css", "/static/icon.svg", "/static/licenses.html", "/openapi.json"):
             with urllib.request.urlopen(base+path,timeout=3) as response:
                 assert response.status==200
                 payload=response.read()
                 assert len(payload)>0
+                if path=='/static/licenses.html':assert b'MIT License' in payload and b'Python' in payload
                 if path=="/api/source-audit":
                     audit=json.loads(payload)
                     assert audit["complete"] and audit["total"]==124, audit

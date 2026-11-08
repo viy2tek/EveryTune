@@ -21,9 +21,10 @@ def client(tmp_path):
 def test_local_server_and_static_files(client):
     assert client.get("/api/health").json()["status"]=="ok"
     assert "EveryTune" in client.get("/").text
-    for path in ["app.js","style.css","icon.svg","ui-policy.mjs","home.mjs","home.css","home-adapter.js"]:
+    for path in ["app.js","style.css","icon.svg","ui-policy.mjs","home.mjs","home.css","home-adapter.js","licenses.html"]:
         assert client.get("/static/"+path).status_code==200
     assert 'javascript' in client.get('/static/ui-policy.mjs').headers['content-type']
+    assert 'MIT License' in client.get('/static/licenses.html').text
     assert client.get("/openapi.json").status_code==200
     assert "frame-ancestors 'none'" in client.get("/").headers["content-security-policy"]
 

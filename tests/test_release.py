@@ -48,3 +48,14 @@ def test_release_zip_and_checksum_only_include_explicit_files(tmp_path,monkeypat
         assert {'LICENSE','third-party/Python/LICENSE.txt','third-party/test/LICENSE'}<=set(bundle.namelist())
         assert bundle.testzip() is None
     assert (path.parent/'SHA256SUMS.txt').read_text().split()[0]==hashlib.sha256(path.read_bytes()).hexdigest()
+    direct=path.with_suffix('.exe')
+    assert direct.read_bytes()==executable.read_bytes()
+    sums=(path.parent/'SHA256SUMS.txt').read_text().splitlines()
+    assert len(sums)==2 and sums[1]==f'{hashlib.sha256(direct.read_bytes()).hexdigest()}  {direct.name}'
+
+
+def test_embedded_license_notices_escape_text_and_preserve_contents():
+    fragment=release.license_fragment({'LICENSE':b'MIT notice\nCopyright example',
+        'third-party/<example>/LICENSE':b'<script>not executable</script> & text'})
+    assert '<script>' not in fragment and '&lt;script&gt;not executable&lt;/script&gt; &amp; text' in fragment
+    assert 'MIT notice\nCopyright example' in fragment and '&lt;example&gt;' in fragment

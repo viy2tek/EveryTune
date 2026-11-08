@@ -34,7 +34,7 @@ const html=fs.readFileSync(path,'utf8');
 if (!html.includes('<!-- HOME:START -->') || !html.includes('<!-- HOME:END -->')) throw Error('Missing home build markers');
 fs.writeFileSync(path,html.replace(/<!-- HOME:START -->[\\s\\S]*?<!-- HOME:END -->/,'<!-- HOME:START -->\\n'+home.markup()+'\\n<!-- HOME:END -->'));
 let updated=fs.readFileSync(path,'utf8');
-for(const [marker,markup] of [['DOWNLOAD-PREFERENCES',home.download_preferences_markup()],['COVERAGE',home.coverage_markup()],['DOWNLOAD-SELECTION',home.selection_markup()]]) {
+for(const [marker,markup] of [['DOWNLOAD-PREFERENCES',home.download_preferences_markup()],['COVERAGE',home.coverage_markup()],['DOWNLOAD-SELECTION',home.selection_markup()],['FOOTER',home.footer_markup()]]) {
   const start='<!-- '+marker+':START -->',end='<!-- '+marker+':END -->';
   if(!updated.includes(start) || !updated.includes(end)) throw Error('Missing workflow markers: '+marker);
   const first=updated.indexOf(start),last=updated.indexOf(end,first);

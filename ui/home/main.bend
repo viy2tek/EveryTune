@@ -51,3 +51,9 @@ def diagnostic_label(kind: U32) -> String:
 
 def grouped_note() -> String:
   Workflow.grouped_note()
+
+def footer_markup() -> String:
+  Workflow.footer()
+
+def license_page(contents: String) -> String:
+  Workflow.license_page(contents)

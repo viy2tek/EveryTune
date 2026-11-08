@@ -40,5 +40,12 @@ def diagnostic_label(kind: U32) -> String:
 def grouped_note() -> String:
   "Opções agrupadas por metadados iguais; não é uma comparação do som. Cada origem mantém seus arquivos e sua licença."
 
+def footer() -> String:
+  "<footer>EveryTune · Na sua máquina <a href=\"/static/licenses.html\" target=\"_blank\" rel=\"noopener\">Licenças e instruções</a></footer>"
+
+def license_page(contents: String) -> String:
+  "<!doctype html><html lang=\"pt-BR\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Licenças — EveryTune</title><link rel=\"stylesheet\" href=\"/static/style.css\"><link rel=\"stylesheet\" href=\"/static/home.css\"></head><body class=\"home\"><main class=\"license-notices\"><h1>Licenças e instruções</h1><p>EveryTune: código original sob MIT. Componentes e conteúdo de terceiros mantêm seus próprios termos. Estes avisos e as instruções acompanham o executável.</p>" ++ contents ++ "<p><a href=\"/\">Voltar ao EveryTune</a></p></main></body></html>"
+
 def css() -> String:
+  ".license-notices{padding-top:32px!important;padding-bottom:32px!important}.license-notices h1{margin-bottom:20px}.license-notices pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;font-size:.875rem;line-height:1.6}" ++
   ".coverage-scroll{max-width:100%;overflow:auto;margin:20px 0}.coverage-table{width:100%;min-width:680px;border-collapse:collapse;font-size:.875rem}.coverage-table caption{text-align:left;padding:8px 0}.coverage-table th,.coverage-table td{text-align:left;padding:12px;border-bottom:1px solid var(--line);vertical-align:top}.coverage-sample{margin-top:24px}.coverage-sample>label{display:block;line-height:1.6}.coverage-sample textarea{display:block;width:100%;margin:12px 0;padding:12px;resize:vertical;font:inherit;line-height:1.6;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px}.coverage-case{padding:12px 0;border-bottom:1px solid var(--line)}.coverage-case p{margin:6px 0}.grouped-note{margin:12px 0;font-size:.8125rem;color:var(--muted)}.source-diagnostic{padding:10px 0;border-bottom:1px solid var(--line)}.source-diagnostic p{margin:4px 0}.download-selection label{display:grid;gap:6px;font-size:.875rem}"

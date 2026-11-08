@@ -279,6 +279,14 @@ with tempfile.TemporaryDirectory(prefix='everytune-home-ui-') as directory:
             deferred[-1][0].fulfill(content_type='application/x-ndjson',body='\n'.join(json.dumps(e) for e in deferred[-1][1])+'\n')
             expect(page.locator('#coverage-status')).to_contain_text('0/1 consultas concluídas')
             report['checks'].append('Coverage table, editable sample list and cancellation work without overflow on desktop/mobile')
+            with page.expect_popup() as license_popup:
+                page.locator('footer a[href="/static/licenses.html"]').click()
+            licenses=license_popup.value
+            expect(licenses.locator('h1')).to_have_text('Licenças e instruções')
+            expect(licenses.locator('body')).to_contain_text('MIT License')
+            assert licenses.locator('script').count()==0
+            licenses.close()
+            report['checks'].append('Embedded license/instruction page opens from footer without a separate ZIP')
             assert not report['errors'],report['errors']
             browser.close()
     finally:

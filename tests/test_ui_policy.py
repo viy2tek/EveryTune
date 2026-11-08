@@ -26,6 +26,8 @@ for (const id of [0,1,1000,4294967295]) {
 assert.equal(home.transition(2,1),1);
 assert.equal(home.transition(2,99),2);
 assert.match(home.markup(),/options-toggle/);
+assert.match(home.footer_markup(),/licenses.html/);
+assert.match(home.license_page('license fixture'),/license fixture/);
 assert.ok(!home.markup().includes('Todos os caminhos'));
 assert.match(home.css(),/body.home/);
 assert.equal(home.css().split('{').length,home.css().split('}').length);
@@ -40,7 +42,7 @@ for(const kind of [0,1,2,3,99]) for(const direct of [0,1]) for(const preferred o
 const html=fs.readFileSync('everytune/static/index.html','utf8');
 assert.equal(html.split('<!-- HOME:START -->')[1].split('<!-- HOME:END -->')[0].trim(),home.markup().trim());
 assert.equal(fs.readFileSync('everytune/static/home.css','utf8'),home.css());
-for(const [marker,markup] of [['DOWNLOAD-PREFERENCES',home.download_preferences_markup()],['COVERAGE',home.coverage_markup()],['DOWNLOAD-SELECTION',home.selection_markup()]]) {
+for(const [marker,markup] of [['DOWNLOAD-PREFERENCES',home.download_preferences_markup()],['COVERAGE',home.coverage_markup()],['DOWNLOAD-SELECTION',home.selection_markup()],['FOOTER',home.footer_markup()]]) {
   assert.equal(html.split('<!-- '+marker+':START -->')[1].split('<!-- '+marker+':END -->')[0].trim(),markup.trim());
 }
 for (const format of [0,1,2,3,99,4294967295]) {

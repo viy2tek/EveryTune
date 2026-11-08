@@ -3,7 +3,7 @@
 Busque músicas em várias fontes e prepare os arquivos disponíveis para download,
 a partir de um aplicativo que roda na sua máquina.
 
-**Beta 0.4.0b1 · Windows x64 · interface em português · licença MIT**
+**Beta 0.4.0b2 · Windows x64 · interface em português · licença MIT**
 
 O EveryTune inicia um servidor em `127.0.0.1` e abre o navegador. Não precisa de
 conta EveryTune nem de hospedagem na internet. As consultas são enviadas às fontes
@@ -13,8 +13,12 @@ selecionadas; capas podem ser carregadas dos servidores delas.
 
 ### Executável Windows
 
-Na seção [Releases](https://github.com/viy2tek/EveryTune/releases) do repositório, baixe o ZIP
-para Windows x64, extraia e abra **EveryTune.exe**. O código-fonte baixado pelo
+**[Baixar EveryTune.exe](https://github.com/viy2tek/EveryTune/releases/download/v0.4.0-beta.2/EveryTune-v0.4.0-beta.2-windows-x64.exe)**
+
+Baixe o executável para Windows x64 e abra com dois cliques. Não precisa extrair
+ZIP nem instalar o aplicativo. Licenças e instruções estão dentro do executável,
+acessíveis pelo link **Licenças e instruções** no rodapé. O ZIP é uma alternativa
+para quem prefere os avisos em arquivos separados. O código-fonte baixado pelo
 botão Code não contém o executável; `dist/` não é versionado.
 
 Não é necessário instalar Python, Bend, Node ou WSL para usar o executável.

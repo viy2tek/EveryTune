@@ -65,8 +65,10 @@ Gere Windows x64 no próprio Windows, em pasta separada do executável aberto:
 .\.venv\Scripts\python scripts/package_release.py --executable dist/beta/EveryTune.exe
 ```
 
-O pacote fica em `dist/releases/`, com licença do projeto, instruções, avisos
-disponíveis das dependências e SHA-256. Ele não inclui credenciais ou dados do
+Os arquivos ficam em `dist/releases/`: um `.exe` direto, ZIP opcional e SHA-256.
+O build incorpora licença, instruções e avisos das dependências em
+`static/licenses.html`, acessível pelo rodapé. O ZIP também inclui os textos
+separados. Os pacotes não incluem credenciais ou dados do
 usuário. O script não publica nada no GitHub. Use `docs/RELEASE_NOTES.md` como
 texto da pré-release e marque a publicação como beta.
 

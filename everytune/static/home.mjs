@@ -625,8 +625,17 @@ function $workflow_grouped_note() {
   return "Opções agrupadas por metadados iguais; não é uma comparação do som. Cada origem mantém seus arquivos e sua licença.";
 }
 
+function $workflow_footer() {
+  return "<footer>EveryTune · Na sua máquina <a href=\"/static/licenses.html\" target=\"_blank\" rel=\"noopener\">Licenças e instruções</a></footer>";
+}
+
+function $workflow_license_page(_contents_0) {
+  const _x_0 = (_contents_0 + "<p><a href=\"/\">Voltar ao EveryTune</a></p></main></body></html>");
+  return ("<!doctype html><html lang=\"pt-BR\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Licenças — EveryTune</title><link rel=\"stylesheet\" href=\"/static/style.css\"><link rel=\"stylesheet\" href=\"/static/home.css\"></head><body class=\"home\"><main class=\"license-notices\"><h1>Licenças e instruções</h1><p>EveryTune: código original sob MIT. Componentes e conteúdo de terceiros mantêm seus próprios termos. Estes avisos e as instruções acompanham o executável.</p>" + _x_0);
+}
+
 function $workflow_css() {
-  return ".coverage-scroll{max-width:100%;overflow:auto;margin:20px 0}.coverage-table{width:100%;min-width:680px;border-collapse:collapse;font-size:.875rem}.coverage-table caption{text-align:left;padding:8px 0}.coverage-table th,.coverage-table td{text-align:left;padding:12px;border-bottom:1px solid var(--line);vertical-align:top}.coverage-sample{margin-top:24px}.coverage-sample>label{display:block;line-height:1.6}.coverage-sample textarea{display:block;width:100%;margin:12px 0;padding:12px;resize:vertical;font:inherit;line-height:1.6;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px}.coverage-case{padding:12px 0;border-bottom:1px solid var(--line)}.coverage-case p{margin:6px 0}.grouped-note{margin:12px 0;font-size:.8125rem;color:var(--muted)}.source-diagnostic{padding:10px 0;border-bottom:1px solid var(--line)}.source-diagnostic p{margin:4px 0}.download-selection label{display:grid;gap:6px;font-size:.875rem}";
+  return (".license-notices{padding-top:32px!important;padding-bottom:32px!important}.license-notices h1{margin-bottom:20px}.license-notices pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;font-size:.875rem;line-height:1.6}" + ".coverage-scroll{max-width:100%;overflow:auto;margin:20px 0}.coverage-table{width:100%;min-width:680px;border-collapse:collapse;font-size:.875rem}.coverage-table caption{text-align:left;padding:8px 0}.coverage-table th,.coverage-table td{text-align:left;padding:12px;border-bottom:1px solid var(--line);vertical-align:top}.coverage-sample{margin-top:24px}.coverage-sample>label{display:block;line-height:1.6}.coverage-sample textarea{display:block;width:100%;margin:12px 0;padding:12px;resize:vertical;font:inherit;line-height:1.6;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px}.coverage-case{padding:12px 0;border-bottom:1px solid var(--line)}.coverage-case p{margin:6px 0}.grouped-note{margin:12px 0;font-size:.8125rem;color:var(--muted)}.source-diagnostic{padding:10px 0;border-bottom:1px solid var(--line)}.source-diagnostic p{margin:4px 0}.download-selection label{display:grid;gap:6px;font-size:.875rem}");
 }
 
 function $transition(_current_0, _event_0) {
@@ -709,6 +718,14 @@ function $diagnostic_label(_kind_0) {
 
 function $grouped_note() {
   return $workflow_grouped_note();
+}
+
+function $footer_markup() {
+  return $workflow_footer();
+}
+
+function $license_page(_contents_0) {
+  return $workflow_license_page(_contents_0);
 }
 
 function $Bool_to_u32(_b_0) {
@@ -845,6 +862,8 @@ const TAB_2 = [0, 1, 1, 0];export default {
   "workflow:select_file": run_lib((a0,a1,a2,a3) => run_loop($workflow_select_file(a0,a1,a2,a3)), 4),
   "workflow:diagnostic_label": run_lib((a0) => str_out(run_loop($workflow_diagnostic_label(a0))), 1),
   "workflow:grouped_note": run_lib(() => str_out(run_loop($workflow_grouped_note())), 0),
+  "workflow:footer": run_lib(() => str_out(run_loop($workflow_footer())), 0),
+  "workflow:license_page": run_lib((a0) => str_out(run_loop($workflow_license_page(str_in(a0)))), 1),
   "workflow:css": run_lib(() => str_out(run_loop($workflow_css())), 0),
   "transition": run_lib((a0,a1) => run_loop($transition(a0,a1)), 2),
   "accepts": run_lib((a0,a1) => run_loop($accepts(a0,a1)), 2),
@@ -866,4 +885,6 @@ const TAB_2 = [0, 1, 1, 0];export default {
   "select_file": run_lib((a0,a1,a2,a3) => run_loop($select_file(a0,a1,a2,a3)), 4),
   "diagnostic_label": run_lib((a0) => str_out(run_loop($diagnostic_label(a0))), 1),
   "grouped_note": run_lib(() => str_out(run_loop($grouped_note())), 0),
+  "footer_markup": run_lib(() => str_out(run_loop($footer_markup())), 0),
+  "license_page": run_lib((a0) => str_out(run_loop($license_page(str_in(a0)))), 1),
 };
