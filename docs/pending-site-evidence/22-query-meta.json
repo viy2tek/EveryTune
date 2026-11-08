@@ -1,0 +1,13 @@
+{
+  "index": 22,
+  "method": "POST",
+  "endpoint": "https://we-need-match.ru/search/?do=quicksearch",
+  "params": {
+    "q": "Metallica",
+    "type": "all",
+    "search_and_or": "or",
+    "search_in": "all"
+  },
+  "status": 200,
+  "final_url": "https://we-need-match.ru/search/?q=Metallica"
+}

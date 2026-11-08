@@ -1,0 +1,369 @@
+[
+  {
+    "id": "custom_ucsb_cylinders",
+    "name": "UCSB Cylinder Audio Archive",
+    "query": "Kathleen Parlow",
+    "endpoint": "https://cylinders.library.ucsb.edu/search.php",
+    "status": "success",
+    "candidates": 5,
+    "matches": 2,
+    "examples": [
+      {
+        "title": "(A) Menuett G♭ major ; (b) Valse bluette",
+        "url": "https://cylinders.library.ucsb.edu/detail.php?query_type=mms_id&query=990029995950203776&r=1&of=5",
+        "matched_on": "credit"
+      },
+      {
+        "title": "Nocturne in E flat, op. 9, no. 2",
+        "url": "https://cylinders.library.ucsb.edu/detail.php?query_type=mms_id&query=990027531440203776&r=5&of=5",
+        "matched_on": "credit"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_vgmrips",
+    "name": "VGMRips",
+    "query": "Koji Kondo",
+    "endpoint": "https://vgmrips.net/packs/search",
+    "status": "success",
+    "candidates": 20,
+    "matches": 20,
+    "examples": [
+      {
+        "title": "Arm Wrestling",
+        "url": "https://vgmrips.net/packs/pack/arm-wrestling-arcade",
+        "matched_on": "credit"
+      },
+      {
+        "title": "Defender II (U) / Star Gate (J)",
+        "url": "https://vgmrips.net/packs/pack/defender-ii-nes",
+        "matched_on": "credit"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_ocremix",
+    "name": "OC ReMix",
+    "query": "Avitron",
+    "endpoint": "https://ocremix.org/quicksearch/remix/",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "A Dream Between Worlds",
+        "url": "https://ocremix.org/remix/OCR02572",
+        "matched_on": "credit"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_d02871ffde",
+    "name": "iPlusFree",
+    "query": "Beatles",
+    "endpoint": "https://www7.iplusfree.org/",
+    "status": "success",
+    "candidates": 6,
+    "matches": 6,
+    "examples": [
+      {
+        "title": "The Beatles – Abbey Road (2019 Mix) [iTunes Plus AAC M4A]",
+        "url": "https://www7.iplusfree.org/the-beatles-abbey-road-2019-mix-itunes-plus-aac-m4a/",
+        "matched_on": "mention"
+      },
+      {
+        "title": "The Beatles – Let It Be (Super Deluxe) [iTunes Plus AAC M4A]",
+        "url": "https://www7.iplusfree.org/the-beatles-let-it-be-super-deluxe-itunes-plus-aac-m4a/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_5262b0d57a",
+    "name": "Music Rider",
+    "query": "Beatles",
+    "endpoint": "https://musicrider.org",
+    "status": "success",
+    "candidates": 2,
+    "matches": 2,
+    "examples": [
+      {
+        "title": "Jah Wobble & Tian Qiyi – Mystic Liverpool: The Beatles Psychedelic Psongbook (2026)",
+        "url": "https://musicrider.org/jah-wobble-tian-qiyi-mystic-liverpool-the-beatles-psychedelic-psongbook-2026/",
+        "matched_on": "mention"
+      },
+      {
+        "title": "The Beatles – Rubber Soul (Super Deluxe) (2026)",
+        "url": "https://musicrider.org/the-beatles-rubber-soul-super-deluxe-2026/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_b4f1a48023",
+    "name": "SongsLover",
+    "query": "Beatles",
+    "endpoint": "https://songslover.net/",
+    "status": "success",
+    "candidates": 3,
+    "matches": 3,
+    "examples": [
+      {
+        "title": "Eric Bellinger – Black Beatles",
+        "url": "https://songslover.net/video/eric-bellinger-black-beatles.html",
+        "matched_on": "mention"
+      },
+      {
+        "title": "MF DOOM & The Beatles – Sgt. Dumile’s Lonely Hearts Club Band",
+        "url": "https://songslover.net/albums/mf-doom-the-beatles-sgt-dumiles-lonely-hearts-club-band.html",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_d87da2b843",
+    "name": "Exystence",
+    "query": "Beatles",
+    "endpoint": "https://exystence.net/",
+    "status": "success",
+    "candidates": 19,
+    "matches": 19,
+    "examples": [
+      {
+        "title": "Al Di Meola – Across the Universe: The Beatles, Vol. 2  (2020)",
+        "url": "https://exystence.net/blog/2020/03/10/al-di-meola-across-the-universe-the-beatles-vol-2-2020/",
+        "matched_on": "mention"
+      },
+      {
+        "title": "Brad Mehldau – Your Mother Should Know: Brad Mehldau Plays The Beatles (2023)",
+        "url": "https://exystence.net/blog/2023/02/09/brad-mehldau-your-mother-should-know-brad-mehldau-plays-the-beatles-2023/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_fb11b0edbb",
+    "name": "Hipstrumentals",
+    "query": "Beatles",
+    "endpoint": "https://hipstrumentals.com/",
+    "status": "success",
+    "candidates": 2,
+    "matches": 2,
+    "examples": [
+      {
+        "title": "Rae Sremmurd – Black Beatles (Instrumental)",
+        "url": "https://hipstrumentals.com/2022/04/rae-sremmurd-feat-gucci-mane-black-beatles-instrumental/",
+        "matched_on": "mention"
+      },
+      {
+        "title": "The Beatles – Because (Instrumental) (Prod. By George Martin)",
+        "url": "https://hipstrumentals.com/2025/02/the-beatles-because-instrumental-prod-by-george-martin/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_c08f92175f",
+    "name": "EDMWaves",
+    "query": "Tiesto",
+    "endpoint": "https://edmwaves.org/",
+    "status": "success",
+    "candidates": 12,
+    "matches": 12,
+    "examples": [
+      {
+        "title": "BP Tiesto Streaming Classics",
+        "url": "https://edmwaves.org/2025/06/30/bp-tiesto-streaming-classics/",
+        "matched_on": "mention"
+      },
+      {
+        "title": "Jimi Jules – My City’s On Fire (Tiësto Extended Remix) [5054197392788]",
+        "url": "https://edmwaves.org/2022/11/18/jimi-jules-my-citys-on-fire-tiesto-extended-remix-5054197392788/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_2d78815b16",
+    "name": "EssentialHouse",
+    "query": "Beatles",
+    "endpoint": "https://essentialhouse.club/",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "K@M – With The Beatles / Xcape Rhythm Records",
+        "url": "https://essentialhouse.club/2020/04/km-with-the-beatles-xcape-rhythm-records/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_9237b6cbf7",
+    "name": "IntMusic",
+    "query": "Beatles",
+    "endpoint": "https://intmusic.net",
+    "status": "success",
+    "candidates": 20,
+    "matches": 20,
+    "examples": [
+      {
+        "title": "Jah Wobble – Mystic Liverpool: The Beatles Psychedelic Psongbook (2026)",
+        "url": "https://intmusic.net/319412/jah-wobble-mystic-liverpool-the-beatles-psychedelic-psongbook-2026",
+        "matched_on": "mention"
+      },
+      {
+        "title": "The Beatles – All You Need Is Love (2026)",
+        "url": "https://intmusic.net/316759/the-beatles-all-you-need-is-love-2026",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_8a8ad82469",
+    "name": "⁠Old School Metal Music",
+    "query": "Metallica",
+    "endpoint": "https://oldschoolmetalmusicz.blogspot.com/search",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "Metal Mania - 4  Best of Metallica",
+        "url": "https://oldschoolmetalmusicz.blogspot.com/2021/05/metal-mania-4-best-of-metallica.html",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_eadcc74fc6",
+    "name": "Metalminos",
+    "query": "Metallica",
+    "endpoint": "https://metalminos.net/",
+    "status": "success",
+    "candidates": 8,
+    "matches": 8,
+    "examples": [
+      {
+        "title": "Metallica – 72 Seasons 320 kbps (2023)",
+        "url": "https://metalminos.net/metallica-72-seasons-320-kbps/",
+        "matched_on": "mention"
+      },
+      {
+        "title": "Metallica And San Francisco Symphony Orchestra – S&M2 DVD9 (2020)",
+        "url": "https://metalminos.net/metallica-and-san-francisco-symphony-orchestra-sm-2-dvd9/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_5decf63d62",
+    "name": "ThemFire",
+    "query": "Beatles",
+    "endpoint": "https://themfire.pro/",
+    "status": "no_match",
+    "candidates": 0,
+    "matches": 0,
+    "examples": [],
+    "notices": []
+  },
+  {
+    "id": "custom_web_9260a78439",
+    "name": "FondSound",
+    "query": "Beatles",
+    "endpoint": "https://www.fondsound.com/",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "The Beatles: Strawberry Fields Forever/Penny Lane (1967)",
+        "url": "https://www.fondsound.com/the-beatles-strawberry-fields-foreverpenny-lane-1967/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_258b795d84",
+    "name": "1Gabba",
+    "query": "Tiesto",
+    "endpoint": "https://1gabba.pw/frontpage",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "Tiesto - Traffic (Longtimemixer Bootleg)",
+        "url": "https://1gabba.pw/node/87341/tiesto-traffic-longtimemixer-bootleg",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_dae4eed600",
+    "name": "Discografias Completas",
+    "query": "Fort Minor 320 Kbps [MEGA]",
+    "endpoint": "https://www.discografias-completas.org/",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "Fort Minor 320 Kbps [MEGA]",
+        "url": "https://www.discografias-completas.org/fort-minor-320-kbps-mega/",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_65ad9057cd",
+    "name": "Rap War",
+    "query": "Sites & The Kid",
+    "endpoint": "https://rap-war-fam.blogspot.com/search",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "Sites & The Kid - Mind State (2026)",
+        "url": "https://rap-war-fam.blogspot.com/2026/11/sites-kid-mind-state-2026.html",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  },
+  {
+    "id": "custom_web_8d99a7ea25",
+    "name": "Lost Songs",
+    "query": "88 Miles Per Hour",
+    "endpoint": "https://lostsongshc.blogspot.com/search",
+    "status": "success",
+    "candidates": 1,
+    "matches": 1,
+    "examples": [
+      {
+        "title": "88 Miles Per Hour - 2004 - Are You Listening?",
+        "url": "https://lostsongshc.blogspot.com/2026/11/88-miles-per-hour-2004-are-you-listening.html",
+        "matched_on": "mention"
+      }
+    ],
+    "notices": []
+  }
+]

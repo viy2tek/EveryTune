@@ -1,0 +1,45 @@
+{
+  "index": 68,
+  "name": "JazznBlues",
+  "url": "https://jazznblues.club/",
+  "status": 200,
+  "final_url": "https://jazznblues.club/",
+  "title": "jazznblues.club - Archive of jazz & blues music",
+  "forms": [
+    {
+      "method": "get",
+      "action": "./search.php?sid=7413e9bc8d75a6470c92690cf8f2a153",
+      "input_names": [
+        "keywords",
+        "sid"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "./ucp.php?mode=login&sid=7413e9bc8d75a6470c92690cf8f2a153",
+      "input_names": [
+        "username",
+        "password",
+        "autologin",
+        "login",
+        "redirect"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://jazznblues.club/assets/javascript/jquery.min.js?assets_version=52",
+    "https://jazznblues.club/assets/javascript/core.js?assets_version=52",
+    "https://jazznblues.club/styles/elegance_steelblue/template/forum_fn.js?assets_version=52",
+    "https://jazznblues.club/styles/elegance_steelblue/template/ajax.js?assets_version=52",
+    "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-579214d7e47da9a6"
+  ],
+  "searchlinks": [
+    "./search.php?sid=7413e9bc8d75a6470c92690cf8f2a153",
+    "./search.php?search_id=unreadposts&sid=7413e9bc8d75a6470c92690cf8f2a153",
+    "./search.php?search_id=unanswered&sid=7413e9bc8d75a6470c92690cf8f2a153",
+    "./search.php?search_id=active_topics&sid=7413e9bc8d75a6470c92690cf8f2a153",
+    "./search.php?sid=7413e9bc8d75a6470c92690cf8f2a153",
+    "./search.php?sid=7413e9bc8d75a6470c92690cf8f2a153",
+    "./search.php?sid=7413e9bc8d75a6470c92690cf8f2a153"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "index": 48,
+  "name": "⁠Primitive Offerings",
+  "url": "https://primitiveofferings.blogspot.com/",
+  "status": 200,
+  "final_url": "https://primitiveofferings.blogspot.com/",
+  "title": "Primitive Offerings",
+  "searchlinks": [
+    "https://primitiveofferings.blogspot.com/search/label/2005",
+    "https://primitiveofferings.blogspot.com/search/label/alternative",
+    "https://primitiveofferings.blogspot.com/search/label/indie%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/intended%20play",
+    "https://primitiveofferings.blogspot.com/search/label/Matador%20Records",
+    "https://primitiveofferings.blogspot.com/search/label/new%20york%20city",
+    "https://primitiveofferings.blogspot.com/search/label/promo",
+    "https://primitiveofferings.blogspot.com/search/label/sampler",
+    "https://primitiveofferings.blogspot.com/search/label/stoner%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/1988",
+    "https://primitiveofferings.blogspot.com/search/label/arthur%20baker",
+    "https://primitiveofferings.blogspot.com/search/label/electro",
+    "https://primitiveofferings.blogspot.com/search/label/giant%20records",
+    "https://primitiveofferings.blogspot.com/search/label/les%20disques%20du%20cr%C3%A9puscule",
+    "https://primitiveofferings.blogspot.com/search/label/new%20order",
+    "https://primitiveofferings.blogspot.com/search/label/new%20york%20city",
+    "https://primitiveofferings.blogspot.com/search/label/soundtrack",
+    "https://primitiveofferings.blogspot.com/search/label/synth-pop",
+    "https://primitiveofferings.blogspot.com/search/label/1996",
+    "https://primitiveofferings.blogspot.com/search/label/budget%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/compilation",
+    "https://primitiveofferings.blogspot.com/search/label/estrus%20records",
+    "https://primitiveofferings.blogspot.com/search/label/garage%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/mummies",
+    "https://primitiveofferings.blogspot.com/search/label/reissue",
+    "https://primitiveofferings.blogspot.com/search/label/san%20bruno",
+    "https://primitiveofferings.blogspot.com/search/label/1995",
+    "https://primitiveofferings.blogspot.com/search/label/alternative",
+    "https://primitiveofferings.blogspot.com/search/label/britpop",
+    "https://primitiveofferings.blogspot.com/search/label/grunge"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://primitiveofferings.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "various",
+  "feed_matches": [
+    {
+      "title": "various artists - Intended Play 2005: Wrongs Of Spring",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://primitiveofferings.blogspot.com/feeds/2285900256593019312/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/2285900256593019312",
+          "title": "1 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/2285900256593019312"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/2285900256593019312"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://primitiveofferings.blogspot.com/2026/11/various-artists-intended-play-2005.html",
+          "title": "various artists - Intended Play 2005: Wrongs Of Spring"
+        }
+      ]
+    },
+    {
+      "title": "various artists - Salvation! Original Soundtrack",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://primitiveofferings.blogspot.com/feeds/3359222655189706459/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/3359222655189706459",
+          "title": "2 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/3359222655189706459"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/3359222655189706459"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://primitiveofferings.blogspot.com/2026/11/various-artists-salvation-original.html",
+          "title": "various artists - Salvation! Original Soundtrack"
+        }
+      ]
+    },
+    {
+      "title": "various artists - Babe, You're No. 1",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://primitiveofferings.blogspot.com/feeds/7485734913027221888/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/7485734913027221888",
+          "title": "3 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7485734913027221888"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7485734913027221888"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://primitiveofferings.blogspot.com/2026/10/various-artists-babe-youre-no-1.html",
+          "title": "various artists - Babe, You're No. 1"
+        }
+      ]
+    },
+    {
+      "title": "various artists - Bright Ambassadors Of Morning: Mojo Presents 12 Cosmic Echoes From The Psychedelic Universe",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://primitiveofferings.blogspot.com/feeds/7961629826226565970/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/7961629826226565970",
+          "title": "0 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7961629826226565970"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7961629826226565970"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://primitiveofferings.blogspot.com/2026/10/various-artists-bright-ambassadors-of.html",
+          "title": "various artists - Bright Ambassadors Of Morning: Mojo Presents 12 Cosmic Echoes From The Psychedelic Universe"
+        }
+      ]
+    },
+    {
+      "title": "various artists - Requiem By Rough Trade",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://primitiveofferings.blogspot.com/feeds/1736187768449630849/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/1736187768449630849",
+          "title": "2 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/1736187768449630849"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/1736187768449630849"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://primitiveofferings.blogspot.com/2026/10/various-artists-requiem-by-rough-trade.html",
+          "title": "various artists - Requiem By Rough Trade"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://primitiveofferings.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

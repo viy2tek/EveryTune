@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.rockdownload.org/",
+    "title": "Rock Download - O site pra baixar rock grátis!",
+    "search_inputs": 2,
+    "search_url": "https://www.rockdownload.org/?s=Metallica",
+    "query_occurrences": 0,
+    "headings": [
+      "Rock Download - O site pra baixar rock grátis!",
+      "Mais Recentes",
+      "Placebo – Never Let Me Go (2022)",
+      "Placebo – A Place For Us To Dream (2016)",
+      "Placebo – MTV Unplugged (2015)",
+      "Placebo – Loud Like Love (2013)",
+      "Placebo – B3 (2012)",
+      "Placebo – B Sides (2011)"
+    ],
+    "requests": [
+      {
+        "method": "POST",
+        "url": "https://region1.google-analytics.com/g/collect"
+      },
+      {
+        "method": "POST",
+        "url": "https://s.magsrv.com/v1/api.php"
+      },
+      {
+        "method": "POST",
+        "url": "https://region1.google-analytics.com/g/collect"
+      },
+      {
+        "method": "POST",
+        "url": "https://s.magsrv.com/v1/api.php"
+      },
+      {
+        "method": "POST",
+        "url": "https://www.rockdownload.org/cdn-cgi/rum"
+      },
+      {
+        "method": "GET",
+        "url": "https://s.magsrv.com/cimp.php"
+      },
+      {
+        "method": "GET",
+        "url": "https://s.magsrv.com/cimp.php"
+      },
+      {
+        "method": "GET",
+        "url": "https://s.magsrv.com/cimp.php"
+      },
+      {
+        "method": "GET",
+        "url": "https://s.magsrv.com/cimp.php"
+      }
+    ]
+  },
+  {
+    "url": "https://dance-music.org/",
+    "title": "Free Electronic Dance Music (EDM) | Dance Music Organisation | The Home Of Free MP3 Electronic Dance Music Album Downloads | Free MP3 Music Downloads | DMO Recordings",
+    "search_inputs": 0
+  }
+]

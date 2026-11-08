@@ -1,0 +1,23 @@
+{
+  "index": 52,
+  "name": "Ektoplazm",
+  "url": "https://ektoplazm.com/",
+  "status": 200,
+  "final_url": "https://ektoplazm.com/",
+  "title": "Ektoplazm - Free Music Portal and Psytrance Netlabel - MP3, FLAC, and WAV Downloads",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/index.php",
+      "input_names": [
+        "s"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://u.spectralcodex.com/script.js"
+  ],
+  "searchlinks": [
+    "javascript:document.searchForm.submit();"
+  ]
+}

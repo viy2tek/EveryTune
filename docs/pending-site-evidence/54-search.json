@@ -1,0 +1,5248 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-8624282421125812337"
+    },
+    "updated": {
+      "$t": "2026-11-05T08:44:36.814+01:00"
+    },
+    "category": [
+      {
+        "term": "UK"
+      },
+      {
+        "term": "USA"
+      },
+      {
+        "term": "industrial"
+      },
+      {
+        "term": "post-punk"
+      },
+      {
+        "term": "1980"
+      },
+      {
+        "term": "Noise"
+      },
+      {
+        "term": "Minimal Synth"
+      },
+      {
+        "term": "1981"
+      },
+      {
+        "term": "UK DIY"
+      },
+      {
+        "term": "1982"
+      },
+      {
+        "term": "Improvisation"
+      },
+      {
+        "term": "Electronic"
+      },
+      {
+        "term": "1979"
+      },
+      {
+        "term": "Compilations"
+      },
+      {
+        "term": "Electronica"
+      },
+      {
+        "term": "1983"
+      },
+      {
+        "term": "Avant Rock"
+      },
+      {
+        "term": "1978"
+      },
+      {
+        "term": "Spoken Word"
+      },
+      {
+        "term": "Outsider Music"
+      },
+      {
+        "term": "1984"
+      },
+      {
+        "term": "Synth Pop"
+      },
+      {
+        "term": "Ambient"
+      },
+      {
+        "term": "Abstract"
+      },
+      {
+        "term": "1985"
+      },
+      {
+        "term": "Germany"
+      },
+      {
+        "term": "Tape collage"
+      },
+      {
+        "term": "1986"
+      },
+      {
+        "term": "Prog"
+      },
+      {
+        "term": "1977"
+      },
+      {
+        "term": "Jandek"
+      },
+      {
+        "term": "Avant Garde"
+      },
+      {
+        "term": "japan"
+      },
+      {
+        "term": "1987"
+      },
+      {
+        "term": "non-music"
+      },
+      {
+        "term": "Drone"
+      },
+      {
+        "term": "Pub Rock"
+      },
+      {
+        "term": "Outsider Garde"
+      },
+      {
+        "term": "minimalism"
+      },
+      {
+        "term": "Proto-Indie"
+      },
+      {
+        "term": "Outsider Punk"
+      },
+      {
+        "term": "Post Punk"
+      },
+      {
+        "term": "1988"
+      },
+      {
+        "term": "Free Music"
+      },
+      {
+        "term": "Italy"
+      },
+      {
+        "term": "Belgium"
+      },
+      {
+        "term": "Punk Rock"
+      },
+      {
+        "term": "Power Electronics"
+      },
+      {
+        "term": "peel sessions"
+      },
+      {
+        "term": "1971"
+      },
+      {
+        "term": "Psychedelic"
+      },
+      {
+        "term": "Religious Cults"
+      },
+      {
+        "term": "free jazz"
+      },
+      {
+        "term": "1975"
+      },
+      {
+        "term": "1976"
+      },
+      {
+        "term": "1972"
+      },
+      {
+        "term": "Holland"
+      },
+      {
+        "term": "Free Rock"
+      },
+      {
+        "term": "Anarcho Punk"
+      },
+      {
+        "term": "Krautrock"
+      },
+      {
+        "term": "lo-fi"
+      },
+      {
+        "term": "1970"
+      },
+      {
+        "term": "1974"
+      },
+      {
+        "term": "dark ambient"
+      },
+      {
+        "term": "musique concrete"
+      },
+      {
+        "term": "proto-punk"
+      },
+      {
+        "term": "1973"
+      },
+      {
+        "term": "France"
+      },
+      {
+        "term": "1968"
+      },
+      {
+        "term": "modern composition"
+      },
+      {
+        "term": "1969"
+      },
+      {
+        "term": "1989"
+      },
+      {
+        "term": "Iron Curtain Prog"
+      },
+      {
+        "term": "Early Electronics"
+      },
+      {
+        "term": "Ron Johnson Records"
+      },
+      {
+        "term": "post-prog"
+      },
+      {
+        "term": "soundtracks"
+      },
+      {
+        "term": "Cold Wave"
+      },
+      {
+        "term": "New wave"
+      },
+      {
+        "term": "EBM"
+      },
+      {
+        "term": "Kosmiche"
+      },
+      {
+        "term": "Other"
+      },
+      {
+        "term": "Leicester"
+      },
+      {
+        "term": "Throbbing Gristle"
+      },
+      {
+        "term": "1967"
+      },
+      {
+        "term": "Neue Deutsche welle"
+      },
+      {
+        "term": "Joy Division"
+      },
+      {
+        "term": "This Heat"
+      },
+      {
+        "term": "UK Electronic Underground"
+      },
+      {
+        "term": "Noise Rock"
+      },
+      {
+        "term": "Soviet Union"
+      },
+      {
+        "term": "Integrated Circuit Records"
+      },
+      {
+        "term": "Neo Classical"
+      },
+      {
+        "term": "Sound of Pig"
+      },
+      {
+        "term": "USSR"
+      },
+      {
+        "term": "Minoy"
+      },
+      {
+        "term": "Power Pop"
+      },
+      {
+        "term": "Prog-Punk"
+      },
+      {
+        "term": "1990"
+      },
+      {
+        "term": "Comedy"
+      },
+      {
+        "term": "Hippie Folk"
+      },
+      {
+        "term": "Homosexuals"
+      },
+      {
+        "term": "Folk"
+      },
+      {
+        "term": "No Wave"
+      },
+      {
+        "term": "LAFMS"
+      },
+      {
+        "term": "Plunderphonics"
+      },
+      {
+        "term": "psychsploitation"
+      },
+      {
+        "term": "1966"
+      },
+      {
+        "term": "Australia"
+      },
+      {
+        "term": "BBC Radiophonic Workshop"
+      },
+      {
+        "term": "C-86"
+      },
+      {
+        "term": "Jazz Fusion"
+      },
+      {
+        "term": "MB"
+      },
+      {
+        "term": "synth punk"
+      },
+      {
+        "term": "Avant Folk"
+      },
+      {
+        "term": "Year Zero records"
+      },
+      {
+        "term": "1991"
+      },
+      {
+        "term": "Canada"
+      },
+      {
+        "term": "Rough Trade"
+      },
+      {
+        "term": "Career retrospectives"
+      },
+      {
+        "term": "Manchester Musicians Collective"
+      },
+      {
+        "term": "New Zealand"
+      },
+      {
+        "term": "Original Punk"
+      },
+      {
+        "term": "dark folk"
+      },
+      {
+        "term": "DDR"
+      },
+      {
+        "term": "Easy Listening. Loungecore."
+      },
+      {
+        "term": "Mark Perry"
+      },
+      {
+        "term": "Rock in Opposition"
+      },
+      {
+        "term": "US DIY"
+      },
+      {
+        "term": "Melodia"
+      },
+      {
+        "term": "Street Level"
+      },
+      {
+        "term": "The Door and The Window"
+      },
+      {
+        "term": "2015"
+      },
+      {
+        "term": "Industrial records"
+      },
+      {
+        "term": "Zan Hoffman"
+      },
+      {
+        "term": "1994"
+      },
+      {
+        "term": "Berlin School"
+      },
+      {
+        "term": "French Prog"
+      },
+      {
+        "term": "Mauthausen Orchestra"
+      },
+      {
+        "term": "1965"
+      },
+      {
+        "term": "1992"
+      },
+      {
+        "term": "1996"
+      },
+      {
+        "term": "2020"
+      },
+      {
+        "term": "5XOD"
+      },
+      {
+        "term": "5ive Ximes of Dust"
+      },
+      {
+        "term": "Color Tapes"
+      },
+      {
+        "term": "Grindcore"
+      },
+      {
+        "term": "Italian Prog"
+      },
+      {
+        "term": "Scotland"
+      },
+      {
+        "term": "UK Folk Revival"
+      },
+      {
+        "term": "Weird"
+      },
+      {
+        "term": "1964"
+      },
+      {
+        "term": "2013"
+      },
+      {
+        "term": "Derek Bailey"
+      },
+      {
+        "term": "Freak Out"
+      },
+      {
+        "term": "Fuck Off Records"
+      },
+      {
+        "term": "Instant Automatons"
+      },
+      {
+        "term": "The Work"
+      },
+      {
+        "term": "neo-psych"
+      },
+      {
+        "term": "1993"
+      },
+      {
+        "term": "1995"
+      },
+      {
+        "term": "1997"
+      },
+      {
+        "term": "2009"
+      },
+      {
+        "term": "ATV"
+      },
+      {
+        "term": "Broken Flag"
+      },
+      {
+        "term": "Dada Computer"
+      },
+      {
+        "term": "Easy Listening"
+      },
+      {
+        "term": "Muslimgauze"
+      },
+      {
+        "term": "Wales"
+      },
+      {
+        "term": "Wire"
+      },
+      {
+        "term": "Bristol"
+      },
+      {
+        "term": "Dr Feelgood"
+      },
+      {
+        "term": "Its War Boys"
+      },
+      {
+        "term": "Poland"
+      },
+      {
+        "term": "Pop"
+      },
+      {
+        "term": "Spain"
+      },
+      {
+        "term": "proto-rave"
+      },
+      {
+        "term": "David Jackman"
+      },
+      {
+        "term": "Electro"
+      },
+      {
+        "term": "Fake Punk"
+      },
+      {
+        "term": "Sheffield"
+      },
+      {
+        "term": "Sound Poetry"
+      },
+      {
+        "term": "Vanity Records"
+      },
+      {
+        "term": "1959"
+      },
+      {
+        "term": "2008"
+      },
+      {
+        "term": "2014"
+      },
+      {
+        "term": "Alain Neffe"
+      },
+      {
+        "term": "Death Metal"
+      },
+      {
+        "term": "Hippie Bullshit"
+      },
+      {
+        "term": "Inner-X-Musick"
+      },
+      {
+        "term": "MAP"
+      },
+      {
+        "term": "Paul Kelday"
+      },
+      {
+        "term": "hardcore"
+      },
+      {
+        "term": "london music collective"
+      },
+      {
+        "term": "2005"
+      },
+      {
+        "term": "Colin Potter"
+      },
+      {
+        "term": "Incredibly Strange Music"
+      },
+      {
+        "term": "Kif Kif"
+      },
+      {
+        "term": "New Blockaders"
+      },
+      {
+        "term": "Phillip Johnson"
+      },
+      {
+        "term": "Rudimentary Peni"
+      },
+      {
+        "term": "1963"
+      },
+      {
+        "term": "2004"
+      },
+      {
+        "term": "2006"
+      },
+      {
+        "term": "2016"
+      },
+      {
+        "term": "2021"
+      },
+      {
+        "term": "Avant pop"
+      },
+      {
+        "term": "Christmas"
+      },
+      {
+        "term": "Czechoslavakia"
+      },
+      {
+        "term": "Doom metal"
+      },
+      {
+        "term": "Half Japanese"
+      },
+      {
+        "term": "John Giorno"
+      },
+      {
+        "term": "Modern Art"
+      },
+      {
+        "term": "Neil Campbell"
+      },
+      {
+        "term": "Phillip Sanderson"
+      },
+      {
+        "term": "Ramleh"
+      },
+      {
+        "term": "Snatch Tapes"
+      },
+      {
+        "term": "The Pop Group"
+      },
+      {
+        "term": "The Residents"
+      },
+      {
+        "term": "Twee Indie Pop"
+      },
+      {
+        "term": "W.S.Burroughs"
+      },
+      {
+        "term": "Wilko Johnson"
+      },
+      {
+        "term": "Yximaloo"
+      },
+      {
+        "term": "2019"
+      },
+      {
+        "term": "Black Metal"
+      },
+      {
+        "term": "Brian Eno"
+      },
+      {
+        "term": "Charles Manson"
+      },
+      {
+        "term": "Cleaners From Venus"
+      },
+      {
+        "term": "Delia Derbyshire"
+      },
+      {
+        "term": "Early hip hop"
+      },
+      {
+        "term": "Fushitsusha"
+      },
+      {
+        "term": "Geniale Dilletanten"
+      },
+      {
+        "term": "Giorno Poetry Systems"
+      },
+      {
+        "term": "Grant Showbiz"
+      },
+      {
+        "term": "Insane Music"
+      },
+      {
+        "term": "Milk From Cheltenham"
+      },
+      {
+        "term": "Object Music"
+      },
+      {
+        "term": "Occult"
+      },
+      {
+        "term": "Organum"
+      },
+      {
+        "term": "PiL"
+      },
+      {
+        "term": "Punksploitation"
+      },
+      {
+        "term": "2001"
+      },
+      {
+        "term": "2010"
+      },
+      {
+        "term": "2018"
+      },
+      {
+        "term": "Alien Brains"
+      },
+      {
+        "term": "Amos and Sara"
+      },
+      {
+        "term": "Bluegrass"
+      },
+      {
+        "term": "Cherry Red"
+      },
+      {
+        "term": "Coventry"
+      },
+      {
+        "term": "Die Tödliche Doris"
+      },
+      {
+        "term": "Die or DIY Mixtapes"
+      },
+      {
+        "term": "Jap DIY"
+      },
+      {
+        "term": "Lemon Kittens"
+      },
+      {
+        "term": "Lives Of Angels"
+      },
+      {
+        "term": "Loren Mazzacane Connors"
+      },
+      {
+        "term": "Merzbow"
+      },
+      {
+        "term": "Mick Hobbs"
+      },
+      {
+        "term": "NWOBHM"
+      },
+      {
+        "term": "Napalm Death"
+      },
+      {
+        "term": "Old School Hip-Hop"
+      },
+      {
+        "term": "Outer Himalayan Records"
+      },
+      {
+        "term": "Patrik Fitzgerald"
+      },
+      {
+        "term": "Portion Control"
+      },
+      {
+        "term": "Post-Hardcore"
+      },
+      {
+        "term": "Sludge"
+      },
+      {
+        "term": "Space Rock"
+      },
+      {
+        "term": "Young Marble Giants"
+      },
+      {
+        "term": "bendle"
+      },
+      {
+        "term": "proto-rap"
+      },
+      {
+        "term": "1998"
+      },
+      {
+        "term": "1999"
+      },
+      {
+        "term": "2017"
+      },
+      {
+        "term": "Adventures in Reality"
+      },
+      {
+        "term": "Ash Ra Tempel"
+      },
+      {
+        "term": "Avant-Prog"
+      },
+      {
+        "term": "Big City Orchestra"
+      },
+      {
+        "term": "Conrad Schnitzler"
+      },
+      {
+        "term": "Ducks Deluxe"
+      },
+      {
+        "term": "Earache Records"
+      },
+      {
+        "term": "Grey Wolves"
+      },
+      {
+        "term": "Industrial Disco"
+      },
+      {
+        "term": "Lightening Records"
+      },
+      {
+        "term": "Stiff Records"
+      },
+      {
+        "term": "Storm Bugs"
+      },
+      {
+        "term": "Sun City Girls"
+      },
+      {
+        "term": "The Dead C"
+      },
+      {
+        "term": "metal"
+      },
+      {
+        "term": "mirage tapes"
+      },
+      {
+        "term": "1962"
+      },
+      {
+        "term": "2002"
+      },
+      {
+        "term": "2003"
+      },
+      {
+        "term": "2007"
+      },
+      {
+        "term": "2011"
+      },
+      {
+        "term": "2012"
+      },
+      {
+        "term": "Ampnoise"
+      },
+      {
+        "term": "Avant Jazz"
+      },
+      {
+        "term": "Cabaret Voltaire."
+      },
+      {
+        "term": "Consumer Electronics"
+      },
+      {
+        "term": "Crass Records"
+      },
+      {
+        "term": "Daniel Johnston"
+      },
+      {
+        "term": "Davey Williams"
+      },
+      {
+        "term": "Deep Freeze Mice"
+      },
+      {
+        "term": "Deleted Records"
+      },
+      {
+        "term": "Fred Frith"
+      },
+      {
+        "term": "Funk"
+      },
+      {
+        "term": "Gilbert and Lewis"
+      },
+      {
+        "term": "Glenn Branca"
+      },
+      {
+        "term": "ICR"
+      },
+      {
+        "term": "In Phaze"
+      },
+      {
+        "term": "John Zewizz"
+      },
+      {
+        "term": "Luis Mesa"
+      },
+      {
+        "term": "Merz"
+      },
+      {
+        "term": "Mystery Plane"
+      },
+      {
+        "term": "Novelty"
+      },
+      {
+        "term": "Outsider rock"
+      },
+      {
+        "term": "Robert Fripp"
+      },
+      {
+        "term": "Robert Lawrence"
+      },
+      {
+        "term": "Steve Beresford"
+      },
+      {
+        "term": "Sweden"
+      },
+      {
+        "term": "Whitehouse"
+      },
+      {
+        "term": "lo-fi\njapcore"
+      },
+      {
+        "term": "2000"
+      },
+      {
+        "term": "Bene Gesserit"
+      },
+      {
+        "term": "Bogshed"
+      },
+      {
+        "term": "Cloaven Cassettes"
+      },
+      {
+        "term": "Danny and the Dressmakers"
+      },
+      {
+        "term": "Dr. Timothy Leary"
+      },
+      {
+        "term": "Einstürzende Neubauten"
+      },
+      {
+        "term": "Erotica"
+      },
+      {
+        "term": "Eyeless In Gaza"
+      },
+      {
+        "term": "Frank Bretschneider"
+      },
+      {
+        "term": "Henry Flynt"
+      },
+      {
+        "term": "Indie Pop"
+      },
+      {
+        "term": "Ivor Cutler"
+      },
+      {
+        "term": "KlangFarbe"
+      },
+      {
+        "term": "L Voag"
+      },
+      {
+        "term": "Legendary Pink Dots"
+      },
+      {
+        "term": "Manuel Gottsching"
+      },
+      {
+        "term": "Melvins"
+      },
+      {
+        "term": "Norway"
+      },
+      {
+        "term": "Philip Glass"
+      },
+      {
+        "term": "Quick Stab"
+      },
+      {
+        "term": "Terse Tapes"
+      },
+      {
+        "term": "Tony Conrad"
+      },
+      {
+        "term": "United Dairies"
+      },
+      {
+        "term": "WeR7"
+      },
+      {
+        "term": "Women of the SS"
+      },
+      {
+        "term": "dub"
+      },
+      {
+        "term": "neo-folk"
+      },
+      {
+        "term": "noisecore"
+      },
+      {
+        "term": "recommended records"
+      },
+      {
+        "term": "1960"
+      },
+      {
+        "term": "1961"
+      },
+      {
+        "term": "Absolute Body Control"
+      },
+      {
+        "term": "Acid House"
+      },
+      {
+        "term": "Amiga"
+      },
+      {
+        "term": "Angus Maclise"
+      },
+      {
+        "term": "Anne Waldman"
+      },
+      {
+        "term": "Argentina"
+      },
+      {
+        "term": "Ashtray Navigations"
+      },
+      {
+        "term": "Beatsploitation"
+      },
+      {
+        "term": "Brad Laner"
+      },
+      {
+        "term": "City of Worms"
+      },
+      {
+        "term": "Clock DVA"
+      },
+      {
+        "term": "Controls"
+      },
+      {
+        "term": "Das Cassetten Combinat"
+      },
+      {
+        "term": "Father Yod"
+      },
+      {
+        "term": "Glass Records"
+      },
+      {
+        "term": "Good Missionaries"
+      },
+      {
+        "term": "Hungary"
+      },
+      {
+        "term": "Jesus Music"
+      },
+      {
+        "term": "Karl Blake"
+      },
+      {
+        "term": "Keiji Haino"
+      },
+      {
+        "term": "Peter Jefferies"
+      },
+      {
+        "term": "S-Core"
+      },
+      {
+        "term": "Six Minute War"
+      },
+      {
+        "term": "Ya Ho Wha 13"
+      },
+      {
+        "term": "digital dinosaurs"
+      },
+      {
+        "term": "1958"
+      },
+      {
+        "term": "2022"
+      },
+      {
+        "term": "A Witness"
+      },
+      {
+        "term": "Androids of Mu"
+      },
+      {
+        "term": "Attrition"
+      },
+      {
+        "term": "BYG"
+      },
+      {
+        "term": "Betley Welcomes Careful Drivers"
+      },
+      {
+        "term": "Bourbonese Qualk"
+      },
+      {
+        "term": "Camberwell Now"
+      },
+      {
+        "term": "Carl Matthews"
+      },
+      {
+        "term": "Childrens Music"
+      },
+      {
+        "term": "Croiners"
+      },
+      {
+        "term": "Die Trip Computer Die!"
+      },
+      {
+        "term": "Doof"
+      },
+      {
+        "term": "Elvis Costello"
+      },
+      {
+        "term": "Estonia"
+      },
+      {
+        "term": "Eugene Chadbourne"
+      },
+      {
+        "term": "Fallout"
+      },
+      {
+        "term": "Fast Product"
+      },
+      {
+        "term": "Frank Sidebottom"
+      },
+      {
+        "term": "Glasgow"
+      },
+      {
+        "term": "Hope and Anchor"
+      },
+      {
+        "term": "India"
+      },
+      {
+        "term": "Jazzcore"
+      },
+      {
+        "term": "John Cale"
+      },
+      {
+        "term": "John Zorn"
+      },
+      {
+        "term": "Joseph Nechvatal"
+      },
+      {
+        "term": "Kevin Harrison"
+      },
+      {
+        "term": "Little Marcy"
+      },
+      {
+        "term": "Metabolist"
+      },
+      {
+        "term": "Northampton Musicians Collective"
+      },
+      {
+        "term": "Noseflutes"
+      },
+      {
+        "term": "Nurse with Wound"
+      },
+      {
+        "term": "Ralph Records"
+      },
+      {
+        "term": "Ranting Poetry"
+      },
+      {
+        "term": "Reynols"
+      },
+      {
+        "term": "Scouts of Uzbekistan"
+      },
+      {
+        "term": "Shoegaze"
+      },
+      {
+        "term": "Snakefinger"
+      },
+      {
+        "term": "Spherical Objects"
+      },
+      {
+        "term": "Spiritual Jazz"
+      },
+      {
+        "term": "Swell Maps"
+      },
+      {
+        "term": "The Apostles"
+      },
+      {
+        "term": "The Pirates"
+      },
+      {
+        "term": "The Shrubs"
+      },
+      {
+        "term": "Twelve Cubic Feet"
+      },
+      {
+        "term": "US Hardcore"
+      },
+      {
+        "term": "Volcano the Bear"
+      },
+      {
+        "term": "World Music"
+      },
+      {
+        "term": "Zchivago's Disco Dystopia"
+      },
+      {
+        "term": "glitch"
+      },
+      {
+        "term": "1957"
+      },
+      {
+        "term": "2023"
+      },
+      {
+        "term": "Alan Ginsberg"
+      },
+      {
+        "term": "Andrew Chalk"
+      },
+      {
+        "term": "Asmus Tietchens"
+      },
+      {
+        "term": "Astral Social Club"
+      },
+      {
+        "term": "Birmingham"
+      },
+      {
+        "term": "Brian Hodgson"
+      },
+      {
+        "term": "Bron Area"
+      },
+      {
+        "term": "Captain Beefheart"
+      },
+      {
+        "term": "Christian Rock"
+      },
+      {
+        "term": "Cluster"
+      },
+      {
+        "term": "Colin Newman"
+      },
+      {
+        "term": "DDR Synth"
+      },
+      {
+        "term": "Dark Wave"
+      },
+      {
+        "term": "David Toop"
+      },
+      {
+        "term": "Deutsch Amerikanische Freundschaft"
+      },
+      {
+        "term": "Diagram Brothers"
+      },
+      {
+        "term": "Disco"
+      },
+      {
+        "term": "Dome"
+      },
+      {
+        "term": "Doo-Dooettes"
+      },
+      {
+        "term": "E.G. Oblique Graph"
+      },
+      {
+        "term": "Exhibit A"
+      },
+      {
+        "term": "Flowmotion"
+      },
+      {
+        "term": "He's Dead Jim"
+      },
+      {
+        "term": "Jackdaw With Crowbar"
+      },
+      {
+        "term": "John Cage"
+      },
+      {
+        "term": "L.Ron Hubbard"
+      },
+      {
+        "term": "Larry Wallis"
+      },
+      {
+        "term": "Library Music"
+      },
+      {
+        "term": "Mark Shreeve"
+      },
+      {
+        "term": "Masayuki Takayanagi"
+      },
+      {
+        "term": "NB Records"
+      },
+      {
+        "term": "Nails Ov Christ"
+      },
+      {
+        "term": "Namedrop Records"
+      },
+      {
+        "term": "Nasmak"
+      },
+      {
+        "term": "New Age"
+      },
+      {
+        "term": "Officer!"
+      },
+      {
+        "term": "Polskie Nagrania Muza"
+      },
+      {
+        "term": "Port Said"
+      },
+      {
+        "term": "Rashied Ali"
+      },
+      {
+        "term": "S.Y.P.H."
+      },
+      {
+        "term": "SPK"
+      },
+      {
+        "term": "Sandy Denny"
+      },
+      {
+        "term": "Smegma"
+      },
+      {
+        "term": "Steve Miro"
+      },
+      {
+        "term": "Stratis"
+      },
+      {
+        "term": "Stupid Rabbit Tapes"
+      },
+      {
+        "term": "Sutcliffe Jugend"
+      },
+      {
+        "term": "Swastika Kommando"
+      },
+      {
+        "term": "Tara Cross"
+      },
+      {
+        "term": "The Astronauts"
+      },
+      {
+        "term": "The Fall"
+      },
+      {
+        "term": "The Haters"
+      },
+      {
+        "term": "The Manchester Mekon"
+      },
+      {
+        "term": "The Motors"
+      },
+      {
+        "term": "The Prats"
+      },
+      {
+        "term": "Topic Records"
+      },
+      {
+        "term": "Trance Port Tapes"
+      },
+      {
+        "term": "UK Rock'n'Roll"
+      },
+      {
+        "term": "Unkommuniti"
+      },
+      {
+        "term": "Van Der Graaf Generator"
+      },
+      {
+        "term": "Vita Noctis"
+      },
+      {
+        "term": "Xpressway Records"
+      },
+      {
+        "term": "Y Records"
+      },
+      {
+        "term": "ZOG"
+      },
+      {
+        "term": "Zeuhl"
+      },
+      {
+        "term": "missing persons"
+      },
+      {
+        "term": "post-indie"
+      },
+      {
+        "term": "49 Americans"
+      },
+      {
+        "term": "Alice Coltrane"
+      },
+      {
+        "term": "Black Dwarf Recordings"
+      },
+      {
+        "term": "Blackpool"
+      },
+      {
+        "term": "Bobby Beausoleil"
+      },
+      {
+        "term": "Brion Gysin"
+      },
+      {
+        "term": "Casual Labourers"
+      },
+      {
+        "term": "Con-Dom"
+      },
+      {
+        "term": "Cornelius Cardew"
+      },
+      {
+        "term": "D-Beat"
+      },
+      {
+        "term": "Dave Jones"
+      },
+      {
+        "term": "Der Plan"
+      },
+      {
+        "term": "Dirge Punk"
+      },
+      {
+        "term": "Gavin Bryars"
+      },
+      {
+        "term": "Giancarlo Toniutti"
+      },
+      {
+        "term": "Holy Toy"
+      },
+      {
+        "term": "Hungaroton"
+      },
+      {
+        "term": "I'm So Hollow"
+      },
+      {
+        "term": "Ian Boddy"
+      },
+      {
+        "term": "Illusion Of safety"
+      },
+      {
+        "term": "Incapacitants"
+      },
+      {
+        "term": "Iphar"
+      },
+      {
+        "term": "John Baker"
+      },
+      {
+        "term": "John Fahey"
+      },
+      {
+        "term": "Kaoru Abe"
+      },
+      {
+        "term": "Ken Nordine"
+      },
+      {
+        "term": "Kleistwahr"
+      },
+      {
+        "term": "Le Forte Four."
+      },
+      {
+        "term": "Neon Judgement"
+      },
+      {
+        "term": "New Crimes Tapes"
+      },
+      {
+        "term": "Outsider Folk"
+      },
+      {
+        "term": "Outsider Funk"
+      },
+      {
+        "term": "Oz DIY"
+      },
+      {
+        "term": "Peter Hammill"
+      },
+      {
+        "term": "Pseudo Code"
+      },
+      {
+        "term": "Punishment Of Luxury"
+      },
+      {
+        "term": "Raw Records"
+      },
+      {
+        "term": "Recloose Org"
+      },
+      {
+        "term": "Reptile Ranch"
+      },
+      {
+        "term": "Robert Ashley"
+      },
+      {
+        "term": "SBB (Silesian Blues Band)"
+      },
+      {
+        "term": "Silver Apples"
+      },
+      {
+        "term": "Snowy Red"
+      },
+      {
+        "term": "Steaming Coils"
+      },
+      {
+        "term": "Stump"
+      },
+      {
+        "term": "Sunshine Pop"
+      },
+      {
+        "term": "Supraphon"
+      },
+      {
+        "term": "Switzerland"
+      },
+      {
+        "term": "Systematics"
+      },
+      {
+        "term": "The Count Bishops"
+      },
+      {
+        "term": "The MacKenzies"
+      },
+      {
+        "term": "The Stranglers"
+      },
+      {
+        "term": "The Vacants"
+      },
+      {
+        "term": "This Kind Of Punishment"
+      },
+      {
+        "term": "Thurston Moore"
+      },
+      {
+        "term": "Tokyo Flashback"
+      },
+      {
+        "term": "Unrest Work and Play"
+      },
+      {
+        "term": "bIG fLAME"
+      },
+      {
+        "term": "proto-goth"
+      },
+      {
+        "term": "proto-post-rock"
+      },
+      {
+        "term": "sexploitation"
+      },
+      {
+        "term": "012"
+      },
+      {
+        "term": "7 From Life"
+      },
+      {
+        "term": "A.R. & Machines"
+      },
+      {
+        "term": "AG Geige"
+      },
+      {
+        "term": "AMM"
+      },
+      {
+        "term": "Absurd Records"
+      },
+      {
+        "term": "Achim Reichel"
+      },
+      {
+        "term": "Aleister Crowley"
+      },
+      {
+        "term": "Ambient Rock"
+      },
+      {
+        "term": "Anal Cunt"
+      },
+      {
+        "term": "Ascension"
+      },
+      {
+        "term": "Audiophile Tapes"
+      },
+      {
+        "term": "Bandcamp stuff"
+      },
+      {
+        "term": "Barry Bermange"
+      },
+      {
+        "term": "Bill Plummer"
+      },
+      {
+        "term": "Blah Blah Blah"
+      },
+      {
+        "term": "Bluurg Tapes"
+      },
+      {
+        "term": "Boredoms"
+      },
+      {
+        "term": "Brazil"
+      },
+      {
+        "term": "Brit Funk"
+      },
+      {
+        "term": "CAN"
+      },
+      {
+        "term": "Canterbury Scene"
+      },
+      {
+        "term": "Chris Carter"
+      },
+      {
+        "term": "Classical"
+      },
+      {
+        "term": "Cold War"
+      },
+      {
+        "term": "Daphne Oram"
+      },
+      {
+        "term": "Dave prescott"
+      },
+      {
+        "term": "Dislocation Dance"
+      },
+      {
+        "term": "Drum'n'Bass"
+      },
+      {
+        "term": "Eddie and the Hot Rods"
+      },
+      {
+        "term": "Eduard Artemiev"
+      },
+      {
+        "term": "Essendon Airport"
+      },
+      {
+        "term": "Essential Logic"
+      },
+      {
+        "term": "Factory records"
+      },
+      {
+        "term": "Ferial Confine"
+      },
+      {
+        "term": "George Garside"
+      },
+      {
+        "term": "Glaxo Babies"
+      },
+      {
+        "term": "Grafika Airlines"
+      },
+      {
+        "term": "Guru Guru"
+      },
+      {
+        "term": "Hans Reichel"
+      },
+      {
+        "term": "Harry Smith"
+      },
+      {
+        "term": "Henry Kaiser"
+      },
+      {
+        "term": "Hipster Jazz"
+      },
+      {
+        "term": "Holger Czukay"
+      },
+      {
+        "term": "House"
+      },
+      {
+        "term": "In Spe"
+      },
+      {
+        "term": "Ireland"
+      },
+      {
+        "term": "Iron Curtain Funk"
+      },
+      {
+        "term": "Jilted John"
+      },
+      {
+        "term": "John Coltrane"
+      },
+      {
+        "term": "John The Postman"
+      },
+      {
+        "term": "Jonathan Briley"
+      },
+      {
+        "term": "Klar! 80"
+      },
+      {
+        "term": "Konstruktivits"
+      },
+      {
+        "term": "Kosmischer Läufer"
+      },
+      {
+        "term": "Kosmonautentraum"
+      },
+      {
+        "term": "Kramer"
+      },
+      {
+        "term": "Larry Wendt"
+      },
+      {
+        "term": "Laurie Anderson"
+      },
+      {
+        "term": "Midnight Circus"
+      },
+      {
+        "term": "Motorhead"
+      },
+      {
+        "term": "Mud Hutters"
+      },
+      {
+        "term": "Nocturnal Emissions"
+      },
+      {
+        "term": "Oi"
+      },
+      {
+        "term": "Ornette Coleman"
+      },
+      {
+        "term": "Otomo Yoshihide"
+      },
+      {
+        "term": "Penderecki"
+      },
+      {
+        "term": "Prag VEC"
+      },
+      {
+        "term": "Protest Singer"
+      },
+      {
+        "term": "Pyrolator"
+      },
+      {
+        "term": "Rabid Records"
+      },
+      {
+        "term": "Religious Overdose"
+      },
+      {
+        "term": "Richard Pinhas"
+      },
+      {
+        "term": "Roberta Eklund"
+      },
+      {
+        "term": "Robin & Barry Dransfield"
+      },
+      {
+        "term": "Russia"
+      },
+      {
+        "term": "Sacher-Pelz"
+      },
+      {
+        "term": "Sarah Records"
+      },
+      {
+        "term": "Schlaflose Nächte"
+      },
+      {
+        "term": "Scritti Politti"
+      },
+      {
+        "term": "Scrotum Poles"
+      },
+      {
+        "term": "Sea of Wires"
+      },
+      {
+        "term": "Self-Deconstruction"
+      },
+      {
+        "term": "Severed Heads"
+      },
+      {
+        "term": "Siberian Punk"
+      },
+      {
+        "term": "Sigillum S"
+      },
+      {
+        "term": "Sleepchamber"
+      },
+      {
+        "term": "Solid Space"
+      },
+      {
+        "term": "Sterile Records"
+      },
+      {
+        "term": "Stretchheads"
+      },
+      {
+        "term": "Strobe Talbot"
+      },
+      {
+        "term": "Subhumans(uk)"
+      },
+      {
+        "term": "Susan Alcorn"
+      },
+      {
+        "term": "Sven Grünberg"
+      },
+      {
+        "term": "Sympathy Nervous"
+      },
+      {
+        "term": "Terry Riley"
+      },
+      {
+        "term": "The Cardiacs"
+      },
+      {
+        "term": "The Cravats"
+      },
+      {
+        "term": "The Ex"
+      },
+      {
+        "term": "The Freshies"
+      },
+      {
+        "term": "The Merry Pranksters"
+      },
+      {
+        "term": "The Mob"
+      },
+      {
+        "term": "The Nightingales"
+      },
+      {
+        "term": "Theatre Of Eternal Music"
+      },
+      {
+        "term": "Tone set"
+      },
+      {
+        "term": "Twang!"
+      },
+      {
+        "term": "Tyla Gang"
+      },
+      {
+        "term": "Ukraine"
+      },
+      {
+        "term": "Vindaloo Records"
+      },
+      {
+        "term": "Weekend"
+      },
+      {
+        "term": "Wet Taxis"
+      },
+      {
+        "term": "Zoviet France"
+      },
+      {
+        "term": "paul nagle"
+      },
+      {
+        "term": "prutsers"
+      },
+      {
+        "term": "uk82"
+      },
+      {
+        "term": "1952"
+      },
+      {
+        "term": "391"
+      },
+      {
+        "term": "A Split-Second"
+      },
+      {
+        "term": "ARPH Tapes"
+      },
+      {
+        "term": "Abwärts"
+      },
+      {
+        "term": "Afghanistan"
+      },
+      {
+        "term": "Airway"
+      },
+      {
+        "term": "Alan Silva"
+      },
+      {
+        "term": "Amon Düül"
+      },
+      {
+        "term": "Amon Düül II"
+      },
+      {
+        "term": "Anne Briggs"
+      },
+      {
+        "term": "Armand Schaubroeck Steals"
+      },
+      {
+        "term": "Bebop"
+      },
+      {
+        "term": "Bill Nelson"
+      },
+      {
+        "term": "Biting Tongues"
+      },
+      {
+        "term": "Blue Midnight"
+      },
+      {
+        "term": "Bob Cobbing"
+      },
+      {
+        "term": "Bram Tchaikovsky"
+      },
+      {
+        "term": "Bridget St John"
+      },
+      {
+        "term": "Ceramic Hobs"
+      },
+      {
+        "term": "Chocolate Monk"
+      },
+      {
+        "term": "Chorchazade"
+      },
+      {
+        "term": "Chris and Cosey"
+      },
+      {
+        "term": "Clifford Thornton"
+      },
+      {
+        "term": "Coil"
+      },
+      {
+        "term": "Come Org"
+      },
+      {
+        "term": "Controlled Bleeding"
+      },
+      {
+        "term": "Cosey Fanni Tutti"
+      },
+      {
+        "term": "Crass"
+      },
+      {
+        "term": "Crispy Ambulance"
+      },
+      {
+        "term": "Cybe"
+      },
+      {
+        "term": "Czeslaw Niemen"
+      },
+      {
+        "term": "DZ Lectric"
+      },
+      {
+        "term": "DaDa"
+      },
+      {
+        "term": "Dark Day"
+      },
+      {
+        "term": "Data-Bank-A"
+      },
+      {
+        "term": "Dave & Toni Arthur"
+      },
+      {
+        "term": "David Cunningham"
+      },
+      {
+        "term": "Deathranch"
+      },
+      {
+        "term": "Deviants"
+      },
+      {
+        "term": "Dining Out Records"
+      },
+      {
+        "term": "Don Cherry"
+      },
+      {
+        "term": "Downliners Sect"
+      },
+      {
+        "term": "Doxa Sinistra"
+      },
+      {
+        "term": "Drömm Records"
+      },
+      {
+        "term": "Erkki-Sven Tüür"
+      },
+      {
+        "term": "Exotica"
+      },
+      {
+        "term": "Fabulous Poodles"
+      },
+      {
+        "term": "Fairport Convention"
+      },
+      {
+        "term": "Frank Lowe"
+      },
+      {
+        "term": "Gabor Szabo"
+      },
+      {
+        "term": "God's Gift"
+      },
+      {
+        "term": "Gorilla Aktiv"
+      },
+      {
+        "term": "Graham Bond"
+      },
+      {
+        "term": "Graham Fellows"
+      },
+      {
+        "term": "Ground Zero"
+      },
+      {
+        "term": "Guerilla Toss"
+      },
+      {
+        "term": "Hatecore"
+      },
+      {
+        "term": "Heldon"
+      },
+      {
+        "term": "Henry Badowski"
+      },
+      {
+        "term": "Holgar Hiller"
+      },
+      {
+        "term": "Jack Smith"
+      },
+      {
+        "term": "Jean-Pierre Massiera"
+      },
+      {
+        "term": "Jody and the Creams"
+      },
+      {
+        "term": "Johnny Moped"
+      },
+      {
+        "term": "Jung Analysts"
+      },
+      {
+        "term": "K.K.Null"
+      },
+      {
+        "term": "Kallous Boys"
+      },
+      {
+        "term": "Kathy Acker"
+      },
+      {
+        "term": "Keeler"
+      },
+      {
+        "term": "Kenneth Terroade"
+      },
+      {
+        "term": "Kevin Hewick"
+      },
+      {
+        "term": "Kilburn and the High-Roads"
+      },
+      {
+        "term": "Kilslug"
+      },
+      {
+        "term": "La Monte Young"
+      },
+      {
+        "term": "Lew Lewis"
+      },
+      {
+        "term": "Lindsay Cooper"
+      },
+      {
+        "term": "Liverpool"
+      },
+      {
+        "term": "London Musicians Union"
+      },
+      {
+        "term": "Lora Logic"
+      },
+      {
+        "term": "Magthea"
+      },
+      {
+        "term": "Man's Hate"
+      },
+      {
+        "term": "Mark E. Smith"
+      },
+      {
+        "term": "Martin Carthy"
+      },
+      {
+        "term": "Math Rock"
+      },
+      {
+        "term": "Mayhem"
+      },
+      {
+        "term": "Mess"
+      },
+      {
+        "term": "Metamorphosis"
+      },
+      {
+        "term": "Mick Farren"
+      },
+      {
+        "term": "Mickey Jupp"
+      },
+      {
+        "term": "Monte Cazazza"
+      },
+      {
+        "term": "Mütiilation"
+      },
+      {
+        "term": "Neat Records"
+      },
+      {
+        "term": "Neu"
+      },
+      {
+        "term": "No Trend"
+      },
+      {
+        "term": "No Way"
+      },
+      {
+        "term": "Noyes Brothers"
+      },
+      {
+        "term": "Obscure Records"
+      },
+      {
+        "term": "Outsider Jazz"
+      },
+      {
+        "term": "Outsider Psych"
+      },
+      {
+        "term": "PBK"
+      },
+      {
+        "term": "PO!"
+      },
+      {
+        "term": "Palais Schaumburg"
+      },
+      {
+        "term": "Pascal Comelade"
+      },
+      {
+        "term": "Peeved Records"
+      },
+      {
+        "term": "Performing Ferrets"
+      },
+      {
+        "term": "Peter Brötzmann"
+      },
+      {
+        "term": "Petticoats"
+      },
+      {
+        "term": "Pink Fairies"
+      },
+      {
+        "term": "Plastic People Of The Universe"
+      },
+      {
+        "term": "Poison"
+      },
+      {
+        "term": "Pole Records"
+      },
+      {
+        "term": "Portsmouth Sinfonia"
+      },
+      {
+        "term": "Preggy Peggy & The Lazy Babymakers"
+      },
+      {
+        "term": "Prick Decay"
+      },
+      {
+        "term": "R. Stevie Moore"
+      },
+      {
+        "term": "ROIR Records"
+      },
+      {
+        "term": "Reading"
+      },
+      {
+        "term": "Reflections"
+      },
+      {
+        "term": "Reinhard Lakomy"
+      },
+      {
+        "term": "Rema Rema"
+      },
+      {
+        "term": "Renaldo and the Loaf"
+      },
+      {
+        "term": "Richard Truhlar"
+      },
+      {
+        "term": "Rick Crane"
+      },
+      {
+        "term": "Rip Rig + Panic"
+      },
+      {
+        "term": "Robert Rental"
+      },
+      {
+        "term": "Robert Ridley-Shackleton"
+      },
+      {
+        "term": "Rod McKuen"
+      },
+      {
+        "term": "Ruth White"
+      },
+      {
+        "term": "Ruth's Refrigerator"
+      },
+      {
+        "term": "Sane Records"
+      },
+      {
+        "term": "Schlafengarten"
+      },
+      {
+        "term": "Section 25"
+      },
+      {
+        "term": "Sixties Punk"
+      },
+      {
+        "term": "Sludgecore"
+      },
+      {
+        "term": "Slugfuckers"
+      },
+      {
+        "term": "Sonny Sharrock"
+      },
+      {
+        "term": "Steve McCaffery"
+      },
+      {
+        "term": "Steve Reich"
+      },
+      {
+        "term": "Stress"
+      },
+      {
+        "term": "Stripey Zebras"
+      },
+      {
+        "term": "Sugarhill Gang"
+      },
+      {
+        "term": "Suicide"
+      },
+      {
+        "term": "Suspect"
+      },
+      {
+        "term": "Symboter"
+      },
+      {
+        "term": "Ted Chippington"
+      },
+      {
+        "term": "The Blind Man Who Walked Past the Supermarket"
+      },
+      {
+        "term": "The Clash"
+      },
+      {
+        "term": "The Cortinas"
+      },
+      {
+        "term": "The Last Poets"
+      },
+      {
+        "term": "The League Of Gentlemen"
+      },
+      {
+        "term": "The Membranes"
+      },
+      {
+        "term": "The Nihilist Spasm Band"
+      },
+      {
+        "term": "The Shapes"
+      },
+      {
+        "term": "The Slits"
+      },
+      {
+        "term": "The Young Tradition"
+      },
+      {
+        "term": "Third Door From The Left"
+      },
+      {
+        "term": "Third Mind"
+      },
+      {
+        "term": "Thirdorgan"
+      },
+      {
+        "term": "Those little Aliens"
+      },
+      {
+        "term": "Tom Cora"
+      },
+      {
+        "term": "Tristram Cary"
+      },
+      {
+        "term": "Turntablism"
+      },
+      {
+        "term": "UT"
+      },
+      {
+        "term": "Unlikely Records"
+      },
+      {
+        "term": "Unseen Terror"
+      },
+      {
+        "term": "Velvet Underground"
+      },
+      {
+        "term": "Venom"
+      },
+      {
+        "term": "Vibracathedral Orchestra"
+      },
+      {
+        "term": "Vice Versa"
+      },
+      {
+        "term": "We Be Echo"
+      },
+      {
+        "term": "Wolfgang Dauner"
+      },
+      {
+        "term": "Yeah Yeah Noh"
+      },
+      {
+        "term": "Yugoslavia"
+      },
+      {
+        "term": "Yukio Yung"
+      },
+      {
+        "term": "john bender"
+      },
+      {
+        "term": "music for Midgets"
+      },
+      {
+        "term": "shit-fi"
+      },
+      {
+        "term": "vinyl drip"
+      },
+      {
+        "term": "à;GRUMH"
+      },
+      {
+        "term": "→ ↑ →"
+      },
+      {
+        "term": "1916"
+      },
+      {
+        "term": "1951"
+      },
+      {
+        "term": "1954"
+      },
+      {
+        "term": "1955"
+      },
+      {
+        "term": "1956"
+      },
+      {
+        "term": "2024"
+      },
+      {
+        "term": "2025"
+      },
+      {
+        "term": "86:Mix"
+      },
+      {
+        "term": "A Certain Ratio"
+      },
+      {
+        "term": "A La Ping Pong"
+      },
+      {
+        "term": "A.L.Lloyd"
+      },
+      {
+        "term": "APF Brigade"
+      },
+      {
+        "term": "Adrian Sherwood"
+      },
+      {
+        "term": "Africa"
+      },
+      {
+        "term": "Agog"
+      },
+      {
+        "term": "Alan Licht"
+      },
+      {
+        "term": "All Saved Freak Band"
+      },
+      {
+        "term": "Alternative"
+      },
+      {
+        "term": "Alvin Lucier"
+      },
+      {
+        "term": "Ambient Black Metal"
+      },
+      {
+        "term": "Ambient Metal"
+      },
+      {
+        "term": "Americana"
+      },
+      {
+        "term": "Anal Probe"
+      },
+      {
+        "term": "Ananada Shankar"
+      },
+      {
+        "term": "Anthrax for the People"
+      },
+      {
+        "term": "Antony Newley"
+      },
+      {
+        "term": "Archie Shepp"
+      },
+      {
+        "term": "Arsenal"
+      },
+      {
+        "term": "Attila The Stockbroker"
+      },
+      {
+        "term": "Aussie Pub Rock"
+      },
+      {
+        "term": "Autumn"
+      },
+      {
+        "term": "Beat Poetry"
+      },
+      {
+        "term": "Bees Make Honey"
+      },
+      {
+        "term": "Belfast"
+      },
+      {
+        "term": "Bing Selfish"
+      },
+      {
+        "term": "Birchville Cat Motel"
+      },
+      {
+        "term": "Blitzkrieg Bop"
+      },
+      {
+        "term": "Boards Of Canada"
+      },
+      {
+        "term": "Bob Trimble"
+      },
+      {
+        "term": "Bona Dish"
+      },
+      {
+        "term": "Bovva Rock"
+      },
+      {
+        "term": "Brighton"
+      },
+      {
+        "term": "Bulgaria"
+      },
+      {
+        "term": "C.C.C.C."
+      },
+      {
+        "term": "Calypso Now"
+      },
+      {
+        "term": "Cambridge"
+      },
+      {
+        "term": "Carcass"
+      },
+      {
+        "term": "Cerrone"
+      },
+      {
+        "term": "Charlemagne Palestine"
+      },
+      {
+        "term": "Charles Amirkhanian"
+      },
+      {
+        "term": "Charles Bukowski"
+      },
+      {
+        "term": "Church Universal And Triumphant"
+      },
+      {
+        "term": "Clark Coolidge"
+      },
+      {
+        "term": "Classic Rock"
+      },
+      {
+        "term": "Country and western"
+      },
+      {
+        "term": "Crash Course In Science"
+      },
+      {
+        "term": "Crawling With Tarts"
+      },
+      {
+        "term": "Criswell"
+      },
+      {
+        "term": "Crust"
+      },
+      {
+        "term": "Das Ding"
+      },
+      {
+        "term": "Dave Swarbrick"
+      },
+      {
+        "term": "David Koresh"
+      },
+      {
+        "term": "David Tudor"
+      },
+      {
+        "term": "Death By Milkfloat"
+      },
+      {
+        "term": "Denmark"
+      },
+      {
+        "term": "Die Haut"
+      },
+      {
+        "term": "Dogliveroil"
+      },
+      {
+        "term": "Don Harper"
+      },
+      {
+        "term": "Doom"
+      },
+      {
+        "term": "Doris Norton"
+      },
+      {
+        "term": "Dreampop"
+      },
+      {
+        "term": "Dreamsludge"
+      },
+      {
+        "term": "Edinburgh"
+      },
+      {
+        "term": "Edward Barton"
+      },
+      {
+        "term": "Egg Eggs"
+      },
+      {
+        "term": "Else Marie Pade"
+      },
+      {
+        "term": "Emil Richards"
+      },
+      {
+        "term": "Eurovision"
+      },
+      {
+        "term": "Fatal Microbes"
+      },
+      {
+        "term": "Faust"
+      },
+      {
+        "term": "Field Recording"
+      },
+      {
+        "term": "Fleetwood Mac"
+      },
+      {
+        "term": "Floyd Robinson"
+      },
+      {
+        "term": "Flux Of Pink Indians"
+      },
+      {
+        "term": "Formula 3"
+      },
+      {
+        "term": "Frankie Armstrong"
+      },
+      {
+        "term": "Funboy Five"
+      },
+      {
+        "term": "Fuzzhead"
+      },
+      {
+        "term": "Galen Herod"
+      },
+      {
+        "term": "Garybaldi"
+      },
+      {
+        "term": "Gil Mellé"
+      },
+      {
+        "term": "Global"
+      },
+      {
+        "term": "Godzilla"
+      },
+      {
+        "term": "Greenfield Leisure"
+      },
+      {
+        "term": "Greenwich Performance Collective"
+      },
+      {
+        "term": "Groinoids"
+      },
+      {
+        "term": "Gus Coma"
+      },
+      {
+        "term": "Hammersmith Gorillas"
+      },
+      {
+        "term": "Hamster records"
+      },
+      {
+        "term": "Harmonia"
+      },
+      {
+        "term": "Haunted House"
+      },
+      {
+        "term": "Hennix"
+      },
+      {
+        "term": "Horrorcomic"
+      },
+      {
+        "term": "Hugo Ball"
+      },
+      {
+        "term": "I Am The Fly"
+      },
+      {
+        "term": "IDM"
+      },
+      {
+        "term": "IDM. Drum'n'Bass"
+      },
+      {
+        "term": "If Bwana"
+      },
+      {
+        "term": "Indie-Jazz"
+      },
+      {
+        "term": "Industrial Metal"
+      },
+      {
+        "term": "Iron Curtain Punk"
+      },
+      {
+        "term": "Iron Curtain Soul"
+      },
+      {
+        "term": "Jaap Blonk"
+      },
+      {
+        "term": "Jesus Funk"
+      },
+      {
+        "term": "Jim Welton"
+      },
+      {
+        "term": "Joe Meek"
+      },
+      {
+        "term": "John Carpenter"
+      },
+      {
+        "term": "John Hassell"
+      },
+      {
+        "term": "John Shuttleworth"
+      },
+      {
+        "term": "Jon Gibson"
+      },
+      {
+        "term": "Kali Bahlu"
+      },
+      {
+        "term": "Kluster"
+      },
+      {
+        "term": "Komovari64"
+      },
+      {
+        "term": "Kraftwerk"
+      },
+      {
+        "term": "Kriminelle Tanzkapelle"
+      },
+      {
+        "term": "Latvia"
+      },
+      {
+        "term": "Leeds"
+      },
+      {
+        "term": "Lithuania"
+      },
+      {
+        "term": "Louis and Bebe Barron"
+      },
+      {
+        "term": "Lurch"
+      },
+      {
+        "term": "Lustmord"
+      },
+      {
+        "term": "MCH Band"
+      },
+      {
+        "term": "Magazine"
+      },
+      {
+        "term": "Mahogany Brain"
+      },
+      {
+        "term": "Marian Zazeela"
+      },
+      {
+        "term": "Marie Rottrová"
+      },
+      {
+        "term": "Marjoe Gortner"
+      },
+      {
+        "term": "Masonna"
+      },
+      {
+        "term": "Medium Medium"
+      },
+      {
+        "term": "Mekanik Kommando"
+      },
+      {
+        "term": "Michael Mills"
+      },
+      {
+        "term": "Michael Nyman"
+      },
+      {
+        "term": "Michael Raven & Joan Mills"
+      },
+      {
+        "term": "Moondog"
+      },
+      {
+        "term": "Moving Gelatine Plates"
+      },
+      {
+        "term": "N.Æ. (Niemen Aerolit)"
+      },
+      {
+        "term": "Nadja"
+      },
+      {
+        "term": "Negative Reaction"
+      },
+      {
+        "term": "Negativland"
+      },
+      {
+        "term": "New 7th Music"
+      },
+      {
+        "term": "Nick Lowe"
+      },
+      {
+        "term": "Norman Howard"
+      },
+      {
+        "term": "Norwich"
+      },
+      {
+        "term": "Nu-DIY"
+      },
+      {
+        "term": "Original Rock'n'Roll"
+      },
+      {
+        "term": "Osanna"
+      },
+      {
+        "term": "Our Generation"
+      },
+      {
+        "term": "Owen Sound"
+      },
+      {
+        "term": "Pain Killer"
+      },
+      {
+        "term": "Party Sound Tapes"
+      },
+      {
+        "term": "People's Temple Choir"
+      },
+      {
+        "term": "Pip Proud"
+      },
+      {
+        "term": "Piranhas"
+      },
+      {
+        "term": "Plan 9 From Outer Space"
+      },
+      {
+        "term": "Political Pop"
+      },
+      {
+        "term": "Pop:Aural"
+      },
+      {
+        "term": "Power Violence"
+      },
+      {
+        "term": "Prog-Disco"
+      },
+      {
+        "term": "Proto-Twee"
+      },
+      {
+        "term": "Pumf Records"
+      },
+      {
+        "term": "Pussy Galore"
+      },
+      {
+        "term": "Rafael Flores"
+      },
+      {
+        "term": "Ralph Carmichael"
+      },
+      {
+        "term": "Ray Fisher"
+      },
+      {
+        "term": "Rev. Jim Jones"
+      },
+      {
+        "term": "Rockwell"
+      },
+      {
+        "term": "Rolo Tomassi"
+      },
+      {
+        "term": "Ron Warren Ganderton"
+      },
+      {
+        "term": "Russian Punk"
+      },
+      {
+        "term": "S-haters"
+      },
+      {
+        "term": "Sad Lovers And Giants"
+      },
+      {
+        "term": "Sai Baba"
+      },
+      {
+        "term": "Samplerdelic"
+      },
+      {
+        "term": "Seething Wells"
+      },
+      {
+        "term": "Servi"
+      },
+      {
+        "term": "Shit and Shine"
+      },
+      {
+        "term": "Shoes For Industry"
+      },
+      {
+        "term": "Siglo XX"
+      },
+      {
+        "term": "Sinyx"
+      },
+      {
+        "term": "Skullflower"
+      },
+      {
+        "term": "Slowcore"
+      },
+      {
+        "term": "Small Wonder"
+      },
+      {
+        "term": "Smell & Quim"
+      },
+      {
+        "term": "Soft Cell"
+      },
+      {
+        "term": "Sound Ceremony"
+      },
+      {
+        "term": "Sound FX"
+      },
+      {
+        "term": "Splat!"
+      },
+      {
+        "term": "Sten Hanson"
+      },
+      {
+        "term": "Strawberry Alarm Clock"
+      },
+      {
+        "term": "Suisse"
+      },
+      {
+        "term": "Sun Ra"
+      },
+      {
+        "term": "Tangerine Dream"
+      },
+      {
+        "term": "Tarkovsky"
+      },
+      {
+        "term": "Techno"
+      },
+      {
+        "term": "The Barron Balls"
+      },
+      {
+        "term": "The Bathroom Renovations"
+      },
+      {
+        "term": "The Chrysanthemums"
+      },
+      {
+        "term": "The Dodgems"
+      },
+      {
+        "term": "The Flamingo Group"
+      },
+      {
+        "term": "The Four Horsemen"
+      },
+      {
+        "term": "The Gist"
+      },
+      {
+        "term": "The Gordons"
+      },
+      {
+        "term": "The Just measurers"
+      },
+      {
+        "term": "The Killjoys"
+      },
+      {
+        "term": "The Mekons"
+      },
+      {
+        "term": "The Screamers"
+      },
+      {
+        "term": "The United States Of America"
+      },
+      {
+        "term": "The Watersons"
+      },
+      {
+        "term": "The Winkies"
+      },
+      {
+        "term": "This Bitter Lesson"
+      },
+      {
+        "term": "Tom Dissevelt"
+      },
+      {
+        "term": "Tronics"
+      },
+      {
+        "term": "Turkmenistan"
+      },
+      {
+        "term": "Twilight Ritual"
+      },
+      {
+        "term": "Two Daughters"
+      },
+      {
+        "term": "Union Pole"
+      },
+      {
+        "term": "Unune"
+      },
+      {
+        "term": "Violent Party Records"
+      },
+      {
+        "term": "Vivian Stanshall"
+      },
+      {
+        "term": "We Got a Fuzzbox and We're Gonna Use it"
+      },
+      {
+        "term": "Wendy Carlos"
+      },
+      {
+        "term": "Wreckless Eric"
+      },
+      {
+        "term": "X-Ray Spex"
+      },
+      {
+        "term": "Zounds"
+      },
+      {
+        "term": "Zwitschermaschine"
+      },
+      {
+        "term": "cassiber"
+      },
+      {
+        "term": "harsh reality music"
+      },
+      {
+        "term": "indie-prog"
+      },
+      {
+        "term": "nervous gender"
+      },
+      {
+        "term": "the Black Legions"
+      },
+      {
+        "term": "the Entire Cosmos"
+      },
+      {
+        "term": "Üwan"
+      },
+      {
+        "term": "021"
+      },
+      {
+        "term": "1948"
+      },
+      {
+        "term": "1950"
+      },
+      {
+        "term": "2. Liga"
+      },
+      {
+        "term": "400 blows"
+      },
+      {
+        "term": "46000 Fibres"
+      },
+      {
+        "term": "AOR"
+      },
+      {
+        "term": "Action Pussy"
+      },
+      {
+        "term": "Ad Nauseam"
+      },
+      {
+        "term": "Adrenalin O.D."
+      },
+      {
+        "term": "Afflicted Man"
+      },
+      {
+        "term": "Ahmad Zahir"
+      },
+      {
+        "term": "Alan Watts"
+      },
+      {
+        "term": "Albertos Y Lost Trios Paranoias"
+      },
+      {
+        "term": "Algebra Mothers"
+      },
+      {
+        "term": "Algebra Suicide"
+      },
+      {
+        "term": "Alternomen Unlimited"
+      },
+      {
+        "term": "Ambient Doom"
+      },
+      {
+        "term": "Amebix"
+      },
+      {
+        "term": "Amok"
+      },
+      {
+        "term": "Animals and Men"
+      },
+      {
+        "term": "Another View"
+      },
+      {
+        "term": "Anthrax (uk)"
+      },
+      {
+        "term": "Anti Cimex"
+      },
+      {
+        "term": "Anton Fier"
+      },
+      {
+        "term": "Anton LaVey"
+      },
+      {
+        "term": "Aphex Twin"
+      },
+      {
+        "term": "Archie Fisher"
+      },
+      {
+        "term": "Area"
+      },
+      {
+        "term": "Art Bears"
+      },
+      {
+        "term": "Arti & Mestieri"
+      },
+      {
+        "term": "Asbestos Rockpyle"
+      },
+      {
+        "term": "Asphixiation"
+      },
+      {
+        "term": "Atrax Morgue"
+      },
+      {
+        "term": "Azag-Thoth"
+      },
+      {
+        "term": "Azerbaijan"
+      },
+      {
+        "term": "BOB"
+      },
+      {
+        "term": "Badgewearer"
+      },
+      {
+        "term": "Banana Splits"
+      },
+      {
+        "term": "Basil Kirchin"
+      },
+      {
+        "term": "Benjamin Zephaniah"
+      },
+      {
+        "term": "Bescombes-Rizet"
+      },
+      {
+        "term": "Besthoven"
+      },
+      {
+        "term": "Beyond The Implode"
+      },
+      {
+        "term": "Big Jim Sullivan"
+      },
+      {
+        "term": "Big Stick"
+      },
+      {
+        "term": "Black Tambourine"
+      },
+      {
+        "term": "Blue Humans"
+      },
+      {
+        "term": "Bobb Trimble"
+      },
+      {
+        "term": "Bohemia"
+      },
+      {
+        "term": "Boots For Dancing"
+      },
+      {
+        "term": "Boyd Rice"
+      },
+      {
+        "term": "Brighter"
+      },
+      {
+        "term": "British Electric Foundation"
+      },
+      {
+        "term": "Bullshit Detector"
+      },
+      {
+        "term": "Burden Of Friendship"
+      },
+      {
+        "term": "Burzum"
+      },
+      {
+        "term": "Buzzcocks"
+      },
+      {
+        "term": "COUM Transmissions"
+      },
+      {
+        "term": "Cambodia"
+      },
+      {
+        "term": "Campingsex"
+      },
+      {
+        "term": "Campo Di Marte"
+      },
+      {
+        "term": "Cardboards"
+      },
+      {
+        "term": "Carlisle"
+      },
+      {
+        "term": "Charlie Mingus"
+      },
+      {
+        "term": "Chas and Dave"
+      },
+      {
+        "term": "Chemicals Made From Dirt"
+      },
+      {
+        "term": "Chemotherapy"
+      },
+      {
+        "term": "Chim Kothari"
+      },
+      {
+        "term": "Claire Thomas And Susan Vezey"
+      },
+      {
+        "term": "Clara Rockmore"
+      },
+      {
+        "term": "Combo Fh"
+      },
+      {
+        "term": "Concrete"
+      },
+      {
+        "term": "Crust Punk"
+      },
+      {
+        "term": "Cult Figures"
+      },
+      {
+        "term": "DIRT"
+      },
+      {
+        "term": "Dandelion records"
+      },
+      {
+        "term": "Das Synthetisches Mischgewebe"
+      },
+      {
+        "term": "David Bowie"
+      },
+      {
+        "term": "David Welsh"
+      },
+      {
+        "term": "De Brassers"
+      },
+      {
+        "term": "Dead"
+      },
+      {
+        "term": "Death"
+      },
+      {
+        "term": "Debt Of Nature"
+      },
+      {
+        "term": "Der Akteur"
+      },
+      {
+        "term": "Desperate Bicycles"
+      },
+      {
+        "term": "Detroit Techno"
+      },
+      {
+        "term": "Diamond Head"
+      },
+      {
+        "term": "Dickie Landry"
+      },
+      {
+        "term": "Die Gesunden"
+      },
+      {
+        "term": "Die Krupps"
+      },
+      {
+        "term": "Die Magdalene Keibel Combo"
+      },
+      {
+        "term": "Dog Faced Hermans"
+      },
+      {
+        "term": "Don Morrow"
+      },
+      {
+        "term": "Doris Hays"
+      },
+      {
+        "term": "Drill'n'Bass"
+      },
+      {
+        "term": "Drinking Electricity"
+      },
+      {
+        "term": "Drunks With Guns"
+      },
+      {
+        "term": "Duplo Chat"
+      },
+      {
+        "term": "Dustdevil and Crow"
+      },
+      {
+        "term": "Ed 'Kookie' Byrnes"
+      },
+      {
+        "term": "Edgar Broughton Band"
+      },
+      {
+        "term": "Edgard Varèse"
+      },
+      {
+        "term": "Egg"
+      },
+      {
+        "term": "Electric Wizard"
+      },
+      {
+        "term": "Electro-Acoustic"
+      },
+      {
+        "term": "Electronic Music Studios"
+      },
+      {
+        "term": "Eliane Radigue"
+      },
+      {
+        "term": "Eskaton"
+      },
+      {
+        "term": "Etron Fou Leloublan"
+      },
+      {
+        "term": "Ewan MacColl"
+      },
+      {
+        "term": "Eyehategod"
+      },
+      {
+        "term": "Fear Merchants"
+      },
+      {
+        "term": "Feminist Improvising Group"
+      },
+      {
+        "term": "Fifty Foot Hose"
+      },
+      {
+        "term": "Firyusa"
+      },
+      {
+        "term": "Flagitious Idiosyncrasy In The Dilapidation"
+      },
+      {
+        "term": "Flipper"
+      },
+      {
+        "term": "Flowers In The Dustbin"
+      },
+      {
+        "term": "Forest"
+      },
+      {
+        "term": "Fotheringay"
+      },
+      {
+        "term": "Freak Hop"
+      },
+      {
+        "term": "Freakbeat"
+      },
+      {
+        "term": "Fresh Maggots"
+      },
+      {
+        "term": "Fripp and Eno"
+      },
+      {
+        "term": "Fruit Eating Bears"
+      },
+      {
+        "term": "Fuckin Flyin A-Heads"
+      },
+      {
+        "term": "Full Blown AIDS"
+      },
+      {
+        "term": "Genesis P-Orridge"
+      },
+      {
+        "term": "Genocide Association"
+      },
+      {
+        "term": "Gerry and the Holograms"
+      },
+      {
+        "term": "Ghana"
+      },
+      {
+        "term": "Gil Scott-Heron"
+      },
+      {
+        "term": "Ginger John"
+      },
+      {
+        "term": "Glam"
+      },
+      {
+        "term": "Golden Palominos"
+      },
+      {
+        "term": "Graham Parker"
+      },
+      {
+        "term": "Grandmaster Flash"
+      },
+      {
+        "term": "Great Leap Forward"
+      },
+      {
+        "term": "Greece"
+      },
+      {
+        "term": "Guns N' Roses"
+      },
+      {
+        "term": "Hackney Musicians Collective"
+      },
+      {
+        "term": "Hamburger All-Stars"
+      },
+      {
+        "term": "Happy Hardcore"
+      },
+      {
+        "term": "Harald Grosskopf"
+      },
+      {
+        "term": "Hardy Kukuk"
+      },
+      {
+        "term": "Harry Pussy"
+      },
+      {
+        "term": "Helen Gurley Brown"
+      },
+      {
+        "term": "Hellhouse"
+      },
+      {
+        "term": "Henry Cow"
+      },
+      {
+        "term": "Hitler SS"
+      },
+      {
+        "term": "Honey Bane"
+      },
+      {
+        "term": "Horrific Child"
+      },
+      {
+        "term": "Huggy Bear"
+      },
+      {
+        "term": "Hull"
+      },
+      {
+        "term": "Hydravion"
+      },
+      {
+        "term": "Il Baletto Di Bronzo"
+      },
+      {
+        "term": "Il Volo"
+      },
+      {
+        "term": "Industrial Rock"
+      },
+      {
+        "term": "Inner City Unit"
+      },
+      {
+        "term": "Iron Curtain Jazz"
+      },
+      {
+        "term": "Isle of Wight"
+      },
+      {
+        "term": "Ivan Patachich"
+      },
+      {
+        "term": "Jaan Rääts"
+      },
+      {
+        "term": "Jack Kerouac"
+      },
+      {
+        "term": "Jackson C Frank"
+      },
+      {
+        "term": "James Last"
+      },
+      {
+        "term": "Jane Buerk"
+      },
+      {
+        "term": "Jazz Funk"
+      },
+      {
+        "term": "Jeremy Spencer and the Children"
+      },
+      {
+        "term": "John Cooper Clarke"
+      },
+      {
+        "term": "John Otway"
+      },
+      {
+        "term": "Johnny Kidd"
+      },
+      {
+        "term": "Josef Anton Riedl"
+      },
+      {
+        "term": "Judy Garland"
+      },
+      {
+        "term": "Jungle"
+      },
+      {
+        "term": "Jürgen Ecke"
+      },
+      {
+        "term": "Karel Appel"
+      },
+      {
+        "term": "Katiny Slezki"
+      },
+      {
+        "term": "Kazakhstan"
+      },
+      {
+        "term": "Kenneth Higney"
+      },
+      {
+        "term": "Kes"
+      },
+      {
+        "term": "Kid Baltan"
+      },
+      {
+        "term": "Kiem"
+      },
+      {
+        "term": "Killdozer"
+      },
+      {
+        "term": "Kim Fowley"
+      },
+      {
+        "term": "King Crimson"
+      },
+      {
+        "term": "Kinks"
+      },
+      {
+        "term": "Kokomo"
+      },
+      {
+        "term": "Kola Beldy"
+      },
+      {
+        "term": "Korm Plastics"
+      },
+      {
+        "term": "Kosmose"
+      },
+      {
+        "term": "Kunt and the Gang"
+      },
+      {
+        "term": "Kursaal Flyers"
+      },
+      {
+        "term": "Kurt Schwitters"
+      },
+      {
+        "term": "L'Uovo Di Colombo"
+      },
+      {
+        "term": "LXSS"
+      },
+      {
+        "term": "Laibach"
+      },
+      {
+        "term": "Larry Heard"
+      },
+      {
+        "term": "Last Exit"
+      },
+      {
+        "term": "Laurie Spiegel"
+      },
+      {
+        "term": "Le Orme"
+      },
+      {
+        "term": "Lena Zavoroni"
+      },
+      {
+        "term": "Les Batteries"
+      },
+      {
+        "term": "Les Baxter"
+      },
+      {
+        "term": "Lil' Markie"
+      },
+      {
+        "term": "Lincoln"
+      },
+      {
+        "term": "Linear Movement"
+      },
+      {
+        "term": "Lizi Minnelli"
+      },
+      {
+        "term": "Locomotiv GT"
+      },
+      {
+        "term": "Lord Sitar"
+      },
+      {
+        "term": "Loungecore"
+      },
+      {
+        "term": "Low"
+      },
+      {
+        "term": "M.u."
+      },
+      {
+        "term": "MU"
+      },
+      {
+        "term": "Malcolm Clarke"
+      },
+      {
+        "term": "Marine Girls"
+      },
+      {
+        "term": "Mark Stewart & the Maffia"
+      },
+      {
+        "term": "Martin & the Brownshirts"
+      },
+      {
+        "term": "Martin Denny"
+      },
+      {
+        "term": "Maxophone"
+      },
+      {
+        "term": "Mellow Candle"
+      },
+      {
+        "term": "Mensen Blaffen"
+      },
+      {
+        "term": "Menuets"
+      },
+      {
+        "term": "Mephistofeles"
+      },
+      {
+        "term": "Meredith Monk"
+      },
+      {
+        "term": "Metal Doughnut Band"
+      },
+      {
+        "term": "Mike Curb"
+      },
+      {
+        "term": "Milton Keynes"
+      },
+      {
+        "term": "Modo"
+      },
+      {
+        "term": "Modrý Efekt"
+      },
+      {
+        "term": "Moldova"
+      },
+      {
+        "term": "Morton Subotnick"
+      },
+      {
+        "term": "Mousefolk"
+      },
+      {
+        "term": "Murphy Foundation"
+      },
+      {
+        "term": "Museo Rosenbach"
+      },
+      {
+        "term": "Naked Lunch"
+      },
+      {
+        "term": "New Hormones"
+      },
+      {
+        "term": "New Trolls"
+      },
+      {
+        "term": "Newcastle"
+      },
+      {
+        "term": "Nick Cave"
+      },
+      {
+        "term": "Nick Toczek"
+      },
+      {
+        "term": "Niew Hip Stilen"
+      },
+      {
+        "term": "Nine Circles"
+      },
+      {
+        "term": "Nirvana"
+      },
+      {
+        "term": "Non"
+      },
+      {
+        "term": "North Korea"
+      },
+      {
+        "term": "Oliver Postgate"
+      },
+      {
+        "term": "Omega"
+      },
+      {
+        "term": "On-U Sound"
+      },
+      {
+        "term": "Oppenheimer Analysis"
+      },
+      {
+        "term": "Orphan Fairytale"
+      },
+      {
+        "term": "Ose"
+      },
+      {
+        "term": "Pale Saints"
+      },
+      {
+        "term": "Parody"
+      },
+      {
+        "term": "Paul Giovanni"
+      },
+      {
+        "term": "Pauline Oliveros"
+      },
+      {
+        "term": "Perestroika Combo"
+      },
+      {
+        "term": "Perrey & Kingsley"
+      },
+      {
+        "term": "Peter Cook & Dudley Moore"
+      },
+      {
+        "term": "Peter Sotos"
+      },
+      {
+        "term": "Peter Zinovieff"
+      },
+      {
+        "term": "Pharoah Sanders"
+      },
+      {
+        "term": "Phil Hartley"
+      },
+      {
+        "term": "Phil Niblock"
+      },
+      {
+        "term": "Philip Rambow"
+      },
+      {
+        "term": "Pigbag"
+      },
+      {
+        "term": "Pink Section"
+      },
+      {
+        "term": "Pochonbo Electronic Ensemble"
+      },
+      {
+        "term": "Poison Girls"
+      },
+      {
+        "term": "Pond"
+      },
+      {
+        "term": "Portsmouth"
+      },
+      {
+        "term": "Possessed"
+      },
+      {
+        "term": "Prefects"
+      },
+      {
+        "term": "Primitive Calculators"
+      },
+      {
+        "term": "Proggressive metal"
+      },
+      {
+        "term": "Proto-Trance"
+      },
+      {
+        "term": "Pôle"
+      },
+      {
+        "term": "Queen"
+      },
+      {
+        "term": "Quella Vecchia Locanda"
+      },
+      {
+        "term": "Radar"
+      },
+      {
+        "term": "Radio Free Europe"
+      },
+      {
+        "term": "Radio Stars"
+      },
+      {
+        "term": "Raymond Scott"
+      },
+      {
+        "term": "Reagan Youth"
+      },
+      {
+        "term": "Record Players"
+      },
+      {
+        "term": "Rhys Chatham"
+      },
+      {
+        "term": "Riot Grrrl"
+      },
+      {
+        "term": "Rolf Trostel"
+      },
+      {
+        "term": "Rondos"
+      },
+      {
+        "term": "Roogalator"
+      },
+      {
+        "term": "Room 101"
+      },
+      {
+        "term": "Roxy Music"
+      },
+      {
+        "term": "Rudy Ray Moore"
+      },
+      {
+        "term": "SEP/8363"
+      },
+      {
+        "term": "Saints"
+      },
+      {
+        "term": "Samla Mammas Manna"
+      },
+      {
+        "term": "Sand"
+      },
+      {
+        "term": "Satanism"
+      },
+      {
+        "term": "Scissor Fits"
+      },
+      {
+        "term": "Scorn"
+      },
+      {
+        "term": "Seattle"
+      },
+      {
+        "term": "Seesselberg"
+      },
+      {
+        "term": "Semiramis"
+      },
+      {
+        "term": "Severed Head In A Bag"
+      },
+      {
+        "term": "Sewer Zombies"
+      },
+      {
+        "term": "Shirley Collins"
+      },
+      {
+        "term": "Shit Scum"
+      },
+      {
+        "term": "Shit Spangled Banner"
+      },
+      {
+        "term": "Shitlickers"
+      },
+      {
+        "term": "Shoko Asahara"
+      },
+      {
+        "term": "Shub Niggurath"
+      },
+      {
+        "term": "Sieg Heil"
+      },
+      {
+        "term": "Silverfish"
+      },
+      {
+        "term": "Simo Lavrov"
+      },
+      {
+        "term": "Siver Apples"
+      },
+      {
+        "term": "Sketch Erickson"
+      },
+      {
+        "term": "Skrewdriver"
+      },
+      {
+        "term": "Slant"
+      },
+      {
+        "term": "Slaughter and the Dogs"
+      },
+      {
+        "term": "Smiley Culture"
+      },
+      {
+        "term": "Snatch"
+      },
+      {
+        "term": "Sodom"
+      },
+      {
+        "term": "Solvenia"
+      },
+      {
+        "term": "Song -Poems. MSR Records"
+      },
+      {
+        "term": "South Korea"
+      },
+      {
+        "term": "Southampton"
+      },
+      {
+        "term": "Space Art"
+      },
+      {
+        "term": "Spacecraft"
+      },
+      {
+        "term": "Spontaneous Music Ensemble"
+      },
+      {
+        "term": "Spriguns Of Tolgus"
+      },
+      {
+        "term": "Stanlow Crickets"
+      },
+      {
+        "term": "Star Trek"
+      },
+      {
+        "term": "Status Quo"
+      },
+      {
+        "term": "Stein Im Brett"
+      },
+      {
+        "term": "Stenka Bazin"
+      },
+      {
+        "term": "Steve Treatment"
+      },
+      {
+        "term": "Sting"
+      },
+      {
+        "term": "Stockport"
+      },
+      {
+        "term": "Stoke Musicians Collective"
+      },
+      {
+        "term": "Stoke on Trent"
+      },
+      {
+        "term": "Stoner Rock"
+      },
+      {
+        "term": "Stranger Station"
+      },
+      {
+        "term": "Sun Burned Hand Of The Man"
+      },
+      {
+        "term": "Sunderland"
+      },
+      {
+        "term": "Sunny Murray"
+      },
+      {
+        "term": "Suzanne Ciani"
+      },
+      {
+        "term": "TASS II"
+      },
+      {
+        "term": "TV Personalities"
+      },
+      {
+        "term": "Territorial Gobbing"
+      },
+      {
+        "term": "The 101'ers"
+      },
+      {
+        "term": "The Adverts"
+      },
+      {
+        "term": "The Associates"
+      },
+      {
+        "term": "The Chills"
+      },
+      {
+        "term": "The Christophers"
+      },
+      {
+        "term": "The Clean"
+      },
+      {
+        "term": "The Collective Horizontal"
+      },
+      {
+        "term": "The Comes"
+      },
+      {
+        "term": "The Computer People Communicators"
+      },
+      {
+        "term": "The Damned"
+      },
+      {
+        "term": "The Decay"
+      },
+      {
+        "term": "The Driscolls"
+      },
+      {
+        "term": "The Field Mice"
+      },
+      {
+        "term": "The Hamsters"
+      },
+      {
+        "term": "The Hoax"
+      },
+      {
+        "term": "The Jerks"
+      },
+      {
+        "term": "The Jubilets"
+      },
+      {
+        "term": "The Leather Nun"
+      },
+      {
+        "term": "The Lo Yo Yo"
+      },
+      {
+        "term": "The Lovely Eggs"
+      },
+      {
+        "term": "The Misz"
+      },
+      {
+        "term": "The Naughtiest Girl Was A Monitor"
+      },
+      {
+        "term": "The Orkustra"
+      },
+      {
+        "term": "The Pigs"
+      },
+      {
+        "term": "The Problemist"
+      },
+      {
+        "term": "The Red Crayola"
+      },
+      {
+        "term": "The Saints"
+      },
+      {
+        "term": "The Scratch Orchestra"
+      },
+      {
+        "term": "The Sickness"
+      },
+      {
+        "term": "The Snipers"
+      },
+      {
+        "term": "The Space Lady"
+      },
+      {
+        "term": "The Stukas"
+      },
+      {
+        "term": "The Sugar Shoppe"
+      },
+      {
+        "term": "The Sweetest Ache"
+      },
+      {
+        "term": "The Units"
+      },
+      {
+        "term": "The Wedding Present"
+      },
+      {
+        "term": "The Wilderness Children"
+      },
+      {
+        "term": "Thee Aethyr"
+      },
+      {
+        "term": "Thee Outside"
+      },
+      {
+        "term": "Thin Yoghurts"
+      },
+      {
+        "term": "Third World War"
+      },
+      {
+        "term": "This Is Not This Heat"
+      },
+      {
+        "term": "Those Attractive Magnets"
+      },
+      {
+        "term": "Tiswas"
+      },
+      {
+        "term": "Tod Dockstader"
+      },
+      {
+        "term": "Todd"
+      },
+      {
+        "term": "Tonto's Expanding Head Band"
+      },
+      {
+        "term": "Toukaseibunshi"
+      },
+      {
+        "term": "Transparent Illusion"
+      },
+      {
+        "term": "Trees"
+      },
+      {
+        "term": "Trevor Duncan"
+      },
+      {
+        "term": "Trixie's Big Red Motorbike"
+      },
+      {
+        "term": "Tsk Tsk Tsk"
+      },
+      {
+        "term": "US Indie"
+      },
+      {
+        "term": "Ultra Eczema"
+      },
+      {
+        "term": "Univers Zero"
+      },
+      {
+        "term": "Ursula Bogner"
+      },
+      {
+        "term": "VSP Projekt"
+      },
+      {
+        "term": "Vaginal Jesus"
+      },
+      {
+        "term": "Vangelis"
+      },
+      {
+        "term": "Vodograi"
+      },
+      {
+        "term": "WCKR SPGT"
+      },
+      {
+        "term": "Wapm cc"
+      },
+      {
+        "term": "Warhammer"
+      },
+      {
+        "term": "Wavy Gravy"
+      },
+      {
+        "term": "Weidorje"
+      },
+      {
+        "term": "Welwyn Garden City"
+      },
+      {
+        "term": "White Noise"
+      },
+      {
+        "term": "Witchfinder General"
+      },
+      {
+        "term": "Wolfgang Riechmann"
+      },
+      {
+        "term": "Xaal"
+      },
+      {
+        "term": "Yoko Ono"
+      },
+      {
+        "term": "Zchivago's reviews"
+      },
+      {
+        "term": "Zchivagos Remixes"
+      },
+      {
+        "term": "Zodiac"
+      },
+      {
+        "term": "Zweistein"
+      },
+      {
+        "term": "death rock"
+      },
+      {
+        "term": "diy"
+      },
+      {
+        "term": "ici la bas"
+      },
+      {
+        "term": "jazz rock"
+      },
+      {
+        "term": "john walters"
+      },
+      {
+        "term": "keine namen"
+      },
+      {
+        "term": "kos"
+      },
+      {
+        "term": "min"
+      },
+      {
+        "term": "modern"
+      },
+      {
+        "term": "noise pop"
+      },
+      {
+        "term": "post industrial"
+      },
+      {
+        "term": "post-rave"
+      },
+      {
+        "term": "post-rock"
+      },
+      {
+        "term": "punk"
+      },
+      {
+        "term": "tribal"
+      },
+      {
+        "term": "П​р​и​т​о​н"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Die or D.I.Y.?"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": ""
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://dieordiy2.blogspot.com/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default?alt=json&max-results=5&q=Various"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://dieordiy2.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Jonny Zchivago"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/09859740264284241032"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "31",
+          "height": "21",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXka8w9pVl4xbq08kTre6QOxtBFjulzejbZ9xz9dKtmRtHefpZbC7-EK5nx1LQ_X4BQxZctT8ODuySJ8tlPimyfFKadwKUXsHeDDWRrVnLigEmZ-T8k07u69i2k2r0sWE/s220/l.jpg"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "5"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8624282421125812337.post-587918632190152164"
+        },
+        "published": {
+          "$t": "2026-10-19T20:34:55.275+02:00"
+        },
+        "updated": {
+          "$t": "2026-10-21T14:36:20.740+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "2019"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Cambodia"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Compilations"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Outsider Psych"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "psychsploitation"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Various Artists – \"Cambodian Nuggets\" (Akenaton Records – AKENAT02) 2019"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMKbUvSTJk3LJOtmRT1mCRsxG7LB8onplqS7Za9zCC7lCi9TzyjXLYOJA6sTi8QjBoeo3zNbJh3yvM-CvSps-bjpbxpT4i6CtZZXSs7vAb1Lh3_jky0HmjewrvD0caHfiv6WnIdXwhoTSsH2xrW0b6SahNc6WAgRE9IeBbA3OXdTLB67_JskazZcoTt2A/s600/R-13863247-1597957138-3963.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"600\" data-original-width=\"600\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMKbUvSTJk3LJOtmRT1mCRsxG7LB8onplqS7Za9zCC7lCi9TzyjXLYOJA6sTi8QjBoeo3zNbJh3yvM-CvSps-bjpbxpT4i6CtZZXSs7vAb1Lh3_jky0HmjewrvD0caHfiv6WnIdXwhoTSsH2xrW0b6SahNc6WAgRE9IeBbA3OXdTLB67_JskazZcoTt2A/s320/R-13863247-1597957138-3963.jpg\" width=\"320\" /></a></div><div style=\"text-align: left;\"><br /></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">You can't beat the smell of a horribly charred Cambodian in the morning, especially if he's been playing a plethora of Psyched up garage tunes in what sounds like an empty School hall on the outskirts of Phnom Penh during Year Zero.</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">The original Nuggets involved suburban american teenagers trying to sound like British Invasion groups and failing, all in mom and Dad's Garage.Not sure they have Garages in Cambodia? However This jolly fine compilation of acne scarred Cambodians&nbsp;doing their fuzzy take on the genre, including, yes, a rip-off of Sixties Punk Garage classic, Them's \"Gloria\", and chucking in a few Surf numbers for fun with a hint of Paint It Black?</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">Which is rather strange, 'cus we all know \"Charlie Don't Surf\".....even if the tiresome 'Apocalypse Now' quotes probably refer to the Vietnamese rather than their Kymer-Rouge Kampuchean cousins.It was set in Cambodia after all.</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><br /></span></div><div style=\"text-align: left;\"><b><span style=\"font-family: courier;\">Tracklist:</span></b></div><div style=\"text-align: left;\"><b><br /></b></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">A1&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Ros Serey Sothea</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Jam 10 Kai Thiet (Wait 10 More Months)</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">A2&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Yol Aularong</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Yuvajon Kouge Jet (Broken Hearted Man)</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">A3&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Pan Ron&nbsp;</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Why Follow Me</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">A4&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Tet Somnang</span>&nbsp;&amp;&nbsp;<span class=\"link_PKPcS\" style=\"position: relative;\">Meas Samon</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Khnyom Jah Karake</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">A5&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Houy Meas&nbsp;</span>&nbsp;&amp;&nbsp;<span class=\"link_PKPcS\" style=\"position: relative;\">Dara Chom Chan</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Nek Na Min Rom (Who Isn't Dancing)</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">A6&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Choun Malai</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Jomreang Oun Chreang</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">B1&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Sinn Sisamout&nbsp;</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Navy A Go Go</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">B2&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Liev Tuk</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">Rom Sue Sue (Dance Soul Soul)</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">B3&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Thra Kha Band</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">&nbsp;(Do You No Wrong Again)</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">B4&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Yol Aularong</span>&nbsp;&amp;&nbsp;<span class=\"link_PKPcS\" style=\"position: relative;\">Liev Tuk</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">&nbsp;Sou Slarp Kroam Kombut Srey (Rather Die Under The Woman's Sword)</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">B5&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Eng Nary</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">I Wonder</span></span></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\">B6&nbsp;</span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"link_PKPcS\" style=\"position: relative;\">Baksey Cham Krong</span>&nbsp;&amp;&nbsp;<span class=\"link_PKPcS\" style=\"position: relative;\">Mol Kamach</span><span class=\"dash_vWaes\" style=\"float: right; margin-right: -11px;\">–</span></span><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\">&nbsp;De Quoi Pleures-tu</span></span></span></div><div style=\"text-align: left;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\"><span style=\"font-family: courier;\"><br /></span></span></span></div><div style=\"text-align: left;\"><span class=\"MuiTypography-root MuiTypography-labelSmall css-1kybk0l\" style=\"letter-spacing: 0.01em; line-height: 1.2; margin: 0px;\"><span class=\"trackTitle_loyWF\" style=\"position: relative; width: 100%; word-break: break-word;\"><span style=\"font-family: courier;\"><b><a href=\"https://drive.google.com/file/d/1gfsKRrXGWbdkHmwZth9CUWdMYOuEsKCN/view?usp=sharing\" target=\"_blank\">DOWNLOAD to find out who's in command HERE!</a></b></span></span></span></div><p></p>"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://dieordiy2.blogspot.com/feeds/587918632190152164/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/587918632190152164?isPopup=true",
+            "title": "7 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/587918632190152164"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/587918632190152164"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://dieordiy2.blogspot.com/2026/10/various-artists-cambodian-nuggets.html",
+            "title": "Various Artists – \"Cambodian Nuggets\" (Akenaton Records – AKENAT02) 2019"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Jonny Zchivago"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09859740264284241032"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "31",
+              "height": "21",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXka8w9pVl4xbq08kTre6QOxtBFjulzejbZ9xz9dKtmRtHefpZbC7-EK5nx1LQ_X4BQxZctT8ODuySJ8tlPimyfFKadwKUXsHeDDWRrVnLigEmZ-T8k07u69i2k2r0sWE/s220/l.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMKbUvSTJk3LJOtmRT1mCRsxG7LB8onplqS7Za9zCC7lCi9TzyjXLYOJA6sTi8QjBoeo3zNbJh3yvM-CvSps-bjpbxpT4i6CtZZXSs7vAb1Lh3_jky0HmjewrvD0caHfiv6WnIdXwhoTSsH2xrW0b6SahNc6WAgRE9IeBbA3OXdTLB67_JskazZcoTt2A/s72-c/R-13863247-1597957138-3963.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "7"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8624282421125812337.post-3599232356844826"
+        },
+        "published": {
+          "$t": "2026-09-29T15:14:34.075+02:00"
+        },
+        "updated": {
+          "$t": "2026-09-30T09:50:18.707+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1968"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Afghanistan"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Field Recording"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Folk"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Global"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "World Music"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Various Artists - \"A Musical Anthology Of The Orient - Afghanistan\" (Bärenreiter-Musicaphon) 1968"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2k8Onq4EvEgqiHRUvy5EgZMocv0TGxwWp7S0XLmKmPu7V7OOPY5VxrYPhuCedzRv9__3LxajOI52M0eMdQZIw1zxOHoKn_yw8K5okTgu5b34Mpw9U1Ar43wO48pu4nxge6DQCdSqti2jnig7ViRfB2Cz9F2PvSIzCV6Vrrm0AbRBGRLf5YzQn4vXqQ50/s600/R-3381267-1576596546-2560.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"579\" data-original-width=\"600\" height=\"309\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2k8Onq4EvEgqiHRUvy5EgZMocv0TGxwWp7S0XLmKmPu7V7OOPY5VxrYPhuCedzRv9__3LxajOI52M0eMdQZIw1zxOHoKn_yw8K5okTgu5b34Mpw9U1Ar43wO48pu4nxge6DQCdSqti2jnig7ViRfB2Cz9F2PvSIzCV6Vrrm0AbRBGRLf5YzQn4vXqQ50/s320/R-3381267-1576596546-2560.jpg\" width=\"320\" /></a></div><br /><div><span style=\"font-family: courier;\">No i'm not turning into a Middle Class Bourgeois Prat! I'm a working class Plebeian Bourgeois Prat with too much spare time on his hands. Nor do I think I'm Peter Gabriel , who is 99% certain that he invented World Music single-handedly, seasoned with lashings of English public school Empire guilt. An empire run by persons that most Progressive Rockers' called their grand parents ......Phil Collins excluded of course.</span><div><span style=\"font-family: courier;\">There were rivals for the coveted crown of \"white man gets funky with the munkey music\",such as David Byrne, Eno, Jah Wobble and Can, of course,but most of them entertained at least some degree of humility....unlike the king of the 80's ethno-theft Mafia.....Paul Simon, who should be, quite frankly, shot at dawn by an AI assassination-bot,but only after draining Simon's mind of Data and deleting it, forever! This all dies with him.</span></div><div><span style=\"font-family: courier;\">The point is, that there was a thriving DIY culture going down long before the Buzzcocks and Desperate Bicycles, and what better way to illustrate this fact than to present a nice bourgeois coffee table compilation of Afghani Folk from ....well....Afghanistan......the only place on earth where it is currently Illegal to play, listen to or even think about Music.......basically Music is banned in Taliban controlled Afghanistan.</span></div><div><span style=\"font-family: courier;\">Maybe, if they can get their heads around the concept that Sex has to be consentual, we could invite the bovver boys of the Taliban to be special advisors on 'music' here in the smug as fuck West? Then we can clamp down on the endlessly repeating shitstorm of Hip-Hop, and other aural terrorists blighting the grossly over-populated concentration camps of Spotify, Bandcamp, and that other one......one of the mullah's better idea's I volunteer.&nbsp;</span></div><div><span style=\"font-family: courier;\">Just revive the Stasi and the DDR , in conjunction with the Taliban, to enforce harsh climate saving laws, and we may all stand a fighting chance for our grandchildren to witness the revival of the planet by the time the 22nd century comes about. We did it to Ourselves, we did......there you go...DIY again!?&nbsp;&nbsp;</span><span style=\"font-family: courier;\">Frankly.....</span><span style=\"font-family: courier;\">&nbsp;</span></div><div><span style=\"font-family: courier;\">There's too many Humans, too much choice, and too many humans again......am i repeating myself?...let 'em burn!</span></div><div><span style=\"font-family: courier;\">That said,This compilation was released in 1968 ,when Sophisticated Afghani's in Kabul,would have been digging The Move,and other paisley endowed Psych pop combo's, clad ,ironically, in Afghan Coats.....which, I'm not sure were actually from Afghanistan at all?</span></div><div><span style=\"font-family: courier;\">Meanwhile,out in Hicksville, between the Bora Bora caves and the Desert,the ,allegedly,less-sophisticated local Tribesmen made their own music.It wasn't illegal back in '68. The large majority of it sounding not entirely unlike The Velvet Underground;just lacking Nico in a full face Burka.It was 1968 after all?</span></div><div><span style=\"font-family: courier;\">She'd like it in Afghanistan, with all that Heroin and stuff available at wholesale prices.</span></div><div><span style=\"font-family: courier;\">Ever wondered where Zoviet France got their Tape-Loops from? No, neither did I.....wankers.</span></div><div><span style=\"font-family: courier;\">Some of these tracks could even pass for an Unused backing track by eighties one-hit wonders Blancmange.....its that crazy......well, not <u>That</u> crazy, but you get what I mean.</span></div><div><span style=\"font-family: courier;\">The jolly chaps who play on this have probably long been&nbsp;murdered by US special Forces by now, or asphyxiated in the caves by&nbsp;one of George W.Bush's Daisy-cutter bunker buster missiles,killing everyone except Osama Bin Laden in the process......Bin Laden, being a Sophisticated&nbsp;Saudi citizen, who likely tapped his sandals&nbsp;to a Psych-pop freakbeat tune or two when he went out to the Discotheque of an evening.</span></div><div><span style=\"font-family: courier;\">&nbsp;</span></div><div><br /><div><span style=\"font-family: courier;\"><b>Tracklist:</b></span><div><span style=\"font-family: courier;\"><b><br /></b>A1 Song Of Kataran (Turkestan)<br />A2 Song Of Badarshan<br />A3 Melody For Flute From Turkestan<br />A4 Festive Music From Chardi (In The Region Of Kabul)<br />A5 Chant From Azarejot (Central Afghanistan)<br />A6 National Afghan Dance (Shah Mast)<br />A7 Chant From Farkhar<br />B1 Village Dance Melody Of The Region Of Kabul<br />B2 Pushtu Quatrain (Charbait)<br />B3 Ancient Chant Of Kabul<br />B4 Ancient Chant Of Khodaman<br />B5 Tumbur (Lute) - Solo<br />B6 Ghazni Chant<br />B7 Chorus From The Panshir<br />B8 Solo Of Sarinda<br />B9 The DOtar (Small Lute) Of Herat</span><br /></div></div></div></div><div><span style=\"font-family: courier;\"><br /></span></div><div><span style=\"font-family: courier;\"><b><a href=\"https://drive.google.com/file/d/1Du3twkZfNvLb-Kopf8EpUEq2ZRdRWnPW/view?usp=sharing\" target=\"_blank\">DOWNLOAD from andy's bench HERE!</a></b></span></div>"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://dieordiy2.blogspot.com/feeds/3599232356844826/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/3599232356844826?isPopup=true",
+            "title": "6 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/3599232356844826"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/3599232356844826"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://dieordiy2.blogspot.com/2026/09/various-artists-musical-anthology-of.html",
+            "title": "Various Artists - \"A Musical Anthology Of The Orient - Afghanistan\" (Bärenreiter-Musicaphon) 1968"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Jonny Zchivago"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09859740264284241032"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "31",
+              "height": "21",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXka8w9pVl4xbq08kTre6QOxtBFjulzejbZ9xz9dKtmRtHefpZbC7-EK5nx1LQ_X4BQxZctT8ODuySJ8tlPimyfFKadwKUXsHeDDWRrVnLigEmZ-T8k07u69i2k2r0sWE/s220/l.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2k8Onq4EvEgqiHRUvy5EgZMocv0TGxwWp7S0XLmKmPu7V7OOPY5VxrYPhuCedzRv9__3LxajOI52M0eMdQZIw1zxOHoKn_yw8K5okTgu5b34Mpw9U1Ar43wO48pu4nxge6DQCdSqti2jnig7ViRfB2Cz9F2PvSIzCV6Vrrm0AbRBGRLf5YzQn4vXqQ50/s72-c/R-3381267-1576596546-2560.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "6"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8624282421125812337.post-6072591160605447648"
+        },
+        "published": {
+          "$t": "2026-07-04T13:42:00.708+02:00"
+        },
+        "updated": {
+          "$t": "2026-07-05T01:55:59.628+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1985"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Adrian Sherwood"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "dub"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Electro"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Industrial Disco"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Sugarhill Gang"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "The Pop Group"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "UK"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Mark Stewart – \"As The Veneer Of Democracy Starts To Fade\" (Mute – STUMM 24) 1985"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFgpY3_YCAlBb8lSSbnhmHXAJrJ5y_t0YPFizuEnKrgny4xlY3qMjYrRvQt14mNpcTRK3z2fTRQUKINKR9hC2qKed4F7lyAVAYP6IPvPRUYQDJvNPzrcAT0ZLgB9G0dTtSJPqYKl9_qdjrdOqoUB9dw4A63NdqJwRlbrkhVUGjc6nW7L7Qhe1h3Gq3Rf0/s600/R-225988-1341238997-1597.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"599\" data-original-width=\"600\" height=\"319\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFgpY3_YCAlBb8lSSbnhmHXAJrJ5y_t0YPFizuEnKrgny4xlY3qMjYrRvQt14mNpcTRK3z2fTRQUKINKR9hC2qKed4F7lyAVAYP6IPvPRUYQDJvNPzrcAT0ZLgB9G0dTtSJPqYKl9_qdjrdOqoUB9dw4A63NdqJwRlbrkhVUGjc6nW7L7Qhe1h3Gq3Rf0/s320/R-225988-1341238997-1597.jpg\" width=\"320\" /></a></div><br /><div style=\"text-align: left;\"><span style=\"font-family: courier;\">Them Sugar Hill Gang bangers got everywhere in the 80's didn't they? Here replacing Grandmaster Flash with erstwhile lead screecher from The Pop Group, Mark Stewart. No subtlety here from absent lovers rock producer Dennis Bovell, who dubbed up The Pop Group's debut LP \"Y\" six years earlier, not with Adrian Sherwood at the controls there ain't. It's all there,distorted max feedback tape echo, Keith LeBlanc's thudding and crashing electro-industrial&nbsp;style drum samples, William S. Burroughs croaking his&nbsp; control data parables, and Mark himself spouting his sixth-form Politics of paranoia. An alternative left-field classic spouting some forgivable soap-boxing, and various things of the Pissed-Off variety.</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">There was even a time that I would even suggest that this was my favourite album!?...but tech fatigue, and a strong miners strike allergy, forced me to look elsewhere for my mashed up dance rhythms.....but... HEY!....don't let that put you off. Nowadays this stands out like a shiny beacon of joy in these post-music days. Everything produced since the turd of the century is at best pointless, and at worst, totally human free, shat out by robots for a blank generation breast fed on very similar sounding short meaningless bursts for (south)Korean-a-like clones with zero rated attention spans dancing to their own AI chosen algorithms.&nbsp;</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">Mark Stewart would explain it all for you, but he's Dead. The best I can do is post this LP as the veneer of Democracy fades to shit to the sound of the Auto-tuner.</span></div><div style=\"text-align: left;\"><br /></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><b>Tracklisting:</b></span></div><div style=\"text-align: left;\"><br /></div><span style=\"font-family: courier;\">1 Passivecation Program<br />2 Bastards<br />3 The Resistance Of The Cell<br />4 Untitled<br />5 As The Veneer Of Democracy Starts To Fade<br />6 Pay It All Back<br />7 Hypnotised<br />8 Slave Of Love<br />9 The Waiting Room</span><br /><div><span style=\"font-family: courier;\">10 Hypnotised (remix)</span></div><div><span style=\"font-family: courier;\">11 Dreamers</span></div><div><span style=\"font-family: courier;\"><br /></span></div><div><span style=\"font-family: courier;\"><b><a href=\"https://drive.google.com/file/d/1YVG15Qfj2bz1_qDe3Cjo_TqEpW2aqNuu/view?usp=sharing\" target=\"_blank\">DOWNLOAD to veneer your ears HERE!</a></b></span></div>"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://dieordiy2.blogspot.com/feeds/6072591160605447648/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/6072591160605447648?isPopup=true",
+            "title": "15 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/6072591160605447648"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/6072591160605447648"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://dieordiy2.blogspot.com/2026/07/mark-stewart-as-veneer-of-democracy.html",
+            "title": "Mark Stewart – \"As The Veneer Of Democracy Starts To Fade\" (Mute – STUMM 24) 1985"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Jonny Zchivago"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09859740264284241032"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "31",
+              "height": "21",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXka8w9pVl4xbq08kTre6QOxtBFjulzejbZ9xz9dKtmRtHefpZbC7-EK5nx1LQ_X4BQxZctT8ODuySJ8tlPimyfFKadwKUXsHeDDWRrVnLigEmZ-T8k07u69i2k2r0sWE/s220/l.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFgpY3_YCAlBb8lSSbnhmHXAJrJ5y_t0YPFizuEnKrgny4xlY3qMjYrRvQt14mNpcTRK3z2fTRQUKINKR9hC2qKed4F7lyAVAYP6IPvPRUYQDJvNPzrcAT0ZLgB9G0dTtSJPqYKl9_qdjrdOqoUB9dw4A63NdqJwRlbrkhVUGjc6nW7L7Qhe1h3Gq3Rf0/s72-c/R-225988-1341238997-1597.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "15"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8624282421125812337.post-7390344023116359804"
+        },
+        "published": {
+          "$t": "2026-05-08T15:27:00.001+02:00"
+        },
+        "updated": {
+          "$t": "2026-05-10T14:42:25.703+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1992"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Acid House"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Compilations"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Drill'n'Bass"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "glitch"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "IDM. Drum'n'Bass"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Jungle"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "UK"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Various Artists – \"The Philosophy Of Sound And Machine\" (Applied Rhythmic Technology (ART) – art 2 cd) 1992"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSn_RTyx-Af_z1wq76lM8eJvy6nL9xUrT6OJyOrwVOnPdllSZ56Nxavg2dP2nLfyaGirIZIAn97noGUp0g-666IXZ2kWr8elhbpji_ta3-DyBaRimiXtTO63hdbSLYymGczwKQfsc5MQjbog4kpE-4A7EgdDqgOap-VX_PBBhBdO7qkCkICH1YAMZ-ooU/s600/R-51236-1179217876.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"592\" data-original-width=\"600\" height=\"316\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSn_RTyx-Af_z1wq76lM8eJvy6nL9xUrT6OJyOrwVOnPdllSZ56Nxavg2dP2nLfyaGirIZIAn97noGUp0g-666IXZ2kWr8elhbpji_ta3-DyBaRimiXtTO63hdbSLYymGczwKQfsc5MQjbog4kpE-4A7EgdDqgOap-VX_PBBhBdO7qkCkICH1YAMZ-ooU/s320/R-51236-1179217876.jpg\" width=\"320\" /></a></div><br /><div style=\"text-align: left;\"><span style=\"font-family: courier;\">When things start going all Highfalutin,the nerds reappear from their lair, and try and fix the stuff the Alpha-Males did while they were away. Sick of getting ambient sand from the chill out room kicked in their collective spotty visage-s, they normally attach the word 'Intelligent' as a pronoun, enabling them to look down their lengthy olfactory organs at the Rave kids who had reduced electronic music to merely a medium for dancing like the Twats they were.</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">Privileged teen-persons from Cornwall, who dug surfing during the daytime, but at night they became the brain of acid house, and invented a kind of background music in their bedroom that embraced such non-musical nonsense as the 'Glitch',and all those sounds no-body had previously thought of using for that post-club party venue in one of <a href=\"https://en.wikipedia.org/wiki/Truro\" target=\"_blank\">Truro</a>'s more neglected neighborhoods. Posh they were, and posh they will stay,but it became trendy in those northern clubs to carry a vinyl copy of \"Selected Ambient Works\" by a certain famous Glitch obsessed Cornish-man*, from which we get stuff like Squarepusher, Drill'n'Bass, Plug and Christwagon,being the same person, not forgetting the great too skool to be cool name-dropee darlings,of older skatebordem dressing...er... ,yes that's right, its only bloody Autechre innit? Beaming down from that chilled jail cell they seem to have inhabited since the exact location of the multiverse starseed was discovered.</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">Intelligent Dance Music they called it,scarring it as the only musical style in Christendom to actually patronize the listener more that it entertains.......and of course it certainly ain't for dancing to.</span><span style=\"font-family: courier;\">Look ma I'm Dancin' , I have O-Levels and I don't care!I dance with my Brain mom!</span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\"><br /></span></div><div style=\"text-align: left;\"><span style=\"font-family: courier;\">* Aphex Twin aka Richard D. James, who, incidentally, contributes track 13 to this splendid Compact Disc,which means you can make it sound even further 'out' there by merely scratching the disc with your favourite nail scissors.</span></div><div style=\"text-align: left;\"></div><p></p><span style=\"font-family: courier;\"><b>Tracklist:</b></span><div><span style=\"font-family: courier;\"><br />1 Future/Past– Nebula Variation 5:53<br />2 Q-Chastic– CAT 002 3:58<br />3 Soit - P.P.– n.IASP&nbsp;5:03<br />4 Red Cell*– Bio - Dimension&nbsp;5:54<br />5 Neuro Politique*– Artemis (Mayday Mix)5:54<br />6 Kosmik Kommando*– Remember The Feeling6:25<br />7 Cmetric– Debris&nbsp;8:40<br />8 Balil– The Whirling Of Spirits&nbsp;5:52<br />9 Esoterik– Pursuit 5:08<br />10 Future/Past– T.R.Y. 2004 Funk 5:20<br />11 Twelve Days Of Night– Trance&nbsp;6:08<br />12 Balil– Small Energies&nbsp;6:08<br />13 Blue Calx – Blue Calx 7:15</span><br /></div><div><span style=\"font-family: courier;\"><br /></span></div><div><span style=\"font-family: courier;\"><a href=\"https://drive.google.com/file/d/1j9Fi4mzoTFVzNFLE3_K4WUxEsZAVdzLr/view?usp=sharing\" target=\"_blank\"><b>DOWNLOAD</b> from the cornish Illuminati <b>HERE!</b>&nbsp;</a></span></div><div><span style=\"font-family: courier;\"><br /></span></div>"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://dieordiy2.blogspot.com/feeds/7390344023116359804/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/7390344023116359804?isPopup=true",
+            "title": "11 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/7390344023116359804"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/7390344023116359804"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://dieordiy2.blogspot.com/2026/05/various-artists-philosophy-of-sound-and.html",
+            "title": "Various Artists – \"The Philosophy Of Sound And Machine\" (Applied Rhythmic Technology (ART) – art 2 cd) 1992"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Jonny Zchivago"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09859740264284241032"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "31",
+              "height": "21",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXka8w9pVl4xbq08kTre6QOxtBFjulzejbZ9xz9dKtmRtHefpZbC7-EK5nx1LQ_X4BQxZctT8ODuySJ8tlPimyfFKadwKUXsHeDDWRrVnLigEmZ-T8k07u69i2k2r0sWE/s220/l.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSn_RTyx-Af_z1wq76lM8eJvy6nL9xUrT6OJyOrwVOnPdllSZ56Nxavg2dP2nLfyaGirIZIAn97noGUp0g-666IXZ2kWr8elhbpji_ta3-DyBaRimiXtTO63hdbSLYymGczwKQfsc5MQjbog4kpE-4A7EgdDqgOap-VX_PBBhBdO7qkCkICH1YAMZ-ooU/s72-c/R-51236-1179217876.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8624282421125812337.post-5469277538250869478"
+        },
+        "published": {
+          "$t": "2026-03-29T14:03:00.001+02:00"
+        },
+        "updated": {
+          "$t": "2026-04-03T08:34:05.768+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1984"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Ambient"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Ash Ra Tempel"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Berlin School"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Germany"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Kosmiche"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Krautrock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Manuel Gottsching"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "minimalism"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "proto-rave"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Proto-Trance"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Manuel Göttsching – \"E2-E4\" (Inteam GmbH – ID 20.004) 1984"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeiafgzC717nZpQe9JKj4LC5ySviDrtPKvCQ-w9UuanGW6-InGRibefuUuwgppBVpdj-GWKKKkQeKF2jBbIsodmg93OxTigkDIaOL7fqwBZmWVDqrhZ9MStWub9ny9GrNYTk4iLaYlCqcWuJTkAeVhHfdQ6XuqBOvkSkxIDbqD1MnfMT2I5fwCoey8SU/s600/R-303333-1290356604.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"600\" data-original-width=\"600\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeiafgzC717nZpQe9JKj4LC5ySviDrtPKvCQ-w9UuanGW6-InGRibefuUuwgppBVpdj-GWKKKkQeKF2jBbIsodmg93OxTigkDIaOL7fqwBZmWVDqrhZ9MStWub9ny9GrNYTk4iLaYlCqcWuJTkAeVhHfdQ6XuqBOvkSkxIDbqD1MnfMT2I5fwCoey8SU/s320/R-303333-1290356604.jpg\" width=\"320\" /></a></div><br /><span style=\"font-family: courier;\">Look backwards from any point in time up to 1970,and some clever dick will always find a long lost Krautrock classic waiting to be hauled up the flag poll as the inventor of any number of Influential,Seminal, or any amount of flattering&nbsp; superlatives applied to heavily lauded albums such as this,which obviously was Trance before Trance.</span><div><span style=\"font-family: courier;\">Then again, sift backwards trough the marshlands of Kraut,and we can find tracks like the nine adorning this, on most of those Gate-folded&nbsp;Kosmische classics, like Klaus Schulz, Tangerine Dream, ,and various Ex-members of Tangerine Dream, like Klaus Schulz. In fact TD&nbsp; could and should also be extremely guilty for thousands of British Ravers idiot dancing the week away in some obscure Cow field in Essex,near an exit off the M25 (aka The Magic Roundabout), back in 1988 before the UK Government made it highly illegal. What the Cows did during this process is a mystery, but there was a rumour that a Frisian and an Aberdeen Angus were seen dancing to the moozic, E'd Up, in front of the DJ on one occasion at least .</span></div><div><span style=\"font-family: courier;\">The difference between&nbsp;Manuel Göttsching and Edgar Froese is that Manuel had a drum machine, and Eddie didn't. Therefore&nbsp; Göttsching Göt the prize....he,by logical elimination, was guilty of being Trance before Trance.Whether that's anything to brag about is another matter altogether.&nbsp;</span><div><div><table class=\"tracklist_odjYc\" style=\"border-collapse: collapse; color: black; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Nimbus Sans&quot;, Arial, sans-serif; font-size: 14px; line-height: 18px; table-layout: auto; width: 665.838px;\"><tbody><tr data-track-position=\"A1\" style=\"border-top: 0px; vertical-align: top;\"><td class=\"trackTitleNoArtist_VUgUr\" style=\"padding: 2px; position: relative; width: 614.737px; word-break: break-word;\"></td><td class=\"duration_FhdYc\" style=\"color: #444444; padding: 2px 10px 2px 2px; text-align: right; width: 35.05px;\"><span style=\"font-family: courier;\"><br /></span></td></tr></tbody></table><span style=\"font-family: courier;\"><b>Tracklist:</b></span><div><span style=\"font-family: courier;\"><br />1.Ruhige Nervosität 13:00<br />2.Gemäßigter Aufbruch 10:00<br />3....Und Mittelspiel 7:00<br />4.Ansatz 1:00<br />5.Damen-Eleganza 5:00<br />6.Ehrenvoller Kampf 3:00<br />7.Hoheit Weicht (Nicht Ohne Schwung...) 9:00<br />8....Und Souveränität 3:00<br />9.Remis 3:00</span></div><div><span style=\"font-family: courier;\"><br /></span></div><div><span style=\"font-family: courier;\"><a href=\"https://drive.google.com/file/d/1gHBJLGZwkRd1HylgEsV_wUFzPgs6rkfQ/view?usp=sharing\" target=\"_blank\"><b>DOWNLOAD</b> this opening gambit for chess and house music <b>HERE!</b></a><br /></span><br /></div></div></div></div>"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://dieordiy2.blogspot.com/feeds/5469277538250869478/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/5469277538250869478?isPopup=true",
+            "title": "9 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/5469277538250869478"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/5469277538250869478"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://dieordiy2.blogspot.com/2026/03/manuel-gottsching-e2-e4-inteam-gmbh-id.html",
+            "title": "Manuel Göttsching – \"E2-E4\" (Inteam GmbH – ID 20.004) 1984"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Jonny Zchivago"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09859740264284241032"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "31",
+              "height": "21",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXka8w9pVl4xbq08kTre6QOxtBFjulzejbZ9xz9dKtmRtHefpZbC7-EK5nx1LQ_X4BQxZctT8ODuySJ8tlPimyfFKadwKUXsHeDDWRrVnLigEmZ-T8k07u69i2k2r0sWE/s220/l.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeiafgzC717nZpQe9JKj4LC5ySviDrtPKvCQ-w9UuanGW6-InGRibefuUuwgppBVpdj-GWKKKkQeKF2jBbIsodmg93OxTigkDIaOL7fqwBZmWVDqrhZ9MStWub9ny9GrNYTk4iLaYlCqcWuJTkAeVhHfdQ6XuqBOvkSkxIDbqD1MnfMT2I5fwCoey8SU/s72-c/R-303333-1290356604.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "9"
+        }
+      }
+    ]
+  }
+}

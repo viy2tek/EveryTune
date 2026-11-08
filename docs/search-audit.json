@@ -1,0 +1,2925 @@
+{
+  "checked_at": "2026-11-05T18:42:38+00:00",
+  "total_sites": 94,
+  "completed_sites": 94,
+  "total_form_queries": 97,
+  "complete": true,
+  "method": "One neutral query per observed navigable GET form; original HTML re-inspected for fixed parameters; robots, public DNS, 1MB body cap; metadata only, no JS execution or audio",
+  "query_outcomes": {
+    "http_error": 4,
+    "robots_disallowed": 26,
+    "fetched": 66,
+    "query_error": 1
+  },
+  "sources": [
+    {
+      "source_url": "https://www.setlist.fm/",
+      "label": "setlist.fm",
+      "section": "Concerts / Live Shows",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.setlist.fm/search?query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.setlist.fm/search?query=Beethoven",
+          "status": 202,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "outcome": "http_error"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://wikipedia.org/wiki/Comparison_of_music_streaming_services",
+      "label": "Wiki Comparisons",
+      "section": "Streaming Apps",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&search=Beethoven",
+          "query": "Beethoven",
+          "query_param": "search",
+          "observed_fixed_params": {
+            "title": "Special:Search"
+          },
+          "integration": "not_verified",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special%3ASearch&search=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://en.wikipedia.org/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://altmusictv.com/",
+      "label": "The 120 Minutes Archive",
+      "section": "Streaming Sites",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://altmusictv.com/?p=search&q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {
+            "p": "search"
+          },
+          "integration": "not_verified",
+          "url": "https://altmusictv.com/search/beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://altmusictv.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [
+            {
+              "url": "https://altmusictv.com/?p=search&q=Beethoven",
+              "status": 301
+            }
+          ]
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://cylinders.library.ucsb.edu/index.php",
+      "label": "UCSB Cylinders",
+      "section": "Specialty Streaming",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://cylinders.library.ucsb.edu/search.php?nq=1&query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {
+            "nq": "1"
+          },
+          "integration": "not_verified",
+          "url": "https://cylinders.library.ucsb.edu/search.php?nq=1&query=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 19612,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search Results for “” | UCSB Cylinder Audio Archive",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://hypem.com/popular",
+      "label": "Hype Machine",
+      "section": "Streaming Sites",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://hypem.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://hypem.com/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 25323,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "music search results / Hype Machine",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://livebootlegconcert.blogspot.com/",
+      "label": "LiveBootlegConcert",
+      "section": "Concerts / Live Shows",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://livebootlegconcert.blogspot.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://livebootlegconcert.blogspot.com/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://livebootlegconcert.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://volume.com/",
+      "label": "Volume",
+      "section": "Concerts / Live Shows",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://volume.com/search/?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://volume.com/search/?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 94877,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Volume.com",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.iramanusantara.org/en",
+      "label": "Irama Nusantara",
+      "section": "Specialty Streaming",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.iramanusantara.org/en?keyword=Beethoven",
+          "query": "Beethoven",
+          "query_param": "keyword",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.iramanusantara.org/en?keyword=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 78780,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Irama Nusantara",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.nts.live/",
+      "label": "NTS Radio",
+      "section": "DJ Mixes / Livesets",
+      "checked_at": "2026-11-05T18:40:08+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.nts.live/?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.nts.live/?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 253821,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "NTS | Don't AssumePlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlayPlay",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://hdmixtapes.org/",
+      "label": "⁠HD Mixtapes",
+      "section": "DJ Mixes / Livesets",
+      "checked_at": "2026-11-05T18:40:08+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://hdmixtapes.org/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://hdmixtapes.org/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 14574,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search: Beethoven | HD Mixtapes",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.worldconcerthall.com/en/schedule-list/",
+      "label": "WorldConcertHall",
+      "section": "Concerts / Live Shows",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.google.com/search?domains=www.worldconcerthall.com&sitesearch=www.worldconcerthall.com&q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {
+            "domains": "www.worldconcerthall.com",
+            "sitesearch": "www.worldconcerthall.com"
+          },
+          "integration": "not_verified",
+          "url": "https://www.google.com/search?domains=www.worldconcerthall.com&sitesearch=www.worldconcerthall.com&q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://www.google.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://unmusic.xyz/",
+      "label": "⁠unmusic",
+      "section": "Streaming Sites",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://unmusic.xyz/p/?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://unmusic.xyz/p/?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 10828,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search · Beethoven",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.discogc.com/",
+      "label": "DiscogC",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:09+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.discogc.com/?phrase=Beethoven",
+          "query": "Beethoven",
+          "query_param": "phrase",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.discogc.com/?phrase=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 109069,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Discogc | FLAC Discography Downloads – High-Quality Music",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "Organization": 1,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "CollectionPage": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://citizenfreak.com/",
+      "label": "CitizenFreak",
+      "section": "Specialty Streaming",
+      "checked_at": "2026-11-05T18:40:07+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://citizenfreak.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://citizenfreak.com/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 31984,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search | Museum of Canadian Music",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.flacmusic.info/",
+      "label": "FlacMusic",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:09+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.flacmusic.info/index.php?do=search&subaction=search&story=Beethoven",
+          "query": "Beethoven",
+          "query_param": "story",
+          "observed_fixed_params": {
+            "do": "search",
+            "subaction": "search"
+          },
+          "integration": "not_verified",
+          "url": "https://www.flacmusic.info/index.php?do=search&subaction=search&story=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 106740,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Site search » Music lossless (flac, ape, wav). Music Lossless. Music archive LOSSLESS. Music lossless download.",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.konserthuset.se/en/play/",
+      "label": "Konserthuset",
+      "section": "Concerts / Live Shows",
+      "checked_at": "2026-11-05T18:40:08+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.konserthuset.se/en/search-on-konserthuset.se?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.konserthuset.se/en/search-on-konserthuset.se?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 51801,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search on konserthuset.se | Konserthuset Stockholm",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www7.iplusfree.org/",
+      "label": "iPlusFree",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:11+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www7.iplusfree.org/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www7.iplusfree.org/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 81508,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven - iPlusfree",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://musicrider.org/",
+      "label": "Music Rider",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:11+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://musicrider.org?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://musicrider.org?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 76770,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven | Music Rider🎧",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.rockdownload.org/",
+      "label": "RockDownload",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:12+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.rockdownload.org/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.rockdownload.org/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 87479,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Rock Download - O site pra baixar rock grátis!",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://intmusic.net/",
+      "label": "IntMusic",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:09+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://intmusic.net?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://intmusic.net?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 69504,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven » Search Results » intmusic.net",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://z3.fm/",
+      "label": "z3.fm",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:13+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://z3.fm/mp3/search?keywords=Beethoven",
+          "query": "Beethoven",
+          "query_param": "keywords",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://z3.fm/mp3/search?keywords=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 213621,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven скачать музыку бесплатно и слушать онлайнПоиск по слову «beethoven»",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://songslover.net/",
+      "label": "SongsLover",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:11+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://songslover.net/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://songslover.net/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 112557,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven — SongsLover - Latest Albums, Songs and Top Hits",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "Person": 1,
+            "WebSite": 1,
+            "SearchResultsPage": 1,
+            "BreadcrumbList": 1,
+            "ListItem": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://topdjmixes.com/",
+      "label": "TopDJMixes",
+      "section": "DJ Mixes / Livesets",
+      "checked_at": "2026-11-05T18:40:08+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.topdjmixes.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.topdjmixes.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 179783,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven - Top DJ Mixes",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "ImageObject": 2,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1,
+            "Organization": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://butterboycompilations.blogspot.com/",
+      "label": "⁠Butterboy Compilations",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:15+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://butterboycompilations.blogspot.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://butterboycompilations.blogspot.com/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://butterboycompilations.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.discografias-completas.org/",
+      "label": "Discografias Completas",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:13+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.discografias-completas.org/?phrase=Beethoven",
+          "query": "Beethoven",
+          "query_param": "phrase",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.discografias-completas.org/?phrase=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 85186,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Discografiascompletas | Discografias Por MEGA TORRENT",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "Organization": 1,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "CollectionPage": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://primitiveofferings.blogspot.com/",
+      "label": "⁠Primitive Offerings",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:15+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://primitiveofferings.blogspot.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://primitiveofferings.blogspot.com/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://primitiveofferings.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://mp3db.pro/",
+      "label": "mp3db",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:14+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://mp3db.pro/search.php?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://mp3db.pro/search.php?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=windows-1251",
+          "redirects": [],
+          "bytes_read": 22714,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "MP3DB.pro - Search",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://themfire.pro/",
+      "label": "ThemFire",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:09+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://themfire.pro/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://themfire.pro/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 122444,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven | Search Results | TMF 2.0",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://musichoarders.xyz/",
+      "label": "Wiki",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:16+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://musichoarders.xyz/?query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://musichoarders.xyz/?query=Beethoven",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 29945,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "MH Wiki",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://freemidi.org/",
+      "label": "FreeMIDI",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:15+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://freemidi.org/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://freemidi.org/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 156978,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven Free Midi Search",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://pandacd.io/",
+      "label": "PandaCD",
+      "section": "Audio Torrenting",
+      "checked_at": "2026-11-05T18:40:16+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://pandacd.io/index.php?search=Beethoven",
+          "query": "Beethoven",
+          "query_param": "search",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://pandacd.io/index.php?search=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 60125,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "PandaCD",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "WebSite": 1,
+            "SearchAction": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://nodata.tv/",
+      "label": "nodata",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:13+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://nodata.tv?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://nodata.tv?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 41052,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search Results Beethoven",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.unminus.com/",
+      "label": "Unminus",
+      "section": "Royalty Free Music",
+      "checked_at": "2026-11-05T18:40:17+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.unminus.com/search?query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.unminus.com/search?query=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 20102,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search for Copyright-Free Music | Unminus",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {
+            ".artist": [
+              "Artist",
+              "Artist"
+            ]
+          },
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://vgm.hcs64.com/",
+      "label": "Search",
+      "section": "Media Soundtracks",
+      "checked_at": "2026-11-05T18:40:18+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://vgm.hcs64.com/?path=&site=&page=&set=&exts=&sort=&text=Mario",
+          "query": "Mario",
+          "query_param": "text",
+          "observed_fixed_params": {
+            "path": "",
+            "site": "",
+            "page": "",
+            "set": "",
+            "exts": "",
+            "sort": ""
+          },
+          "integration": "not_verified",
+          "url": "https://vgm.hcs64.com/?path=&site=&page=&set=&exts=&sort=&text=Mario",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 6702,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "VGM Updates, Search and Stuff",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.free-stock-music.com/",
+      "label": "free-stock-music",
+      "section": "Royalty Free Music",
+      "checked_at": "2026-11-05T18:40:17+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.free-stock-music.com/search.php?keyword=Beethoven",
+          "query": "Beethoven",
+          "query_param": "keyword",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.free-stock-music.com/search.php?keyword=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 29564,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Free Music | Beethoven | All | Use With Attribution | Sort by Popularity | Search Results",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://soundimage.org/",
+      "label": "⁠Sound Image",
+      "section": "Royalty Free Music",
+      "checked_at": "2026-11-05T18:40:17+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://soundimage.org/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://soundimage.org/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 127163,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search Results Beethoven | Soundimage.org",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.tribalmixes.com/",
+      "label": "TribalMixes",
+      "section": "Audio Torrenting",
+      "checked_at": "2026-11-05T18:40:16+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.tribalmixes.com/browse.php?search=Beethoven",
+          "query": "Beethoven",
+          "query_param": "search",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.tribalmixes.com/login.php?returnto=%2Fbrowse.php%3Fsearch%3DBeethoven",
+          "status": 200,
+          "content_type": "text/html; charset=iso-8859-1",
+          "redirects": [
+            {
+              "url": "https://www.tribalmixes.com/browse.php?search=Beethoven",
+              "status": 302
+            }
+          ],
+          "bytes_read": 10736,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "(tm) Classic LogIn page [new]",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://opentracks.com/en/",
+      "label": "⁠OpenTracks",
+      "section": "Royalty Free Music",
+      "checked_at": "2026-11-05T18:40:17+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://opentracks.com/en/bgm?keywords=Beethoven",
+          "query": "Beethoven",
+          "query_param": "keywords",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://opentracks.com/en/bgm?keywords=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://opentracks.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        },
+        {
+          "search_url": "https://opentracks.com/en/se?keywords=Beethoven",
+          "query": "Beethoven",
+          "query_param": "keywords",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://opentracks.com/en/se?keywords=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://opentracks.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        },
+        {
+          "search_url": "https://opentracks.com/en/creator?keywords=Beethoven",
+          "query": "Beethoven",
+          "query_param": "keywords",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://opentracks.com/en/creator?keywords=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://opentracks.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://exystence.net/",
+      "label": "Exystence",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:10+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://exystence.net/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "outcome": "query_error",
+          "evidence": "ReadTimeout"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://ocremix.org/",
+      "label": "⁠OC Remix",
+      "section": "Game Soundtracks",
+      "checked_at": "2026-11-05T18:40:19+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://ocremix.org/site-search/?q=Mario",
+          "query": "Mario",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://ocremix.org/site-search/?q=Mario",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 22760,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Site Search - OC ReMix",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://renovatiorecords.blogspot.com/",
+      "label": "RenovationRecords",
+      "section": "Media Soundtracks",
+      "checked_at": "2026-11-05T18:40:18+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://renovatiorecords.blogspot.com/search?q=Mario",
+          "query": "Mario",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://renovatiorecords.blogspot.com/search?q=Mario",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://renovatiorecords.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.sakuraost.com/",
+      "label": "SakuraOST",
+      "section": "Media Soundtracks",
+      "checked_at": "2026-11-05T18:40:19+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.sakuraost.com/search?q=Mario",
+          "query": "Mario",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.sakuraost.com/search?q=Mario",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://www.sakuraost.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.sittingonclouds.net/",
+      "label": "Sitting on Clouds",
+      "section": "Media Soundtracks",
+      "checked_at": "2026-11-05T18:40:19+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.sittingonclouds.net/?query=Mario",
+          "query": "Mario",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.sittingonclouds.net/?query=Mario",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 32618,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Sitting on Clouds",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.last.fm/home",
+      "label": "Last.fm",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:20+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.last.fm/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.last.fm/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://www.last.fm/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://16bap.theclassicgamer.net/",
+      "label": "The 16-bit Audiophile Project",
+      "section": "Game Soundtracks",
+      "checked_at": "2026-11-05T18:40:19+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://16bap.theclassicgamer.net/?s=Mario",
+          "query": "Mario",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://16bap.theclassicgamer.net/?s=Mario",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 58889,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Mario - The 16-bit Audiophile Project",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "Organization": 1,
+            "ImageObject": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://vgmrips.net/packs/",
+      "label": "VGMRips",
+      "section": "Game Soundtracks",
+      "checked_at": "2026-11-05T18:40:19+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://vgmrips.net/packs/search?q=Mario",
+          "query": "Mario",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://vgmrips.net/packs/search?q=Mario",
+          "status": 200,
+          "content_type": "text/html; charset=utf8",
+          "redirects": [],
+          "bytes_read": 53744,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Mario • VGMRips",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://sittingonclouds.com/",
+      "label": "2",
+      "section": "Media Soundtracks",
+      "checked_at": "2026-11-05T18:40:19+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.sittingonclouds.com/?query=Mario",
+          "query": "Mario",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.sittingonclouds.com/?query=Mario",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 32620,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Sitting on Clouds",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.zophar.net/music",
+      "label": "Zophar's Domain",
+      "section": "Game Soundtracks",
+      "checked_at": "2026-11-05T18:40:20+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.zophar.net/music/search?search=Mario",
+          "query": "Mario",
+          "query_param": "search",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.zophar.net/music/search?search=Mario",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 64961,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search Music - Zophar's Domain",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://soundtracktracklist.com/",
+      "label": "SoundtrackTracklist",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:22+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://soundtracktracklist.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://soundtracktracklist.com/?s=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://soundtracktracklist.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://musicbrainz.org/",
+      "label": "MusicBrainz",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:22+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://musicbrainz.org/search?method=indexed&query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {
+            "method": "indexed"
+          },
+          "integration": "not_verified",
+          "url": "https://musicbrainz.org/search?method=indexed&query=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://musicbrainz.org/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://daily.bandcamp.com/",
+      "label": "Bandcamp Daily",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:24+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://daily.bandcamp.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://daily.bandcamp.com/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://daily.bandcamp.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://hasitleaked.com/",
+      "label": "Has it Leaked",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:21+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://hasitleaked.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://hasitleaked.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 76792,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven | Has it leaked?",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "BreadcrumbList": 1,
+            "ListItem": 4,
+            "Organization": 1,
+            "SearchResultsPage": 1,
+            "WebSite": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.theindierockplaylist.com/",
+      "label": "TheIndieRockPlaylist",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:23+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.theindierockplaylist.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.theindierockplaylist.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 33944,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven - Indie/Rock Playlist",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://daily.bandcamp.com/hidden-gems",
+      "label": "Hidden Gems",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:25+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://daily.bandcamp.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://daily.bandcamp.com/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://daily.bandcamp.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://theshfl.com/",
+      "label": "Shfl",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:25+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://theshfl.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://theshfl.com/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://theshfl.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://thequietus.com/charts/",
+      "label": "The Quietus",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:25+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://thequietus.com/?engine=algolia&s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {
+            "engine": "algolia"
+          },
+          "integration": "not_verified",
+          "url": "https://thequietus.com/?engine=algolia&s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 239302,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven | The Quietus",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1,
+            "Organization": 1,
+            "ImageObject": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/",
+      "label": "ClassicRockHistory",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:22+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.classicrockhistory.com?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.classicrockhistory.com?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 256445,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven - ClassicRockHistory.com",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "ImageObject": 2,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1,
+            "Organization": 1,
+            "QuantitativeValue": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://remixsearch.net/",
+      "label": "RemixSearch",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:23+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://remixsearch.net/s.php?search=Beethoven",
+          "query": "Beethoven",
+          "query_param": "search",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://remixsearch.net/login-required/?src=http://remixsearch.net/search/keyword/Beethoven/",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [
+            {
+              "url": "https://remixsearch.net/s.php?search=Beethoven",
+              "status": 301
+            },
+            {
+              "url": "https://remixsearch.net/search/keyword/Beethoven/",
+              "status": 302
+            },
+            {
+              "url": "http://remixsearch.net/login-required/?src=http://remixsearch.net/search/keyword/Beethoven/",
+              "status": 301
+            }
+          ],
+          "bytes_read": 1889,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Login Required",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://4chanmusic.miraheze.org/wiki/Essential_Charts",
+      "label": "Essential Charts",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:27+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://4chanmusic.miraheze.org/w/index.php?title=Special%3ASearch&search=Beethoven",
+          "query": "Beethoven",
+          "query_param": "search",
+          "observed_fixed_params": {
+            "title": "Special:Search"
+          },
+          "integration": "not_verified",
+          "url": "https://4chanmusic.miraheze.org/w/index.php?title=Special%3ASearch&search=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://4chanmusic.miraheze.org/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.vgmpf.com/Wiki/index.php",
+      "label": "VGMPF",
+      "section": "Game Soundtracks",
+      "checked_at": "2026-11-05T18:40:21+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.vgmpf.com/Wiki/index.php?title=Special%3ASearch&search=Mario",
+          "query": "Mario",
+          "query_param": "search",
+          "observed_fixed_params": {
+            "title": "Special:Search"
+          },
+          "integration": "not_verified",
+          "url": "https://www.vgmpf.com/Wiki/index.php?title=Special%3ASearch&search=Mario",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 35555,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search results for \"Mario\" - Video Game Music Preservation Foundation Wiki",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://dr.loudness-war.info/",
+      "label": "Loudness War",
+      "section": "Tracking / Databases",
+      "checked_at": "2026-11-05T18:40:25+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://dr.loudness-war.info/?artist=Beethoven",
+          "query": "Beethoven",
+          "query_param": "artist",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://dr.loudness-war.info/?artist=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 31059,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Album list - Dynamic Range DB",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.operaonvideo.com/",
+      "label": "OperaOnVideo",
+      "section": "Concerts / Live Shows",
+      "checked_at": "2026-11-05T18:40:08+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.operaonvideo.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.operaonvideo.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 152898,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven - Opera on Video",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "BreadcrumbList": 1,
+            "ListItem": 4,
+            "Organization": 1,
+            "ImageObject": 1,
+            "SearchResultsPage": 1,
+            "WebSite": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://digitaldreamdoor.com/pages/music0.html",
+      "label": "DigitalDreamDoor",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:27+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://digitaldreamdoor.com/pages/DDD-Search-Results-zeta.html?cx=partner-pub-8351389368042029%3A4546981191&cof=FORID%3A10&ie=UTF-8&q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {
+            "cx": "partner-pub-8351389368042029:4546981191",
+            "cof": "FORID:10",
+            "ie": "UTF-8"
+          },
+          "integration": "not_verified",
+          "url": "https://digitaldreamdoor.com/pages/DDD-Search-Results-zeta.html?cx=partner-pub-8351389368042029%3A4546981191&cof=FORID%3A10&ie=UTF-8&q=Beethoven",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 8180,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "DigitalDreamDoor Search Results",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://furia.com/page.cgi?type=log&skip=20#id492",
+      "label": "New Music",
+      "section": "Music Discovery",
+      "checked_at": "2026-11-05T18:40:28+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://furia.com/page.cgi?terms=Beethoven",
+          "query": "Beethoven",
+          "query_param": "terms",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://furia.com/page.cgi?terms=Beethoven",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 21992,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "furialog",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        },
+        {
+          "search_url": "https://furia.com/page.cgi?type=log&terms=Beethoven",
+          "query": "Beethoven",
+          "query_param": "terms",
+          "observed_fixed_params": {
+            "type": "log"
+          },
+          "integration": "not_verified",
+          "url": "https://furia.com/page.cgi?type=log&terms=Beethoven",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 21992,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "furialog",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://lyrion.org/extensions/applications/",
+      "label": "Extensions",
+      "section": "Audio Servers",
+      "checked_at": "2026-11-05T18:40:29+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://lyrion.org/extensions/applications/?query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://lyrion.org/extensions/applications/?query=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 82148,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Applications - Lyrion Music Server",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.superfridaychart.com/",
+      "label": "SuperFridayChart",
+      "section": "Music Discovery",
+      "checked_at": "2026-11-05T18:40:28+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.superfridaychart.com/?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.superfridaychart.com/?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 48613,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Super Friday chart - Spotify New Music Friday playlists",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://twgeema.com/",
+      "label": "⁠TWGEEMA",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:27+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.twgeema.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.twgeema.com/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 775844,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search Results: 'Beethoven' - TWGEEMA",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://lyrion.org/",
+      "label": "Lyrion",
+      "section": "Audio Servers",
+      "checked_at": "2026-11-05T18:40:29+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://lyrion.org/?query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://lyrion.org/?query=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 72179,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Home - Lyrion Music Server",
+          "query_echoed_in_html": false,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://songmeanings.com/",
+      "label": "SongMeanings",
+      "section": "Lyric Sites",
+      "checked_at": "2026-11-05T18:40:30+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://songmeanings.com/query/?type=all&query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {
+            "type": "all"
+          },
+          "integration": "not_verified",
+          "url": "https://songmeanings.com/query/?type=all&query=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://songmeanings.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://intellectual.insprill.net/",
+      "label": "Intellectual",
+      "section": "Lyric Sites",
+      "checked_at": "2026-11-05T18:40:30+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://intellectual.insprill.net/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://intellectual.insprill.net/search?q=Beethoven",
+          "status": 500,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "outcome": "http_error"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://findmusicbylyrics.com/",
+      "label": "FindMusicByLyrics",
+      "section": "Lyric Sites",
+      "checked_at": "2026-11-05T18:40:30+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://findmusicbylyrics.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://findmusicbylyrics.com/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 2929,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven - Find Music By Lyrics",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://cosine.club/",
+      "label": "cosine.club",
+      "section": "Music Discovery",
+      "checked_at": "2026-11-05T18:40:28+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://cosine.club/?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://cosine.club/?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 46133,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "cosine.club | Find Similar Tracks by Sound",
+          "query_echoed_in_html": false,
+          "jsonld_types": {
+            "Organization": 9,
+            "NewsArticle": 4,
+            "Article": 2,
+            "DiscussionForumPosting": 2,
+            "Person": 2,
+            "WebSite": 1,
+            "WebApplication": 1,
+            "Offer": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.azlyrics.com/",
+      "label": "AZLyrics",
+      "section": "Lyric Sites",
+      "checked_at": "2026-11-05T18:40:30+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.azlyrics.com/search/?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.azlyrics.com/search/?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://www.azlyrics.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.utatime.com/global/",
+      "label": "⁠Lyrical Nonsense",
+      "section": "Lyric Sites",
+      "checked_at": "2026-11-05T18:40:31+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.utatime.com/search/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.utatime.com/search/?s=Beethoven",
+          "status": 404,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "outcome": "http_error"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.animesonglyrics.com/",
+      "label": "⁠AnimeSongLyrics",
+      "section": "Lyric Sites",
+      "checked_at": "2026-11-05T18:40:31+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.animesonglyrics.com/results?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.animesonglyrics.com/results?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 114297,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Search Results - Anime Songs Lyrics",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.classic-rock-covers.com/",
+      "label": "Classic Rock Covers",
+      "section": "Album Artwork",
+      "checked_at": "2026-11-05T18:40:29+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.classic-rock-covers.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.classic-rock-covers.com/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 253321,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "120,000+ Classic Rock Album Covers Database (1948-2026): Search results for Beethoven",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://musescore.org/",
+      "label": "MuseScore",
+      "section": "Sheet Music / Notation",
+      "checked_at": "2026-11-05T18:40:31+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://musescore.com/sheetmusic?text=Beethoven",
+          "query": "Beethoven",
+          "query_param": "text",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://musescore.com/sheetmusic?text=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://musescore.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        },
+        {
+          "search_url": "https://musescore.org/en/search/content?keys=Beethoven",
+          "query": "Beethoven",
+          "query_param": "keys",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://musescore.org/en/search/content?keys=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://musescore.org/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://presetshare.com/",
+      "label": "PresetShare",
+      "section": "Audio Editing",
+      "checked_at": "2026-11-05T18:40:31+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://presetshare.com/presets?query=Beethoven",
+          "query": "Beethoven",
+          "query_param": "query",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://presetshare.com/presets?query=Beethoven",
+          "status": 404,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "outcome": "http_error"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://soundpacks.com/",
+      "label": "⁠SoundPacks",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:32+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://soundpacks.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://soundpacks.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 29346,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven - SoundPacks.com",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://songstems.net/",
+      "label": "SongStems",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:33+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://songstems.net/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://songstems.net/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 80263,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "SongStems.net - a free service for sharing remix packs, stems, multitracks, acapellas, and instrumentals",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.freesoundslibrary.com/",
+      "label": "FreeSoundsLibrary",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:33+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.freesoundslibrary.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.freesoundslibrary.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 172071,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven | Free Sounds Library | Royalty-Free MP3 & WAV Sound Effects Download",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "ImageObject": 2,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1,
+            "Organization": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://bigsoundbank.com/",
+      "label": "⁠BigSoundBank",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:34+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://bigsoundbank.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://bigsoundbank.com/search?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 27230,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven — Free Sound Effects",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "BreadcrumbList": 1,
+            "ListItem": 2
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://orangefreesounds.com/",
+      "label": "OrangeFreeSounds",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:33+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://orangefreesounds.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://orangefreesounds.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 217435,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven - Orange Free Sounds",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "ImageObject": 2,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1,
+            "Person": 1,
+            "Organization": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.myinstants.com/index/us/",
+      "label": "MyInstants",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:35+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.myinstants.com/en/search/?name=Beethoven",
+          "query": "Beethoven",
+          "query_param": "name",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.myinstants.com/en/search/?name=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 53548,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Beethoven Soundboard - Instant Sound Buttons | Myinstants",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "BreadcrumbList": 1,
+            "ListItem": 3
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://freesound.org/",
+      "label": "Freesound",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:35+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://freesound.org/search/?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://freesound.org/search/?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://freesound.org/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.cvgm.net/",
+      "label": "⁠CVGM",
+      "section": "Game Soundtracks",
+      "checked_at": "2026-11-05T18:40:20+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.cvgm.net/search/?q=Mario",
+          "query": "Mario",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.cvgm.net/search/?q=Mario",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 74825,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Mario - Search - CVGM Radio",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://coreradio.online/",
+      "label": "Core Radio",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:09+00:00",
+      "form_queries": [],
+      "page_outcome": "page_error",
+      "evidence": "TimeoutError"
+    },
+    {
+      "source_url": "https://sampleswap.org/",
+      "label": "SampleSwap",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:35+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://sampleswap.org/filebrowser-new.php?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://sampleswap.org/filebrowser-new.php?q=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 31311,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "SEARCH » Beethoven (Free sounds, samples, loops)",
+          "query_echoed_in_html": true,
+          "jsonld_types": {},
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://sonniss.com/gameaudiogdc",
+      "label": "GDC",
+      "section": "SFX / Samples",
+      "checked_at": "2026-11-05T18:40:33+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://sonniss.com?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://sonniss.com?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 194302,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Are you looking for Beethoven? - SONNISS",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "Organization": 1,
+            "PostalAddress": 1,
+            "ContactPoint": 1,
+            "OfferCatalog": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        },
+        {
+          "search_url": "https://sonniss.com/?post_type=product&s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {
+            "post_type": "product"
+          },
+          "integration": "not_verified",
+          "url": "https://sonniss.com/?post_type=product&s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 195417,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "Are you looking for Beethoven? - SONNISS",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "Organization": 1,
+            "PostalAddress": 1,
+            "ContactPoint": 1,
+            "OfferCatalog": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://sheet.host/",
+      "label": "Sheet Host",
+      "section": "Sheet Music / Notation",
+      "checked_at": "2026-11-05T18:40:31+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://sheet.host/sheets?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://sheet.host/sheets?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://sheet.host/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://glorybeats.com/",
+      "label": "GloryBeats",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:40:16+00:00",
+      "form_queries": [],
+      "page_outcome": "page_error",
+      "evidence": "TimeoutError"
+    },
+    {
+      "source_url": "https://www.musicto.com/",
+      "label": "MusicTo",
+      "section": "Curated Recommendations",
+      "checked_at": "2026-11-05T18:40:27+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.musicto.com/?s=Beethoven",
+          "query": "Beethoven",
+          "query_param": "s",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.musicto.com/?s=Beethoven",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 62818,
+          "truncated": false,
+          "outcome": "fetched",
+          "page_title": "You searched for Beethoven - musicto help musicians",
+          "query_echoed_in_html": true,
+          "jsonld_types": {
+            "CollectionPage": 1,
+            "SearchResultsPage": 1,
+            "ImageObject": 2,
+            "BreadcrumbList": 1,
+            "ListItem": 2,
+            "WebSite": 1,
+            "SearchAction": 1,
+            "EntryPoint": 1,
+            "PropertyValueSpecification": 1,
+            "Organization": 1
+          },
+          "music_jsonld_examples": [],
+          "invalid_jsonld": 0,
+          "music_microdata_examples": [],
+          "possible_credit_selectors": {},
+          "metadata_status": "no_music_structured_data_observed_in_bounded_html"
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://support.google.com/websearch/answer/7554088",
+      "label": "Google Song Identification",
+      "section": "Song Identification",
+      "checked_at": "2026-11-05T18:42:36+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://support.google.com/websearch/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://support.google.com/websearch/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://support.google.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    },
+    {
+      "source_url": "https://www.deadpulpit.com/",
+      "label": "DeadPulpit",
+      "section": "Download Sites",
+      "checked_at": "2026-11-05T18:42:36+00:00",
+      "form_queries": [
+        {
+          "search_url": "https://www.deadpulpit.com/search?q=Beethoven",
+          "query": "Beethoven",
+          "query_param": "q",
+          "observed_fixed_params": {},
+          "integration": "not_verified",
+          "url": "https://www.deadpulpit.com/search?q=Beethoven",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://www.deadpulpit.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": []
+        }
+      ],
+      "page_outcome": "fetched"
+    }
+  ]
+}

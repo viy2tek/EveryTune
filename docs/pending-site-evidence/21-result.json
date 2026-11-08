@@ -1,0 +1,12 @@
+{
+  "index": 21,
+  "name": "DMO",
+  "url": "https://dance-music.org/",
+  "status": 200,
+  "final_url": "https://dance-music.org/",
+  "title": "Free Electronic Dance Music (EDM) | Dance Music Organisation | The Home Of Free MP3 Electronic Dance Music Album Downloads | Free MP3 Music Downloads | DMO Recordings",
+  "searchlinks": [],
+  "robots_status": 200,
+  "robots_text": "# Stop index to pages!\nUser-agent: *\nDisallow: /mp3/\nDisallow: /includes/\nDisallow: /thanks.html\nDisallow: /error.html\nDisallow: /members\nDisallow: /DMOAdmin\n",
+  "robots": true
+}

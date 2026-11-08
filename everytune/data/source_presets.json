@@ -1,0 +1,130 @@
+[
+  {
+    "id": "custom_ucsb_cylinders",
+    "name": "UCSB Cylinder Audio Archive",
+    "format": "html",
+    "endpoint": "https://cylinders.library.ucsb.edu/search.php",
+    "query_param": "query",
+    "params": {
+      "query_type": "keyword",
+      "nq": "1"
+    },
+    "results_path": ".result-container",
+    "fields": {
+      "title": ".pure-g:nth-of-type(2) .data-entry a",
+      "artist": ".pure-g:nth-of-type(3) .data-entry",
+      "url": ".row-link a@href",
+      "year": ".pure-g:nth-of-type(5) .data-entry",
+      "credit_name": ".pure-g:nth-of-type(3) .data-entry",
+      "credit_role": "=Performer"
+    },
+    "category": "Acervos historicos",
+    "kind": "archive_item",
+    "limit_param": null,
+    "page_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_vgmrips",
+    "name": "VGMRips",
+    "format": "html",
+    "endpoint": "https://vgmrips.net/packs/search",
+    "query_param": "q",
+    "params": {},
+    "results_path": ".result.row",
+    "fields": {
+      "id": "@id",
+      "title": "h2.title a:not(.download):not([href*='#autoplay'])",
+      "url": "h2.title a:not(.download):not([href*='#autoplay'])@href",
+      "artwork": ".image img@src",
+      "credit_name": "tr.composers td a",
+      "credit_role": "=Composer"
+    },
+    "category": "Trilhas de jogos",
+    "kind": "album",
+    "limit_param": null,
+    "page_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_ocremix",
+    "name": "OC ReMix",
+    "format": "html",
+    "endpoint": "https://ocremix.org/quicksearch/remix/",
+    "query_param": "qs_query",
+    "params": {},
+    "results_path": "tr.area-link",
+    "fields": {
+      "id": "a.main@href",
+      "title": "a.main",
+      "url": "a.main@href",
+      "credit_name": "td:nth-of-type(2) a",
+      "credit_role": "=Arranger"
+    },
+    "category": "Remixes de jogos",
+    "kind": "track",
+    "limit_param": null,
+    "page_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_citizenfreak",
+    "name": "CitizenFreak / Museum of Canadian Music",
+    "format": "external",
+    "endpoint": "https://citizenfreak.com/search",
+    "query_param": "q",
+    "params": {},
+    "category": "Acervos canadenses",
+    "kind": "archive_item",
+    "limit_param": null,
+    "page_param": null
+  },
+  {
+    "id": "custom_hypemachine",
+    "name": "Hype Machine",
+    "format": "external",
+    "endpoint": "https://hypem.com/search",
+    "query_param": "q",
+    "params": {},
+    "category": "Descoberta musical",
+    "limit_param": null,
+    "page_param": null
+  },
+  {
+    "id": "custom_unminus",
+    "name": "Unminus",
+    "format": "external",
+    "endpoint": "https://www.unminus.com/search",
+    "query_param": "query",
+    "params": {},
+    "category": "Musica livre",
+    "limit_param": null,
+    "page_param": null
+  },
+  {
+    "id": "custom_free_stock_music",
+    "name": "Free Stock Music",
+    "format": "external",
+    "endpoint": "https://www.free-stock-music.com/search.php",
+    "query_param": "keyword",
+    "params": {},
+    "category": "Musica livre",
+    "limit_param": null,
+    "page_param": null
+  },
+  {
+    "id": "custom_zophar",
+    "name": "Zophar's Domain Music",
+    "format": "external",
+    "endpoint": "https://www.zophar.net/music/search",
+    "query_param": "search",
+    "params": {},
+    "category": "Trilhas de jogos",
+    "kind": "album",
+    "limit_param": null,
+    "page_param": null
+  }
+]

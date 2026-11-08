@@ -1,0 +1,32 @@
+{
+  "query": "viy2tek",
+  "matches": 2,
+  "tracks": [
+    {
+      "title": "BODY",
+      "artist": "mavyrmldy",
+      "url": "https://www.deezer.com/track/3644917472",
+      "credits": [
+        {
+          "name": "viy2tek",
+          "role": "Main",
+          "person_id": "306384261",
+          "evidence_url": "https://www.deezer.com/track/3644917472"
+        }
+      ]
+    },
+    {
+      "title": "ONFIRE",
+      "artist": "mavyrmldy",
+      "url": "https://www.deezer.com/track/3644917412",
+      "credits": [
+        {
+          "name": "viy2tek",
+          "role": "Main",
+          "person_id": "306384261",
+          "evidence_url": "https://www.deezer.com/track/3644917412"
+        }
+      ]
+    }
+  ]
+}

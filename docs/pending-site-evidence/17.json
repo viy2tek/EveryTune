@@ -1,0 +1,29 @@
+{
+  "index": 17,
+  "name": "Gabber",
+  "url": "https://gabber.od.ua/",
+  "status": 200,
+  "final_url": "https://gabber.od.ua/",
+  "title": "gabber.od.ua biggest hardcore music archive",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/tt",
+      "input_names": [
+        "t"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://gabber.od.ua/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js",
+    "https://gabber.od.ua/sites/default/files/js/js_GfhfG87z3G2pfx75lv_6Kp7vstsqWlnAb2C3ovnrHMY.js",
+    "https://cdn.jsdelivr.net/npm/bootstrap@3.4.0/dist/js/bootstrap.min.js",
+    "https://gabber.od.ua/sites/default/files/js/js_oHtSZ2ngGjOCa8q161Tr_yt-WsIYqFGNkjBJaEYWyJY.js",
+    "https://gabber.od.ua/sites/default/files/js/js_OLgr-593LYCzF1vZ05PpqLNjLgPEsdxeuLPiASPOib8.js",
+    "https://stats3.cfd/js/script.js",
+    "https://gabber.od.ua/sites/default/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"
+  ],
+  "searchlinks": [
+    "/search/node"
+  ]
+}

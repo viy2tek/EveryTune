@@ -1,0 +1,10 @@
+{
+  "index": 26,
+  "method": "GET",
+  "endpoint": "https://www.systemsofromance.com/blog/",
+  "params": {
+    "s": "coldwave"
+  },
+  "status": 200,
+  "final_url": "https://www.systemsofromance.com/blog/?s=coldwave"
+}

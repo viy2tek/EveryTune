@@ -1,0 +1,215 @@
+{
+  "index": 54,
+  "name": "⁠Die or DIY",
+  "url": "https://dieordiy2.blogspot.com/",
+  "status": 200,
+  "final_url": "https://dieordiy2.blogspot.com/",
+  "title": "Die or D.I.Y.?",
+  "searchlinks": [
+    "https://dieordiy2.blogspot.com/search/label/2019",
+    "https://dieordiy2.blogspot.com/search/label/Cambodia",
+    "https://dieordiy2.blogspot.com/search/label/Compilations",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Psych",
+    "https://dieordiy2.blogspot.com/search/label/psychsploitation",
+    "https://dieordiy2.blogspot.com/search/label/2004",
+    "https://dieordiy2.blogspot.com/search/label/Afghanistan",
+    "https://dieordiy2.blogspot.com/search/label/Synth%20Pop",
+    "https://dieordiy2.blogspot.com/search/label/Afghanistan",
+    "https://dieordiy2.blogspot.com/search/label/Ahmad%20Zahir",
+    "https://dieordiy2.blogspot.com/search/label/Folk",
+    "https://dieordiy2.blogspot.com/search/label/Global",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Psych",
+    "https://dieordiy2.blogspot.com/search/label/World%20Music",
+    "https://dieordiy2.blogspot.com/search/label/1968",
+    "https://dieordiy2.blogspot.com/search/label/Afghanistan",
+    "https://dieordiy2.blogspot.com/search/label/Field%20Recording",
+    "https://dieordiy2.blogspot.com/search/label/Folk",
+    "https://dieordiy2.blogspot.com/search/label/Global",
+    "https://dieordiy2.blogspot.com/search/label/World%20Music",
+    "https://dieordiy2.blogspot.com/search/label/2024",
+    "https://dieordiy2.blogspot.com/search/label/Improvisation",
+    "https://dieordiy2.blogspot.com/search/label/Jandek",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Garde",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Music",
+    "https://dieordiy2.blogspot.com/search/label/USA",
+    "https://dieordiy2.blogspot.com/search/label/Ya%20Ho%20Wha%2013",
+    "https://dieordiy2.blogspot.com/search/label/2021",
+    "https://dieordiy2.blogspot.com/search/label/Free%20Music",
+    "https://dieordiy2.blogspot.com/search/label/Free%20Rock"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://dieordiy2.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "Various",
+  "feed_matches": [
+    {
+      "title": "Various Artists – \"Cambodian Nuggets\" (Akenaton Records – AKENAT02) 2019",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://dieordiy2.blogspot.com/feeds/587918632190152164/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/587918632190152164?isPopup=true",
+          "title": "7 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/587918632190152164"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/587918632190152164"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://dieordiy2.blogspot.com/2026/10/various-artists-cambodian-nuggets.html",
+          "title": "Various Artists – \"Cambodian Nuggets\" (Akenaton Records – AKENAT02) 2019"
+        }
+      ]
+    },
+    {
+      "title": "Various Artists - \"A Musical Anthology Of The Orient - Afghanistan\" (Bärenreiter-Musicaphon) 1968",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://dieordiy2.blogspot.com/feeds/3599232356844826/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/3599232356844826?isPopup=true",
+          "title": "6 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/3599232356844826"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/3599232356844826"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://dieordiy2.blogspot.com/2026/09/various-artists-musical-anthology-of.html",
+          "title": "Various Artists - \"A Musical Anthology Of The Orient - Afghanistan\" (Bärenreiter-Musicaphon) 1968"
+        }
+      ]
+    },
+    {
+      "title": "Mark Stewart – \"As The Veneer Of Democracy Starts To Fade\" (Mute – STUMM 24) 1985",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://dieordiy2.blogspot.com/feeds/6072591160605447648/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/6072591160605447648?isPopup=true",
+          "title": "15 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/6072591160605447648"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/6072591160605447648"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://dieordiy2.blogspot.com/2026/07/mark-stewart-as-veneer-of-democracy.html",
+          "title": "Mark Stewart – \"As The Veneer Of Democracy Starts To Fade\" (Mute – STUMM 24) 1985"
+        }
+      ]
+    },
+    {
+      "title": "Various Artists – \"The Philosophy Of Sound And Machine\" (Applied Rhythmic Technology (ART) – art 2 cd) 1992",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://dieordiy2.blogspot.com/feeds/7390344023116359804/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/7390344023116359804?isPopup=true",
+          "title": "11 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/7390344023116359804"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/7390344023116359804"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://dieordiy2.blogspot.com/2026/05/various-artists-philosophy-of-sound-and.html",
+          "title": "Various Artists – \"The Philosophy Of Sound And Machine\" (Applied Rhythmic Technology (ART) – art 2 cd) 1992"
+        }
+      ]
+    },
+    {
+      "title": "Manuel Göttsching – \"E2-E4\" (Inteam GmbH – ID 20.004) 1984",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://dieordiy2.blogspot.com/feeds/5469277538250869478/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/8624282421125812337/5469277538250869478?isPopup=true",
+          "title": "9 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/5469277538250869478"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8624282421125812337/posts/default/5469277538250869478"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://dieordiy2.blogspot.com/2026/03/manuel-gottsching-e2-e4-inteam-gmbh-id.html",
+          "title": "Manuel Göttsching – \"E2-E4\" (Inteam GmbH – ID 20.004) 1984"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://dieordiy2.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

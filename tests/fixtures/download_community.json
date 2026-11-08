@@ -1,0 +1,57 @@
+[
+  {
+    "page_url": "https://ocremix.org/remix/OCR02572",
+    "links": [
+      {
+        "label": "Download from Aplus",
+        "url": "https://iterations.org/files/music/remixes/Chrono_Cross_A_Dream_Between_Worlds_OC_ReMix.mp3"
+      },
+      {
+        "label": "Download from ocrmirror.org",
+        "url": "https://ocrmirror.org/files/music/remixes/Chrono_Cross_A_Dream_Between_Worlds_OC_ReMix.mp3"
+      },
+      {
+        "label": "Download from BlueBlue.fr",
+        "url": "https://ocr.blueblue.fr/files/music/remixes/Chrono_Cross_A_Dream_Between_Worlds_OC_ReMix.mp3"
+      }
+    ]
+  },
+  {
+    "page_url": "https://vgmrips.net/packs/pack/super-mario-bros-3-nes",
+    "links": [
+      {
+        "label": "Download vgz",
+        "url": "https://vgmrips.net/packs/vgm/NES/Super_Mario_Bros._3_%28NES%29/01%20World%201%20Map.vgz"
+      },
+      {
+        "label": "Download vgz",
+        "url": "https://vgmrips.net/packs/vgm/NES/Super_Mario_Bros._3_%28NES%29/02%20Overworld%20BGM.vgz"
+      },
+      {
+        "label": "Download",
+        "url": "https://vgmrips.net/files/NES/Super_Mario_Bros._3_%28NES%29.zip"
+      }
+    ]
+  },
+  {
+    "page_url": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1",
+    "links": [
+      {
+        "label": "LilyPond file",
+        "url": "https://www.mutopiaproject.org/ftp/ArbeauT/Orch/belle/belle.ly"
+      },
+      {
+        "label": "MIDI file",
+        "url": "https://www.mutopiaproject.org/ftp/ArbeauT/Orch/belle/belle.mid"
+      },
+      {
+        "label": "A4 PDF files",
+        "url": "https://www.mutopiaproject.org/ftp/ArbeauT/Orch/belle/belle-a4.pdf"
+      },
+      {
+        "label": "Letter PDF files",
+        "url": "https://www.mutopiaproject.org/ftp/ArbeauT/Orch/belle/belle-let.pdf"
+      }
+    ]
+  }
+]

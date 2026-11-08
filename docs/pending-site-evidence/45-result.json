@@ -1,0 +1,165 @@
+{
+  "index": 45,
+  "name": "DeadPulpit",
+  "url": "https://www.deadpulpit.com/",
+  "status": 200,
+  "final_url": "https://www.deadpulpit.com/",
+  "title": "Dead Air At The Pulpit",
+  "searchlinks": [
+    "https://www.deadpulpit.com/search/label/Chris%20Colohan",
+    "https://www.deadpulpit.com/search/label/Scrape",
+    "https://www.deadpulpit.com/search/label/ufoufoufo",
+    "https://www.deadpulpit.com/search/label/Interitio",
+    "https://www.deadpulpit.com/search/label/MALFORM",
+    "https://www.deadpulpit.com/search/label/ALL%20HOPE%20LOST",
+    "https://www.deadpulpit.com/search/label/GALLOWHEAD",
+    "https://www.deadpulpit.com/search/label/MAGDALENE",
+    "https://www.deadpulpit.com/search/label/RAN",
+    "https://www.deadpulpit.com/search/label/Skinned%20Alive",
+    "https://www.deadpulpit.com/search/label/Polluted%20Tongues",
+    "https://www.deadpulpit.com/search?updated-max=2026-08-19T18:46:00-04:00&max-results=10",
+    "http://www.deadpulpit.com/search/label/Surprise%20Package"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://www.deadpulpit.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "SCRAPE",
+  "feed_matches": [
+    {
+      "title": "SCRAPE - S/T EP",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://www.deadpulpit.com/feeds/6983734353441229834/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/7896224029903452761/6983734353441229834?isPopup=true",
+          "title": "0 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/6983734353441229834"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/6983734353441229834"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.deadpulpit.com/2026/10/scrape-st-ep.html",
+          "title": "SCRAPE - S/T EP"
+        }
+      ]
+    },
+    {
+      "title": "Internal-Scrape EP (2020)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://www.deadpulpit.com/feeds/5787261966336969833/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/7896224029903452761/5787261966336969833?isPopup=true",
+          "title": "0 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/5787261966336969833"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/5787261966336969833"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.deadpulpit.com/2020/06/internal-scrape-ep-2020.html",
+          "title": "Internal-Scrape EP (2020)"
+        }
+      ]
+    },
+    {
+      "title": "Permanent Makeup-Scrape LP (2017)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://www.deadpulpit.com/feeds/7339745719253911796/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/7896224029903452761/7339745719253911796?isPopup=true",
+          "title": "0 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/7339745719253911796"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/7339745719253911796"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.deadpulpit.com/2017/10/permanent-makeup-scrape-lp-2017.html",
+          "title": "Permanent Makeup-Scrape LP (2017)"
+        }
+      ]
+    },
+    {
+      "title": "COBRA NOIR (FKA The Black Cobra)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://www.deadpulpit.com/feeds/8633474699118067061/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/7896224029903452761/8633474699118067061?isPopup=true",
+          "title": "5 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/8633474699118067061"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7896224029903452761/posts/default/8633474699118067061"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.deadpulpit.com/2014/09/cobra-noir-fka-black-cobra.html",
+          "title": "COBRA NOIR (FKA The Black Cobra)"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://www.deadpulpit.com/feeds/posts/default",
+  "empty_query_count": 0
+}

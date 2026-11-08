@@ -1,0 +1,18 @@
+{
+  "index": 23,
+  "name": "Cova-Argh!!!!",
+  "url": "https://josephbarulho.blogspot.com/",
+  "status": 200,
+  "final_url": "https://josephbarulho.blogspot.com/",
+  "title": "COVA - ARGH!!!",
+  "forms": [],
+  "scripts": [
+    "https://apis.google.com/js/platform.js",
+    "https://cdn.livetrafficfeed.com/static/revolver-maps/live.js?c=ffffff&cw=e63100&l=1&hi=10&he=10&root=0&st=1&s=235&mv=a814544e2ee74d56",
+    "https://www.gstatic.com/charts/loader.js",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://josephbarulho.blogspot.com/search?updated-max=2026-08-25T16:20:00-03:00&max-results=30"
+  ]
+}

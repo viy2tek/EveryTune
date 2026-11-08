@@ -1,0 +1,197 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-2714480604430433502"
+    },
+    "updated": {
+      "$t": "2026-10-07T05:30:31.800-07:00"
+    },
+    "category": [
+      {
+        "term": "G.A.M.M."
+      },
+      {
+        "term": "Razor-N-Tape"
+      },
+      {
+        "term": "Hot Biscuit Recordings"
+      },
+      {
+        "term": "Gator Boots"
+      },
+      {
+        "term": "Stamp"
+      },
+      {
+        "term": "Paradise Pizza"
+      },
+      {
+        "term": "Belpaese"
+      },
+      {
+        "term": "James Greenwood"
+      },
+      {
+        "term": "Semi​-​Skimmed"
+      },
+      {
+        "term": "Act Of Sedition"
+      },
+      {
+        "term": "Outerzona13"
+      },
+      {
+        "term": "Brookside"
+      },
+      {
+        "term": "Community Disc-O's"
+      },
+      {
+        "term": "Love Drops"
+      },
+      {
+        "term": "Saint Wax Edit Service"
+      },
+      {
+        "term": "Boogiefuturo"
+      },
+      {
+        "term": "Common Edit"
+      },
+      {
+        "term": "Disco Banger"
+      },
+      {
+        "term": "Hello Sailor Recordings"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "aboutdisco"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": ""
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://aboutdiscowithlove.blogspot.com/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/2714480604430433502/posts/default?alt=json&max-results=5&q=Convertible"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://aboutdiscowithlove.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Unknown"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "16",
+          "height": "16",
+          "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-2714480604430433502.post-4004604846707217819"
+        },
+        "published": {
+          "$t": "2026-03-30T06:30:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2026-03-30T06:30:09.331-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Convertible - Like The Rain E.P"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p>&nbsp;</p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8K2uip4HGTeEvndjBAZg_REkxxfyGQtE0qgBGnNceyjYBzsDyaXG0iGFMfmb5Q4Ufw7hGshSOGsNpp5XOgwqIryo8qhaoVB_izuveKnSfIsgSX2b9GQSnsUNNOK-2X3KTjUq-7eJMY3aG7jkW38DZe5OKtnxGZdgmFBbce3Ql8gPIX0xbwZcl4P9X4J4/s600/Like%20The%20Rain%20E.P.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"600\" data-original-width=\"570\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8K2uip4HGTeEvndjBAZg_REkxxfyGQtE0qgBGnNceyjYBzsDyaXG0iGFMfmb5Q4Ufw7hGshSOGsNpp5XOgwqIryo8qhaoVB_izuveKnSfIsgSX2b9GQSnsUNNOK-2X3KTjUq-7eJMY3aG7jkW38DZe5OKtnxGZdgmFBbce3Ql8gPIX0xbwZcl4P9X4J4/s320/Like%20The%20Rain%20E.P.jpg\" width=\"304\" /></a></div><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://cosmobox.org/hbmjjkll7ex3\" target=\"_blank\">320 kbps</a><br /></div><br /><p></p>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/2714480604430433502/posts/default/4004604846707217819"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/2714480604430433502/posts/default/4004604846707217819"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://aboutdiscowithlove.blogspot.com/2026/03/convertible-like-rain-ep.html",
+            "title": "Convertible - Like The Rain E.P"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Unknown"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8K2uip4HGTeEvndjBAZg_REkxxfyGQtE0qgBGnNceyjYBzsDyaXG0iGFMfmb5Q4Ufw7hGshSOGsNpp5XOgwqIryo8qhaoVB_izuveKnSfIsgSX2b9GQSnsUNNOK-2X3KTjUq-7eJMY3aG7jkW38DZe5OKtnxGZdgmFBbce3Ql8gPIX0xbwZcl4P9X4J4/s72-c/Like%20The%20Rain%20E.P.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      }
+    ]
+  }
+}

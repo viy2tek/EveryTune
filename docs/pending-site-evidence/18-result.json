@@ -1,0 +1,15 @@
+{
+  "index": 18,
+  "name": "LOA2K",
+  "url": "https://loa2k.neocities.org/",
+  "status": 200,
+  "final_url": "https://loa2k.neocities.org/",
+  "title": "Home - LoA2K",
+  "searchlinks": [
+    "https://archive.org/compress/SearchEngineMixtape/formats=JPEG,PNG,GIF,TXT,ITEM%20IMAGE,FLAC,24BIT%20FLAC",
+    "https://archive.org/compress/SearchEngineMixtape/formats=JPEG,PNG,GIF,TXT,ITEM%20IMAGE,VBR%20MP3"
+  ],
+  "robots_status": 404,
+  "robots_text": "",
+  "robots": true
+}

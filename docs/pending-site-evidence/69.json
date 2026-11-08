@@ -1,0 +1,55 @@
+{
+  "index": 69,
+  "name": "⁠1000 Flights",
+  "url": "https://1000flights.blogspot.com/",
+  "status": 200,
+  "final_url": "https://1000flights.blogspot.com/",
+  "title": "1000 Flights",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://1000flights.blogspot.com/search",
+      "input_names": [
+        "q"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://apis.google.com/js/platform.js",
+    "https://apis.google.com/js/platform.js",
+    "https://www.gstatic.com/charts/loader.js",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://1000flights.blogspot.com/search/label/2009",
+    "https://1000flights.blogspot.com/search/label/alampo%20records",
+    "https://1000flights.blogspot.com/search/label/disciplina",
+    "https://1000flights.blogspot.com/search/label/italy",
+    "https://1000flights.blogspot.com/search/label/noise%20ambient",
+    "https://1000flights.blogspot.com/search/label/noise%20industrial",
+    "https://1000flights.blogspot.com/search/label/1999",
+    "https://1000flights.blogspot.com/search/label/blackfish%20records",
+    "https://1000flights.blogspot.com/search/label/Still%20Can%27t%20Hear%20The%20Words%3A%20The%20Subhumans%20Covers%20Album",
+    "https://1000flights.blogspot.com/search/label/uk",
+    "https://1000flights.blogspot.com/search/label/various%20artists",
+    "https://1000flights.blogspot.com/search/label/1995",
+    "https://1000flights.blogspot.com/search/label/blu%20bus",
+    "https://1000flights.blogspot.com/search/label/franti",
+    "https://1000flights.blogspot.com/search/label/ISHI",
+    "https://1000flights.blogspot.com/search/label/italy",
+    "https://1000flights.blogspot.com/search/label/kina",
+    "https://1000flights.blogspot.com/search/label/stefano%20giaccone",
+    "https://1000flights.blogspot.com/search/label/stto%20la%20pioggia",
+    "https://1000flights.blogspot.com/search/label/turin",
+    "https://1000flights.blogspot.com/search/label/199%3F",
+    "https://1000flights.blogspot.com/search/label/abstract",
+    "https://1000flights.blogspot.com/search/label/avant%20gard%20music",
+    "https://1000flights.blogspot.com/search/label/carsten%20olbrich",
+    "https://1000flights.blogspot.com/search/label/cynosure%2093",
+    "https://1000flights.blogspot.com/search/label/ebu%60s%20music",
+    "https://1000flights.blogspot.com/search/label/electronic%20music",
+    "https://1000flights.blogspot.com/search/label/minimal%20synth",
+    "https://1000flights.blogspot.com/search/label/2013",
+    "https://1000flights.blogspot.com/search/label/chicago"
+  ]
+}

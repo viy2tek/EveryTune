@@ -1,0 +1,12 @@
+{
+  "index": 4,
+  "name": "Internet Archive",
+  "url": "https://archive.org/details/audio",
+  "status": 200,
+  "final_url": "https://archive.org/details/audio",
+  "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+  "searchlinks": [],
+  "robots_status": 200,
+  "robots_text": "\nSitemap: https://archive.org/sitemap/sitemap.xml\n\n##############################################\n#\n# Welcome to the Internet Archive!\n#\n##############################################\n\nUser-agent: *\nDisallow: /control/\nDisallow: /report/\n",
+  "robots": true
+}

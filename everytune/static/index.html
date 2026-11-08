@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#f6f5ef" name="theme-color"/>
+<title>EveryTune — encontre seus caminhos para a música</title>
+<link href="/static/icon.svg" rel="icon" type="image/svg+xml"/>
+<link href="/static/style.css" rel="stylesheet"/>
+<link href="/static/expansion.css" rel="stylesheet"/>
+
+
+
+<link href="/static/downloads.css" rel="stylesheet"/>
+<script src="/static/home-adapter.js" type="module"></script><link href="/static/home.css" rel="stylesheet"/></head>
+<body class="home">
+<header class="topbar">
+<a aria-label="EveryTune início" class="brand" href="/" id="nav-search"><img alt="" height="32" src="/static/icon.svg" width="32"/>EveryTune</a>
+<nav aria-label="Principal"><button class="nav" id="nav-settings">Ajustes</button><button class="nav" id="nav-downloads" type="button">Downloads</button></nav>
+
+</header>
+<main>
+<!-- HOME:START -->
+<section id="search-view"><a class="skip-link" href="#results-title">Ir para resultados</a>
+
+<form id="search-form" role="search"><h1><label for="query">Buscar música ou artista</label></h1>
+
+<div class="searchbox"><svg aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><input autocomplete="off" id="query" maxlength="300" placeholder="Artista ou Artista - Faixa"/><button id="search-button" type="submit">Buscar</button></div>
+<div class="search-foot"><button hidden="" id="cancel" type="button">Cancelar busca</button></div>
+
+
+<div class="search-toolbar"><label class="provider-scope">Fontes<select id="provider-scope"><option value="both">Ambas</option><option value="streaming">Streaming</option><option value="community">Comunidade</option></select></label><button aria-controls="source-controls" aria-expanded="false" class="text-button" id="options-toggle" type="button">Opções de busca</button></div><p class="search-context"><span id="search-summary"></span> · <span class="small muted" id="scope-summary" role="status"></span></p><section aria-label="Opções de busca" hidden="" id="source-controls"><div class="source-controls-body"><div class="search-options"><label for="search-mode">Pesquisar por<select id="search-mode"><option value="source">Resultados da fonte</option><option value="auto">Nome completo / artista e faixa</option><option value="track">Faixa exata</option><option value="credits">Pessoa e créditos</option></select></label><p id="mode-help" class="small muted"></p></div><div class="precise-fields"><div class="precise-name-fields"><p class="muted small">Campos preenchidos definem a busca e substituem a interpretação do texto acima. Use-os para nomes com hífen ou outra ordem.</p><div class="precise-inputs"><label for="search-artist">Artista exato<input autocomplete="off" id="search-artist" maxlength="300" placeholder="Ex.: Soft Pillow Kisses"/></label><label for="search-title">Título exato da faixa<input autocomplete="off" id="search-title" maxlength="300" placeholder="Ex.: Stolen Flowers"/></label></div></div><div class="display-toggles search-versions"><label><input checked="" id="exclude-covers" type="checkbox"/>Excluir covers identificados</label></div><p class="small muted">Covers são identificados por marcações explícitas nos metadados. Remixes mantêm sua identificação. A autoria de um upload não é comprovada apenas pelo título; uma licença informada também não comprova upload oficial.</p></div>
+<div class="section-line"><h2>Fontes da pesquisa</h2><button class="text-button" id="select-all" type="button">Selecionar todas</button></div>
+<p class="muted small">As fontes disponíveis respondem em paralelo.</p>
+
+<div id="source-list"></div>
+<button class="manage" id="manage-sources" type="button">Gerenciar fontes <span aria-hidden="true">↗</span></button>
+</div></section></form>
+<div aria-label="Buscas recentes" class="history" id="history"></div>
+<div class="workspace">
+
+<section aria-label="Resultados da busca" class="results-area" hidden="">
+<div class="section-line"><h2 id="results-title" tabindex="-1">Resultados</h2><span class="muted small" id="result-count"></span></div>
+<a class="skip-link" href="#source-controls">Ir para fontes</a>
+<p class="muted small" hidden="" id="interpretation" role="status"></p>
+<div hidden="" id="progress-area"><progress aria-label="Fontes consultadas" id="progress" max="1" value="0"></progress><p id="progress-label" role="status"></p></div>
+<p class="error" hidden="" id="error" role="alert"></p>
+<div aria-label="Identidades encontradas" class="people" hidden="" id="people"></div>
+<details class="source-notices" hidden="" id="source-notices"><summary id="source-notices-summary">Detalhes das fontes</summary><div id="source-notices-body"></div></details>
+<details hidden="" id="filters"><summary>Filtrar resultados</summary><div class="filters">
+<label>Plataforma<select id="filter-platform"><option value="">Todas</option></select></label>
+<label>Categoria<select id="filter-category"><option value="">Todas</option></select></label>
+<label>Artista<input id="filter-artist" placeholder="Filtrar artista"/></label>
+<label>Papel nos créditos<select id="filter-role"><option value="">Todos</option></select></label>
+<label>Tipo<select id="filter-kind"><option value="">Todos</option><option value="track">Faixas</option><option value="album">Álbuns / lançamentos</option><option value="catalogue_post">Páginas de catálogo</option><option value="work">Obras</option><option value="archive_item">Acervos</option><option value="mix">Mixes</option></select></label>
+<label>Disponibilidade<select id="filter-availability"><option value="">Áudio disponível</option></select></label>
+</div></details>
+<div id="results"></div>
+<button class="secondary" hidden="" id="more" type="button">Carregar próxima página das fontes</button>
+<details hidden="" id="external"><summary>Continuar a pesquisa em outros catálogos <span id="external-count"></span></summary><p class="muted small">Atalhos para pesquisar nos sites. Não são faixas encontradas pela busca integrada.</p><div id="external-links"></div></details>
+</section>
+</div>
+</section>
+
+<!-- HOME:END -->
+<section hidden="" id="settings-view">
+<div class="settings-heading"><h1>Seu mapa de fontes.</h1><p>Escolha os catálogos, configure o acesso e acompanhe a última consulta de cada adaptador.</p></div>
+<p class="notice">Credenciais ficam apenas na memória desta sessão. Para reutilizá-las ao iniciar, configure as variáveis de ambiente descritas no README. Os valores nunca são devolvidos pela API.</p>
+<nav aria-label="Seções de ajustes" class="settings-tabs"><button class="active" data-panel="preferences" type="button">Preferências</button><button data-panel="sources" type="button">Fontes instaladas</button><button data-panel="custom" type="button">Adicionar fontes</button><button data-panel="coverage" type="button">Cobertura de áudio</button><button data-panel="audit" type="button">Auditoria FMHY</button><button data-panel="profiles" type="button">Perfis</button></nav>
+<form id="settings-form">
+<section class="settings-panel" id="panel-preferences">
+<fieldset class="general-settings"><legend>Busca local</legend><label>Resultados por fonte<input id="max-results" max="50" min="1" required="" type="number"/></label><label>Consultas simultâneas<input id="concurrency" max="12" min="1" required="" type="number"/></label><label>Timeout por fonte (s)<input id="timeout" max="60" min="2" required="" type="number"/></label></fieldset>
+<fieldset class="general-settings"><legend>Seu espaço</legend><label>Tema<select id="pref-theme"><option value="light">Claro</option><option value="dark">Escuro</option><option value="system">Sistema</option></select></label><label>Resultados<select id="pref-view"><option value="list">Lista</option><option value="grid">Grade</option></select></label><label>País do catálogo<input aria-describedby="country-help" id="pref-country" maxlength="2" pattern="[A-Za-z]{2}" required=""/></label><label>Foco inicial<select id="pref-scope"><option value="both">Streaming e comunidade</option><option value="streaming">Só streaming</option><option value="community">Só comunidade</option></select></label><label>Limite por download/ZIP (MB)<input id="pref-download-limit" max="32768" min="10" required="" type="number"/></label><label>Busca inicial<select id="pref-mode"><option value="source">Resultados da fonte</option><option value="auto">Automática por nome</option><option value="track">Faixa exata</option><option value="credits">Pessoa e créditos</option></select></label></fieldset>
+<!-- DOWNLOAD-PREFERENCES:START -->
+<fieldset class="general-settings"><legend>Downloads</legend><label>Formato preferido<select id="pref-download-format"><option value="">Escolher a cada vez</option><option>MP3</option><option>FLAC</option><option>WAV</option><option>M4A</option><option>AAC</option><option>OGG</option><option>OPUS</option><option>AIFF</option><option>ALAC</option><option>APE</option><option>WV</option><option>WMA</option><option>DSF</option><option>DFF</option></select></label><label>Preparar seleção como<select id="pref-download-pack"><option value="zip">ZIP único</option><option value="original">Arquivos separados</option></select></label><label><input type="checkbox" id="pref-download-images"/>Marcar imagens junto com o formato preferido</label></fieldset><p class="small muted">Preferências apenas marcam arquivos para revisão. Nada é baixado automaticamente; formato ausente exige escolha. Não há conversão.</p>
+<!-- DOWNLOAD-PREFERENCES:END -->
+<p class="small muted" id="country-help">Código de duas letras: BR, US, GB… Aplicado a iTunes, Apple Music e Spotify; não altera as regras de acesso dos serviços.</p>
+<div class="display-toggles"><label><input id="pref-artwork" type="checkbox"/>Mostrar capas</label><label><input id="pref-credits" type="checkbox"/>Mostrar créditos</label><label><input id="pref-album" type="checkbox"/>Mostrar álbum e detalhes</label><label><input id="pref-exclude-covers" type="checkbox"/>Excluir covers identificados por padrão</label></div>
+</section>
+<section class="settings-panel" hidden="" id="panel-sources">
+<div id="settings-sources"></div>
+</section>
+<div class="settings-actions"><button type="submit">Salvar ajustes</button><span id="save-status" role="status"></span></div>
+</form>
+<section class="settings-panel" hidden="" id="panel-custom">
+<h2>Conecte um catálogo</h2><p class="muted">Configure como o site recebe o nome pesquisado e onde entrega os metadados. Conectores não executam scripts nem superam bloqueios; páginas que dependem de JavaScript podem precisar de um adaptador específico.</p>
+<form class="connector-form" id="custom-source-form">
+<label>Grupo<select id="source-group"><option value="community">Comunidade</option><option value="streaming">Streaming</option></select></label><label>Nome da fonte<input id="source-name" maxlength="100" placeholder="Meu catálogo" required=""/></label><label>Tipo<select id="source-format"><option value="json">API / resultados JSON</option><option value="html">Página de resultados HTML</option><option value="external">Pesquisa externa</option></select></label>
+<label class="wide">Endereço da pesquisa HTTPS<input id="source-endpoint" placeholder="https://catalogo.example/search" required="" type="url"/></label><label>Método da busca<select id="source-method"><option>GET</option><option>POST</option></select></label><label>Corpo POST<select id="source-encoding"><option value="form">Formulário</option><option value="json">JSON</option></select></label><label>Parâmetro de pesquisa<input id="source-query-param" required="" value="q"/></label><label class="wide">Seletor de links de download (opcional)<input id="source-download-selector" placeholder="article a[href]"/></label><label>Lista JSON / seletor dos registros<input id="source-results-path" value="results"/></label>
+<label>Campo / seletor do título<input id="source-field-title" value="title"/></label><label>Campo / seletor do artista<input id="source-field-artist" value="artist"/></label><label>Campo / seletor do link<input id="source-field-url" value="url"/></label><label>Categoria<input id="source-category" value="Personalizadas"/></label>
+<label>Autenticação<select id="source-auth"><option value="none">Sem chave</option><option value="header">Chave em cabeçalho</option><option value="query">Chave em parâmetro</option></select></label><label>Nome do cabeçalho / parâmetro<input id="source-auth-name" value="Authorization"/></label>
+<details class="wide"><summary>Configuração avançada</summary><p class="small muted" id="source-advanced-help">Parâmetros e mapeamentos declarativos, sem executar código.</p><label for="source-advanced">Configuração JSON</label><textarea aria-describedby="source-advanced-help" id="source-advanced" rows="7" spellcheck="false">{}</textarea></details>
+<div class="wide"><button type="submit">Salvar fonte</button><button class="secondary" id="new-source" type="button">Nova fonte</button><span id="source-save-status" role="status"></span></div>
+</form>
+<details class="download-inspect"><summary>Verificar uma página de origem ou de pesquisa externa</summary><form id="download-inspect-form"><label>Fonte do link<select id="download-inspect-source" required=""></select></label><label>Endereço da página HTTPS<input id="download-inspect-url" maxlength="5000" placeholder="Cole a página do item na fonte escolhida" required="" type="url"/></label><button type="submit">Verificar arquivos da página</button></form></details></section>
+<!-- COVERAGE:START -->
+<section class="settings-panel" id="panel-coverage" hidden><h2>Cobertura de áudio</h2><p class="muted">Medições locais das buscas com áudio confirmado e das preparações. Uma amostra não comprova o catálogo inteiro, autoria ou identidade da gravação.</p><p id="coverage-summary" role="status"></p><div class="coverage-scroll" tabindex="0" role="region" aria-label="Cobertura por fonte"><table class="coverage-table"><caption>Consultas e preparações por fonte</caption><thead><tr><th scope="col">Fonte</th><th scope="col">Com áudio / consultas</th><th scope="col">Cache</th><th scope="col">Problemas</th><th scope="col">Preparações prontas / tentativas</th></tr></thead><tbody id="coverage-sources"></tbody></table></div><div class="profile-actions"><button type="button" class="secondary" id="coverage-refresh">Atualizar medições</button><button type="button" class="text-button" id="coverage-clear">Limpar medições</button></div><details class="coverage-sample"><summary>Comparar com uma lista de buscas</summary><p class="small muted" id="coverage-scope"></p><label for="coverage-queries">Uma busca por linha, até 10. Para conferir nomes, use Artista - Faixa.</label><textarea id="coverage-queries" rows="5" maxlength="3010">xxxtentacion
+Soft Pillow Kisses - Stolen Flowers
+Magic Juand - Rockstars (Instrumental) [Produced by Magic Juand]</textarea><p class="small muted">Usa modo automático e exclui covers identificados. Confirma disponibilidade por metadados e cabeçalhos, sem transferir áudio. Pode usar cache e respeita os limites das fontes. As consultas entram no histórico local existente.</p><div class="profile-actions"><button type="button" id="coverage-run">Testar lista</button><button type="button" class="secondary" id="coverage-cancel" hidden>Cancelar teste</button></div><p id="coverage-status" role="status"></p><div id="coverage-results"></div></details></section>
+<!-- COVERAGE:END -->
+<section class="settings-panel" hidden="" id="panel-audit"><h2>Sites das seções escolhidas</h2><p class="muted" id="audit-summary">Carregando auditoria…</p><p class="small muted">Inspecionar uma página ou encontrar um formulário não comprova integração. Cada entrada conserva o resultado observado. Fontes com parser validado já aparecem nas fontes instaladas.</p><div class="audit-controls"><label>Nome, domínio ou seção<input id="audit-query" placeholder="Buscar no inventário"/></label><label>Situação<select id="audit-outcome"><option value="">Todas</option></select></label><button class="secondary" id="audit-search" type="button">Filtrar</button></div><div id="audit-list"></div><div class="audit-pages"><button class="secondary" id="audit-prev" type="button">Anterior</button><span id="audit-page"></span><button class="secondary" id="audit-next" type="button">Próxima</button></div></section>
+<section class="settings-panel" hidden="" id="panel-profiles"><h2>Seu perfil, portátil</h2><p class="muted">Exporte preferências e definições de fontes para outro computador. Chaves, histórico e resultados ficam fora do arquivo. A importação substitui as preferências e fontes personalizadas atuais.</p><div class="profile-actions"><button id="export-profile" type="button">Exportar perfil</button><label class="file-action">Importar perfil<input accept="application/json,.json" id="import-profile" type="file"/></label><button class="secondary" id="reset-profile" type="button">Restaurar padrões</button></div><p id="profile-status" role="status"></p></section>
+<div class="maintenance"><div><h2>Dados desta máquina</h2><p class="muted">Cache expira automaticamente. Logs registram fonte e estado, sem tokens ou termos de busca.</p><button class="secondary" id="clear-cache" type="button">Limpar cache</button><button class="secondary" id="show-logs" type="button">Consultar logs</button></div><div><h2>Servidor local</h2><p class="muted">Fechar a aba mantém o servidor ativo. Use este botão para encerrar o aplicativo.</p><button class="secondary" id="shutdown" type="button">Encerrar EveryTune</button></div></div>
+<pre hidden="" id="logs"></pre>
+</section>
+</main>
+<footer>EveryTune · Na sua máquina</footer>
+<dialog aria-labelledby="download-title" id="download-dialog">
+<div class="download-heading"><div><h2 id="download-title">Arquivos e downloads</h2><p class="small muted" id="download-subtitle"></p></div><button class="secondary" id="download-close" type="button">Fechar</button></div>
+<p hidden="" id="download-error" role="alert"></p>
+<section hidden="" id="download-manifest"><div class="small" id="download-evidence"></div><div class="small muted" id="download-notices"></div>
+<div class="download-filters"><label>Tipo<select id="download-kind"><option value="">Áudio e imagens</option><option value="audio">Áudio</option><option value="artwork">Imagens</option></select></label><label>Formato<select id="download-format"><option value="">Todos</option></select></label><button class="secondary" id="download-select-visible" type="button">Selecionar visíveis</button><button class="text-button" id="download-clear" type="button">Limpar seleção</button></div>
+<div id="download-options"></div><!-- DOWNLOAD-SELECTION:START -->
+<p class="small muted" id="download-preference-note" role="status"></p><div class="download-selection"><span class="small" id="download-selection-count"></span><label>Preparar como<select id="download-pack"><option value="zip">ZIP único</option><option value="original">Arquivos separados</option></select></label><button disabled id="download-zip" type="button">Preparar ZIP selecionado</button></div>
+<!-- DOWNLOAD-SELECTION:END -->
+</section>
+<section class="download-queue"><h3 id="download-queue-title" tabindex="-1">Preparações</h3><p class="small muted">Quando estiver pronto, use Salvar arquivo. Os temporários expiram após 30 minutos.</p><p aria-atomic="true" aria-live="polite" class="sr-only" id="download-job-status" role="status"></p><div id="download-jobs"></div></section>
+</dialog>
+<dialog aria-describedby="reset-description" aria-labelledby="reset-title" id="reset-dialog">
+<h2 id="reset-title">Restaurar as configurações?</h2>
+<p id="reset-description">Isso substitui suas preferências e fontes personalizadas pelos padrões. Credenciais de fontes personalizadas serão removidas da sessão. Histórico e arquivos salvos não fazem parte do perfil.</p>
+<p>Você pode exportar uma cópia do perfil antes de continuar. A cópia não inclui credenciais.</p>
+<div class="profile-actions"><button class="secondary" id="reset-backup" type="button">Exportar cópia do perfil</button><button autofocus="" id="reset-cancel" type="button">Manter configurações</button><button class="secondary" id="reset-confirm" type="button">Confirmar restauração</button></div>
+<p id="reset-status" role="status"></p>
+</dialog>
+</body>
+</html>

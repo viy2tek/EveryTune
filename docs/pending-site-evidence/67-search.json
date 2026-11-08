@@ -1,0 +1,1208 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-7046921588240587432"
+    },
+    "updated": {
+      "$t": "2026-10-18T22:32:43.312-03:00"
+    },
+    "category": [
+      {
+        "term": "1980's"
+      },
+      {
+        "term": "1990's"
+      },
+      {
+        "term": "2010's"
+      },
+      {
+        "term": "2020's"
+      },
+      {
+        "term": "2000's"
+      },
+      {
+        "term": "T-SQUARE"
+      },
+      {
+        "term": "1970's"
+      },
+      {
+        "term": "CASIOPEA"
+      },
+      {
+        "term": "Themed Compilations"
+      },
+      {
+        "term": "TRIX"
+      },
+      {
+        "term": "Compilations (Unofficial)"
+      },
+      {
+        "term": "DIMENSION"
+      },
+      {
+        "term": "The Rippingtons"
+      },
+      {
+        "term": "Naoya Matsuoka"
+      },
+      {
+        "term": "City Pop"
+      },
+      {
+        "term": "Spyro Gyra"
+      },
+      {
+        "term": "Masayoshi Takanaka"
+      },
+      {
+        "term": "THE SQUARE"
+      },
+      {
+        "term": "Fusion Collection"
+      },
+      {
+        "term": "Takeshi Itoh"
+      },
+      {
+        "term": "VGM's"
+      },
+      {
+        "term": "Masato Honda"
+      },
+      {
+        "term": "KATSUMI HORII PROJECT"
+      },
+      {
+        "term": "Special EFX"
+      },
+      {
+        "term": "Various Artists"
+      },
+      {
+        "term": "Yuji Ohno"
+      },
+      {
+        "term": "Masaru Imada"
+      },
+      {
+        "term": "DEZOLVE"
+      },
+      {
+        "term": "Dan Siegel"
+      },
+      {
+        "term": "MALTA"
+      },
+      {
+        "term": "Yanni"
+      },
+      {
+        "term": "1960's"
+      },
+      {
+        "term": "Akira Jimbo"
+      },
+      {
+        "term": "Hirotaka Izumi"
+      },
+      {
+        "term": "Sadao Watanabe"
+      },
+      {
+        "term": "Yellowjackets"
+      },
+      {
+        "term": "Don Grusin"
+      },
+      {
+        "term": "ISSEI NORO INSPIRITS"
+      },
+      {
+        "term": "JIMSAKU"
+      },
+      {
+        "term": "Lee Ritenour"
+      },
+      {
+        "term": "Mezzoforte"
+      },
+      {
+        "term": "Motoaki Furukawa"
+      },
+      {
+        "term": "Acoustic Alchemy"
+      },
+      {
+        "term": "Dave Valentin"
+      },
+      {
+        "term": "Earl Klugh"
+      },
+      {
+        "term": "Frank Gambale"
+      },
+      {
+        "term": "Himiko Kikuchi"
+      },
+      {
+        "term": "Konami Kukeiha Club"
+      },
+      {
+        "term": "NANIWA EXPRESS"
+      },
+      {
+        "term": "Nelson Rangell"
+      },
+      {
+        "term": "PRISM"
+      },
+      {
+        "term": "Ricardo Silveira"
+      },
+      {
+        "term": "Tatsuro Yamashita"
+      },
+      {
+        "term": "Tom Grant"
+      },
+      {
+        "term": "Torcuato Mariano"
+      },
+      {
+        "term": "Toshiyuki Honda"
+      },
+      {
+        "term": "Videos"
+      },
+      {
+        "term": "Yuji Toriyama"
+      },
+      {
+        "term": "Brian Bromberg"
+      },
+      {
+        "term": "Dave Grusin"
+      },
+      {
+        "term": "David Sanborn"
+      },
+      {
+        "term": "Eric Marienthal"
+      },
+      {
+        "term": "Fattburger"
+      },
+      {
+        "term": "Justo Almario"
+      },
+      {
+        "term": "Ken Navarro"
+      },
+      {
+        "term": "Kilauea"
+      },
+      {
+        "term": "Leo Gandelman"
+      },
+      {
+        "term": "Masahiro Andoh"
+      },
+      {
+        "term": "Mitsuru Sutoh"
+      },
+      {
+        "term": "NORIKI"
+      },
+      {
+        "term": "Nintendo"
+      },
+      {
+        "term": "Ray Obiedo"
+      },
+      {
+        "term": "Rie a.k.a. Suzaku"
+      },
+      {
+        "term": "S.S.T. Band"
+      },
+      {
+        "term": "Skywalk"
+      },
+      {
+        "term": "Toshiki Kadomatsu"
+      },
+      {
+        "term": "ARAKAWA BAND"
+      },
+      {
+        "term": "Akira Wada"
+      },
+      {
+        "term": "Chick Corea"
+      },
+      {
+        "term": "David Benoit"
+      },
+      {
+        "term": "Ernie Watts"
+      },
+      {
+        "term": "Fruitcake"
+      },
+      {
+        "term": "Herb Alpert"
+      },
+      {
+        "term": "Hiroshi Fukumura"
+      },
+      {
+        "term": "Isamu Ohashi & TAIL TO NOSE"
+      },
+      {
+        "term": "Issei Noro"
+      },
+      {
+        "term": "J-Fusion Oldies"
+      },
+      {
+        "term": "JABBERLOOP"
+      },
+      {
+        "term": "John Tesh"
+      },
+      {
+        "term": "KUKEIHA CLUB pro-fusion"
+      },
+      {
+        "term": "Kazuki Katsuta"
+      },
+      {
+        "term": "Keith Mansfield"
+      },
+      {
+        "term": "Keizoh Kawano"
+      },
+      {
+        "term": "MYRONE"
+      },
+      {
+        "term": "Minoru Mukaiya"
+      },
+      {
+        "term": "Mitch Dalton"
+      },
+      {
+        "term": "OSC"
+      },
+      {
+        "term": "Pat Metheny"
+      },
+      {
+        "term": "Peter White"
+      },
+      {
+        "term": "Satoshi Bandoh"
+      },
+      {
+        "term": "Tom Jobim"
+      },
+      {
+        "term": "Windows"
+      },
+      {
+        "term": "Yoko Kanno & THE SEATBELTS"
+      },
+      {
+        "term": "Yoshitaka Mihara"
+      },
+      {
+        "term": "ATLAS"
+      },
+      {
+        "term": "Birds of a Feather"
+      },
+      {
+        "term": "Camino 84"
+      },
+      {
+        "term": "Checkfield"
+      },
+      {
+        "term": "Christian Wilckens"
+      },
+      {
+        "term": "Crystal Wind"
+      },
+      {
+        "term": "DEPAPEPE"
+      },
+      {
+        "term": "Dave Samuels"
+      },
+      {
+        "term": "Dotsero"
+      },
+      {
+        "term": "FOUR of a KIND"
+      },
+      {
+        "term": "Frank Solari"
+      },
+      {
+        "term": "Gregg Karukas"
+      },
+      {
+        "term": "HIROMITSU"
+      },
+      {
+        "term": "Haruomi Hosono & Friends"
+      },
+      {
+        "term": "Hidefumi Toki"
+      },
+      {
+        "term": "Hirokuni Korekata"
+      },
+      {
+        "term": "Jim Devlin"
+      },
+      {
+        "term": "KANGAROO"
+      },
+      {
+        "term": "Karimata"
+      },
+      {
+        "term": "Kazumi Watanabe"
+      },
+      {
+        "term": "Kenny G"
+      },
+      {
+        "term": "Kukeiha Club"
+      },
+      {
+        "term": "Mark Sloniker"
+      },
+      {
+        "term": "Masaki Matsubara"
+      },
+      {
+        "term": "Michael Gettel"
+      },
+      {
+        "term": "Michiya Haruhata"
+      },
+      {
+        "term": "Native Son"
+      },
+      {
+        "term": "Neil Larsen"
+      },
+      {
+        "term": "Phil Sheeran"
+      },
+      {
+        "term": "Richard Smith"
+      },
+      {
+        "term": "Russ Freeman"
+      },
+      {
+        "term": "SPICK & SPAN"
+      },
+      {
+        "term": "Shakatak"
+      },
+      {
+        "term": "Shastro"
+      },
+      {
+        "term": "Shigeharu Mukai"
+      },
+      {
+        "term": "Steve Bach"
+      },
+      {
+        "term": "Sunset Hills Hotel"
+      },
+      {
+        "term": "Takashi Masuzaki"
+      },
+      {
+        "term": "The Water Colors"
+      },
+      {
+        "term": "Tomohito Aoki"
+      },
+      {
+        "term": "Victor Biglione"
+      },
+      {
+        "term": "Wind Machine"
+      },
+      {
+        "term": "Yoshihiro Naruse"
+      },
+      {
+        "term": "ALPH-LYLA"
+      },
+      {
+        "term": "ANRI"
+      },
+      {
+        "term": "Akira Ishikawa"
+      },
+      {
+        "term": "Alexander Zonjic"
+      },
+      {
+        "term": "Andoh Project"
+      },
+      {
+        "term": "André Sarbib"
+      },
+      {
+        "term": "Angel \"Pocho\" Gatti"
+      },
+      {
+        "term": "Banda Black Rio"
+      },
+      {
+        "term": "Barnaby Finch"
+      },
+      {
+        "term": "Beckett"
+      },
+      {
+        "term": "CARIOCA"
+      },
+      {
+        "term": "CUSCO"
+      },
+      {
+        "term": "Cacau Santos"
+      },
+      {
+        "term": "Carlos Angeles"
+      },
+      {
+        "term": "Chikara Ueda"
+      },
+      {
+        "term": "Christoph Spendel"
+      },
+      {
+        "term": "Crystal Cola"
+      },
+      {
+        "term": "Curtis Creek Band"
+      },
+      {
+        "term": "Daniela Spielmann"
+      },
+      {
+        "term": "Daryl Stuermer"
+      },
+      {
+        "term": "Dieter Reith"
+      },
+      {
+        "term": "Dino Pacifici"
+      },
+      {
+        "term": "Doug Markley"
+      },
+      {
+        "term": "Ear Candy Jazz Factory"
+      },
+      {
+        "term": "Eiji Kitamura"
+      },
+      {
+        "term": "Elements"
+      },
+      {
+        "term": "FLAC"
+      },
+      {
+        "term": "Frank Potenza"
+      },
+      {
+        "term": "Free Flight"
+      },
+      {
+        "term": "French Toast"
+      },
+      {
+        "term": "Furukawa / Namiki"
+      },
+      {
+        "term": "Hiroshima"
+      },
+      {
+        "term": "Hiroyuki Noritake"
+      },
+      {
+        "term": "Introduction"
+      },
+      {
+        "term": "Isamu Ohashi / Jun Sato"
+      },
+      {
+        "term": "Jeff Campbell"
+      },
+      {
+        "term": "Jeff Kashiwa"
+      },
+      {
+        "term": "Jun Fukamachi"
+      },
+      {
+        "term": "Jun Senoue"
+      },
+      {
+        "term": "Junko Ohashi"
+      },
+      {
+        "term": "Junko Yagami"
+      },
+      {
+        "term": "KATSUSHIKA TRIO"
+      },
+      {
+        "term": "Karizma"
+      },
+      {
+        "term": "Kazuo Takeda"
+      },
+      {
+        "term": "Ken Ota"
+      },
+      {
+        "term": "Kengo Kurozumi"
+      },
+      {
+        "term": "Kenji Omura"
+      },
+      {
+        "term": "Klaus-Peter Schöpfer"
+      },
+      {
+        "term": "Koinonia"
+      },
+      {
+        "term": "Kristian Larsen"
+      },
+      {
+        "term": "Kunihiko Sugano"
+      },
+      {
+        "term": "Manu Dibango"
+      },
+      {
+        "term": "Maoki Yamamoto"
+      },
+      {
+        "term": "Marcio Montarroyos"
+      },
+      {
+        "term": "Mariya Takeuchi"
+      },
+      {
+        "term": "Martin Kolbe"
+      },
+      {
+        "term": "Matt Harris"
+      },
+      {
+        "term": "Momoko Kikuchi"
+      },
+      {
+        "term": "Muses"
+      },
+      {
+        "term": "NColor"
+      },
+      {
+        "term": "Naoto Shibata Project"
+      },
+      {
+        "term": "Nestor Torres"
+      },
+      {
+        "term": "OTTOTTRIO"
+      },
+      {
+        "term": "OVER"
+      },
+      {
+        "term": "Oceans"
+      },
+      {
+        "term": "Oscar Castro-Neves"
+      },
+      {
+        "term": "PARACHUTE"
+      },
+      {
+        "term": "PYRAMID"
+      },
+      {
+        "term": "Pan O'Rama"
+      },
+      {
+        "term": "Pat Coil"
+      },
+      {
+        "term": "Pat Kelley"
+      },
+      {
+        "term": "Paulinho da Costa"
+      },
+      {
+        "term": "Piper"
+      },
+      {
+        "term": "Porcupine"
+      },
+      {
+        "term": "Reel to Real"
+      },
+      {
+        "term": "Robson Jorge & Lincoln Olivetti"
+      },
+      {
+        "term": "Roman Street"
+      },
+      {
+        "term": "Ronnie Foster"
+      },
+      {
+        "term": "Ryo Fukui"
+      },
+      {
+        "term": "SAFARI"
+      },
+      {
+        "term": "SHAMBARA"
+      },
+      {
+        "term": "SIDE VISION"
+      },
+      {
+        "term": "SUNBURST"
+      },
+      {
+        "term": "Samoa"
+      },
+      {
+        "term": "Scott Wilkie"
+      },
+      {
+        "term": "Senri Kawaguchi"
+      },
+      {
+        "term": "Simon Phillips"
+      },
+      {
+        "term": "Soul Media"
+      },
+      {
+        "term": "Stanley Jordan"
+      },
+      {
+        "term": "Steve Morse"
+      },
+      {
+        "term": "Steve Reid"
+      },
+      {
+        "term": "The Brazilian Classics"
+      },
+      {
+        "term": "Thomas Blug"
+      },
+      {
+        "term": "Tokyo Ensemble Lab"
+      },
+      {
+        "term": "Vector Hold"
+      },
+      {
+        "term": "Velas"
+      },
+      {
+        "term": "Walton Ornato"
+      },
+      {
+        "term": "Wishful Thinking"
+      },
+      {
+        "term": "YUTAKA"
+      },
+      {
+        "term": "Yuka Noda"
+      },
+      {
+        "term": "Yumi Yamagata"
+      },
+      {
+        "term": "Yurie Kokubu"
+      },
+      {
+        "term": "Yuya Komoguchi"
+      },
+      {
+        "term": "坐音"
+      },
+      {
+        "term": "空と海と風と･･･"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "The T-SQUARE Plaza"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "T-SQUARE, The Rippingtons, CASIOPEA, Spyro Gyra, TRIX... and more!"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://tsquareplaza.blogspot.com/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default?alt=json&max-results=5&q=VOYAGE"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://tsquareplaza.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Kaoov"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/09812747994350943893"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhc0aYz0__KT4UokrOUYSLAusNjLD47TBqti7N9AHiLV4eZehG5cPcic9JE6J0iZPy4qJlwz076jdW1JKznPUTRgb8ye8atnIhVcAlNnFkJmrrQBbCObfnZp7PrKa5Q/s113/perfil.jpg"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "5"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7046921588240587432.post-5178433601163571440"
+        },
+        "published": {
+          "$t": "2026-06-12T11:22:16.506-03:00"
+        },
+        "updated": {
+          "$t": "2026-06-12T11:22:16.506-03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "2020's"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "T-SQUARE"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "VOYAGE (2026)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidR8wPgjBmJEuzbLu6BIICduxWND_sC1jXQBUiUH8nKPg0-7tS7huw7rUDrt3aTEqnTjk4azQwAghaG5QpU6IcpmsenaOTMtWyT9E3ph1v9tvY-7Qvt_dUGoUHbgaZtC9dU87Q9X4U9Elw47l1XcREX4GWUYmoPCCEtirSO5lorPLV_OiouUFVfbfbQIca/s1500/4573221581086.jpg\" imageanchor=\"1\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"1500\" data-original-width=\"1500\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidR8wPgjBmJEuzbLu6BIICduxWND_sC1jXQBUiUH8nKPg0-7tS7huw7rUDrt3aTEqnTjk4azQwAghaG5QpU6IcpmsenaOTMtWyT9E3ph1v9tvY-7Qvt_dUGoUHbgaZtC9dU87Q9X4U9Elw47l1XcREX4GWUYmoPCCEtirSO5lorPLV_OiouUFVfbfbQIca/w400-h400/4573221581086.jpg\" width=\"400\" /></a></div><br /><p></p><br /><p></p><br /><p></p><br /><p></p><p></p><div class=\"separator\" style=\"clear: both;\"><span style=\"color: white;\">T-SQUARE</span></div><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Format: .flac</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Bitrate: ~800kbps</span></span><br /><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Size: 309</span></span><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">mb</span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #ffe599;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><b><span style=\"color: #9fc5e8;\">TR</span><span style=\"color: #ffe599;\">ACKLIST:</span></b></span></span></span><br /><br /><span><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">01 - T-Sレンジャー</span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">02 - First Flew ～僕が初めて空を飛んだ日～</span></span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">03 - </span></span></span>At the End of the Day<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">04 - </span></span></span>Lucent<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">05 - </span></span></span>Azzurro<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">06 - 光芒の標 Koubou no Shirube</span></span></span><br /><span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span></span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">07 - SUNRISE to SUNRISE</span></span></span></span></span></span><div><span style=\"color: white;\"><br /></span></div><div><span><span style=\"color: white;\">08 - Homeward Voyage</span></span></div><div><span><span style=\"color: white;\"><br /></span></span></div><div><span><span style=\"color: white;\">09 - prologue ～MOON OVER THE CASTLE～ epilogue</span></span></div><div><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><b><span style=\"color: #9fc5e8;\">IM</span><span style=\"color: #ffe599;\">PORTANT:</span></b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">01 - Please support the artist.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">02 - Please read the Introduction.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">03 - DO NOT HOTLINK the image or the links.</span></span><br /><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">04 - Feel free to share. Enjoy!</span><br /><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><b><span style=\"color: #9fc5e8;\">DO</span><span style=\"color: #ffe599;\">WNLOAD:</span></b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #cc0000;\"><b><br /></b></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">●</span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">&nbsp;&nbsp;</span><span face=\"&quot;trebuchet ms&quot; , sans-serif\">DRIVE:&nbsp;<a href=\"https://tinyurl.com/2xes83b3\">https://tinyurl.com/2xes83b3</a></span></span></span></div>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/5178433601163571440"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/5178433601163571440"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://tsquareplaza.blogspot.com/2026/06/voyage-2026.html",
+            "title": "VOYAGE (2026)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Kaoov"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09812747994350943893"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhc0aYz0__KT4UokrOUYSLAusNjLD47TBqti7N9AHiLV4eZehG5cPcic9JE6J0iZPy4qJlwz076jdW1JKznPUTRgb8ye8atnIhVcAlNnFkJmrrQBbCObfnZp7PrKa5Q/s113/perfil.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidR8wPgjBmJEuzbLu6BIICduxWND_sC1jXQBUiUH8nKPg0-7tS7huw7rUDrt3aTEqnTjk4azQwAghaG5QpU6IcpmsenaOTMtWyT9E3ph1v9tvY-7Qvt_dUGoUHbgaZtC9dU87Q9X4U9Elw47l1XcREX4GWUYmoPCCEtirSO5lorPLV_OiouUFVfbfbQIca/s72-w400-h400-c/4573221581086.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7046921588240587432.post-3140623915797423058"
+        },
+        "published": {
+          "$t": "2024-10-11T19:53:00.002-03:00"
+        },
+        "updated": {
+          "$t": "2024-10-11T19:53:06.111-03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "2020's"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "DEZOLVE"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Asterism (2024)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPadMgDcs39x71SgfF8r4ZqYBXrgFPkfsknZ2rTSykNjS3uowVZLVYDWuZd__Mz4j3xQ_wOgU05wmf73rWxV296ZWsetvcN59n3FFu9hbETSELhrq3l4AAVFcpWXZO-dHtrA4Yxq3aoKs3E0Vxy8L4c2VFeTjE7UZYvLjV0ezEEnVrcYdjgH9T6QAUuH9M/s3000/NOPA-6285.jpg\" imageanchor=\"1\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"3000\" data-original-width=\"3000\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPadMgDcs39x71SgfF8r4ZqYBXrgFPkfsknZ2rTSykNjS3uowVZLVYDWuZd__Mz4j3xQ_wOgU05wmf73rWxV296ZWsetvcN59n3FFu9hbETSELhrq3l4AAVFcpWXZO-dHtrA4Yxq3aoKs3E0Vxy8L4c2VFeTjE7UZYvLjV0ezEEnVrcYdjgH9T6QAUuH9M/w400-h400/NOPA-6285.jpg\" width=\"400\" /></a></div><br /><p></p><p></p><div class=\"separator\" style=\"clear: both;\"><span style=\"color: white;\">DEZOLVE</span></div><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Format: .mp3</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Bitrate: 320kbps</span></span><br /><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Size: 195</span></span><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">mb</span></span><br /><span style=\"color: #9fc5e8;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><b>TRACKLIST:</b></span></span></span><br /><br /><span><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">01 - Gemini</span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">02 - Ecliptic Walk</span></span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">03 -&nbsp;</span></span></span>Big Dipper<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">04 -&nbsp;</span></span></span>Scroll<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">05 -&nbsp;</span></span></span>Polar Lights<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">06 - Southern Cross</span></span></span><br /><span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span></span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">07 - Nebula Dance</span></span></span></span></span></span><div><span style=\"color: white;\"><br /></span></div><div><span><span style=\"color: white;\">08 -&nbsp;Goodnight Aldebaran</span></span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">09 -&nbsp;Star Eater</span></div><div><span style=\"color: white;\"><br /></span></div><div><span><span style=\"color: white;\">10 -&nbsp;Voyage of Altair</span></span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">11 -&nbsp;Stella Link</span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">12 -&nbsp;Peace Sign</span></div><div><div><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #9fc5e8;\"><b>IMPORTANT:</b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">01 - Please support the artist.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">02 - Please read the Introduction.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">03 - DO NOT HOTLINK the image or the links.</span></span><br /><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">04 - Feel free to share. Enjoy!</span><br /><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #9fc5e8;\"><b>DOWNLOAD:</b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #cc0000;\"><b><br /></b></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">●</span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">&nbsp;&nbsp;</span><span face=\"&quot;trebuchet ms&quot; , sans-serif\">DRIVE:&nbsp;<a href=\"https://tinyurl.com/824bjybk\">https://tinyurl.com/824bjybk</a></span></span></span></div></div>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3140623915797423058"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3140623915797423058"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://tsquareplaza.blogspot.com/2024/10/asterism-2024.html",
+            "title": "Asterism (2024)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Kaoov"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09812747994350943893"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhc0aYz0__KT4UokrOUYSLAusNjLD47TBqti7N9AHiLV4eZehG5cPcic9JE6J0iZPy4qJlwz076jdW1JKznPUTRgb8ye8atnIhVcAlNnFkJmrrQBbCObfnZp7PrKa5Q/s113/perfil.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPadMgDcs39x71SgfF8r4ZqYBXrgFPkfsknZ2rTSykNjS3uowVZLVYDWuZd__Mz4j3xQ_wOgU05wmf73rWxV296ZWsetvcN59n3FFu9hbETSELhrq3l4AAVFcpWXZO-dHtrA4Yxq3aoKs3E0Vxy8L4c2VFeTjE7UZYvLjV0ezEEnVrcYdjgH9T6QAUuH9M/s72-w400-h400-c/NOPA-6285.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7046921588240587432.post-3723715464706924692"
+        },
+        "published": {
+          "$t": "2024-09-10T20:10:00.001-03:00"
+        },
+        "updated": {
+          "$t": "2024-09-10T20:10:31.204-03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "2020's"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "TRIX"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "BUILD UP (2024)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi7vlfO6qoHR5pdnVC72jBnt-AlCHqCSfBVUg-xfyeSJu4odgmWSXxN5YCj7mGKd9ghbCIvYPP7mj0DEOTPYzINecrXgbA4qi0IDozffbCIRDkpiqYcX3wW3n5NZ3DDRXxTZCdPLwSZXcbfAWSAWDYx9-BHWY7B6GNiWaUy7fFQH1GOyZWcYuGB4qeR1Bz/s1500/NOPA-6117.jpg\" imageanchor=\"1\" style=\"clear: left; display: inline !important; margin-bottom: 1em; margin-right: 1em; text-align: center;\"><img border=\"0\" data-original-height=\"1500\" data-original-width=\"1500\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi7vlfO6qoHR5pdnVC72jBnt-AlCHqCSfBVUg-xfyeSJu4odgmWSXxN5YCj7mGKd9ghbCIvYPP7mj0DEOTPYzINecrXgbA4qi0IDozffbCIRDkpiqYcX3wW3n5NZ3DDRXxTZCdPLwSZXcbfAWSAWDYx9-BHWY7B6GNiWaUy7fFQH1GOyZWcYuGB4qeR1Bz/w400-h400/NOPA-6117.jpg\" width=\"400\" /></a></p><p></p><div class=\"separator\" style=\"clear: both;\"><span style=\"color: white;\">TRIX</span></div><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Format: .mp3</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Bitrate: 320kbps</span></span><br /><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Size: 215</span></span><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">mb</span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #3d85c6;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #f1c232;\"><b>TRACKLIST:</b></span></span></span><br /><br /><span><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">01 - お江戸銀河</span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">02 - Subliminal Dance</span></span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">03 -&nbsp;</span></span></span>Sonic Falcon<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">04 -&nbsp;</span></span></span>Second Stream<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">05 -&nbsp;</span></span></span>Forest Wing<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">06 - Ha-Ya-Te</span></span></span><br /><span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span></span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">07 - 冬の散歩道</span></span></span></span></span></span><div><span style=\"color: white;\"><br /></span></div><div><span><span style=\"color: white;\">08 -&nbsp;Saltic Funk</span></span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">09 -&nbsp;Green Breeze</span></div><div><span style=\"color: white;\"><br /></span></div><div><span><span style=\"color: white;\">10 -&nbsp;Asian Skyscraper</span></span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">11 -&nbsp;CORE -BUILD UP ver.-</span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">12 -&nbsp;FIRE -BUILD UP ver.-</span></div><div><span style=\"color: white;\"><br /></span></div><div><span><span style=\"color: white;\">13 - 敦煌 -BUILD UP ver.-</span></span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">14 -&nbsp;Double Up -BUILD UP ver.-</span></div><div><span style=\"color: white;\"><br /></span></div><div><span><span style=\"color: white;\">15 -&nbsp;Bon Voyage -BUILD UP ver.-</span><br /></span><div><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #f1c232;\"><b>IMPORTANT:</b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">01 - Please support the artist.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">02 - Please read the Introduction.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">03 - DO NOT HOTLINK the image or the links.</span></span><br /><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">04 - Feel free to share. Enjoy!</span><br /><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #f1c232;\"><b>DOWNLOAD:</b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #cc0000;\"><b><br /></b></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">●</span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">&nbsp;&nbsp;</span><span face=\"&quot;trebuchet ms&quot; , sans-serif\">DRIVE:&nbsp;<a href=\"https://tinyurl.com/2fv7zabw\">https://tinyurl.com/2fv7zabw</a></span></span></span></div></div>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3723715464706924692"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3723715464706924692"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://tsquareplaza.blogspot.com/2024/09/build-up-2024.html",
+            "title": "BUILD UP (2024)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Kaoov"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09812747994350943893"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhc0aYz0__KT4UokrOUYSLAusNjLD47TBqti7N9AHiLV4eZehG5cPcic9JE6J0iZPy4qJlwz076jdW1JKznPUTRgb8ye8atnIhVcAlNnFkJmrrQBbCObfnZp7PrKa5Q/s113/perfil.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi7vlfO6qoHR5pdnVC72jBnt-AlCHqCSfBVUg-xfyeSJu4odgmWSXxN5YCj7mGKd9ghbCIvYPP7mj0DEOTPYzINecrXgbA4qi0IDozffbCIRDkpiqYcX3wW3n5NZ3DDRXxTZCdPLwSZXcbfAWSAWDYx9-BHWY7B6GNiWaUy7fFQH1GOyZWcYuGB4qeR1Bz/s72-w400-h400-c/NOPA-6117.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7046921588240587432.post-2060831504435771344"
+        },
+        "published": {
+          "$t": "2023-11-20T17:23:00.003-03:00"
+        },
+        "updated": {
+          "$t": "2023-11-20T17:25:09.346-03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1980's"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "SUNBURST"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "SUNBURST (1980)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1RzuY-YshB28XokG0PEkRlqFIjnOJshexKNSBqMGo7TloHY6xpCuJ9owCz3h0T5YOq44lISL8AgtTTTBvGBL6B2Ukdeldutfw-tmPNknhxAKe47b1ybC0h3U5Gnb8baVthnF4ipQ48k9pesW7GqsrMTMguIxZT61jOgrsNcbQPti2j7qR_6sHdETMVmin/s1400/sunburst.jpg\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"1400\" data-original-width=\"1400\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1RzuY-YshB28XokG0PEkRlqFIjnOJshexKNSBqMGo7TloHY6xpCuJ9owCz3h0T5YOq44lISL8AgtTTTBvGBL6B2Ukdeldutfw-tmPNknhxAKe47b1ybC0h3U5Gnb8baVthnF4ipQ48k9pesW7GqsrMTMguIxZT61jOgrsNcbQPti2j7qR_6sHdETMVmin/w400-h400/sunburst.jpg\" width=\"400\" /></a></div><br /><p></p><br /><div class=\"separator\" style=\"clear: both;\"><span style=\"color: white;\">SUNBURST</span></div><div class=\"separator\" style=\"clear: both;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Format: .mp3</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Bitrate: 320kbps</span></span><br /><span style=\"color: white;\">Size: 114</span><span style=\"color: white;\">mb</span></div><div class=\"separator\" style=\"clear: both;\"><div><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #6fa8dc;\"><b><br /></b></span></span></div><div><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #ff4d4d;\"><b>TRACKLIST:</b></span></span><br /><span><br /><span style=\"color: white;\"><span><span><span><span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">01 -&nbsp;</span></span></span></span></span></span></span>Sunburst</span></span><span style=\"color: white;\"></span></div><div><span style=\"color: white;\"><span><span><span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">02 -&nbsp;</span></span></span>Cool K.<br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">03 -&nbsp;</span></span></span></span></span></span>Gentle Talk</span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">04 -&nbsp;Maiden Voyage</span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">05 -&nbsp;Circus Time</span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">06 -&nbsp;Mysterious Vibes</span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">07 -&nbsp;Burnin'</span></div><div><span style=\"color: white;\"><br /></span></div><div><span style=\"color: white;\">08 -&nbsp;Don't Say Goodnight</span></div><div><div><span style=\"color: #ffd966;\"><br /></span></div><div><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #ff4d4d;\"><b>IMPORTANT:</b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">01 - Please support the artist.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">02 - Please read the Introduction.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">03 - DO NOT HOTLINK the image or the links.</span></span><br /><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">04 - Feel free to share. Enjoy!</span><br /><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #ff4d4d;\"><b>DOWNLOAD:</b></span></span></span></div></div></div><div><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #cc0000;\"><b><br /></b></span></span></div><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: white;\">●</span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: white;\">&nbsp;&nbsp;</span><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">DRIVE:&nbsp;<a href=\"https://tinyurl.com/yh34ux9y\">https://tinyurl.com/yh34ux9y</a></span>"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/2060831504435771344"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/2060831504435771344"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://tsquareplaza.blogspot.com/2023/11/sunburst-1980.html",
+            "title": "SUNBURST (1980)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Kaoov"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09812747994350943893"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhc0aYz0__KT4UokrOUYSLAusNjLD47TBqti7N9AHiLV4eZehG5cPcic9JE6J0iZPy4qJlwz076jdW1JKznPUTRgb8ye8atnIhVcAlNnFkJmrrQBbCObfnZp7PrKa5Q/s113/perfil.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1RzuY-YshB28XokG0PEkRlqFIjnOJshexKNSBqMGo7TloHY6xpCuJ9owCz3h0T5YOq44lISL8AgtTTTBvGBL6B2Ukdeldutfw-tmPNknhxAKe47b1ybC0h3U5Gnb8baVthnF4ipQ48k9pesW7GqsrMTMguIxZT61jOgrsNcbQPti2j7qR_6sHdETMVmin/s72-w400-h400-c/sunburst.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7046921588240587432.post-4275966710760985650"
+        },
+        "published": {
+          "$t": "2023-01-24T21:00:00.002-03:00"
+        },
+        "updated": {
+          "$t": "2023-01-24T21:00:00.190-03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "2000's"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Keizoh Kawano"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Masahiro Andoh"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Takeshi Itoh"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "MUSIC VOYAGE (2002)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<p>&nbsp;&nbsp;<span style=\"color: white; font-size: large;\">[ RARE ]</span></p>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n  <a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDy-oW-IN3-zWvLppV6ftrefAaV_i8Doxj_xkXr-mPjnTzwUsP9gBPiPbcFdKh9QNHo_43VbPPg5OFL4bQqz7jiZQlrzfOfo_iyDr07pIk0Jhia1iEZvBw7AC3r31PsIUpOkU09h2Ojj3z_jd99q855rPoS67frkWzByD8gv4_SYAtydlV3tcATalEww/s1200/music%20voyage.jpg\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"1200\" data-original-width=\"1200\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDy-oW-IN3-zWvLppV6ftrefAaV_i8Doxj_xkXr-mPjnTzwUsP9gBPiPbcFdKh9QNHo_43VbPPg5OFL4bQqz7jiZQlrzfOfo_iyDr07pIk0Jhia1iEZvBw7AC3r31PsIUpOkU09h2Ojj3z_jd99q855rPoS67frkWzByD8gv4_SYAtydlV3tcATalEww/w400-h400/music%20voyage.jpg\" width=\"400\" /></a>\n</div>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<p></p>\n<br />\n<p></p>\n<br />\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<div class=\"separator\" style=\"clear: both;\">\n  <span style=\"color: white;\">Masahiro Andoh, Takeshi Itoh, Keizoh Kawano</span>\n</div>\n<span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Format: .mp3</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Bitrate: 320kbps</span></span><br /><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">Size: 148</span></span><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">mb</span></span>\n<div>\n  <span style=\"color: white;\"><br /></span>\n</div>\n<div>\n  <i><span style=\"color: white;\">Soundtrack of a DVD series released only in Japan called \"The\n      SCENE\",</span></i>\n</div>\n<div>\n  <span style=\"color: white;\"><i>which features&nbsp;</i><i>footage of beautiful landscapes all around the world</i>.</span>\n</div>\n<div>\n  <span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #3d85c6;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #e8dd60;\"><b>TRACKLIST:</b></span></span></span><br /><span style=\"color: white;\"><br /><span><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">01 - Gratitude</span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">02 -&nbsp;Memory</span></span></span><br /><span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">03 -&nbsp;</span></span></span>On My Way Home<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">04 -&nbsp;</span></span></span>A Farther Place<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">05 -&nbsp;</span></span></span>Forgotten Saga<br /><span><span face=\"&quot;trebuchet ms&quot; , sans-serif\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\">06 - Habanabana</span></span></span></span></span></span>\n  <div>\n    <span><span style=\"color: white;\"><br /></span></span>\n  </div>\n  <div>\n    <span><span style=\"color: white;\">07 -&nbsp;Time of My Life</span></span>\n  </div>\n  <div>\n    <span><span style=\"color: white;\"><br /></span></span>\n  </div>\n  <div>\n    <span><span style=\"color: white;\">08 -&nbsp;All I Want</span></span>\n  </div>\n  <div>\n    <span><span style=\"color: white;\"><br /></span></span>\n  </div>\n  <div>\n    <span><span style=\"color: white;\">09 -&nbsp;Booga-Loo</span></span>\n  </div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div>\n    <span><span style=\"color: white;\">10 -&nbsp;Travelers</span></span>\n  </div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div><span style=\"color: white;\">11 -&nbsp;To the Highlands</span></div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div><span style=\"color: white;\">12 -&nbsp;Camino del Inca</span></div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div>\n    <span style=\"color: white;\">13 -&nbsp;Las Ruinas de Tiahuanacu</span>\n  </div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div><span style=\"color: white;\">14 -&nbsp;Parque del Amor</span></div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div><span style=\"color: white;\">15 -&nbsp;Isla de Sol</span></div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div><span style=\"color: white;\">16 -&nbsp;Lechaza</span></div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div><span style=\"color: white;\">17 -&nbsp;Isla de Luna</span></div>\n  <div>\n    <span style=\"color: white;\"><br /></span>\n  </div>\n  <div>\n    <span><span style=\"color: white;\">18 -&nbsp;Play for You</span><br /></span>\n    <div>\n      <span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #e8dd60;\"><b>IMPORTANT:</b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><br /></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">01 - Please support the artist.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">02 - Please read the Introduction.</span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">03 - DO NOT HOTLINK the image or the links.</span></span><br /><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: white;\">04 - Feel free to share. Enjoy!</span><br /><span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #e8dd60;\"><b>DOWNLOAD:</b></span></span></span><br /><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span face=\"&quot;trebuchet ms&quot; , sans-serif\" style=\"color: #cc0000;\"><b><br /></b></span></span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\" style=\"color: #222222;\"><span style=\"color: white;\"><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">●</span><span face=\"&quot;arial&quot; , &quot;tahoma&quot; , &quot;helvetica&quot; , &quot;freesans&quot; , sans-serif\">&nbsp;&nbsp;</span><span face=\"&quot;trebuchet ms&quot; , sans-serif\">DRIVE:&nbsp;<a href=\"https://tinyurl.com/4su4zupn\">https://tinyurl.com/4su4zupn</a></span></span></span></div>\n  </div>\n</div>\n"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/4275966710760985650"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/4275966710760985650"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://tsquareplaza.blogspot.com/2023/01/music-voyage-2002.html",
+            "title": "MUSIC VOYAGE (2002)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Kaoov"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/09812747994350943893"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhc0aYz0__KT4UokrOUYSLAusNjLD47TBqti7N9AHiLV4eZehG5cPcic9JE6J0iZPy4qJlwz076jdW1JKznPUTRgb8ye8atnIhVcAlNnFkJmrrQBbCObfnZp7PrKa5Q/s113/perfil.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDy-oW-IN3-zWvLppV6ftrefAaV_i8Doxj_xkXr-mPjnTzwUsP9gBPiPbcFdKh9QNHo_43VbPPg5OFL4bQqz7jiZQlrzfOfo_iyDr07pIk0Jhia1iEZvBw7AC3r31PsIUpOkU09h2Ojj3z_jd99q855rPoS67frkWzByD8gv4_SYAtydlV3tcATalEww/s72-w400-h400-c/music%20voyage.jpg",
+          "height": "72",
+          "width": "72"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "custom_ccmixter",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "GET",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://ccmixter.org/search?search_type=all&search_in=uploads&search=classname&search_text=EveryTuneImpossibleQuery78147814"
+  },
+  {
+    "id": "custom_canna",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "POST",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://canna.to/suche"
+  },
+  {
+    "id": "custom_cannapower",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "POST",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://canna-power.to/suche"
+  },
+  {
+    "id": "custom_geocities_midis",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "GET",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://www.midicities.com/geocities-search?geocitiesSearch=EveryTuneImpossibleQuery78147814"
+  },
+  {
+    "id": "custom_rapload",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "GET",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://rapload.org/?s=EveryTuneImpossibleQuery78147814"
+  },
+  {
+    "id": "custom_gabber",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "GET",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://gabber.od.ua/tt?t=EveryTuneImpossibleQuery78147814"
+  },
+  {
+    "id": "custom_globaldjmix",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "GET",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://globaldjmix.com/search-result?search=EveryTuneImpossibleQuery78147814"
+  },
+  {
+    "id": "custom_systems_of_romance",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "GET",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://www.systemsofromance.com/blog/?s=EveryTuneImpossibleQuery78147814"
+  },
+  {
+    "id": "custom_classical_music_download",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "POST",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://classical-music-download.com/"
+  },
+  {
+    "id": "custom_certifiedmixtapez",
+    "query": "EveryTuneImpossibleQuery78147814",
+    "method": "POST",
+    "status": 200,
+    "count": 0,
+    "final_url": "https://www.certifiedmixtapez.com/Main/GetSearchResults"
+  }
+]

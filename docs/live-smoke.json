@@ -1,0 +1,467 @@
+{
+  "executable": false,
+  "checks": [
+    "/",
+    "/api/health",
+    "/static/app.js",
+    "/static/style.css",
+    "/static/icon.svg",
+    "/openapi.json",
+    "graceful_shutdown"
+  ],
+  "queries": [
+    {
+      "query": "Daft Punk - Get Lucky",
+      "tracks": 4,
+      "sources": [
+        {
+          "source": "jamendo",
+          "name": "Jamendo",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "youtube",
+          "name": "YouTube",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "spotify",
+          "name": "Spotify",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "soundcloud",
+          "name": "SoundCloud",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "applemusic",
+          "name": "Apple Music API",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "lastfm",
+          "name": "Last.fm",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "commons",
+          "name": "Wikimedia Commons",
+          "status": "no_match",
+          "next_cursor": null,
+          "cached": false,
+          "message": "1 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 1,
+          "elapsed_ms": 359
+        },
+        {
+          "source": "audius",
+          "name": "Audius",
+          "status": "no_match",
+          "next_cursor": "3",
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 755
+        },
+        {
+          "source": "musicbrainz",
+          "name": "MusicBrainz",
+          "status": "success",
+          "next_cursor": "3",
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 760
+        },
+        {
+          "source": "archive",
+          "name": "Internet Archive",
+          "status": "no_match",
+          "next_cursor": "2",
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 945
+        },
+        {
+          "source": "mixcloud",
+          "name": "Mixcloud",
+          "status": "no_match",
+          "next_cursor": "3",
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 1095
+        },
+        {
+          "source": "itunes",
+          "name": "iTunes / Apple",
+          "status": "success",
+          "next_cursor": null,
+          "cached": false,
+          "message": "2 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 2,
+          "elapsed_ms": 3324
+        },
+        {
+          "source": "openverse",
+          "name": "Openverse",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 3706
+        }
+      ],
+      "examples": [
+        {
+          "source": "itunes",
+          "title": "Get Lucky",
+          "url": "https://music.apple.com/br/album/get-lucky/617154241?i=617154366&uo=4"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Get Lucky",
+          "url": "https://musicbrainz.org/recording/345e4a72-46b4-48ba-8541-27c6b23c3b8c"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Get Lucky",
+          "url": "https://musicbrainz.org/recording/6e3be8e1-0c63-4fb9-8e7b-9ca536857758"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Get Lucky",
+          "url": "https://musicbrainz.org/recording/97c21330-5552-41db-ba0d-249f4c833267"
+        }
+      ]
+    },
+    {
+      "query": "Rick Astley - Never Gonna Give You Up",
+      "tracks": 4,
+      "sources": [
+        {
+          "source": "jamendo",
+          "name": "Jamendo",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "youtube",
+          "name": "YouTube",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "spotify",
+          "name": "Spotify",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "soundcloud",
+          "name": "SoundCloud",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "applemusic",
+          "name": "Apple Music API",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "lastfm",
+          "name": "Last.fm",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "musicbrainz",
+          "name": "MusicBrainz",
+          "status": "success",
+          "next_cursor": "3",
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 317
+        },
+        {
+          "source": "archive",
+          "name": "Internet Archive",
+          "status": "no_match",
+          "next_cursor": "2",
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 447
+        },
+        {
+          "source": "commons",
+          "name": "Wikimedia Commons",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 518
+        },
+        {
+          "source": "mixcloud",
+          "name": "Mixcloud",
+          "status": "no_match",
+          "next_cursor": "3",
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 746
+        },
+        {
+          "source": "audius",
+          "name": "Audius",
+          "status": "no_match",
+          "next_cursor": "3",
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 967
+        },
+        {
+          "source": "openverse",
+          "name": "Openverse",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 4207
+        },
+        {
+          "source": "itunes",
+          "name": "iTunes / Apple",
+          "status": "success",
+          "next_cursor": null,
+          "cached": false,
+          "message": "2 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 2,
+          "elapsed_ms": 5816
+        }
+      ],
+      "examples": [
+        {
+          "source": "itunes",
+          "title": "Never Gonna Give You Up",
+          "url": "https://music.apple.com/br/album/never-gonna-give-you-up/1559885420?i=1559885421&uo=4"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Never Gonna Give You Up",
+          "url": "https://musicbrainz.org/recording/81be9d8b-888f-4af2-9eb4-415f5090855c"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Never Gonna Give You Up",
+          "url": "https://musicbrainz.org/recording/998d429b-bb01-4682-b5d0-1ab98ae45b6e"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Never Gonna Give You Up",
+          "url": "https://musicbrainz.org/recording/ff6c55fc-6fd1-47d9-a623-dff39181e7c8"
+        }
+      ]
+    },
+    {
+      "query": "Soft Pillow Kisses - Stolen Flowers",
+      "tracks": 0,
+      "sources": [
+        {
+          "source": "jamendo",
+          "name": "Jamendo",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "youtube",
+          "name": "YouTube",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "spotify",
+          "name": "Spotify",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "soundcloud",
+          "name": "SoundCloud",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "applemusic",
+          "name": "Apple Music API",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "lastfm",
+          "name": "Last.fm",
+          "status": "missing_credentials",
+          "next_cursor": null,
+          "cached": false,
+          "message": "Configure as credenciais desta fonte.",
+          "rejected_count": 0,
+          "elapsed_ms": 0
+        },
+        {
+          "source": "commons",
+          "name": "Wikimedia Commons",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 398
+        },
+        {
+          "source": "audius",
+          "name": "Audius",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 748
+        },
+        {
+          "source": "musicbrainz",
+          "name": "MusicBrainz",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 1003
+        },
+        {
+          "source": "archive",
+          "name": "Internet Archive",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 1068
+        },
+        {
+          "source": "openverse",
+          "name": "Openverse",
+          "status": "empty",
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 3805
+        },
+        {
+          "source": "itunes",
+          "name": "iTunes / Apple",
+          "status": "no_match",
+          "next_cursor": null,
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 6147
+        },
+        {
+          "source": "mixcloud",
+          "name": "Mixcloud",
+          "status": "timeout",
+          "next_cursor": null,
+          "cached": false,
+          "message": "A fonte demorou demais. As outras continuam disponíveis.",
+          "rejected_count": 0,
+          "elapsed_ms": 18414
+        }
+      ],
+      "examples": []
+    }
+  ]
+}

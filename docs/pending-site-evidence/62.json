@@ -1,0 +1,47 @@
+{
+  "index": 62,
+  "name": "HQ Hip Hop",
+  "url": "https://94hiphop.com/",
+  "status": 200,
+  "final_url": "https://94hiphop.com/",
+  "title": "Download Free Hip Hop Albums - HQ Hip Hop",
+  "forms": [
+    {
+      "method": "post",
+      "action": "https://feedburner.google.com/fb/a/mailverify",
+      "input_names": [
+        "email",
+        "uri",
+        "loc"
+      ]
+    },
+    {
+      "method": "GET",
+      "action": "",
+      "input_names": [
+        "unonce",
+        "uformid",
+        "taxo[0][name]",
+        "taxo[0][opt]"
+      ]
+    },
+    {
+      "method": "get",
+      "action": "https://94hiphop.com/",
+      "input_names": [
+        "s"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js",
+    "https://94hiphop.com/wp-content/themes/NEWHIPHOP/select2.min.js",
+    "https://94hiphop.com/wp-includes/js/wp-embed.min.js?ver=4.8.25",
+    "https://94hiphop.com/wp-includes/js/jquery/jquery.js?ver=1.12.4",
+    "https://94hiphop.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1",
+    "https://s7.addthis.com/js/300/addthis_widget.js?ver=4.8.25#pubid=wp-fccc00903ce571868fc13e07161f4764",
+    "https://94hiphop.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1",
+    "https://94hiphop.com/wp-content/plugins/ultimate-wp-query-search-filter/classes/scripts/uwpqsfscript.js?ver=1.0"
+  ],
+  "searchlinks": []
+}

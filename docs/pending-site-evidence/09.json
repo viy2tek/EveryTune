@@ -1,0 +1,43 @@
+{
+  "index": 9,
+  "name": "Geocities MIDIs",
+  "url": "https://www.midicities.com/GeoCities",
+  "status": 200,
+  "final_url": "https://www.midicities.com/GeoCities",
+  "title": "The GeoCities Midi Project - 150 000 Midi files for free",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/search",
+      "input_names": [
+        "searchQuery"
+      ]
+    },
+    {
+      "method": "get",
+      "action": "/search-artist",
+      "input_names": [
+        "searchQuery"
+      ]
+    },
+    {
+      "method": "get",
+      "action": "geocities-search",
+      "input_names": [
+        "geocitiesSearch"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://unpkg.com/htmx.org@1.7.0",
+    "https://platform-api.sharethis.com/js/sharethis.js#property=62c668a7c0338f0019388bef&product=inline-share-buttons",
+    "https://www.googletagmanager.com/gtag/js?id=G-MLH70VD7YW",
+    "https://www.midicities.com/js/jquery-1.11.1.min.js",
+    "https://www.midicities.com/js/plugins.js",
+    "https://www.midicities.com/js/app.js"
+  ],
+  "searchlinks": [
+    "geocities-search?geocitiesSearch=titanic",
+    "geocities-search?geocitiesSearch=bonjovi"
+  ]
+}

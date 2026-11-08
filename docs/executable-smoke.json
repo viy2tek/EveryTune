@@ -1,0 +1,191 @@
+{
+  "executable": true,
+  "checks": [
+    "/",
+    "/api/health",
+    "/api/profile",
+    "/api/custom-sources",
+    "/api/sources",
+    "/api/source-audit",
+    "/api/downloads/jobs",
+    "/static/app.js",
+    "/static/preferences.js",
+    "/static/downloads.js",
+    "/static/style.css",
+    "/static/expansion.css",
+    "/static/downloads.css",
+    "/static/icon.svg",
+    "/openapi.json",
+    "real_selected_metadata_zip_no_music",
+    "graceful_shutdown"
+  ],
+  "queries": [
+    {
+      "query": "Daft Punk - Get Lucky",
+      "tracks": 4,
+      "sources": [
+        {
+          "source": "musicbrainz",
+          "name": "MusicBrainz",
+          "status": "success",
+          "people": [],
+          "notices": [],
+          "next_cursor": "3",
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 699
+        },
+        {
+          "source": "itunes",
+          "name": "iTunes / Apple",
+          "status": "success",
+          "people": [],
+          "notices": [],
+          "next_cursor": null,
+          "cached": false,
+          "message": "2 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 2,
+          "elapsed_ms": 3142
+        }
+      ],
+      "examples": [
+        {
+          "source": "itunes",
+          "title": "Get Lucky",
+          "url": "https://music.apple.com/br/album/get-lucky/617154241?i=617154366&uo=4"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Get Lucky",
+          "url": "https://musicbrainz.org/recording/345e4a72-46b4-48ba-8541-27c6b23c3b8c"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Get Lucky",
+          "url": "https://musicbrainz.org/recording/6e3be8e1-0c63-4fb9-8e7b-9ca536857758"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Get Lucky",
+          "url": "https://musicbrainz.org/recording/97c21330-5552-41db-ba0d-249f4c833267"
+        }
+      ]
+    },
+    {
+      "query": "Rick Astley - Never Gonna Give You Up",
+      "tracks": 4,
+      "sources": [
+        {
+          "source": "itunes",
+          "name": "iTunes / Apple",
+          "status": "success",
+          "people": [],
+          "notices": [],
+          "next_cursor": null,
+          "cached": false,
+          "message": "2 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 2,
+          "elapsed_ms": 6259
+        },
+        {
+          "source": "musicbrainz",
+          "name": "MusicBrainz",
+          "status": "success",
+          "people": [],
+          "notices": [],
+          "next_cursor": "3",
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 8817
+        }
+      ],
+      "examples": [
+        {
+          "source": "itunes",
+          "title": "Never Gonna Give You Up",
+          "url": "https://music.apple.com/br/album/never-gonna-give-you-up/1559885420?i=1559885421&uo=4"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Never Gonna Give You Up",
+          "url": "https://musicbrainz.org/recording/81be9d8b-888f-4af2-9eb4-415f5090855c"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Never Gonna Give You Up",
+          "url": "https://musicbrainz.org/recording/998d429b-bb01-4682-b5d0-1ab98ae45b6e"
+        },
+        {
+          "source": "musicbrainz",
+          "title": "Never Gonna Give You Up",
+          "url": "https://musicbrainz.org/recording/ff6c55fc-6fd1-47d9-a623-dff39181e7c8"
+        }
+      ]
+    },
+    {
+      "query": "Soft Pillow Kisses - Stolen Flowers",
+      "tracks": 0,
+      "sources": [
+        {
+          "source": "musicbrainz",
+          "name": "MusicBrainz",
+          "status": "empty",
+          "people": [],
+          "notices": [],
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 354
+        },
+        {
+          "source": "itunes",
+          "name": "iTunes / Apple",
+          "status": "no_match",
+          "people": [],
+          "notices": [],
+          "next_cursor": null,
+          "cached": false,
+          "message": "3 candidatos descartados por não corresponderem aos nomes informados.",
+          "rejected_count": 3,
+          "elapsed_ms": 3599
+        }
+      ],
+      "examples": []
+    },
+    {
+      "query": "Gucci — Resultados da fonte",
+      "tracks": 3,
+      "sources": [
+        {
+          "source": "custom_certifiedmixtapez",
+          "name": "Certified Mixtapez",
+          "status": "success",
+          "people": [],
+          "notices": [],
+          "next_cursor": null,
+          "cached": false,
+          "message": null,
+          "rejected_count": 0,
+          "elapsed_ms": 1586
+        }
+      ],
+      "examples": [
+        {
+          "title": "Gucci Mane - Against All Odds",
+          "url": "https://www.certifiedmixtapez.com/Main/Details?refId=49e8528e"
+        },
+        {
+          "title": "bigbabygucci - Nausea",
+          "url": "https://www.certifiedmixtapez.com/Main/Details?refId=9d73920f"
+        },
+        {
+          "title": "Polo Mann - Feel Like 07 Soulja 06 Gucci",
+          "url": "https://www.certifiedmixtapez.com/Main/Details?refId=0fd69444"
+        }
+      ]
+    }
+  ]
+}

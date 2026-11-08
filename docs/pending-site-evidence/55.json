@@ -1,0 +1,31 @@
+{
+  "index": 55,
+  "name": "1Trance",
+  "url": "https://1trance.org/",
+  "status": 200,
+  "final_url": "https://1trance.org/",
+  "title": "1trance -  download descargar télécharger trance, progressive, uplifting torrent zippy hitfile",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/f",
+      "input_names": [
+        "t"
+      ]
+    },
+    {
+      "method": "get",
+      "action": "/search/node",
+      "input_names": [
+        "keys"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://stats3.cfd/js/script.js",
+    "https://1trance.org/sites/default/files/js/js_N25huzd5_nvxUy0vaNALIG6fo46vv3n833_3JR2rIqM.js",
+    "https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js",
+    "https://1trance.org/sites/default/files/js/js_SBPs4Nz8s8sJ8Fu_02wEGLfwObvZDsPxZOtNkHQNtKc.js"
+  ],
+  "searchlinks": []
+}

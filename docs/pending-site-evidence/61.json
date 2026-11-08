@@ -1,0 +1,57 @@
+{
+  "index": 61,
+  "name": "ProgRockVintage",
+  "url": "https://www.progrockvintage.com/",
+  "status": 200,
+  "final_url": "https://www.progrockvintage.com/",
+  "title": "PROGROCKVINTAGE",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://www.progrockvintage.com/search",
+      "input_names": [
+        "q"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://apis.google.com/js/platform.js",
+    "https://apis.google.com/js/platform.js",
+    "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit",
+    "https://feedjit.com/serve/?bc=060000&tc=D60000&brd1=336699&lnk=E40000&hc=0058B1&ww=160&ww=160",
+    "https://feedjit.com/serve/?vv=955&tft=3&dd=0&wid=17950b3e0758b634&pid=0&proid=0&bc=0F0E0E&tc=AD2FCC&brd1=012B6B&lnk=2372B8&hc=FFFFFF&hfc=2853A8&btn=C700A9&ww=200&wne=10&wh=Live+Traffic+Feed&hl=0&hlnks=0&hfce=0&srefs=1&hbars=0",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://www.progrockvintage.com/search/label/DROSSELBART",
+    "https://www.progrockvintage.com/search/label/SUPERSISTER",
+    "https://www.progrockvintage.com/search/label/MAXOPHONE",
+    "https://www.progrockvintage.com/search/label/ROXY%20MUSIC",
+    "https://www.progrockvintage.com/search/label/APOTEOSI",
+    "https://www.progrockvintage.com/search/label/%C3%84LGARNAS%20TRADGARD",
+    "https://www.progrockvintage.com/search/label/BLACKWATER%20PARK",
+    "https://www.progrockvintage.com/search/label/KLUSTER",
+    "https://www.progrockvintage.com/search/label/LILIENTAL",
+    "https://www.progrockvintage.com/search/label/EPIDAURUS",
+    "https://www.progrockvintage.com/search/label/AIR",
+    "https://www.progrockvintage.com/search/label/AUTOMAT",
+    "https://www.progrockvintage.com/search/label/HERO",
+    "https://www.progrockvintage.com/search/label/CAPTAIN%20BEYOND",
+    "https://www.progrockvintage.com/search/label/ELP",
+    "https://www.progrockvintage.com/search/label/EMERSON%20LAKE%20AND%20PALMER",
+    "https://www.progrockvintage.com/search/label/GREENSLADE",
+    "https://www.progrockvintage.com/search/label/YES",
+    "https://www.progrockvintage.com/search?updated-max=2023-05-08T22:37:00-03:00",
+    "https://www.progrockvintage.com/search/label/13%20anos%20do%20Progrockvintage",
+    "https://www.progrockvintage.com/search/label/ABWH",
+    "https://www.progrockvintage.com/search/label/AINIGMA",
+    "https://www.progrockvintage.com/search/label/AIR",
+    "https://www.progrockvintage.com/search/label/ALAN%20PARSONS%20LIVE%20PROJECT",
+    "https://www.progrockvintage.com/search/label/%C3%84LGARNAS%20TRADGARD",
+    "https://www.progrockvintage.com/search/label/AMON%20D%C3%9C%C3%9CL%20II",
+    "https://www.progrockvintage.com/search/label/Andre%20Perim",
+    "https://www.progrockvintage.com/search/label/ANNEXUS%20QUAM",
+    "https://www.progrockvintage.com/search/label/ANXTRON",
+    "https://www.progrockvintage.com/search/label/AOS%2010%20ANOS%20DO%20PROGROCKVINTAGE..."
+  ]
+}

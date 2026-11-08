@@ -1,0 +1,37 @@
+{
+  "index": 41,
+  "name": "RockDownload",
+  "url": "https://www.rockdownload.org/",
+  "status": 200,
+  "final_url": "https://www.rockdownload.org/",
+  "title": "Rock Download - O site pra baixar rock grátis!",
+  "forms": [
+    {
+      "method": "get",
+      "action": "https://www.rockdownload.org/",
+      "input_names": [
+        "s"
+      ]
+    },
+    {
+      "method": "get",
+      "action": "https://www.rockdownload.org/",
+      "input_names": [
+        "s"
+      ]
+    },
+    {
+      "method": "POST",
+      "action": "",
+      "input_names": [
+        "nome",
+        "email"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://www.rockdownload.org/assets/js.js",
+    "https://www.rockdownload.org/assets/autocomplete.min.js"
+  ],
+  "searchlinks": []
+}

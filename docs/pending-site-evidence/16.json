@@ -1,0 +1,26 @@
+{
+  "index": 16,
+  "name": "1Techno",
+  "url": "https://1techno.org/",
+  "status": 200,
+  "final_url": "https://1techno.org/",
+  "title": "1Techno -  download descargar télécharger techno, minimal, tech house, hard techno zippy hitfile",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/f",
+      "input_names": [
+        "t"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://stats3.cfd/js/script.js",
+    "https://1techno.org/sites/default/files/js/js_50rwzfqZQWQ3EMRESBKyR0yxKkscvaNXdvJvvKgRuEI.js",
+    "https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js",
+    "https://1techno.org/sites/default/files/js/js_SBPs4Nz8s8sJ8Fu_02wEGLfwObvZDsPxZOtNkHQNtKc.js"
+  ],
+  "searchlinks": [
+    "/node/140642/boy-nature-searching-new-memories-ep-watb153bp-24bit-web-flac-2026-babas"
+  ]
+}

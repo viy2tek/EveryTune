@@ -1,0 +1,39 @@
+{
+  "index": 42,
+  "name": "FlacMusic",
+  "url": "https://www.flacmusic.info/",
+  "status": 200,
+  "final_url": "https://www.flacmusic.info/",
+  "title": "Music lossless (flac, ape, wav). Music Lossless. Music archive LOSSLESS. Music lossless download.",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/index.php",
+      "input_names": [
+        "story",
+        "do",
+        "subaction"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "",
+      "input_names": [
+        "login_name",
+        "login_password",
+        "login_not_save",
+        "login",
+        "login"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://www.flacmusic.info/public/js/jquery4.js?v=f23b5",
+    "https://www.flacmusic.info/public/js/jqueryui.js?v=f23b5",
+    "https://www.flacmusic.info/public/js/dle_js.js?v=f23b5",
+    "https://www.flacmusic.info/templates/flacmusic/js/bxslider.min.js",
+    "https://www.flacmusic.info/templates/flacmusic/js/bootstrap.bundle.js",
+    "https://www.flacmusic.info/templates/flacmusic/js/custom.js"
+  ],
+  "searchlinks": []
+}

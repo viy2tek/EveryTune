@@ -1,0 +1,155 @@
+{
+  "index": 67,
+  "name": "The T-SQUARE Plaza",
+  "url": "https://tsquareplaza.blogspot.com/",
+  "status": 200,
+  "final_url": "https://tsquareplaza.blogspot.com/",
+  "title": "The T-SQUARE Plaza",
+  "searchlinks": [
+    "https://tsquareplaza.blogspot.com/search/label/2020%27s",
+    "https://tsquareplaza.blogspot.com/search/label/T-SQUARE",
+    "https://tsquareplaza.blogspot.com/search/label/1980%27s",
+    "https://tsquareplaza.blogspot.com/search/label/Himiko%20Kikuchi",
+    "https://tsquareplaza.blogspot.com/search/label/2020%27s",
+    "https://tsquareplaza.blogspot.com/search/label/DEZOLVE",
+    "https://tsquareplaza.blogspot.com/search/label/2020%27s",
+    "https://tsquareplaza.blogspot.com/search/label/Themed%20Compilations",
+    "https://tsquareplaza.blogspot.com/search/label/2020%27s",
+    "https://tsquareplaza.blogspot.com/search/label/TRIX",
+    "https://tsquareplaza.blogspot.com/search/label/2020%27s",
+    "https://tsquareplaza.blogspot.com/search/label/Rie%20a.k.a.%20Suzaku",
+    "https://tsquareplaza.blogspot.com/search/label/2020%27s",
+    "https://tsquareplaza.blogspot.com/search/label/CASIOPEA",
+    "https://tsquareplaza.blogspot.com/search/label/2000%27s",
+    "https://tsquareplaza.blogspot.com/search/label/DIMENSION",
+    "https://tsquareplaza.blogspot.com/search/label/2020%27s",
+    "https://tsquareplaza.blogspot.com/search/label/T-SQUARE",
+    "https://tsquareplaza.blogspot.com/search/label/1990%27s",
+    "https://tsquareplaza.blogspot.com/search/label/NColor",
+    "https://tsquareplaza.blogspot.com/search?updated-max=2025-05-04T22:31:00-03:00&max-results=10",
+    "https://tsquareplaza.blogspot.com/search/label/ALPH-LYLA",
+    "https://tsquareplaza.blogspot.com/search/label/ANRI",
+    "https://tsquareplaza.blogspot.com/search/label/ARAKAWA%20BAND",
+    "https://tsquareplaza.blogspot.com/search/label/ATLAS",
+    "https://tsquareplaza.blogspot.com/search/label/Acoustic%20Alchemy",
+    "https://tsquareplaza.blogspot.com/search/label/Akira%20Ishikawa",
+    "https://tsquareplaza.blogspot.com/search/label/Akira%20Jimbo",
+    "https://tsquareplaza.blogspot.com/search/label/Akira%20Wada",
+    "https://tsquareplaza.blogspot.com/search/label/Alexander%20Zonjic"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://tsquareplaza.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "VOYAGE",
+  "feed_matches": [
+    {
+      "title": "VOYAGE (2026)",
+      "links": [
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/5178433601163571440"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/5178433601163571440"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tsquareplaza.blogspot.com/2026/06/voyage-2026.html",
+          "title": "VOYAGE (2026)"
+        }
+      ]
+    },
+    {
+      "title": "Asterism (2024)",
+      "links": [
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3140623915797423058"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3140623915797423058"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tsquareplaza.blogspot.com/2024/10/asterism-2024.html",
+          "title": "Asterism (2024)"
+        }
+      ]
+    },
+    {
+      "title": "BUILD UP (2024)",
+      "links": [
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3723715464706924692"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/3723715464706924692"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tsquareplaza.blogspot.com/2024/09/build-up-2024.html",
+          "title": "BUILD UP (2024)"
+        }
+      ]
+    },
+    {
+      "title": "SUNBURST (1980)",
+      "links": [
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/2060831504435771344"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/2060831504435771344"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tsquareplaza.blogspot.com/2023/11/sunburst-1980.html",
+          "title": "SUNBURST (1980)"
+        }
+      ]
+    },
+    {
+      "title": "MUSIC VOYAGE (2002)",
+      "links": [
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/4275966710760985650"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7046921588240587432/posts/default/4275966710760985650"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tsquareplaza.blogspot.com/2023/01/music-voyage-2002.html",
+          "title": "MUSIC VOYAGE (2002)"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://tsquareplaza.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

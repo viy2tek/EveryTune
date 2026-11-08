@@ -1,0 +1,30 @@
+{
+  "index": 59,
+  "name": "TechnicalDeathMetal",
+  "url": "https://technicaldeathmetal.org/",
+  "status": 200,
+  "final_url": "https://technicaldeathmetal.org/",
+  "title": "Technical Death Metal",
+  "forms": [
+    {
+      "method": "get",
+      "action": "https://technicaldeathmetal.org/",
+      "input_names": [
+        "s",
+        "search"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://technicaldeathmetal.org/wp-content/themes/BlackiPhone/script.js",
+    "https://technicaldeathmetal.org/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.4.2",
+    "https://technicaldeathmetal.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://technicaldeathmetal.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://vk.com/js/api/openapi.js?84",
+    "https://technicaldeathmetal.org/wp-content/themes/BlackiPhone/shortestv1.js",
+    "https://technicaldeathmetal.org/wp-content/plugins/jquery-smooth-scroll/js/script.min.js?ver=1.4.5"
+  ],
+  "searchlinks": [
+    "https://technicaldeathmetal.org/in-search-of-releases/"
+  ]
+}

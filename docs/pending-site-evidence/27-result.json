@@ -1,0 +1,15 @@
+{
+  "index": 27,
+  "name": "Classical Music Download",
+  "url": "https://classical-music-download.com/",
+  "status": 200,
+  "final_url": "https://classical-music-download.com/",
+  "title": "Classical music lossless FLAC - classical-music-download.com",
+  "searchlinks": [
+    "/?do=search&subaction=search&story=SACD&titleonly=3",
+    "/?do=search&subaction=search&story=Hi_Res&titleonly=3"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: *\nDisallow: /engine/go.php\nDisallow: /engine/download.php\nDisallow: /user/\nDisallow: /newposts/\nDisallow: /statistics.html\nDisallow: /*subaction=userinfo\nDisallow: /*subaction=newposts\nDisallow: /*do=lastcomments\nDisallow: /*do=feedback\nDisallow: /*do=register\nDisallow: /*do=lostpassword\nDisallow: /*do=addnews\nDisallow: /*do=stats\nDisallow: /*do=pm\nDisallow: /lastnews\nDisallow: /page/ \nDisallow: */page/ \nDisallow: /2014/*/*/$\nDisallow: /2015/*/*/$\nDisallow: /2016/*/*/$ \nDisallow: /2017/*/*/$\nDisallow: /2018/*/*/$  \nDisallow: /go*  \nHost: https://classical-music-download.com/\nSitemap: https://classical-music-download.com/sitemap.xml",
+  "robots": true
+}

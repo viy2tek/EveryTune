@@ -1,0 +1,18 @@
+{
+  "index": 15,
+  "method": "POST",
+  "endpoint": "https://canna-power.to/suche",
+  "params": {
+    "s_string": "Beatles",
+    "s_select": "",
+    "s_sort": "datum desc",
+    "s_beschreibung": "1",
+    "s_kat_id": "alle",
+    "s_filename": "1",
+    "action": "suche",
+    "s_val": "s_val",
+    "cj1": "1"
+  },
+  "status": 200,
+  "final_url": "https://canna-power.to/suche"
+}

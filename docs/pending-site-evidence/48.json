@@ -1,0 +1,53 @@
+{
+  "index": 48,
+  "name": "⁠Primitive Offerings",
+  "url": "https://primitiveofferings.blogspot.com/",
+  "status": 200,
+  "final_url": "https://primitiveofferings.blogspot.com/",
+  "title": "Primitive Offerings",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://primitiveofferings.blogspot.com/search",
+      "input_names": [
+        "q"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://apis.google.com/js/platform.js",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://primitiveofferings.blogspot.com/search/label/2005",
+    "https://primitiveofferings.blogspot.com/search/label/alternative",
+    "https://primitiveofferings.blogspot.com/search/label/indie%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/intended%20play",
+    "https://primitiveofferings.blogspot.com/search/label/Matador%20Records",
+    "https://primitiveofferings.blogspot.com/search/label/new%20york%20city",
+    "https://primitiveofferings.blogspot.com/search/label/promo",
+    "https://primitiveofferings.blogspot.com/search/label/sampler",
+    "https://primitiveofferings.blogspot.com/search/label/stoner%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/1988",
+    "https://primitiveofferings.blogspot.com/search/label/arthur%20baker",
+    "https://primitiveofferings.blogspot.com/search/label/electro",
+    "https://primitiveofferings.blogspot.com/search/label/giant%20records",
+    "https://primitiveofferings.blogspot.com/search/label/les%20disques%20du%20cr%C3%A9puscule",
+    "https://primitiveofferings.blogspot.com/search/label/new%20order",
+    "https://primitiveofferings.blogspot.com/search/label/new%20york%20city",
+    "https://primitiveofferings.blogspot.com/search/label/soundtrack",
+    "https://primitiveofferings.blogspot.com/search/label/synth-pop",
+    "https://primitiveofferings.blogspot.com/search/label/1996",
+    "https://primitiveofferings.blogspot.com/search/label/budget%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/compilation",
+    "https://primitiveofferings.blogspot.com/search/label/estrus%20records",
+    "https://primitiveofferings.blogspot.com/search/label/garage%20rock",
+    "https://primitiveofferings.blogspot.com/search/label/mummies",
+    "https://primitiveofferings.blogspot.com/search/label/reissue",
+    "https://primitiveofferings.blogspot.com/search/label/san%20bruno",
+    "https://primitiveofferings.blogspot.com/search/label/1995",
+    "https://primitiveofferings.blogspot.com/search/label/alternative",
+    "https://primitiveofferings.blogspot.com/search/label/britpop",
+    "https://primitiveofferings.blogspot.com/search/label/grunge"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "index": 45,
+  "name": "DeadPulpit",
+  "url": "https://www.deadpulpit.com/",
+  "status": 200,
+  "final_url": "https://www.deadpulpit.com/",
+  "title": "Dead Air At The Pulpit",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://www.deadpulpit.com/search",
+      "input_names": [
+        "q"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
+    "https://cdn.shareaholic.net/assets/pub/shareaholic.js",
+    "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://www.deadpulpit.com/search/label/Chris%20Colohan",
+    "https://www.deadpulpit.com/search/label/Scrape",
+    "https://www.deadpulpit.com/search/label/ufoufoufo",
+    "https://www.deadpulpit.com/search/label/Interitio",
+    "https://www.deadpulpit.com/search/label/MALFORM",
+    "https://www.deadpulpit.com/search/label/ALL%20HOPE%20LOST",
+    "https://www.deadpulpit.com/search/label/GALLOWHEAD",
+    "https://www.deadpulpit.com/search/label/MAGDALENE",
+    "https://www.deadpulpit.com/search/label/RAN",
+    "https://www.deadpulpit.com/search/label/Skinned%20Alive",
+    "https://www.deadpulpit.com/search/label/Polluted%20Tongues",
+    "https://www.deadpulpit.com/search?updated-max=2026-08-19T18:46:00-04:00&max-results=10",
+    "http://www.deadpulpit.com/search/label/Surprise%20Package"
+  ]
+}

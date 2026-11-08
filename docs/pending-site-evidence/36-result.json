@@ -1,0 +1,209 @@
+{
+  "index": 36,
+  "name": "⁠Tape Attack",
+  "url": "https://tapeattack.blogspot.com/",
+  "status": 200,
+  "final_url": "https://tapeattack.blogspot.com/",
+  "title": "Tape Attack",
+  "searchlinks": [
+    "https://tapeattack.blogspot.com/search/label/Avantgarde",
+    "https://tapeattack.blogspot.com/search/label/Berlin-West",
+    "https://tapeattack.blogspot.com/search/label/Experimental",
+    "https://tapeattack.blogspot.com/search/label/Glenn%20Branca",
+    "https://tapeattack.blogspot.com/search/label/USA",
+    "https://tapeattack.blogspot.com/search/label/Audiencerec.",
+    "https://tapeattack.blogspot.com/search/label/Australien",
+    "https://tapeattack.blogspot.com/search/label/Electro",
+    "https://tapeattack.blogspot.com/search/label/Experimental",
+    "https://tapeattack.blogspot.com/search/label/Foetus",
+    "https://tapeattack.blogspot.com/search/label/Industrial",
+    "https://tapeattack.blogspot.com/search/label/Niederlande",
+    "https://tapeattack.blogspot.com/search/label/Experimental",
+    "https://tapeattack.blogspot.com/search/label/Industrial",
+    "https://tapeattack.blogspot.com/search/label/Noise",
+    "https://tapeattack.blogspot.com/search/label/Smell%20%26%20Quim",
+    "https://tapeattack.blogspot.com/search/label/Stinky%20Horse%20Fuck",
+    "https://tapeattack.blogspot.com/search/label/UK",
+    "https://tapeattack.blogspot.com/search/label/Dub",
+    "https://tapeattack.blogspot.com/search/label/Michael%20E.%20Johnson%20%26%20The%20Killer%20Bees",
+    "https://tapeattack.blogspot.com/search/label/Reggae",
+    "https://tapeattack.blogspot.com/search/label/ROIR",
+    "https://tapeattack.blogspot.com/search/label/USA",
+    "https://tapeattack.blogspot.com/search?updated-max=2026-09-18T08:56:00-07:00&max-results=7"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://tapeattack.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "Glenn",
+  "feed_matches": [
+    {
+      "title": "Glenn Branca - 4.Symphonie West-Berlin 20.5.83, Metropol-Loft",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://tapeattack.blogspot.com/feeds/5412753255773386094/comments/default",
+          "title": "Kommentare zum Post"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2026/09/glenn-branca-4symphonie-west-berlin.html#comment-form",
+          "title": "4 Kommentare"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/5412753255773386094"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/5412753255773386094"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2026/09/glenn-branca-4symphonie-west-berlin.html",
+          "title": "Glenn Branca - 4.Symphonie West-Berlin 20.5.83, Metropol-Loft"
+        }
+      ]
+    },
+    {
+      "title": "Tunnelvision - Tunnelvision",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://tapeattack.blogspot.com/feeds/7007084690319226451/comments/default",
+          "title": "Kommentare zum Post"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2024/02/tunnelvision-tunnelvision.html#comment-form",
+          "title": "1 Kommentare"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/7007084690319226451"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/7007084690319226451"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2024/02/tunnelvision-tunnelvision.html",
+          "title": "Tunnelvision - Tunnelvision"
+        }
+      ]
+    },
+    {
+      "title": "Toy Toy - A Sign Of Heat",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://tapeattack.blogspot.com/feeds/4552677519234929103/comments/default",
+          "title": "Kommentare zum Post"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2021/12/toy-toy-sign-of-heat.html#comment-form",
+          "title": "1 Kommentare"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/4552677519234929103"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/4552677519234929103"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2021/12/toy-toy-sign-of-heat.html",
+          "title": "Toy Toy - A Sign Of Heat"
+        }
+      ]
+    },
+    {
+      "title": "Glenn Branca - Symphony No. 3 (Gloria) Music For The First 127 Intervals Of The Harmonic Series))",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://tapeattack.blogspot.com/feeds/8563127405172991671/comments/default",
+          "title": "Kommentare zum Post"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2021/09/glenn-branca-symphony-no-3-gloria-music.html#comment-form",
+          "title": "3 Kommentare"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/8563127405172991671"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/8563127405172991671"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2021/09/glenn-branca-symphony-no-3-gloria-music.html",
+          "title": "Glenn Branca - Symphony No. 3 (Gloria) Music For The First 127 Intervals Of The Harmonic Series))"
+        }
+      ]
+    },
+    {
+      "title": "Glenn Branca, Featuring Z'EV - Symphony No. 2 (The Peak Of The Sacred)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://tapeattack.blogspot.com/feeds/5375363183511222616/comments/default",
+          "title": "Kommentare zum Post"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2021/09/glenn-branca-featuring-zev-symphony-no.html#comment-form",
+          "title": "2 Kommentare"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/5375363183511222616"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5769887928447572235/posts/default/5375363183511222616"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://tapeattack.blogspot.com/2021/09/glenn-branca-featuring-zev-symphony-no.html",
+          "title": "Glenn Branca, Featuring Z'EV - Symphony No. 2 (The Peak Of The Sacred)"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://tapeattack.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

@@ -1,0 +1,48 @@
+{
+  "index": 1,
+  "name": "AlterPortal",
+  "url": "https://alterportal.net/",
+  "status": 200,
+  "final_url": "https://alterportal.net/",
+  "title": "Alterportal V2 - портал альтернативной музыки",
+  "forms": [
+    {
+      "method": "post",
+      "action": "",
+      "input_names": [
+        "do",
+        "subaction",
+        "titleonly",
+        "story"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "",
+      "input_names": [
+        "login_name",
+        "login_password",
+        "login"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "",
+      "input_names": [
+        "vote_check",
+        "vote_check",
+        "vote_action",
+        "vote_id"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://alterportal.net/engine/classes/min/index.php?g=general&v=b05b8",
+    "https://alterportal.net/engine/classes/min/index.php?f=engine/classes/js/jqueryui.js,engine/classes/js/dle_js.js&v=b05b8",
+    "https://alterportal.net/templates/alterportal/js/hammer.min.js",
+    "https://unpkg.com/popper.js@1",
+    "https://unpkg.com/tippy.js@5/dist/tippy-bundle.iife.js",
+    "https://alterportal.net/templates/alterportal/js/libs.js?v=b0.44"
+  ],
+  "searchlinks": []
+}

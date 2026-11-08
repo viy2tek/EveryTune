@@ -1,0 +1,54 @@
+{
+  "index": 46,
+  "name": "⁠Butterboy Compilations",
+  "url": "https://butterboycompilations.blogspot.com/",
+  "status": 200,
+  "final_url": "https://butterboycompilations.blogspot.com/",
+  "title": "Butterboy",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://butterboycompilations.blogspot.com/search",
+      "input_names": [
+        "q"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://apis.google.com/js/platform.js",
+    "https://rf.revolvermaps.com/0/0/7.js?i=5v9kva8qqbq&m=0&c=ff0000&cr1=ffffff&sx=0",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://butterboycompilations.blogspot.com/search/label/Butterboy%20Compilations",
+    "https://butterboycompilations.blogspot.com/search/label/Grunge",
+    "https://butterboycompilations.blogspot.com/search/label/K",
+    "https://butterboycompilations.blogspot.com/search/label/Special",
+    "https://butterboycompilations.blogspot.com/search?updated-max=2026-11-05T06:05:00%2B08:00&max-results=25",
+    "https://butterboycompilations.blogspot.com/search/label/1001%20Songs",
+    "https://butterboycompilations.blogspot.com/search/label/12%20Bar%20Blues",
+    "https://butterboycompilations.blogspot.com/search/label/12%22",
+    "https://butterboycompilations.blogspot.com/search/label/1961",
+    "https://butterboycompilations.blogspot.com/search/label/1963",
+    "https://butterboycompilations.blogspot.com/search/label/1964",
+    "https://butterboycompilations.blogspot.com/search/label/1965",
+    "https://butterboycompilations.blogspot.com/search/label/1966",
+    "https://butterboycompilations.blogspot.com/search/label/1967",
+    "https://butterboycompilations.blogspot.com/search/label/1968",
+    "https://butterboycompilations.blogspot.com/search/label/1971",
+    "https://butterboycompilations.blogspot.com/search/label/1972",
+    "https://butterboycompilations.blogspot.com/search/label/1973",
+    "https://butterboycompilations.blogspot.com/search/label/1977",
+    "https://butterboycompilations.blogspot.com/search/label/1978",
+    "https://butterboycompilations.blogspot.com/search/label/1979",
+    "https://butterboycompilations.blogspot.com/search/label/1981",
+    "https://butterboycompilations.blogspot.com/search/label/1982",
+    "https://butterboycompilations.blogspot.com/search/label/2023",
+    "https://butterboycompilations.blogspot.com/search/label/2024",
+    "https://butterboycompilations.blogspot.com/search/label/2025",
+    "https://butterboycompilations.blogspot.com/search/label/30s",
+    "https://butterboycompilations.blogspot.com/search/label/40%27s",
+    "https://butterboycompilations.blogspot.com/search/label/50%27s",
+    "https://butterboycompilations.blogspot.com/search/label/50s"
+  ]
+}

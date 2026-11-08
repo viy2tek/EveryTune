@@ -1,0 +1,25 @@
+{
+  "index": 43,
+  "name": "z3.fm",
+  "url": "https://z3.fm/",
+  "status": 200,
+  "final_url": "https://z3.fm/",
+  "title": "Скачать популярную mp3 музыку бесплатно без регистрации",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/mp3/search",
+      "input_names": [
+        "keywords",
+        "yt0"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://z3.fm/assets/67eb7171/jquery.min.js",
+    "https://z3.fm/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+    "https://z3.fm/themes/classic/assets/js/out.v58.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-4QVWK2LSTX"
+  ],
+  "searchlinks": []
+}

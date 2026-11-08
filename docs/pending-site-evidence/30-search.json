@@ -1,0 +1,134 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "openSearch$totalResults": {
+      "$t": "3"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7217427263887288343.post-2588161145797252494"
+        },
+        "title": {
+          "type": "text",
+          "$t": "ANGOLA – MALAWI – CAMEROON – NIGERIA – EGYPT – UGANDA – TANZANIA – IRAQ – CONGO – MAURITANIA – CÔTE D’IVOIRE Afrikanische Saiteninstrumente / African String Instruments – 24 Musical Examples – Curated by Ulrich Wegner – Museum fur Volkerkunde – SMPK bln 41"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://music-republic-world-traditional.blogspot.com/feeds/2588161145797252494/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://music-republic-world-traditional.blogspot.com/2026/10/angola-malawi-cameroon-nigeria-egypt.html#comment-form",
+            "title": "3 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7217427263887288343/posts/default/2588161145797252494"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7217427263887288343/posts/default/2588161145797252494"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://music-republic-world-traditional.blogspot.com/2026/10/angola-malawi-cameroon-nigeria-egypt.html",
+            "title": "ANGOLA – MALAWI – CAMEROON – NIGERIA – EGYPT – UGANDA – TANZANIA – IRAQ – CONGO – MAURITANIA – CÔTE D’IVOIRE Afrikanische Saiteninstrumente / African String Instruments – 24 Musical Examples – Curated by Ulrich Wegner – Museum fur Volkerkunde – SMPK bln 41"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7217427263887288343.post-3354466439599494418"
+        },
+        "title": {
+          "type": "text",
+          "$t": "BRAZIL – Mestre Paulo dos Anjos – Capoeira da Bahia – ABPC"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://music-republic-world-traditional.blogspot.com/feeds/3354466439599494418/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://music-republic-world-traditional.blogspot.com/2023/06/brazil-bresil-mestre-paulo-dos-anjos.html#comment-form",
+            "title": "8 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7217427263887288343/posts/default/3354466439599494418"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7217427263887288343/posts/default/3354466439599494418"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://music-republic-world-traditional.blogspot.com/2023/06/brazil-bresil-mestre-paulo-dos-anjos.html",
+            "title": "BRAZIL – Mestre Paulo dos Anjos – Capoeira da Bahia – ABPC"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7217427263887288343.post-7790870932939354988"
+        },
+        "title": {
+          "type": "text",
+          "$t": "CONGO – GHANA – NIGERIA – SIERRA LEONE – SOUTH AFRICA – KENYA – TANZANIA – MOZAMBIQUE – UGANDA – ETHIOPIA African Dances – Authentic 601"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://music-republic-world-traditional.blogspot.com/feeds/7790870932939354988/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://music-republic-world-traditional.blogspot.com/2022/05/congo-ghana-nigeria-sierra-leone-south.html#comment-form",
+            "title": "3 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7217427263887288343/posts/default/7790870932939354988"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7217427263887288343/posts/default/7790870932939354988"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://music-republic-world-traditional.blogspot.com/2022/05/congo-ghana-nigeria-sierra-leone-south.html",
+            "title": "CONGO – GHANA – NIGERIA – SIERRA LEONE – SOUTH AFRICA – KENYA – TANZANIA – MOZAMBIQUE – UGANDA – ETHIOPIA African Dances – Authentic 601"
+          }
+        ]
+      }
+    ]
+  }
+}

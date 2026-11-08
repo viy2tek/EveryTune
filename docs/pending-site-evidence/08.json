@@ -1,0 +1,21 @@
+{
+  "index": 8,
+  "name": "zvu4no",
+  "url": "https://zvu4it.org/",
+  "status": 200,
+  "final_url": "https://zvu4it.org/",
+  "title": "Музыка на любой вкус",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "/",
+      "input_names": []
+    }
+  ],
+  "scripts": [
+    "https://scripts.advmusic.com/zvu4itorg.min.js",
+    "https://zvu4it.org/scripts/hls.min.js",
+    "https://zvu4it.org/scripts/zvu4it-hybrid.js"
+  ],
+  "searchlinks": []
+}

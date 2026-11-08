@@ -1,0 +1,13 @@
+{
+  "index": 2,
+  "method": "GET",
+  "endpoint": "https://ccmixter.org/search",
+  "params": {
+    "search_text": "love",
+    "search_type": "all",
+    "search_in": "uploads",
+    "search": "classname"
+  },
+  "status": 200,
+  "final_url": "https://ccmixter.org/search?search_text=love&search_type=all&search_in=uploads&search=classname"
+}

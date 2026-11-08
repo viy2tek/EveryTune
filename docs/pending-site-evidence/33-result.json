@@ -1,0 +1,116 @@
+{
+  "index": 33,
+  "name": "⁠Tone and Wave",
+  "url": "https://toneandwave.blogspot.com/",
+  "status": 200,
+  "final_url": "https://toneandwave.blogspot.com/",
+  "title": "Tone and Wave",
+  "searchlinks": [
+    "https://toneandwave.blogspot.com/search?q=Sparker",
+    "https://toneandwave.blogspot.com/search/label/90s",
+    "https://toneandwave.blogspot.com/search/label/90s%20ska",
+    "https://toneandwave.blogspot.com/search/label/demo%20tape",
+    "https://toneandwave.blogspot.com/search/label/ska%20punk",
+    "https://toneandwave.blogspot.com/search/label/Sparker",
+    "https://toneandwave.blogspot.com/search/label/3rd%20wave",
+    "https://toneandwave.blogspot.com/search/label/90s%20ska",
+    "https://toneandwave.blogspot.com/search/label/demo%20tape",
+    "https://toneandwave.blogspot.com/search/label/Hole%20In%20One",
+    "https://toneandwave.blogspot.com/search/label/ska%20punk",
+    "https://toneandwave.blogspot.com/search/label/12%20Cents%20For%20Marvin",
+    "https://toneandwave.blogspot.com/search/label/2000s%20ska",
+    "https://toneandwave.blogspot.com/search/label/3rd%20wave",
+    "https://toneandwave.blogspot.com/search/label/90s%20ska",
+    "https://toneandwave.blogspot.com/search/label/Twelve%20Cents",
+    "https://toneandwave.blogspot.com/search/label/Twelve%20Cents%20For%20Marvin",
+    "https://toneandwave.blogspot.com/search/label/2000s%20ska",
+    "https://toneandwave.blogspot.com/search/label/non-English%20language",
+    "https://toneandwave.blogspot.com/search/label/Skatoon%20Syndikat",
+    "https://toneandwave.blogspot.com/search/label/90s%20ska",
+    "https://toneandwave.blogspot.com/search/label/demo%20tape",
+    "https://toneandwave.blogspot.com/search/label/Model%20Citizen",
+    "https://toneandwave.blogspot.com/search/label/80s",
+    "https://toneandwave.blogspot.com/search/label/reggae",
+    "https://toneandwave.blogspot.com/search/label/Ventilators%20%5BU.K.%5D",
+    "https://toneandwave.blogspot.com/search/label/2000s%20ska",
+    "https://toneandwave.blogspot.com/search/label/Caradura",
+    "https://toneandwave.blogspot.com/search/label/non-English%20language",
+    "https://toneandwave.blogspot.com/search/label/1980s"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://toneandwave.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "Sparker",
+  "feed_matches": [
+    {
+      "title": "Sparker - demo tape (1993)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://toneandwave.blogspot.com/feeds/1313218403804251063/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/5711627321329058042/1313218403804251063",
+          "title": "0 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5711627321329058042/posts/default/1313218403804251063"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5711627321329058042/posts/default/1313218403804251063"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://toneandwave.blogspot.com/2026/11/sparker-demo-tape-1993.html",
+          "title": "Sparker - demo tape (1993)"
+        }
+      ]
+    },
+    {
+      "title": "Sparker [Santa Barbara/Goleta, California]",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://toneandwave.blogspot.com/feeds/7395365105656722245/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/5711627321329058042/7395365105656722245",
+          "title": "1 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5711627321329058042/posts/default/7395365105656722245"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/5711627321329058042/posts/default/7395365105656722245"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://toneandwave.blogspot.com/2018/11/sparker-santa-barbaragoleta-california.html",
+          "title": "Sparker [Santa Barbara/Goleta, California]"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://toneandwave.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

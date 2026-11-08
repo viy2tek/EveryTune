@@ -1,0 +1,15 @@
+{
+  "index": 4,
+  "name": "Internet Archive",
+  "url": "https://archive.org/details/audio",
+  "status": 200,
+  "final_url": "https://archive.org/details/audio",
+  "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+  "forms": [],
+  "scripts": [
+    "https://archive.org/offshoot_assets/vendor/lit/polyfill-support.js",
+    "https://archive.org/offshoot_assets/vendor/@webcomponents/webcomponentsjs@2.6.0/webcomponents-loader.js",
+    "https://archive.org/offshoot_assets/index-Wm_r08WR.js"
+  ],
+  "searchlinks": []
+}

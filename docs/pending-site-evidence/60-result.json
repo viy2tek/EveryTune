@@ -1,0 +1,215 @@
+{
+  "index": 60,
+  "name": "Sophie's Floorboard",
+  "url": "https://sophiesfloorboard.blogspot.com/",
+  "status": 200,
+  "final_url": "https://sophiesfloorboard.blogspot.com/",
+  "title": "Sophie's Floorboard",
+  "searchlinks": [
+    "https://sophiesfloorboard.blogspot.com/search/label/band",
+    "https://sophiesfloorboard.blogspot.com/search/label/discography",
+    "https://sophiesfloorboard.blogspot.com/search/label/download",
+    "https://sophiesfloorboard.blogspot.com/search/label/Heavens%20To%20Betsy",
+    "https://sophiesfloorboard.blogspot.com/search/label/indie",
+    "https://sophiesfloorboard.blogspot.com/search/label/Olympia",
+    "https://sophiesfloorboard.blogspot.com/search/label/punk",
+    "https://sophiesfloorboard.blogspot.com/search/label/riot%20grrrl",
+    "https://sophiesfloorboard.blogspot.com/search/label/washington",
+    "https://sophiesfloorboard.blogspot.com/search/label/zip",
+    "https://sophiesfloorboard.blogspot.com/search/label/band",
+    "https://sophiesfloorboard.blogspot.com/search/label/discography",
+    "https://sophiesfloorboard.blogspot.com/search/label/download",
+    "https://sophiesfloorboard.blogspot.com/search/label/Excuse%2017",
+    "https://sophiesfloorboard.blogspot.com/search/label/indie",
+    "https://sophiesfloorboard.blogspot.com/search/label/Olympia",
+    "https://sophiesfloorboard.blogspot.com/search/label/punk",
+    "https://sophiesfloorboard.blogspot.com/search/label/rock",
+    "https://sophiesfloorboard.blogspot.com/search/label/washington",
+    "https://sophiesfloorboard.blogspot.com/search/label/zip",
+    "https://sophiesfloorboard.blogspot.com/search/label/band",
+    "https://sophiesfloorboard.blogspot.com/search/label/DC",
+    "https://sophiesfloorboard.blogspot.com/search/label/dischord",
+    "https://sophiesfloorboard.blogspot.com/search/label/discography",
+    "https://sophiesfloorboard.blogspot.com/search/label/download",
+    "https://sophiesfloorboard.blogspot.com/search/label/folk",
+    "https://sophiesfloorboard.blogspot.com/search/label/indie",
+    "https://sophiesfloorboard.blogspot.com/search/label/jazz",
+    "https://sophiesfloorboard.blogspot.com/search/label/punk",
+    "https://sophiesfloorboard.blogspot.com/search/label/The%20Evens"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://sophiesfloorboard.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "Heavens",
+  "feed_matches": [
+    {
+      "title": "Heavens To Betsy",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://sophiesfloorboard.blogspot.com/feeds/7582497520630127021/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2026/09/heavens-to-betsy.html#comment-form",
+          "title": "4 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/7582497520630127021"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/7582497520630127021"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2026/09/heavens-to-betsy.html",
+          "title": "Heavens To Betsy"
+        }
+      ]
+    },
+    {
+      "title": "Excuse 17",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://sophiesfloorboard.blogspot.com/feeds/4698273231812115712/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2026/09/excuse-17.html#comment-form",
+          "title": "2 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/4698273231812115712"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/4698273231812115712"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2026/09/excuse-17.html",
+          "title": "Excuse 17"
+        }
+      ]
+    },
+    {
+      "title": "L'Antietam",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://sophiesfloorboard.blogspot.com/feeds/5384336926476553428/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2016/10/lantietam.html#comment-form",
+          "title": "5 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/5384336926476553428"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/5384336926476553428"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2016/10/lantietam.html",
+          "title": "L'Antietam"
+        }
+      ]
+    },
+    {
+      "title": "Death Grips",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://sophiesfloorboard.blogspot.com/feeds/4176864156459291655/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2015/04/death-grips.html#comment-form",
+          "title": "38 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/4176864156459291655"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/4176864156459291655"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2015/04/death-grips.html",
+          "title": "Death Grips"
+        }
+      ]
+    },
+    {
+      "title": "Young And In The Way",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://sophiesfloorboard.blogspot.com/feeds/6711041073406992772/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2014/04/young-and-in-way.html#comment-form",
+          "title": "5 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/6711041073406992772"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/3129178920906320883/posts/default/6711041073406992772"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://sophiesfloorboard.blogspot.com/2014/04/young-and-in-way.html",
+          "title": "Young And In The Way"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://sophiesfloorboard.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

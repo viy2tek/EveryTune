@@ -1,0 +1,186 @@
+{
+  "index": 23,
+  "name": "Cova-Argh!!!!",
+  "url": "https://josephbarulho.blogspot.com/",
+  "status": 200,
+  "final_url": "https://josephbarulho.blogspot.com/",
+  "title": "COVA - ARGH!!!",
+  "searchlinks": [
+    "https://josephbarulho.blogspot.com/search?updated-max=2026-08-25T16:20:00-03:00&max-results=30"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://josephbarulho.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "Destruction",
+  "feed_matches": [
+    {
+      "title": "Destruction - Birth of Malice (2025)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://josephbarulho.blogspot.com/feeds/6045414377776107941/comments/default",
+          "title": "Postar comentários"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2026/11/destruction-birth-of-malice-2025.html#comment-form",
+          "title": "0 Comentários"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/6045414377776107941"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/6045414377776107941"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2026/11/destruction-birth-of-malice-2025.html",
+          "title": "Destruction - Birth of Malice (2025)"
+        }
+      ]
+    },
+    {
+      "title": "Destruction - Birth of Malice (EP 2024)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://josephbarulho.blogspot.com/feeds/3275264544404291927/comments/default",
+          "title": "Postar comentários"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2025/01/destruction-birth-of-malice-ep-2024.html#comment-form",
+          "title": "1 Comentários"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/3275264544404291927"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/3275264544404291927"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2025/01/destruction-birth-of-malice-ep-2024.html",
+          "title": "Destruction - Birth of Malice (EP 2024)"
+        }
+      ]
+    },
+    {
+      "title": "Open Surgery – Absolute Destruction (2024)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://josephbarulho.blogspot.com/feeds/6150603599142985920/comments/default",
+          "title": "Postar comentários"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2024/07/open-surgery-absolute-destruction-2024.html#comment-form",
+          "title": "0 Comentários"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/6150603599142985920"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/6150603599142985920"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2024/07/open-surgery-absolute-destruction-2024.html",
+          "title": "Open Surgery – Absolute Destruction (2024)"
+        }
+      ]
+    },
+    {
+      "title": "Thanatophobia - Rebirth Through Destruction (2022)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://josephbarulho.blogspot.com/feeds/2221336697530364509/comments/default",
+          "title": "Postar comentários"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2022/08/thanatophobia-rebirth-through.html#comment-form",
+          "title": "0 Comentários"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/2221336697530364509"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/2221336697530364509"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2022/08/thanatophobia-rebirth-through.html",
+          "title": "Thanatophobia - Rebirth Through Destruction (2022)"
+        }
+      ]
+    },
+    {
+      "title": "Destruction - Diabolical (2022) Request",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://josephbarulho.blogspot.com/feeds/3697520516382923095/comments/default",
+          "title": "Postar comentários"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2022/04/destruction-diabolical-2022-request.html#comment-form",
+          "title": "0 Comentários"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/3697520516382923095"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7533963097891106772/posts/default/3697520516382923095"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://josephbarulho.blogspot.com/2022/04/destruction-diabolical-2022-request.html",
+          "title": "Destruction - Diabolical (2022) Request"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://josephbarulho.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

@@ -1,0 +1,26 @@
+{
+  "index": 11,
+  "name": "VGMusic",
+  "url": "https://www.vgmusic.com/",
+  "status": 200,
+  "final_url": "https://www.vgmusic.com/",
+  "title": "VGMusic - 31806 Game Music MIDI files",
+  "forms": [
+    {
+      "method": "post",
+      "action": "https://www.vgmusic.com/cgi/redirect.pl",
+      "input_names": [
+        "submit_info"
+      ]
+    },
+    {
+      "method": "GET",
+      "action": "/cgi/random.cgi",
+      "input_names": [
+        "random_button"
+      ]
+    }
+  ],
+  "scripts": [],
+  "searchlinks": []
+}

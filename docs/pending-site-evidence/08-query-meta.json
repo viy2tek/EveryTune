@@ -1,0 +1,8 @@
+{
+  "index": 8,
+  "method": "GET",
+  "endpoint": "https://zvu4it.org/tracks/Beatles",
+  "params": {},
+  "status": 200,
+  "final_url": "https://zvu4it.org/tracks/Beatles"
+}

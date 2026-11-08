@@ -1,0 +1,54 @@
+{
+  "index": 54,
+  "name": "⁠Die or DIY",
+  "url": "https://dieordiy2.blogspot.com/",
+  "status": 200,
+  "final_url": "https://dieordiy2.blogspot.com/",
+  "title": "Die or D.I.Y.?",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://dieordiy2.blogspot.com/search",
+      "input_names": [
+        "q"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://apis.google.com/js/platform.js",
+    "https://apis.google.com/js/platform.js",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://dieordiy2.blogspot.com/search/label/2019",
+    "https://dieordiy2.blogspot.com/search/label/Cambodia",
+    "https://dieordiy2.blogspot.com/search/label/Compilations",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Psych",
+    "https://dieordiy2.blogspot.com/search/label/psychsploitation",
+    "https://dieordiy2.blogspot.com/search/label/2004",
+    "https://dieordiy2.blogspot.com/search/label/Afghanistan",
+    "https://dieordiy2.blogspot.com/search/label/Synth%20Pop",
+    "https://dieordiy2.blogspot.com/search/label/Afghanistan",
+    "https://dieordiy2.blogspot.com/search/label/Ahmad%20Zahir",
+    "https://dieordiy2.blogspot.com/search/label/Folk",
+    "https://dieordiy2.blogspot.com/search/label/Global",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Psych",
+    "https://dieordiy2.blogspot.com/search/label/World%20Music",
+    "https://dieordiy2.blogspot.com/search/label/1968",
+    "https://dieordiy2.blogspot.com/search/label/Afghanistan",
+    "https://dieordiy2.blogspot.com/search/label/Field%20Recording",
+    "https://dieordiy2.blogspot.com/search/label/Folk",
+    "https://dieordiy2.blogspot.com/search/label/Global",
+    "https://dieordiy2.blogspot.com/search/label/World%20Music",
+    "https://dieordiy2.blogspot.com/search/label/2024",
+    "https://dieordiy2.blogspot.com/search/label/Improvisation",
+    "https://dieordiy2.blogspot.com/search/label/Jandek",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Garde",
+    "https://dieordiy2.blogspot.com/search/label/Outsider%20Music",
+    "https://dieordiy2.blogspot.com/search/label/USA",
+    "https://dieordiy2.blogspot.com/search/label/Ya%20Ho%20Wha%2013",
+    "https://dieordiy2.blogspot.com/search/label/2021",
+    "https://dieordiy2.blogspot.com/search/label/Free%20Music",
+    "https://dieordiy2.blogspot.com/search/label/Free%20Rock"
+  ]
+}

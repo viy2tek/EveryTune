@@ -1,0 +1,66 @@
+{
+  "index": 30,
+  "name": "MusicRepublic",
+  "url": "https://music-republic-world-traditional.blogspot.com/",
+  "status": 200,
+  "final_url": "https://music-republic-world-traditional.blogspot.com/",
+  "title": "MusicRepublic - World Traditional Music from LPs and Cassettes",
+  "forms": [
+    {
+      "method": "post",
+      "action": "https://www.paypal.com/cgi-bin/webscr",
+      "input_names": [
+        "submit",
+        "cmd",
+        "hosted_button_id"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "https://www.paypal.com/cgi-bin/webscr",
+      "input_names": [
+        "submit",
+        "cmd",
+        "hosted_button_id"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://apis.google.com/js/platform.js",
+    "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit",
+    "https://apis.google.com/js/platform.js",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://music-republic-world-traditional.blogspot.com/search/label/ANGOLA",
+    "https://music-republic-world-traditional.blogspot.com/search/label/CAMEROON",
+    "https://music-republic-world-traditional.blogspot.com/search/label/Congo",
+    "https://music-republic-world-traditional.blogspot.com/search/label/C%C3%B4te%20d%27Ivoire",
+    "https://music-republic-world-traditional.blogspot.com/search/label/EGYPT",
+    "https://music-republic-world-traditional.blogspot.com/search/label/IRAQ",
+    "https://music-republic-world-traditional.blogspot.com/search/label/MALAWI",
+    "https://music-republic-world-traditional.blogspot.com/search/label/MAURITANIA",
+    "https://music-republic-world-traditional.blogspot.com/search/label/NIGERIA",
+    "https://music-republic-world-traditional.blogspot.com/search/label/TANZANIA",
+    "https://music-republic-world-traditional.blogspot.com/search/label/UGANDA",
+    "http://www.clevelandart.org/art/collection/search",
+    "https://music-republic-world-traditional.blogspot.com/search/label/INDIA%20%E2%80%93%20Nikhil%20Banerjee%20%E2%80%93%20From%20the%20Concert%20Hall%20%E2%80%93%20Raga%20Sindhura%20%26%20Raga%20Adana%20%E2%80%93%20His%20Master%27s%20Voice%20%E2%80%93%20ECSD%202600",
+    "https://music-republic-world-traditional.blogspot.com/search?updated-max=2026-10-06T06:29:00-07:00&max-results=30",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ABU%20DHABI%20%E2%80%93%20Les%20%C3%89mirats%20du%20Golfe%20Arabique%20%20%E2%80%93%20Disques%20Alvar%C3%A8s%20C%20471",
+    "https://music-republic-world-traditional.blogspot.com/search/label/AFGHANISTAN%20-%20Musique%20%26%20Traditions%20du%20Monde%20%E2%80%93%20AFGHANISTAN%20%E2%80%93%20CBS%2065%2095",
+    "https://music-republic-world-traditional.blogspot.com/search/label/AFGHANISTAN%20%E2%80%93%20Afghanistan%20%E2%80%93%20Unesco%20Collection%20%E2%80%93%20A%20Musical%20Anthology%20of%20the%20Orient%20%E2%80%93%20B%C3%A4renreiter-Musicaphon%20%E2%80%93%20BM%2030%20L%202003",
+    "https://music-republic-world-traditional.blogspot.com/search/label/AFGHANISTAN%20%E2%80%93%20Musiques%20d%E2%80%99Orient",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALBANIA%20%E2%80%93%20ALBANIE%20Marcel%20Cellier%20Pr%C3%A9sente%20%E2%80%93%20L%27Albanie%20Folklorique%20%E2%80%93%20Disques%20Cellier%20N%C2%B0%20010",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALBANIA%20%E2%80%93%20Folk%20Music%20of%20Albania%20%E2%80%93%20Topic%20Records%20%E2%80%93%2012T154",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALBANIA%20%E2%80%93%20Folklore%20Instrumental%20Albanais%20%2F%20Albanian%20Folk%20Music%20%2F%20Folklor%20Instrumentale%20Shqiptare%20%E2%80%93%20Disques%20Vend%C3%A9miaire%20-%20VDE%2FPAL%20114",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%201er%20Festival%20Alg%C3%A9rien%20de%20la%20Musique%20Andalouse%201967%20%2F%20Disque%201%20Mehradjane",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20Ahmed%20Khelifi%20%D8%AE%D9%84%D9%8A%D9%81%D9%8A%20%D8%A3%D8%AD%D9%85%D8%AF%20%E2%80%93%20Ida%20Hab%20Allah%20-%20Bnate%20El%20Bahja%20%E2%80%93%20El%20Feth%20%206738",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20ALG%C3%89RIE%20Cheikha%20Rimitti%20%E2%80%93%20Ya%20Hlima%20%26%20Ehdi%20Salra%20%E2%80%93%20Nabil-Phone%20NBP%2035421",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20Cheikha%20Rabia%20R%C3%A9lizania%20%E2%80%93%20Mani%20Man%20-%20Moulat%20El%20Haik%20%E2%80%93%20Assiaphone%20ASP%20157",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20Cheikha%20Rimitti%20%E2%80%93%20Scop%20Music%20SPM%20106",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20Dahmane%20Ben%20Achour%20%E2%80%93%20Musique%20Classique%20Alg%C3%A9rienne%20%E2%80%93%20Noubat%20Edd%27il%20%2F%20Noubat%20Elhsine%20%E2%80%93%20Les%20Artistes%20Arabes%20Associ%C3%A9s%20N%2072503",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20Mohamed%20Tahar%20Fergani%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B7%D9%87%D8%A7%D8%B1%20%D8%A7%D9%84%D9%81%D8%B1%DA%A4%D8%A7%D9%86%D9%8A%20%20%E2%80%93%20El%20Boughi%20%E2%80%93%20Sawt%20El%20Menyar%201001",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20Mohamed%20Tahar%20Fergani%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B7%D9%87%D8%A7%D8%B1%20%D8%A7%D9%84%D9%81%D8%B1%DA%A4%D8%A7%D9%86%D9%8A%20%20%E2%80%93%20El%20Khaima%20%26%20Ya%20Mesiene%20Anabi%20%E2%80%93%20Sawt%20El%20Menyar%201004",
+    "https://music-republic-world-traditional.blogspot.com/search/label/ALGERIA%20%E2%80%93%20Rythmes%20et%20Chants%20du%20Sahara%20Central%20%28Hoggar%29%20%E2%80%93%20Les%20Disques%20ICEM-CEL"
+  ]
+}

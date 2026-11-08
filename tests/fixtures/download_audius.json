@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "mWB22",
+      "title": "Ambient Snow",
+      "orig_filename": "Ambient Snow - [Blop].mp3",
+      "is_original_available": false,
+      "is_downloadable": false,
+      "is_download_gated": false,
+      "download_conditions": null,
+      "download": null,
+      "access": {
+        "stream": true,
+        "download": true
+      }
+    }
+  ]
+}

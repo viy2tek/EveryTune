@@ -1,0 +1,610 @@
+[
+  {
+    "type": "complete",
+    "query": "Soft Pillow Kisses - Stolen Flowers",
+    "interpretation": {
+      "text": "Soft Pillow Kisses - Stolen Flowers",
+      "artist": "Soft Pillow Kisses",
+      "title": "Stolen Flowers"
+    },
+    "tracks": [],
+    "sources": [
+      {
+        "source": "jamendo",
+        "name": "Jamendo",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "youtube",
+        "name": "YouTube",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "spotify",
+        "name": "Spotify",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "soundcloud",
+        "name": "SoundCloud",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "applemusic",
+        "name": "Apple Music API",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "lastfm",
+        "name": "Last.fm",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "commons",
+        "name": "Wikimedia Commons",
+        "status": "empty",
+        "next_cursor": null,
+        "cached": false,
+        "message": null,
+        "rejected_count": 0,
+        "elapsed_ms": 71
+      },
+      {
+        "source": "openverse",
+        "name": "Openverse",
+        "status": "empty",
+        "next_cursor": null,
+        "cached": false,
+        "message": null,
+        "rejected_count": 0,
+        "elapsed_ms": 99
+      },
+      {
+        "source": "archive",
+        "name": "Internet Archive",
+        "status": "empty",
+        "next_cursor": null,
+        "cached": false,
+        "message": null,
+        "rejected_count": 0,
+        "elapsed_ms": 678
+      },
+      {
+        "source": "mixcloud",
+        "name": "Mixcloud",
+        "status": "empty",
+        "next_cursor": null,
+        "cached": false,
+        "message": null,
+        "rejected_count": 0,
+        "elapsed_ms": 765
+      },
+      {
+        "source": "audius",
+        "name": "Audius",
+        "status": "empty",
+        "next_cursor": null,
+        "cached": false,
+        "message": null,
+        "rejected_count": 0,
+        "elapsed_ms": 862
+      },
+      {
+        "source": "itunes",
+        "name": "iTunes / Apple",
+        "status": "no_match",
+        "next_cursor": null,
+        "cached": false,
+        "message": "15 candidatos descartados por não corresponderem aos nomes informados.",
+        "rejected_count": 15,
+        "elapsed_ms": 3421
+      },
+      {
+        "source": "musicbrainz",
+        "name": "MusicBrainz",
+        "status": "empty",
+        "next_cursor": null,
+        "cached": false,
+        "message": null,
+        "rejected_count": 0,
+        "elapsed_ms": 9517
+      }
+    ],
+    "external": [
+      {
+        "source": "bandcamp",
+        "name": "Bandcamp",
+        "category": "Independente",
+        "url": "https://bandcamp.com/search?q=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers&item_type=t"
+      },
+      {
+        "source": "deezer",
+        "name": "Deezer",
+        "category": "Comercial",
+        "url": "https://www.deezer.com/search/Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "youtube_music",
+        "name": "YouTube Music",
+        "category": "Vídeos musicais",
+        "url": "https://music.youtube.com/search?q=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "free_music_archive",
+        "name": "Free Music Archive",
+        "category": "Licenças abertas",
+        "url": "https://freemusicarchive.org/search/?quicksearch=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "musopen",
+        "name": "Musopen",
+        "category": "Acervos",
+        "url": "https://musopen.org/music/?q=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "newgrounds",
+        "name": "Newgrounds Audio",
+        "category": "Independente",
+        "url": "https://www.newgrounds.com/search/conduct/audio?terms=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "audiomack",
+        "name": "Audiomack",
+        "category": "Independente",
+        "url": "https://audiomack.com/search?q=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "soundclick",
+        "name": "SoundClick",
+        "category": "Independente",
+        "url": "https://www.soundclick.com/search/default.cfm?searchTerm=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "loc",
+        "name": "Library of Congress",
+        "category": "Acervos",
+        "url": "https://www.loc.gov/audio/?q=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "discogs",
+        "name": "Discogs",
+        "category": "Metadados",
+        "url": "https://www.discogs.com/search/?q=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers&type=all"
+      },
+      {
+        "source": "setlistfm",
+        "name": "setlist.fm",
+        "category": "Apresentações",
+        "url": "https://www.setlist.fm/search?query=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers"
+      },
+      {
+        "source": "livearchive",
+        "name": "Live Music Archive",
+        "category": "Apresentações",
+        "url": "https://archive.org/search?query=Soft%20Pillow%20Kisses%20-%20Stolen%20Flowers+AND+collection%3Aetree"
+      }
+    ]
+  },
+  {
+    "type": "complete",
+    "query": "Daft Punk - Get Lucky",
+    "interpretation": {
+      "text": "Daft Punk - Get Lucky",
+      "artist": "Daft Punk",
+      "title": "Get Lucky"
+    },
+    "tracks": [
+      {
+        "source": "itunes",
+        "source_id": "617154366",
+        "platform": "iTunes / Apple",
+        "category": "Comercial",
+        "title": "Get Lucky",
+        "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+        "artist_names": [
+          "Daft Punk"
+        ],
+        "album": "Random Access Memories",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/100x100bb.jpg",
+        "duration": 369.629,
+        "year": "2013",
+        "url": "https://music.apple.com/br/album/get-lucky/617154241?i=617154366&uo=4",
+        "preview_url": null,
+        "playable": null,
+        "downloadable": null,
+        "license": "Metadados promocionais Apple; áudio disponível na origem.",
+        "kind": "track",
+        "score": 1.0,
+        "match": "exact",
+        "group": "get lucky|daft punk pharrell williams nile rodgers|track",
+        "matched_on": "artist_title"
+      },
+      {
+        "source": "itunes",
+        "source_id": "1673536443",
+        "platform": "iTunes / Apple",
+        "category": "Comercial",
+        "title": "Get Lucky",
+        "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+        "artist_names": [
+          "Daft Punk"
+        ],
+        "album": "Random Access Memories (10th Anniversary Edition)",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/b1/92/86b192cf-ceb6-6e51-9361-dc4a35e95d22/196589921154.jpg/100x100bb.jpg",
+        "duration": 369.615,
+        "year": "2013",
+        "url": "https://music.apple.com/br/album/get-lucky/1673536063?i=1673536443&uo=4",
+        "preview_url": null,
+        "playable": null,
+        "downloadable": null,
+        "license": "Metadados promocionais Apple; áudio disponível na origem.",
+        "kind": "track",
+        "score": 1.0,
+        "match": "exact",
+        "group": "get lucky|daft punk pharrell williams nile rodgers|track",
+        "matched_on": "artist_title"
+      },
+      {
+        "source": "musicbrainz",
+        "source_id": "97c21330-5552-41db-ba0d-249f4c833267",
+        "platform": "MusicBrainz",
+        "category": "Metadados",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "artist_names": [
+          "Daft Punk"
+        ],
+        "album": "Piece by Piece Full Soundtrack",
+        "artwork": null,
+        "duration": null,
+        "year": "2024",
+        "url": "https://musicbrainz.org/recording/97c21330-5552-41db-ba0d-249f4c833267",
+        "preview_url": null,
+        "playable": null,
+        "downloadable": null,
+        "license": "Metadados MusicBrainz; sem autorização de áudio.",
+        "kind": "track",
+        "score": 1.0,
+        "match": "exact",
+        "group": "get lucky|daft punk|track",
+        "matched_on": "artist_title"
+      },
+      {
+        "source": "musicbrainz",
+        "source_id": "0347d102-b653-4c6c-a0b2-cc9a58c5c585",
+        "platform": "MusicBrainz",
+        "category": "Metadados",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "artist_names": [
+          "Daft Punk"
+        ],
+        "album": "Mastermix: DJ Beats, Volume 8",
+        "artwork": null,
+        "duration": 294.0,
+        "year": "2013",
+        "url": "https://musicbrainz.org/recording/0347d102-b653-4c6c-a0b2-cc9a58c5c585",
+        "preview_url": null,
+        "playable": null,
+        "downloadable": null,
+        "license": "Metadados MusicBrainz; sem autorização de áudio.",
+        "kind": "track",
+        "score": 1.0,
+        "match": "exact",
+        "group": "get lucky|daft punk|track",
+        "matched_on": "artist_title"
+      },
+      {
+        "source": "musicbrainz",
+        "source_id": "604b0c12-31a3-4219-8965-70051e2289db",
+        "platform": "MusicBrainz",
+        "category": "Metadados",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "artist_names": [
+          "Daft Punk"
+        ],
+        "album": "F*** You I’m F.A.P!",
+        "artwork": null,
+        "duration": 242.213,
+        "year": "2015",
+        "url": "https://musicbrainz.org/recording/604b0c12-31a3-4219-8965-70051e2289db",
+        "preview_url": null,
+        "playable": null,
+        "downloadable": null,
+        "license": "Metadados MusicBrainz; sem autorização de áudio.",
+        "kind": "track",
+        "score": 1.0,
+        "match": "exact",
+        "group": "get lucky|daft punk|track",
+        "matched_on": "artist_title"
+      },
+      {
+        "source": "musicbrainz",
+        "source_id": "345e4a72-46b4-48ba-8541-27c6b23c3b8c",
+        "platform": "MusicBrainz",
+        "category": "Metadados",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "artist_names": [
+          "Daft Punk"
+        ],
+        "album": "Undercover, Vol. 2",
+        "artwork": null,
+        "duration": 237.0,
+        "year": "2017",
+        "url": "https://musicbrainz.org/recording/345e4a72-46b4-48ba-8541-27c6b23c3b8c",
+        "preview_url": null,
+        "playable": null,
+        "downloadable": null,
+        "license": "Metadados MusicBrainz; sem autorização de áudio.",
+        "kind": "track",
+        "score": 1.0,
+        "match": "exact",
+        "group": "get lucky|daft punk|track",
+        "matched_on": "artist_title"
+      },
+      {
+        "source": "musicbrainz",
+        "source_id": "6e3be8e1-0c63-4fb9-8e7b-9ca536857758",
+        "platform": "MusicBrainz",
+        "category": "Metadados",
+        "title": "Get Lucky",
+        "artist": "Daft Punk",
+        "artist_names": [
+          "Daft Punk"
+        ],
+        "album": "Schule für E‐Gitarre",
+        "artwork": null,
+        "duration": 40.013,
+        "year": "2015",
+        "url": "https://musicbrainz.org/recording/6e3be8e1-0c63-4fb9-8e7b-9ca536857758",
+        "preview_url": null,
+        "playable": null,
+        "downloadable": null,
+        "license": "Metadados MusicBrainz; sem autorização de áudio.",
+        "kind": "track",
+        "score": 1.0,
+        "match": "exact",
+        "group": "get lucky|daft punk|track",
+        "matched_on": "artist_title"
+      }
+    ],
+    "sources": [
+      {
+        "source": "jamendo",
+        "name": "Jamendo",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "youtube",
+        "name": "YouTube",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "spotify",
+        "name": "Spotify",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "soundcloud",
+        "name": "SoundCloud",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "applemusic",
+        "name": "Apple Music API",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "lastfm",
+        "name": "Last.fm",
+        "status": "missing_credentials",
+        "next_cursor": null,
+        "cached": false,
+        "message": "Configure as credenciais desta fonte.",
+        "rejected_count": 0,
+        "elapsed_ms": 0
+      },
+      {
+        "source": "commons",
+        "name": "Wikimedia Commons",
+        "status": "no_match",
+        "next_cursor": null,
+        "cached": false,
+        "message": "1 candidatos descartados por não corresponderem aos nomes informados.",
+        "rejected_count": 1,
+        "elapsed_ms": 39
+      },
+      {
+        "source": "openverse",
+        "name": "Openverse",
+        "status": "empty",
+        "next_cursor": null,
+        "cached": false,
+        "message": null,
+        "rejected_count": 0,
+        "elapsed_ms": 68
+      },
+      {
+        "source": "audius",
+        "name": "Audius",
+        "status": "no_match",
+        "next_cursor": null,
+        "cached": false,
+        "message": "5 candidatos descartados por não corresponderem aos nomes informados.",
+        "rejected_count": 5,
+        "elapsed_ms": 747
+      },
+      {
+        "source": "archive",
+        "name": "Internet Archive",
+        "status": "no_match",
+        "next_cursor": "2",
+        "cached": false,
+        "message": "15 candidatos descartados por não corresponderem aos nomes informados.",
+        "rejected_count": 15,
+        "elapsed_ms": 824
+      },
+      {
+        "source": "mixcloud",
+        "name": "Mixcloud",
+        "status": "no_match",
+        "next_cursor": "15",
+        "cached": false,
+        "message": "15 candidatos descartados por não corresponderem aos nomes informados.",
+        "rejected_count": 15,
+        "elapsed_ms": 1229
+      },
+      {
+        "source": "itunes",
+        "name": "iTunes / Apple",
+        "status": "success",
+        "next_cursor": null,
+        "cached": false,
+        "message": "13 candidatos descartados por não corresponderem aos nomes informados.",
+        "rejected_count": 13,
+        "elapsed_ms": 3370
+      },
+      {
+        "source": "musicbrainz",
+        "name": "MusicBrainz",
+        "status": "success",
+        "next_cursor": "15",
+        "cached": false,
+        "message": "10 candidatos descartados por não corresponderem aos nomes informados.",
+        "rejected_count": 10,
+        "elapsed_ms": 3842
+      }
+    ],
+    "external": [
+      {
+        "source": "bandcamp",
+        "name": "Bandcamp",
+        "category": "Independente",
+        "url": "https://bandcamp.com/search?q=Daft%20Punk%20-%20Get%20Lucky&item_type=t"
+      },
+      {
+        "source": "deezer",
+        "name": "Deezer",
+        "category": "Comercial",
+        "url": "https://www.deezer.com/search/Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "youtube_music",
+        "name": "YouTube Music",
+        "category": "Vídeos musicais",
+        "url": "https://music.youtube.com/search?q=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "free_music_archive",
+        "name": "Free Music Archive",
+        "category": "Licenças abertas",
+        "url": "https://freemusicarchive.org/search/?quicksearch=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "musopen",
+        "name": "Musopen",
+        "category": "Acervos",
+        "url": "https://musopen.org/music/?q=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "newgrounds",
+        "name": "Newgrounds Audio",
+        "category": "Independente",
+        "url": "https://www.newgrounds.com/search/conduct/audio?terms=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "audiomack",
+        "name": "Audiomack",
+        "category": "Independente",
+        "url": "https://audiomack.com/search?q=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "soundclick",
+        "name": "SoundClick",
+        "category": "Independente",
+        "url": "https://www.soundclick.com/search/default.cfm?searchTerm=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "loc",
+        "name": "Library of Congress",
+        "category": "Acervos",
+        "url": "https://www.loc.gov/audio/?q=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "discogs",
+        "name": "Discogs",
+        "category": "Metadados",
+        "url": "https://www.discogs.com/search/?q=Daft%20Punk%20-%20Get%20Lucky&type=all"
+      },
+      {
+        "source": "setlistfm",
+        "name": "setlist.fm",
+        "category": "Apresentações",
+        "url": "https://www.setlist.fm/search?query=Daft%20Punk%20-%20Get%20Lucky"
+      },
+      {
+        "source": "livearchive",
+        "name": "Live Music Archive",
+        "category": "Apresentações",
+        "url": "https://archive.org/search?query=Daft%20Punk%20-%20Get%20Lucky+AND+collection%3Aetree"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "index": 20,
+  "method": "GET",
+  "endpoint": "https://globaldjmix.com/search-result",
+  "params": {
+    "search": "Solomun"
+  },
+  "status": 200,
+  "final_url": "https://globaldjmix.com/search-result?search=Solomun"
+}

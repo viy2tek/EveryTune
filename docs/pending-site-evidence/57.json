@@ -1,0 +1,22 @@
+{
+  "index": 57,
+  "name": "⁠Grime Archive",
+  "url": "https://www.grimearchive.org/",
+  "status": 200,
+  "final_url": "https://www.grimearchive.org/",
+  "title": "The Grime Archive",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/search",
+      "input_names": [
+        "title"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js",
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"
+  ],
+  "searchlinks": []
+}

@@ -1,0 +1,12 @@
+# Busca, cobertura e preferências
+
+Escopo autorizado: prioridades 1–4 da conversa. Sem prévia, conversão ou mudança na distribuição do FFprobe.
+
+- Cobertura: painel nos ajustes com contadores locais limitados às últimas 500 medições de cada tipo; taxa de buscas com áudio, tempo até o primeiro áudio, resultados por fonte e preparações concluídas/falhas. Não confundir preparação com salvamento pelo navegador. Uma lista editável de até 10 consultas permite comparar fontes usando o foco e a seleção atuais, em modo automático e sem transferir mídia. Cache é identificado; amostra não comprova catálogo inteiro nem autoria.
+- Diagnóstico: separar descarte por nomes/versões, ausência de áudio confirmado, erro e timeout na verificação. Catálogos e atalhos ignorados aparecem como diagnóstico, sem virarem resultados ou entrarem na contagem de faixas. Detalhes recolhidos por padrão.
+- Agrupamento: chave adicional por metadados completos de título, artista, tipo, versão e duração quando informada, inclusive no modo de exploração. Artistas desconhecidos ficam separados; preservam-se a ordem dos registros da fonte e os identificadores individuais. Igualdade de metadados não comprova identidade acústica; apresentar esse limite. Cada origem continua com seu próprio manifesto e seleção de arquivos; não criar um ZIP misturando origens nesta alteração.
+- Preferências: formato preferido, pacote original/ZIP e inclusão de imagens persistidos no perfil existente. Ao abrir um manifesto novo, marcar somente opções diretas do formato preferido e imagens opcionais; se o formato não existir, pedir escolha em vez de trocar silenciosamente. Sem preferência de formato, deixar áudios sem seleção automática. O usuário revisa e confirma; nunca iniciar download automaticamente. Originais selecionados geram preparações separadas.
+
+Alternativas: aumentar fontes sem medir não identifica ganho; telemetria externa não é necessária num app local; unir arquivos no backend exigiria nova semântica de autorização por origem. Reusar Store, Settings, rank, manifestos e a ponte DOM/HTTP existente reduz esse escopo. Markup e textos novos vêm do Bend 2 compilado usado pela aplicação; rede e disco permanecem Python.
+
+Validação: testes de diagnósticos, agregação/limites/persistência, nomes e versões, falhas isoladas, preferências e IDs enviados; navegador desktop/mobile; suíte existente; prova parcial Bend e executável novo. Requisitos 1–42 de LAWS.bend continuam comentários, não provas da aplicação.

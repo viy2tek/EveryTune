@@ -1,0 +1,4079 @@
+{
+  "checked_at": "2026-11-05T21:22:55+00:00",
+  "sections": [
+    "Download Sites",
+    "Genre Specific Ripping"
+  ],
+  "total": 124,
+  "completed": 124,
+  "complete": true,
+  "outcomes": {
+    "not_a_direct_music_search": 10,
+    "robots_disallowed": 21,
+    "no_public_get_search_observed": 16,
+    "html_search_mapping_observed": 16,
+    "search_connector_validated": 41,
+    "http_blocked": 2,
+    "robots_unavailable": 1,
+    "search_not_verified": 14,
+    "inspection_error": 3
+  },
+  "sources": [
+    {
+      "url": "https://rentry.co/wheredownloadmusic",
+      "name": "⁠Music Download Guide",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:15+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io",
+      "name": "Audio Download CSE",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:15+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w",
+      "name": "CSE 2",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:15+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://cse.google.com/cse?cx=32d85b41e2feacd3f",
+      "name": "CSE 3",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:15+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://lossless-music.org/",
+      "name": "Lossless-Music",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:15+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://lossless-music.org/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://flacattack.net/",
+      "name": "FLAC Attack",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:15+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://flacattack.net/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://getrockmusic.net/",
+      "name": "GetRockMusic",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:15+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://getrockmusic.net/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://sharemania.us/",
+      "name": "ShareMania",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:16+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 130611,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "A página anônima apresentou login e cadastro, sem pesquisa pública confirmada. Nenhuma conta foi criada."
+    },
+    {
+      "url": "https://alterportal.net/",
+      "name": "AlterPortal",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:16+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 149440,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "O formulário POST foi identificado, mas robots.txt restringe a pesquisa. Não foi habilitado um conector."
+    },
+    {
+      "url": "https://www7.iplusfree.org/",
+      "name": "iPlusFree",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:18+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 90040,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www7.iplusfree.org/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www7.iplusfree.org/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 79061,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "The Beatles – Now And Then – Single [iTunes Plus AAC M4A]",
+          "url": "https://www7.iplusfree.org/the-beatles-now-and-then-single-itunes-plus-aac-m4a/"
+        },
+        {
+          "title": "The Beatles – Revolver (Super Deluxe) [iTunes Plus AAC M4A]",
+          "url": "https://www7.iplusfree.org/the-beatles-revolver-super-deluxe-itunes-plus-aac-m4a/"
+        },
+        {
+          "title": "The Beatles – Revolver Sessions – Single [iTunes Plus AAC M4A]",
+          "url": "https://www7.iplusfree.org/the-beatles-revolver-sessions-single-itunes-plus-aac-m4a/"
+        }
+      ],
+      "preset_id": "custom_web_d02871ffde"
+    },
+    {
+      "url": "https://musicrider.org/",
+      "name": "Music Rider",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:18+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 112173,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://musicrider.org",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://musicrider.org?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 67687,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "The Beatles – Rubber Soul (Super Deluxe) (2026)",
+          "url": "https://musicrider.org/the-beatles-rubber-soul-super-deluxe-2026/"
+        },
+        {
+          "title": "Jah Wobble & Tian Qiyi – Mystic Liverpool: The Beatles Psychedelic Psongbook (2026)",
+          "url": "https://musicrider.org/jah-wobble-tian-qiyi-mystic-liverpool-the-beatles-psychedelic-psongbook-2026/"
+        },
+        {
+          "title": "The House Of Love – The Gift: Rehearsals & Live Recordings 1986-1988 (2026)",
+          "url": "https://musicrider.org/the-house-of-love-the-gift-rehearsals-live-recordings-1986-1988-2026/"
+        }
+      ],
+      "preset_id": "custom_web_5262b0d57a"
+    },
+    {
+      "url": "https://ccmixter.org/",
+      "name": "ccMixter",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:20+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 37581,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_ccmixter",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "love",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://musify.club/",
+      "name": "musify",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:20+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 612776,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "Homepage e robots.txt recusaram o acesso com HTTP 403 neste ambiente."
+    },
+    {
+      "url": "https://punkcata.blogspot.com/",
+      "name": "punk.cat",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:22+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://punkcata.blogspot.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://archive.org/details/audio",
+      "name": "Internet Archive",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:23+00:00",
+      "free_access": "not_verified",
+      "integration": "existing_builtin_adapter",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 2046,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "A fonte já está integrada pelo adaptador nativo Internet Archive; não foi duplicada.",
+      "preset_id": "archive"
+    },
+    {
+      "url": "https://ezhevika.blogspot.com/",
+      "name": "Ezhevika",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:22+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 394252,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_ezhevika",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Halifax",
+        "matches": 1,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://www.soundclick.com/default.cfm",
+      "name": "SoundClick",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:23+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 403,
+      "content_type": "text/html",
+      "redirects": [],
+      "outcome": "http_blocked"
+    },
+    {
+      "url": "https://songslover.net/",
+      "name": "SongsLover",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:22+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 213435,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://songslover.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://songslover.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://songslover.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://songslover.net/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 123359,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "MF DOOM & The Beatles – Sgt. Dumile’s Lonely Hearts Club Band",
+          "url": "https://songslover.net/albums/mf-doom-the-beatles-sgt-dumiles-lonely-hearts-club-band.html"
+        },
+        {
+          "title": "Eric Bellinger – Black Beatles",
+          "url": "https://songslover.net/video/eric-bellinger-black-beatles.html"
+        },
+        {
+          "title": "Nicki Minaj – Black Barbies (Black Beatles Remix)",
+          "url": "https://songslover.net/tracks/nicki-minaj-black-barbies-black-beatles-remix.html"
+        }
+      ],
+      "preset_id": "custom_web_b4f1a48023"
+    },
+    {
+      "url": "https://t.me/+wdUhO_yV_A5lM2E5",
+      "name": "",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:25+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://leaked.cx/",
+      "name": "LEAKED",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:25+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 114052,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "O catálogo do fórum foi exibido, mas nenhuma busca pública para visitantes foi confirmada. Não foi feito login."
+    },
+    {
+      "url": "https://newalbumreleases.net/",
+      "name": "New Album Releases",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:26+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://newalbumreleases.net/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://exystence.net/",
+      "name": "Exystence",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:16+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 159064,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://exystence.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://exystence.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://exystence.net/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 136940,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "The Beatles – Rubber Soul (Super Deluxe) (2026)",
+          "url": "https://exystence.net/blog/2026/10/01/the-beatles-rubber-soul-super-deluxe-2026/"
+        },
+        {
+          "title": "Jah Wobble & Tian Qiyi – Mystic Liverpool: The Beatles Psychedelic Psongbook (2026)",
+          "url": "https://exystence.net/blog/2026/08/16/jah-wobble-tian-qiyi-mystic-liverpool-the-beatles-psychedelic-psongbook-2026/"
+        },
+        {
+          "title": "VA – With a Little Help from My Friends: Covers of The Beatles 1967-1970 (2025)",
+          "url": "https://exystence.net/blog/2026/04/22/va-with-a-little-help-from-my-friends-covers-of-the-beatles-1967-1970-2025/"
+        }
+      ],
+      "preset_id": "custom_web_d87da2b843"
+    },
+    {
+      "url": "https://tancpol.net/",
+      "name": "Tancpol",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:26+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://tancpol.net/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://mixupload.com/",
+      "name": "Mixupload",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:27+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://mixupload.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://canna.to/?lang=eng",
+      "name": "Canna",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:18+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 221438,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_canna",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Abba",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://xprm.net/",
+      "name": "xprm",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:29+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://xprm.net/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://zvu4it.org/",
+      "name": "zvu4no",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:28+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 141063,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "A pesquisa /tracks/{termo} funciona, mas só foram observados links de artista e URLs diretas de mídia, sem página estável de cada registro. Nenhum áudio foi requisitado."
+    },
+    {
+      "url": "https://www.midicities.com/GeoCities",
+      "name": "Geocities MIDIs",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:29+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 11288,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_geocities_midis",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "titanic",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://discord.gg/kQUQkuwSaT",
+      "name": "Music Hoarders",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:30+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "http://artscene.textfiles.com/music/midi/",
+      "name": "ArtScene",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:30+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html;charset=iso-8859-1",
+      "redirects": [],
+      "bytes_read": 1375,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "A página é um índice de diretórios e arquivos; nenhuma busca textual no servidor foi observada. Não foi feita varredura recursiva."
+    },
+    {
+      "url": "https://www.vgmusic.com/",
+      "name": "VGMusic",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:30+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 19955,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "Foram observadas categorias e seleção aleatória; nenhuma busca textual no servidor foi confirmada."
+    },
+    {
+      "url": "https://www.tricotism.com/",
+      "name": "Tricotism",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:29+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 2945,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "Página estática sem formulário de pesquisa confirmado."
+    },
+    {
+      "url": "https://rapload.org/",
+      "name": "Rapload",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:32+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 13350,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_rapload",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Nas",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://goldhiphop.pro/",
+      "name": "GoldHipHop",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:32+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 403,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "outcome": "http_blocked"
+    },
+    {
+      "url": "https://rentry.co/FMHYB64#mixtape-collections",
+      "name": "Mixtape Collections",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:34+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://www.certifiedmixtapez.com/",
+      "name": "⁠Certified Mixtapez",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:33+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 31622,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_certifiedmixtapez",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Gucci",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://elektrobeats.org/",
+      "name": "⁠ELEKTROBEATS",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:36+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://elektrobeats.org/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://hipstrumentals.com/",
+      "name": "Hipstrumentals",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:34+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 135950,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://hipstrumentals.com/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://hipstrumentals.com/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://hipstrumentals.com/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 103064,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "The Beatles – Because (Instrumental) (Prod. By George Martin)",
+          "url": "https://hipstrumentals.com/2025/02/the-beatles-because-instrumental-prod-by-george-martin/"
+        },
+        {
+          "title": "Rae Sremmurd – Black Beatles (Instrumental)",
+          "url": "https://hipstrumentals.com/2022/04/rae-sremmurd-feat-gucci-mane-black-beatles-instrumental/"
+        },
+        {
+          "title": "IDK – Jelly (Instrumental) (Prod. By IDK & Blue Rondo)",
+          "url": "https://hipstrumentals.com/2026/10/idk-jelly-instrumental-prod-by-idk-blue-rondo/"
+        }
+      ],
+      "preset_id": "custom_web_fb11b0edbb"
+    },
+    {
+      "url": "https://mypromosound.com/",
+      "name": "MyPromoSound",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:39+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://mypromosound.com/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://edmwaves.org/",
+      "name": "EDMWaves",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:36+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 90230,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://edmwaves.org/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://edmwaves.org/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 84658,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Chicane – Love, Love, Love – Here I Come – Day One – Beatless Mixes [ARMAS3265]",
+          "url": "https://edmwaves.org/2025/05/03/chicane-love-love-love-here-i-come-day-one-beatless-mixes-armas3265/"
+        },
+        {
+          "title": "Chicane – Watching Over Me – Epilogue – Beatless Mixes [ARMAS3243]",
+          "url": "https://edmwaves.org/2025/04/18/chicane-watching-over-me-epilogue-beatless-mixes-armas3243/"
+        },
+        {
+          "title": "Cafe Del Mar, Nookie – Beyond Eternity [CDM-2026-91]",
+          "url": "https://edmwaves.org/2026/09/11/cafe-del-mar-nookie-beyond-eternity-cdm-2026-91/"
+        }
+      ],
+      "preset_id": "custom_web_c08f92175f"
+    },
+    {
+      "url": "https://reddit.com/r/xTrill",
+      "name": "r/xTrill",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:41+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://reddit.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://reddit.com/r/xTrillBackup",
+      "name": "Backup",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:41+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://reddit.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://electronicfresh.com/",
+      "name": "ElectronicFresh",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:41+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://electronicfresh.com/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://canna-power.to",
+      "name": "CannaPower",
+      "sections": [
+        "Download Sites"
+      ],
+      "checked_at": "2026-11-05T18:56:27+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 221967,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_cannapower",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Abba",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://1techno.org/",
+      "name": "1Techno",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:44+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 69260,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "A busca observada redireciona para uma rota restringida por robots.txt. O redirecionamento não foi usado como contorno."
+    },
+    {
+      "url": "https://rentry.co/FMHYB64#ovpn-dj-mixes",
+      "name": "oVPN DJ Mixes",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:45+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://gabber.od.ua/",
+      "name": "Gabber",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:35+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 40651,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_gabber",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Angerfist",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://loa2k.neocities.org/",
+      "name": "LOA2K",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:46+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 562867,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "Índice estático de arquivos e pastas, sem ferramenta de busca pública confirmada."
+    },
+    {
+      "url": "https://essentialhouse.club/",
+      "name": "EssentialHouse",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:41+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 166188,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://essentialhouse.club/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://essentialhouse.club/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://essentialhouse.club/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 129465,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "K@M – With The Beatles / Xcape Rhythm Records",
+          "url": "https://essentialhouse.club/2020/04/km-with-the-beatles-xcape-rhythm-records/"
+        },
+        {
+          "title": "Dave Spoon – Sunrise (Deetron Soleil AM Remix) on Big Love",
+          "url": "https://essentialhouse.club/2026/08/dave-spoon-sunrise-deetron-soleil-am-remix-on-big-love/"
+        },
+        {
+          "title": "Jon Mavek, Charles Turner – Change Is Forever: The Remixes on Mavek Recordings",
+          "url": "https://essentialhouse.club/2026/07/jon-mavek-charles-turner-change-is-forever-the-remixes-on-mavek-recordings/"
+        }
+      ],
+      "preset_id": "custom_web_2d78815b16"
+    },
+    {
+      "url": "https://getmetal.club/",
+      "name": "GetMetal Club",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:48+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://getmetal.club/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://nuclear-holocaust.blogspot.com/",
+      "name": "Nuclear Holocaust",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:48+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://nuclear-holocaust.blogspot.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://nuvaporwave.neocities.org/mirrors",
+      "name": "Nu Guide",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:46+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [
+        {
+          "url": "https://nuvaporwave.neocities.org/mirrors.html",
+          "status": 301
+        }
+      ],
+      "bytes_read": 2704,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "Lista estática de espelhos; nenhuma pesquisa musical no servidor foi confirmada."
+    },
+    {
+      "url": "https://globaldjmix.com/",
+      "name": "GlobalDJMix",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:44+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 159278,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_globaldjmix",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Solomun",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://dance-music.org/",
+      "name": "DMO",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:39+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 263903,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "O navegador não renderizou campos de pesquisa; a referência a um formulário nos scripts não comprovou um mecanismo utilizável."
+    },
+    {
+      "url": "https://we-need-match.ru/",
+      "name": "We Need Match",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:48+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "redirects": [],
+      "bytes_read": 232844,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "reason": "Busca GET positiva e termo inexistente conferidos; intervalo de 60 segundos entre consultas.",
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_we_need_match",
+      "validation": {
+        "query": "Metallica",
+        "matches": 1,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://josephbarulho.blogspot.com/",
+      "name": "Cova-Argh!!!!",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:49+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 252477,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_josephbarulho",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Destruction",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://in-the-fog.ru/",
+      "name": "In The Fog",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:51+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_unavailable",
+      "robots_url": "https://in-the-fog.ru/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://heavymetalrarities.com/",
+      "name": "HeavyMetalRarities",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:52+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://heavymetalrarities.com/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://fpftp.blogspot.com/",
+      "name": "F.P.F.T.P.",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:56+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://fpftp.blogspot.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://urbanaspirines.blogspot.com/",
+      "name": "⁠Urban Asprines",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:55+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 943891,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_urbanaspirines",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "John",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://paradiseofgaragecomps.blogspot.com/",
+      "name": "⁠Paradise of Garage Comps",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:56+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 488299,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_paradiseofgaragecomps",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Reuploads",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://www.kpopflac.xyz/",
+      "name": "KPopFLAC",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:58+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://www.kpopflac.xyz/robots.txt",
+      "robots_http_status": 403,
+      "redirects": []
+    },
+    {
+      "url": "https://www.systemsofromance.com/blog/",
+      "name": "⁠Systems of Romance",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:47+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 74705,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_systems_of_romance",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "coldwave",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://classical-music-download.com/",
+      "name": "Classical Music Download",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:59+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 85947,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_classical_music_download",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Bach",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://rabanetecomquiabo.blogspot.com/",
+      "name": "chucrute com quiabo",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:59+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://rabanetecomquiabo.blogspot.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://foggynotion-flac.blogspot.com/",
+      "name": "FoggyNotion",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:59+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://foggynotion-flac.blogspot.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://meetinginmusic.blogspot.com/",
+      "name": "MeetingInMusic",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:59+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": null,
+      "outcome": "robots_disallowed",
+      "robots_url": "https://meetinginmusic.blogspot.com/robots.txt",
+      "robots_http_status": 200,
+      "redirects": []
+    },
+    {
+      "url": "https://rentry.co/FMHYB64#bluegrass-archive",
+      "name": "Bluegrass Archive",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:00+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://archive.org/details/davidwnivenjazz",
+      "name": "David W. Niven Collection",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:00+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 2046,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "A coleção pode ser encontrada no Internet Archive já integrado. Não foi criado um conector com filtro exclusivo desta coleção."
+    },
+    {
+      "url": "https://www.flatblackandclassical.com/",
+      "name": "FlatblackAndClassical",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:56:59+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 138694,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_flatblackandclassical",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Dagar",
+        "matches": 2,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://music-republic-world-traditional.blogspot.com/",
+      "name": "MusicRepublic",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:00+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 337574,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_music_republic_world_traditional",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "ANGOLA",
+        "matches": 3,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://nathannothinsez.blogspot.com/",
+      "name": "⁠Nothin' Sez Somethin'",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:00+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 647722,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_nathannothinsez",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Musick",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://inconstantsol.blogspot.com/",
+      "name": "inconstant sol",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:00+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 591412,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_inconstantsol",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "What",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://rentry.co/FMHYB64#bootleg-radioclash",
+      "name": "Bootleg Radioclash",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:02+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "not_a_direct_music_search",
+      "reason": "Guide, community, repository or search index; not a music website connector."
+    },
+    {
+      "url": "https://toneandwave.blogspot.com/",
+      "name": "⁠Tone and Wave",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:00+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 451047,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_toneandwave",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Sparker",
+        "matches": 2,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://archive.org/details/noise-arch",
+      "name": "The Noise-Arch Archive",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:02+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 2046,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "A coleção pode ser encontrada no Internet Archive já integrado. Não foi criado um conector com filtro exclusivo desta coleção."
+    },
+    {
+      "url": "https://madrotter-treasure-hunt.blogspot.com/",
+      "name": "madrotter-treasure-hunt",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:01+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 1000000,
+      "truncated": true,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_fed_a50d4a54a4",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "APOLLO",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://tapeattack.blogspot.com/",
+      "name": "⁠Tape Attack",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:02+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 235054,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_fed_f34b86bf6d",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Glenn",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "http://www.kiddierecords.com/",
+      "name": "Kiddie Records",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "checked_at": "2026-11-05T18:57:03+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 4753,
+      "truncated": false,
+      "outcome": "no_public_get_search_observed",
+      "forms": [],
+      "reason": "Catálogo estático observado, sem formulário de busca pública confirmado."
+    },
+    {
+      "url": "https://intmusic.net/",
+      "name": "IntMusic",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://intmusic.net/",
+      "checked_at": "2026-11-05T19:00:05+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 68650,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://intmusic.net",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://intmusic.net?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 70201,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "The Beatles – Complete Christmas Collection (1992)",
+          "url": "https://intmusic.net/322429/the-beatles-complete-christmas-collection-1992"
+        },
+        {
+          "title": "The Beatles – Rubber Soul (Super Deluxe) (2026)",
+          "url": "https://intmusic.net/322203/the-beatles-rubber-soul-super-deluxe-2026"
+        },
+        {
+          "title": "The Beatles – The Warmth And The Freshness (2013)",
+          "url": "https://intmusic.net/320803/the-beatles-the-warmth-and-the-freshness-2013"
+        }
+      ],
+      "preset_id": "custom_web_9237b6cbf7"
+    },
+    {
+      "url": "https://losslessalbums.club/",
+      "name": "LosslessAlbums",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://losslessalbums.club/",
+      "checked_at": "2026-11-05T19:00:05+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 100970,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [],
+      "initial_outcome": "no_public_get_search_observed",
+      "preset_id": "custom_fed_4ccff89824",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Computerwife",
+        "matches": 3,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://oldschoolmetalmusicz.blogspot.com/",
+      "name": "⁠Old School Metal Music",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "metal",
+      "requested_url": "https://oldschoolmetalmusicz.blogspot.com/",
+      "checked_at": "2026-11-05T19:00:15+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 704775,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://oldschoolmetalmusicz.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://oldschoolmetalmusicz.blogspot.com/search?q=Metallica",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 656940,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Metallica"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Metal Mania - 4  Best of Metallica",
+          "url": "https://oldschoolmetalmusicz.blogspot.com/2021/05/metal-mania-4-best-of-metallica.html"
+        }
+      ],
+      "preset_id": "custom_web_8a8ad82469"
+    },
+    {
+      "url": "https://metalminos.net/",
+      "name": "Metalminos",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "metal",
+      "requested_url": "https://metalminos.net/",
+      "checked_at": "2026-11-05T19:00:15+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 169429,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://metalminos.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://metalminos.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://metalminos.net/?s=Metallica",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 174493,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Metallica"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Metallica Discography Download MP3 320kbps",
+          "url": "https://metalminos.net/metallica-discography-download-mp3-v1/"
+        },
+        {
+          "title": "Metallica – Load (Remastered) MP3 320kbps (2025)",
+          "url": "https://metalminos.net/metallica-load-remastered-mp3-320kbps-2025/"
+        },
+        {
+          "title": "Metallica And San Francisco Symphony Orchestra – S&M2 DVD9 (2020)",
+          "url": "https://metalminos.net/metallica-and-san-francisco-symphony-orchestra-sm-2-dvd9/"
+        }
+      ],
+      "preset_id": "custom_web_eadcc74fc6"
+    },
+    {
+      "url": "https://themfire.pro/",
+      "name": "ThemFire",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://themfire.pro/",
+      "checked_at": "2026-11-05T19:14:54+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 231636,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://themfire.pro/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://themfire.pro/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 131206,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Gabriel Le Mar – Shared Fictions (Beatless Mixes)",
+          "url": "https://themfire.pro/ambient_downtempo/gabriel-le-mar-shared-fictions-beatless-mixes"
+        },
+        {
+          "title": "Carl Craig – Versus Beatless Versions",
+          "url": "https://themfire.pro/electronic/carl-craig-versus-beatless-versions"
+        },
+        {
+          "title": "Eeze – In Flight Entertainment (Blissed Out Beatless Versions)",
+          "url": "https://themfire.pro/ambient_downtempo/eeze-in-flight-entertainment-blissed-out-beatless-versions"
+        }
+      ],
+      "preset_id": "custom_web_5decf63d62"
+    },
+    {
+      "url": "https://www.fondsound.com/",
+      "name": "FondSound",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://www.fondsound.com/",
+      "checked_at": "2026-11-05T19:15:08+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 142575,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.fondsound.com/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.fondsound.com/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 141578,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Review 音",
+          "url": "https://www.fondsound.com/the-beatles-strawberry-fields-foreverpenny-lane-1967/"
+        },
+        {
+          "title": "The Beatles: Strawberry Fields Forever/Penny Lane (1967)",
+          "url": "https://www.fondsound.com/the-beatles-strawberry-fields-foreverpenny-lane-1967/"
+        },
+        {
+          "title": "Album",
+          "url": "https://www.fondsound.com/lisa-ono-%e5%b0%8f%e9%87%8e%e3%83%aa%e3%82%b5-%e3%82%a8%e3%83%83%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%a2-essencia-1997/"
+        }
+      ],
+      "preset_id": "custom_web_9260a78439"
+    },
+    {
+      "url": "https://1gabba.pw/",
+      "name": "1Gabba",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "electronic",
+      "requested_url": "https://1gabba.pw/",
+      "checked_at": "2026-11-05T19:15:01+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 100300,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://1gabba.pw/frontpage",
+          "inputs": [
+            "title"
+          ],
+          "search_inputs": [
+            "title"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://1gabba.pw/frontpage?title=Tiesto",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 52910,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Tiesto"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Tiesto - Traffic (Longtimemixer Bootleg)",
+          "url": "/node/87341/tiesto-traffic-longtimemixer-bootleg"
+        },
+        {
+          "title": "Tiesto_-_Drifting_(Wildstylez_Extended_Remix)-WEB-2024",
+          "url": "/node/81435/tiesto-drifting-wildstylez-extended-remix-web-2024"
+        },
+        {
+          "title": "Dimitri_Vegas_and_Like_Mike_and_Tiesto_-_Thank_You_(Not_So_Bad)_(Basswar_and_Caox_Hardstyle_Bootleg)-WEB-2024-SPiDeR",
+          "url": "/node/76545/dimitri-vegas-and-like-mike-and-tiesto-thank-you-not-so-bad-basswar-and-caox-hardstyle-bootleg-web"
+        }
+      ],
+      "preset_id": "custom_web_258b795d84"
+    },
+    {
+      "url": "https://www.discogc.com/",
+      "name": "DiscogC",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://www.discogc.com/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 109077,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.discogc.com/#",
+          "inputs": [
+            "phrase",
+            "phrase"
+          ],
+          "search_inputs": [
+            "phrase"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.discogc.com/?phrase=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 109061,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "reason": "Falha ao verificar robots.txt na nova tentativa; sem conector habilitado."
+    },
+    {
+      "url": "https://nodata.tv/",
+      "name": "nodata",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://nodata.tv/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 57811,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://nodata.tv",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://nodata.tv?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 72877,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_a113644fe2",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Bowie",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://www.discografias-completas.org/",
+      "name": "Discografias Completas",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://www.discografias-completas.org/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 85173,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.discografias-completas.org/#",
+          "inputs": [
+            "phrase",
+            "phrase"
+          ],
+          "search_inputs": [
+            "phrase"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.discografias-completas.org/?phrase=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 85180,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        },
+        {
+          "url": "https://www.discografias-completas.org/?phrase=Fort+Minor+320+Kbps+%5BMEGA%5D",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 85249,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Fort Minor 320 Kbps [MEGA]"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Fort Minor 320 Kbps [MEGA]",
+          "url": "https://www.discografias-completas.org/fort-minor-320-kbps-mega/"
+        },
+        {
+          "title": "Night Ranger 320 Kbps [MEGA]",
+          "url": "https://www.discografias-completas.org/night-ranger-320-kbps-mega/"
+        },
+        {
+          "title": "Chimaira 320 Kbps [MEGA]",
+          "url": "https://www.discografias-completas.org/chimaira-320-kbps-mega/"
+        }
+      ],
+      "preset_id": "custom_web_dae4eed600"
+    },
+    {
+      "url": "https://freemp3cloud.com/",
+      "name": "FreeMP3Cloud",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://freemp3cloud.com/",
+      "checked_at": "2026-11-05T19:17:28+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "outcome": "inspection_error",
+      "error": "gaierror"
+    },
+    {
+      "url": "https://www.rockdownload.org/",
+      "name": "RockDownload",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "rock",
+      "requested_url": "https://www.rockdownload.org/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 87479,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.rockdownload.org/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://www.rockdownload.org/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.rockdownload.org/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 87479,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        },
+        {
+          "url": "https://www.rockdownload.org/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 87479,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "reason": "Busca preenchida no navegador da própria fonte retornou zero ocorrências de Metallica e a lista recente de Placebo. Filtragem não validada neste ambiente; não é um problema resolvido apenas por executar JavaScript."
+    },
+    {
+      "url": "https://www.flacmusic.info/",
+      "name": "FlacMusic",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://www.flacmusic.info/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 134144,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.flacmusic.info/index.php",
+          "inputs": [
+            "story",
+            "do",
+            "subaction"
+          ],
+          "search_inputs": [
+            "story"
+          ],
+          "fixed_params": {
+            "do": "search",
+            "subaction": "search"
+          }
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.flacmusic.info/index.php?do=search&subaction=search&story=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 107972,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_4bd247adc4",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Beatles",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://z3.fm/",
+      "name": "z3.fm",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://z3.fm/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 367504,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://z3.fm/mp3/search",
+          "inputs": [
+            "keywords",
+            "yt0"
+          ],
+          "search_inputs": [
+            "keywords"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://z3.fm/mp3/search?keywords=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 190937,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "reason": "Endpoint de busca observado retornou HTTP 502; resposta de resultados não validada."
+    },
+    {
+      "url": "https://mp3db.pro/",
+      "name": "mp3db",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://mp3db.pro/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=windows-1251",
+      "redirects": [],
+      "bytes_read": 60363,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://mp3db.pro/search.php",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://mp3db.pro/search.php?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=windows-1251",
+          "redirects": [],
+          "bytes_read": 24102,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "reason": "Falha de conexão na inspeção; busca não validada."
+    },
+    {
+      "url": "https://www.deadpulpit.com/",
+      "name": "DeadPulpit",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://www.deadpulpit.com/",
+      "checked_at": "2026-11-05T19:17:28+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 1000000,
+      "truncated": true,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.deadpulpit.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.deadpulpit.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://www.deadpulpit.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_d2502d0890",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "SCRAPE",
+        "matches": 4,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://butterboycompilations.blogspot.com/",
+      "name": "⁠Butterboy Compilations",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://butterboycompilations.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:28+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 254056,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://butterboycompilations.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://butterboycompilations.blogspot.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://butterboycompilations.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_fffec4cd01",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Hope",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://musichoarders.xyz/",
+      "name": "Wiki",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://musichoarders.xyz/",
+      "checked_at": "2026-11-05T19:17:29+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html",
+      "redirects": [],
+      "bytes_read": 29945,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://musichoarders.xyz/",
+          "inputs": [
+            "query"
+          ],
+          "search_inputs": [
+            "query"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://musichoarders.xyz/?query=Beatles",
+          "status": 200,
+          "content_type": "text/html",
+          "redirects": [],
+          "bytes_read": 29945,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "reason": "Wiki de ferramentas e documentação; não foi confirmado um catálogo de músicas pesquisável."
+    },
+    {
+      "url": "https://primitiveofferings.blogspot.com/",
+      "name": "⁠Primitive Offerings",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://primitiveofferings.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:28+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 498086,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://primitiveofferings.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://primitiveofferings.blogspot.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://primitiveofferings.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_ef84abba30",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "various",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://hiphopa.net/",
+      "name": "HipHopa",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "hip hop",
+      "requested_url": "https://hiphopa.net/",
+      "checked_at": "2026-11-05T19:17:30+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 88551,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://hiphopa.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://hiphopa.net/?s=Eminem",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://hiphopa.net/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Eminem"
+        }
+      ],
+      "reason": "robots.txt impede a consulta de pesquisa observada."
+    },
+    {
+      "url": "https://freemidi.org/",
+      "name": "FreeMIDI",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://freemidi.org/",
+      "checked_at": "2026-11-05T19:17:29+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 157257,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://freemidi.org/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        },
+        {
+          "method": "get",
+          "action": "https://freemidi.org/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://freemidi.org/search?q=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 155010,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        },
+        {
+          "url": "https://freemidi.org/search?q=new+midi",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 153995,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "new midi"
+        },
+        {
+          "url": "https://freemidi.org/search?q=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 14233,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        },
+        {
+          "url": "https://freemidi.org/search?q=new+midi",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 13217,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "new midi"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_449990f36e",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Beatles",
+        "matches": 2,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://dezflight-underground.com/",
+      "name": "Dez Flight Underground",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "hip hop",
+      "requested_url": "https://dezflight-underground.com/",
+      "checked_at": "2026-11-05T19:17:30+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 79110,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://dezflight-underground.com/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://dezflight-underground.com/?s=Eminem",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://dezflight-underground.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Eminem"
+        }
+      ],
+      "reason": "robots.txt impede a consulta de pesquisa observada."
+    },
+    {
+      "url": "https://ektoplazm.com/",
+      "name": "Ektoplazm",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "electronic",
+      "requested_url": "https://ektoplazm.com/",
+      "checked_at": "2026-11-05T19:17:31+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 42883,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://ektoplazm.com/index.php",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://ektoplazm.com/index.php?s=Tiesto",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://ektoplazm.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Tiesto"
+        }
+      ],
+      "reason": "robots.txt impede a consulta de pesquisa observada."
+    },
+    {
+      "url": "https://ktimusic.blogspot.com/",
+      "name": "KTI Music",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "electronic",
+      "requested_url": "https://ktimusic.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:31+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 230695,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://ktimusic.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://ktimusic.blogspot.com/search?q=Tiesto",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://ktimusic.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Tiesto"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_ea5a9f3554",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Remix",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://rap-war-fam.blogspot.com/",
+      "name": "Rap War",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "hip hop",
+      "requested_url": "https://rap-war-fam.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:30+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 256908,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://rap-war-fam.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://rap-war-fam.blogspot.com/search?q=Eminem",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 279764,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Eminem"
+        },
+        {
+          "url": "https://rap-war-fam.blogspot.com/search?q=Sites+%26+The+Kid",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 147910,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Sites & The Kid"
+        }
+      ],
+      "examples": [
+        {
+          "title": "Sites & The Kid - Mind State (2026)",
+          "url": "https://rap-war-fam.blogspot.com/2026/11/sites-kid-mind-state-2026.html"
+        }
+      ],
+      "preset_id": "custom_web_65ad9057cd"
+    },
+    {
+      "url": "https://dieordiy2.blogspot.com/",
+      "name": "⁠Die or DIY",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "electronic",
+      "requested_url": "https://dieordiy2.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:32+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 590552,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://dieordiy2.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://dieordiy2.blogspot.com/search?q=Tiesto",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://dieordiy2.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Tiesto"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_4154642616",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Various",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://1trance.org/",
+      "name": "1Trance",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://1trance.org/",
+      "checked_at": "2026-11-05T19:17:32+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 66456,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://1trance.org/search/node",
+          "inputs": [
+            "keys"
+          ],
+          "search_inputs": [
+            "keys"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://1trance.org/search/node?keys=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://1trance.org/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "reason": "Formulário /f observado; a consulta não completou dentro do limite da inspeção."
+    },
+    {
+      "url": "https://psyfp.ucoz.ru/",
+      "name": "PSYFP",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "electronic",
+      "requested_url": "https://psyfp.ucoz.ru/",
+      "checked_at": "2026-11-05T19:17:32+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 117637,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://psyfp.ucoz.ru/search/",
+          "inputs": [
+            "q",
+            "sfSbm",
+            "t"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {
+            "t": "0"
+          }
+        },
+        {
+          "method": "get",
+          "action": "https://psyfp.ucoz.ru/search/",
+          "inputs": [
+            "q",
+            "sfSbm",
+            "t"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {
+            "t": "0"
+          }
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://psyfp.ucoz.ru/search/?t=0&q=Tiesto",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://psyfp.ucoz.ru/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Tiesto"
+        },
+        {
+          "url": "https://psyfp.ucoz.ru/search/?t=0&q=Tiesto",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://psyfp.ucoz.ru/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Tiesto"
+        }
+      ],
+      "reason": "robots.txt impede a consulta de pesquisa observada."
+    },
+    {
+      "url": "https://www.grimearchive.org/",
+      "name": "⁠Grime Archive",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://www.grimearchive.org/",
+      "checked_at": "2026-11-05T19:17:33+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 15253,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.grimearchive.org/search",
+          "inputs": [
+            "title"
+          ],
+          "search_inputs": [
+            "title"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.grimearchive.org/search?title=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 1968,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_111401798a",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Wiley",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://forwardwiththesong.blogspot.com/",
+      "name": "⁠With The Song Of Life",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://forwardwiththesong.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:33+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 741598,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://forwardwiththesong.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://forwardwiththesong.blogspot.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://forwardwiththesong.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_55cee8fe7f",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Stafford",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://technicaldeathmetal.org/",
+      "name": "TechnicalDeathMetal",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "metal",
+      "requested_url": "https://technicaldeathmetal.org/",
+      "checked_at": "2026-11-05T19:17:33+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 106224,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://technicaldeathmetal.org/",
+          "inputs": [
+            "s",
+            "search"
+          ],
+          "search_inputs": [
+            "s",
+            "search"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://technicaldeathmetal.org/?s=Metallica",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://technicaldeathmetal.org/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Metallica"
+        }
+      ],
+      "reason": "Não foi possível verificar robots.txt na nova tentativa."
+    },
+    {
+      "url": "https://sophiesfloorboard.blogspot.com/",
+      "name": "Sophie's Floorboard",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://sophiesfloorboard.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:34+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 413085,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://sophiesfloorboard.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://sophiesfloorboard.blogspot.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://sophiesfloorboard.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_671986d195",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Heavens",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://www.progrockvintage.com/",
+      "name": "ProgRockVintage",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "rock",
+      "requested_url": "https://www.progrockvintage.com/",
+      "checked_at": "2026-11-05T19:17:34+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 318847,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://www.progrockvintage.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://www.progrockvintage.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://www.progrockvintage.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_eb991fa4d0",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "DROSSELBART",
+        "matches": 1,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://94hiphop.com/",
+      "name": "HQ Hip Hop",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "hip hop",
+      "requested_url": "https://94hiphop.com/",
+      "checked_at": "2026-11-05T19:17:30+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 640514,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://94hiphop.com/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://94hiphop.com/?s=Eminem",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 641056,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Eminem"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_91354dbc18",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Nas",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://takemetal.org/",
+      "name": "Take Metal",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "metal",
+      "requested_url": "https://takemetal.org/",
+      "checked_at": "2026-11-05T19:17:33+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 168319,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://takemetal.org",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://takemetal.org?s=Metallica",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 136377,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Metallica"
+        },
+        {
+          "url": "https://takemetal.org?s=Polderhaat",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 99053,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Polderhaat"
+        }
+      ],
+      "reason": "Não foi possível verificar robots.txt na nova tentativa."
+    },
+    {
+      "url": "https://aboutdiscowithlove.blogspot.com/",
+      "name": "aboutdisco",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://aboutdiscowithlove.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:36+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 119339,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://aboutdiscowithlove.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://aboutdiscowithlove.blogspot.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://aboutdiscowithlove.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_e96ef97a26",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Convertible",
+        "matches": 1,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://kpopdownloadscmm.blogspot.com/",
+      "name": "KPopMusicDownload",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "pop",
+      "requested_url": "https://kpopdownloadscmm.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:36+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 292687,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://kpopdownloadscmm.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://kpopdownloadscmm.blogspot.com/search?q=Madonna",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://kpopdownloadscmm.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Madonna"
+        }
+      ],
+      "reason": "O feed público retornou uma resposta não JSON; a pesquisa não foi validada."
+    },
+    {
+      "url": "https://lostsongshc.blogspot.com/",
+      "name": "Lost Songs",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://lostsongshc.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:35+00:00",
+      "free_access": "anonymous_search_response_observed",
+      "integration": "public_html_mapping_needs_runtime_check",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 326524,
+      "truncated": false,
+      "outcome": "html_search_mapping_observed",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://lostsongshc.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://lostsongshc.blogspot.com/search?q=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 79805,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        },
+        {
+          "url": "https://lostsongshc.blogspot.com/search?q=88+Miles+Per+Hour",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 75366,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "88 Miles Per Hour"
+        }
+      ],
+      "examples": [
+        {
+          "title": "88 Miles Per Hour - 2004 - Are You Listening?",
+          "url": "https://lostsongshc.blogspot.com/2026/11/88-miles-per-hour-2004-are-you-listening.html"
+        }
+      ],
+      "preset_id": "custom_web_8d99a7ea25"
+    },
+    {
+      "url": "https://burningtheground.net/",
+      "name": "BurningTheGround",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://burningtheground.net/",
+      "checked_at": "2026-11-05T19:17:35+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 286360,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://burningtheground.net/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://burningtheground.net/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 242068,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_b963b1a376",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Madonna",
+        "matches": 4,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://tsquareplaza.blogspot.com/",
+      "name": "The T-SQUARE Plaza",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "jazz",
+      "requested_url": "https://tsquareplaza.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:39+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 203210,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://tsquareplaza.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://tsquareplaza.blogspot.com/search?q=Miles+Davis",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://tsquareplaza.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Miles Davis"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_fcee38b372",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "VOYAGE",
+        "matches": 5,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://jazznblues.club/",
+      "name": "JazznBlues",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "jazz",
+      "requested_url": "https://jazznblues.club/",
+      "checked_at": "2026-11-05T19:17:39+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 55014,
+      "truncated": false,
+      "outcome": "search_not_verified",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://jazznblues.club/search.php?sid=dcd23e68d941f8a8b7aa440d5ba10853",
+          "inputs": [
+            "keywords",
+            "sid"
+          ],
+          "search_inputs": [
+            "keywords"
+          ],
+          "fixed_params": {
+            "sid": "dcd23e68d941f8a8b7aa440d5ba10853"
+          }
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://jazznblues.club/search.php?sid=dcd23e68d941f8a8b7aa440d5ba10853&keywords=Miles+Davis",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://jazznblues.club/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Miles Davis"
+        }
+      ],
+      "reason": "robots.txt impede a busca do fórum; não foram utilizados cookies ou sessão de login."
+    },
+    {
+      "url": "https://1000flights.blogspot.com/",
+      "name": "⁠1000 Flights",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://1000flights.blogspot.com/",
+      "checked_at": "2026-11-05T19:17:39+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 209976,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://1000flights.blogspot.com/search",
+          "inputs": [
+            "q"
+          ],
+          "search_inputs": [
+            "q"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://1000flights.blogspot.com/search?q=Beatles",
+          "status": null,
+          "outcome": "robots_disallowed",
+          "robots_url": "https://1000flights.blogspot.com/robots.txt",
+          "robots_http_status": 200,
+          "redirects": [],
+          "query": "Beatles"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_5074d94813",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "DISCIPLINA",
+        "matches": 1,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://tomlehrersongs.com/",
+      "name": "Tom Lehrer Songs",
+      "sections": [
+        "Genre Specific Ripping"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://tomlehrersongs.com/",
+      "checked_at": "2026-11-05T19:17:39+00:00",
+      "free_access": "anonymous_search_observed",
+      "integration": "public_search_integrated",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 81427,
+      "truncated": false,
+      "outcome": "search_connector_validated",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://tomlehrersongs.com/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "searches": [
+        {
+          "url": "https://tomlehrersongs.com/?s=Beatles",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 53334,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "Beatles"
+        },
+        {
+          "url": "https://tomlehrersongs.com/?s=tomlehrer",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "redirects": [],
+          "bytes_read": 98153,
+          "truncated": false,
+          "outcome": "fetched",
+          "query": "tomlehrer"
+        }
+      ],
+      "initial_outcome": "search_not_verified",
+      "preset_id": "custom_fed_5332c157cb",
+      "reason": "Consulta positiva e termo inexistente verificados com o transporte real do EveryTune.",
+      "validation": {
+        "query": "Elements",
+        "matches": 3,
+        "negative_count": 0
+      }
+    },
+    {
+      "url": "https://coreradio.online/",
+      "name": "Core Radio",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://coreradio.online/",
+      "checked_at": "2026-11-05T19:17:26+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 271596,
+      "truncated": false,
+      "outcome": "inspection_error",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://coreradio.online/",
+          "inputs": [
+            "do",
+            "subaction",
+            "story"
+          ],
+          "search_inputs": [
+            "story"
+          ],
+          "fixed_params": {
+            "do": "search",
+            "subaction": "search"
+          }
+        }
+      ],
+      "error": "TimeoutError"
+    },
+    {
+      "url": "https://glorybeats.com/",
+      "name": "GloryBeats",
+      "sections": [
+        "Download Sites"
+      ],
+      "genre_hint": "other",
+      "requested_url": "https://glorybeats.com/",
+      "checked_at": "2026-11-05T19:17:28+00:00",
+      "free_access": "not_verified",
+      "integration": "not_verified",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "redirects": [],
+      "bytes_read": 147901,
+      "truncated": false,
+      "outcome": "inspection_error",
+      "forms": [
+        {
+          "method": "get",
+          "action": "https://glorybeats.com/",
+          "inputs": [
+            "s"
+          ],
+          "search_inputs": [
+            "s"
+          ],
+          "fixed_params": {}
+        }
+      ],
+      "error": "TimeoutError"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "index": 22,
+  "name": "We Need Match",
+  "url": "https://we-need-match.ru/",
+  "status": 200,
+  "final_url": "https://we-need-match.ru/",
+  "title": "Portal - We Need Match",
+  "forms": [
+    {
+      "method": "post",
+      "action": "https://we-need-match.ru/login/",
+      "input_names": [
+        "csrfKey",
+        "ref",
+        "auth",
+        "password",
+        "remember_me"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "//we-need-match.ru/search/?do=quicksearch",
+      "input_names": [
+        "q",
+        "type",
+        "search_and_or",
+        "search_and_or",
+        "search_in",
+        "search_in"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "https://we-need-match.ru",
+      "input_names": [
+        "page"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "//we-need-match.ru/language/?csrfKey=822e258823e41f269ac477734aa98794",
+      "input_names": [
+        "ref"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "//we-need-match.ru/language/?csrfKey=822e258823e41f269ac477734aa98794",
+      "input_names": [
+        "ref"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://we-need-match.ru/uploads/javascript_global/root_library.js.4cad6567426858862f7a14476b5ace0e.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_global/root_js_lang_2.js.3b3ae5843ad03d038cfb74571b502ae7.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_global/root_framework.js.1fc36e17f1473db2593948ea1c3d09b3.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_core/global_global_core.js.9bdf54418ac405a14160447a1684def1.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_core/plugins_plugins.js.21056d15bbf5d9402d3476894369fa32.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_tthumb/front_front_tthumb.js.b3545d1429515e35c05d66ade25c9df5.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_bimchatbox/front_front_chatbox.js.5f51bb2ad90277f6753fc7b243a723fb.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_global/root_front.js.9b09a03d9c13eb852d346a4ac38e2d2e.js?v=a806b21aa1",
+    "https://we-need-match.ru/uploads/javascript_global/root_map.js.d27b5b1e12987aa0e3b0a1c9d979952e.js?v=a806b21aa1",
+    "https://rf.revolvermaps.com/0/0/8.js?i=5c6sis6py8b&m=1&c=ff0000&cr1=ffffff&f=arial&l=49&s=341&bv=100",
+    "https://we-need-match.ru/uploads/set_resources_9/6d538d11ecfced46f459ee300b5e80ec_ta-library-1.0.6.js"
+  ],
+  "searchlinks": [
+    "https://we-need-match.ru/search/",
+    "https://we-need-match.ru/search/",
+    "https://we-need-match.ru/search/?type=&tags=arising%20empire",
+    "https://we-need-match.ru/search/?type=&tags=century%20media",
+    "https://we-need-match.ru/search/?type=&tags=epitaph",
+    "https://we-need-match.ru/search/?type=&tags=exclusive",
+    "https://we-need-match.ru/search/?type=&tags=nuclear%20blast",
+    "https://we-need-match.ru/search/?type=&tags=pure%20noise%20records",
+    "https://we-need-match.ru/search/?type=&tags=rise%20records",
+    "https://we-need-match.ru/search/?type=&tags=sharptone",
+    "https://we-need-match.ru/search/?type=&tags=sumerian%20records",
+    "https://we-need-match.ru/search/?type=&tags=unfd",
+    "https://we-need-match.ru/search/"
+  ]
+}

@@ -1,0 +1,23 @@
+EveryTune — beta para Windows x64
+
+1. Extraia o ZIP para uma pasta de sua escolha, preservando os arquivos de licença.
+2. Abra EveryTune.exe. O navegador abre quando o servidor local estiver pronto.
+3. Pesquise um artista ou Artista - Faixa. Em Opções de busca, escolha as fontes e o modo.
+4. Abra Ver arquivos, revise a seleção, prepare o pacote e use Salvar arquivo.
+5. Para encerrar, use Ajustes > Encerrar EveryTune ou Ctrl+C na janela do aplicativo.
+
+Fechar somente a aba não encerra o servidor. Não é necessário instalar Python,
+Bend, Node ou WSL para usar este executável. FFprobe é opcional para ler dados
+técnicos; sua ausência não impede preparar arquivos.
+
+Os resultados exibidos têm áudio confirmado por metadados e cabeçalhos na origem;
+a transferência pode falhar se o arquivo mudar ou o acesso for interrompido.
+A licença de cada música/capa é independente da licença do aplicativo.
+
+O app escuta somente em 127.0.0.1. Consultas e capas acessam os provedores externos.
+Preferências e histórico ficam em %LOCALAPPDATA%\EveryTune; chaves digitadas duram
+somente a sessão. Não exponha esse servidor na internet.
+
+Esta é uma beta sem assinatura digital, validada na máquina de desenvolvimento.
+Não há promessa de encontrar todos os artistas ou de funcionamento de todas as
+fontes. Consulte CHANGELOG.md e THIRD_PARTY_NOTICES.md neste pacote.

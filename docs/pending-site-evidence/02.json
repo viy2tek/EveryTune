@@ -1,0 +1,30 @@
+{
+  "index": 2,
+  "name": "ccMixter",
+  "url": "https://ccmixter.org/",
+  "status": 200,
+  "final_url": "https://ccmixter.org/",
+  "title": "ccMixter - Welcome to ccMixter",
+  "forms": [],
+  "scripts": [
+    "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7354461694951132",
+    "https://cdn.tiny.cloud/1/6n5or56yot7as225tzwix18crmgjfw5st8ff0gbkezd17bg9/tinymce/6/tinymce.min.js",
+    "https://cdn.ckeditor.com/ckeditor5/39.0.1/classic/ckeditor.js",
+    "https://ccmixter.org/ccskins/shared/js/prototype.js",
+    "https://ccmixter.org/ccskins/shared/js/selector-addon-v1.js",
+    "https://ccmixter.org/ccskins/shared/js/scriptaculous/builder.js",
+    "https://ccmixter.org/ccskins/shared/js/scriptaculous/effects.js",
+    "https://ccmixter.org/ccskins/shared/js/scriptaculous/controls.js",
+    "https://ccmixter.org/ccskins/shared/js/scriptaculous/dragdrop.js",
+    "https://ccmixter.org/ccskins/shared/js/strings.js",
+    "https://ccmixter.org/ccskins/shared/js/modalbox/modalbox.js",
+    "https://ccmixter.org/ccskins/shared/js/cchost.js",
+    "https://ccmixter.org/ccskins/shared/js/round-box.js",
+    "https://www.google.com/recaptcha/api.js",
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
+    "https://ccmixter.org/_dbsc/supporter.js"
+  ],
+  "searchlinks": [
+    "https://ccmixter.org/search"
+  ]
+}

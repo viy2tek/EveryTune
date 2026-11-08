@@ -1,0 +1,61 @@
+{
+  "index": 64,
+  "name": "aboutdisco",
+  "url": "https://aboutdiscowithlove.blogspot.com/",
+  "status": 200,
+  "final_url": "https://aboutdiscowithlove.blogspot.com/",
+  "title": "aboutdisco",
+  "searchlinks": [
+    "https://aboutdiscowithlove.blogspot.com/search?updated-max=2026-03-21T06:48:00-07:00&max-results=13",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Act%20Of%20Sedition",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Belpaese",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Boogiefuturo",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Brookside",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Common%20Edit",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Community%20Disc-O%27s",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Disco%20Banger",
+    "https://aboutdiscowithlove.blogspot.com/search/label/G.A.M.M.",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Gator%20Boots",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Hello%20Sailor%20Recordings",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Hot%20Biscuit%20Recordings",
+    "https://aboutdiscowithlove.blogspot.com/search/label/James%20Greenwood",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Love%20Drops",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Outerzona13",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Paradise%20Pizza",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Razor-N-Tape",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Saint%20Wax%20Edit%20Service",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Semi%E2%80%8B-%E2%80%8BSkimmed",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Stamp"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://aboutdiscowithlove.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "Convertible",
+  "feed_matches": [
+    {
+      "title": "Convertible - Like The Rain E.P",
+      "links": [
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/2714480604430433502/posts/default/4004604846707217819"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/2714480604430433502/posts/default/4004604846707217819"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://aboutdiscowithlove.blogspot.com/2026/03/convertible-like-rain-ep.html",
+          "title": "Convertible - Like The Rain E.P"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://aboutdiscowithlove.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

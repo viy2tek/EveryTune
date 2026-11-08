@@ -1,0 +1,39 @@
+{
+  "index": 27,
+  "name": "Classical Music Download",
+  "url": "https://classical-music-download.com/",
+  "status": 200,
+  "final_url": "https://classical-music-download.com/",
+  "title": "Classical music lossless FLAC - classical-music-download.com",
+  "forms": [
+    {
+      "method": "post",
+      "action": "",
+      "input_names": [
+        "login_name",
+        "login_password",
+        "login",
+        "login_not_save"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "",
+      "input_names": [
+        "do",
+        "subaction",
+        "story"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://classical-music-download.com/engine/classes/js/jquery.js?v=23",
+    "https://classical-music-download.com/engine/classes/js/jqueryui.js?v=23",
+    "https://classical-music-download.com/engine/classes/js/dle_js.js?v=23",
+    "https://classical-music-download.com/templates/anime-light/js/libs.js"
+  ],
+  "searchlinks": [
+    "/?do=search&subaction=search&story=SACD&titleonly=3",
+    "/?do=search&subaction=search&story=Hi_Res&titleonly=3"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "query": {
+    "pages": {
+      "2435766": {
+        "pageid": 2435766,
+        "ns": 6,
+        "title": "File:Example.ogg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 104793,
+            "width": 0,
+            "height": 0,
+            "duration": 6.104036281179138,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Example.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Example.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2435766",
+            "extmetadata": {
+              "Artist": {
+                "value": "Original uploader was <a href=\"https://en.wikipedia.org/wiki/User:JesseW\" class=\"extiw\" title=\"en:User:JesseW\">JesseW</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"w:\">en.wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "application/ogg"
+          }
+        ]
+      }
+    }
+  }
+}

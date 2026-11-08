@@ -1,0 +1,215 @@
+{
+  "index": 24,
+  "name": "⁠Urban Asprines",
+  "url": "https://urbanaspirines.blogspot.com/",
+  "status": 200,
+  "final_url": "https://urbanaspirines.blogspot.com/",
+  "title": "URBAN ASPIRINES",
+  "searchlinks": [
+    "https://urbanaspirines.blogspot.com/search/label/Blues",
+    "https://urbanaspirines.blogspot.com/search/label/John%20Lee%20Hooker",
+    "https://urbanaspirines.blogspot.com/search/label/John%20Lee%20Hooker%20%26%20The%20Groundhogs",
+    "https://urbanaspirines.blogspot.com/search/label/Gong",
+    "https://urbanaspirines.blogspot.com/search/label/Jazz%20Rock",
+    "https://urbanaspirines.blogspot.com/search/label/Progressive",
+    "https://urbanaspirines.blogspot.com/search?updated-max=2026-11-03T09:02:00%2B02:00&max-results=7",
+    "http://urbanaspirines.blogspot.gr/search/label/%CE%A4%CE%B1%20%CE%B7%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%B1%20%CF%84%CE%BF%CF%85%20LADA%20%CE%BC%CE%AD%CF%83%CE%B1%20%CE%BA%CE%B9%20%CE%AD%CE%BE%CF%89%20%CE%B1%CF%80%CF%8C%20%CF%84%CE%BF%20ELLADA",
+    "http://urbanaspirines.blogspot.gr/search/label/%CE%9F%CE%B9%20%CE%A4%CF%81%CE%B9%CF%83%CE%AC%CE%B8%CE%BB%CE%B9%CE%BF%CE%B9%20%CE%AC%CE%B8%CE%BB%CE%BF%CE%B9%20%CF%83%CF%84%CE%B7%CE%BD%20%CE%9A%CE%B1%CE%BB%CF%8D%CE%B2%CE%B1%20%CF%84%CE%BF%CF%85%20%CE%9C%CF%80%CE%AC%CF%81%CE%BC%CF%80%CE%B1%20-%20%CE%A6%CF%89%CE%BA%CE%AC%20.%20%CE%9A%CF%85%CF%81%CE%B9%CE%B1%CE%BA%CE%AE%2010%20%CE%99%CE%BF%CF%85%CE%BD%CE%AF%CE%BF%CF%85%20%CE%AD%CF%89%CF%82%20%CE%A0%CE%AD%CE%BC%CF%80%CF%84%CE%B7%2007%20%CE%99%CE%BF%CF%85%CE%BB%CE%AF%CE%BF%CF%85",
+    "http://urbanaspirines.blogspot.gr/search/label/Sweet%20Home%20Ala-Patra%20%3A%20%CE%A4%CE%BF%20%CE%A4%CE%B1%CE%BE%CE%AF%CE%B4%CE%B9%20%CF%83%CF%84%CE%B7%20%CE%A0%CE%AC%CF%84%CF%81%CE%B1%20-%20%CE%91%CF%80%CF%81%CE%AF%CE%BB%CE%B7%CF%82%202015",
+    "http://urbanaspirines.blogspot.gr/search/label/GENESIS",
+    "http://urbanaspirines.blogspot.gr/search/label/SWANTZ",
+    "https://urbanaspirines.blogspot.com/search/label/V.A%3A%201977%20The%20Year%20Punk%20Broke",
+    "https://urbanaspirines.blogspot.com/search/label/Burning%20Britain-A%20Story%20Of%20UK%20Independent%20Punk%201980-1983",
+    "http://urbanaspirines.blogspot.com/search/label/Back%20From%20The%20Grave-V.A",
+    "https://urbanaspirines.blogspot.com/search/label/Nuggets",
+    "https://urbanaspirines.blogspot.com/search/label/Pebbles",
+    "https://urbanaspirines.blogspot.com/search?q=Garage+Beat",
+    "https://urbanaspirines.blogspot.com/search/label/This%20Is%20Psychedelia",
+    "https://urbanaspirines.blogspot.com/search/label/V.A%20Another%20Splash%20Of%20Colour-New%20Psychedelia%20In%20Britain%201980-1985",
+    "https://urbanaspirines.blogspot.com/search/label/Various%20%3A%20Babylon%27s%20Burning%20-%20The%20Rough%27n%27Ready%20Rise%20Of%20PUNK%20RAWK%201973-1978",
+    "http://urbanaspirines.blogspot.gr/search/label/Reiser",
+    "http://urbanaspirines.blogspot.gr/search/label/Druuna%20%3A%20Paolo%20E%20Serpieri",
+    "http://urbanaspirines.blogspot.gr/search/label/Enki%20Bilal",
+    "http://urbanaspirines.blogspot.gr/search/label/Milo%20Manara",
+    "http://urbanaspirines.blogspot.gr/search/label/Caza",
+    "http://urbanaspirines.blogspot.gr/search/label/Milo%20Manara",
+    "https://urbanaspirines.blogspot.com/search/label/Moebius-Jodorowsky%20%3A%20The%20Incal",
+    "http://urbanaspirines.blogspot.gr/search/label/H.P.%20Lovecraft",
+    "http://urbanaspirines.blogspot.gr/search/label/Falka"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://urbanaspirines.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "John",
+  "feed_matches": [
+    {
+      "title": " John Lee Hooker With The Groundhogs – Hooker & The Hogs (May and June of 1965) 2003",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://urbanaspirines.blogspot.com/feeds/4170474057769452929/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/11/john-lee-hooker-with-groundhogs-hooker.html#comment-form",
+          "title": "2 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4170474057769452929"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4170474057769452929"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/11/john-lee-hooker-with-groundhogs-hooker.html",
+          "title": " John Lee Hooker With The Groundhogs – Hooker & The Hogs (May and June of 1965) 2003"
+        }
+      ]
+    },
+    {
+      "title": "Gong: Discography 1970 - 1979 (11 Albums)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://urbanaspirines.blogspot.com/feeds/4494591177506827461/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/11/gong-discography-1970-1979-11-albums.html#comment-form",
+          "title": "13 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4494591177506827461"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4494591177506827461"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/11/gong-discography-1970-1979-11-albums.html",
+          "title": "Gong: Discography 1970 - 1979 (11 Albums)"
+        }
+      ]
+    },
+    {
+      "title": "Lou Reed: Original Album Classics + Rock 'n' Roll Animal 1974 + Street Hassle 1978 + The Blue Mask 1982",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://urbanaspirines.blogspot.com/feeds/7291747660894656417/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/10/lou-reed-original-album-classics-rock-n.html#comment-form",
+          "title": "6 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/7291747660894656417"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/7291747660894656417"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/10/lou-reed-original-album-classics-rock-n.html",
+          "title": "Lou Reed: Original Album Classics + Rock 'n' Roll Animal 1974 + Street Hassle 1978 + The Blue Mask 1982"
+        }
+      ]
+    },
+    {
+      "title": "Various: The Story Of Jamaican Music (Tougher Than Tough) 1993",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://urbanaspirines.blogspot.com/feeds/78136719405312900/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/10/various-story-of-jamaican-music-tougher.html#comment-form",
+          "title": "7 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/78136719405312900"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/78136719405312900"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/10/various-story-of-jamaican-music-tougher.html",
+          "title": "Various: The Story Of Jamaican Music (Tougher Than Tough) 1993"
+        }
+      ]
+    },
+    {
+      "title": "Rainy Day: Rainy Day 1984",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://urbanaspirines.blogspot.com/feeds/4932556306756057295/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/10/rainy-day-rainy-day-1984.html#comment-form",
+          "title": "8 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4932556306756057295"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4932556306756057295"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://urbanaspirines.blogspot.com/2026/10/rainy-day-rainy-day-1984.html",
+          "title": "Rainy Day: Rainy Day 1984"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://urbanaspirines.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

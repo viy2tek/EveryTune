@@ -1,0 +1,779 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6199280065741814618"
+    },
+    "updated": {
+      "$t": "2026-10-29T07:59:57.878-03:00"
+    },
+    "category": [
+      {
+        "term": "SHOWS"
+      },
+      {
+        "term": "YES"
+      },
+      {
+        "term": "GENESIS"
+      },
+      {
+        "term": "JETHRO TULL"
+      },
+      {
+        "term": "PINK FLOYD"
+      },
+      {
+        "term": "PRV RECOMENDA"
+      },
+      {
+        "term": "BY THE POUND"
+      },
+      {
+        "term": "CENA CARIOCA DE MÚSICA PROGRESSIVA"
+      },
+      {
+        "term": "LUIZ ZAMITH e BANDA"
+      },
+      {
+        "term": "ARCPELAGO"
+      },
+      {
+        "term": "CAMEL"
+      },
+      {
+        "term": "GONG"
+      },
+      {
+        "term": "BANDA VITRAL (RJ)"
+      },
+      {
+        "term": "CARAVAN"
+      },
+      {
+        "term": "CARIOCA PROG FESTIVAL"
+      },
+      {
+        "term": "GENTLE GIANT"
+      },
+      {
+        "term": "LUMMEN"
+      },
+      {
+        "term": "ORQUESTRA MINEIRA DE ROCK"
+      },
+      {
+        "term": "PREMIATA FORNERIA MARCONI"
+      },
+      {
+        "term": "QUATERNA RÉQUIEM"
+      },
+      {
+        "term": "RENAISSANCE"
+      },
+      {
+        "term": "RUSH"
+      },
+      {
+        "term": "STEVE HACKETT"
+      },
+      {
+        "term": "ÍCONES DO PROGRESSIVO"
+      },
+      {
+        "term": "ANXTRON"
+      },
+      {
+        "term": "CAPTAIN BEYOND"
+      },
+      {
+        "term": "CARAVELA ESCARLATE"
+      },
+      {
+        "term": "FOCUS"
+      },
+      {
+        "term": "MAGMA"
+      },
+      {
+        "term": "MANTRA"
+      },
+      {
+        "term": "MARILLION"
+      },
+      {
+        "term": "MUSICAL BOX RECORDS"
+      },
+      {
+        "term": "RICK WAKEMAN"
+      },
+      {
+        "term": "TEMPUS FUGIT"
+      },
+      {
+        "term": "U.K"
+      },
+      {
+        "term": "VAN DER GRAAF GENERATOR"
+      },
+      {
+        "term": "ABWH"
+      },
+      {
+        "term": "BANCO DEL MUTUO SOCCORSO"
+      },
+      {
+        "term": "BE BOP DELUXE"
+      },
+      {
+        "term": "CAPTAIN COCONUT"
+      },
+      {
+        "term": "CARTOON"
+      },
+      {
+        "term": "ELP"
+      },
+      {
+        "term": "ENTREVISTA"
+      },
+      {
+        "term": "GURU GURU"
+      },
+      {
+        "term": "LADY LIKE"
+      },
+      {
+        "term": "MAHAVISHNU ORCHESTRA"
+      },
+      {
+        "term": "MÓDULO 1000"
+      },
+      {
+        "term": "PEDRO BALDANZA (SOM NOSSO DE CADA DIA)"
+      },
+      {
+        "term": "PINK FLOYD REUNION"
+      },
+      {
+        "term": "RAJAZ"
+      },
+      {
+        "term": "ROXY MUSIC"
+      },
+      {
+        "term": "SUPERTRAMP"
+      },
+      {
+        "term": "TRIUMVIRAT"
+      },
+      {
+        "term": "URIAH HEEP"
+      },
+      {
+        "term": "ÚNITRI"
+      },
+      {
+        "term": "13 anos do Progrockvintage"
+      },
+      {
+        "term": "AINIGMA"
+      },
+      {
+        "term": "AIR"
+      },
+      {
+        "term": "ALAN PARSONS LIVE PROJECT"
+      },
+      {
+        "term": "AMON DÜÜL II"
+      },
+      {
+        "term": "ANNEXUS QUAM"
+      },
+      {
+        "term": "AOS 10 ANOS DO PROGROCKVINTAGE..."
+      },
+      {
+        "term": "APOTEOSI"
+      },
+      {
+        "term": "ARACHNOÏD"
+      },
+      {
+        "term": "AREA"
+      },
+      {
+        "term": "ARION"
+      },
+      {
+        "term": "ATLAS"
+      },
+      {
+        "term": "ATOMIC ROOSTER"
+      },
+      {
+        "term": "AUM"
+      },
+      {
+        "term": "AUTOMAT"
+      },
+      {
+        "term": "Andre Perim"
+      },
+      {
+        "term": "BACAMARTE"
+      },
+      {
+        "term": "BADGER"
+      },
+      {
+        "term": "BAUMSTAM"
+      },
+      {
+        "term": "BILL BRUFORD"
+      },
+      {
+        "term": "BIRTH CONTROL"
+      },
+      {
+        "term": "BIXO DA SEDA"
+      },
+      {
+        "term": "BLACKWATER PARK"
+      },
+      {
+        "term": "BLODWYN PIG"
+      },
+      {
+        "term": "BLUE PHANTOM"
+      },
+      {
+        "term": "BODKIN"
+      },
+      {
+        "term": "BONFIRE"
+      },
+      {
+        "term": "BRASIL PROG FESTIVAL"
+      },
+      {
+        "term": "BRÖSELMASCHINE"
+      },
+      {
+        "term": "CAMPO DI MARTE"
+      },
+      {
+        "term": "CAN"
+      },
+      {
+        "term": "CAPITOLO 6"
+      },
+      {
+        "term": "CARAVELA ESCARLATE & ARCPELAGO"
+      },
+      {
+        "term": "CAROL OF HARVEST"
+      },
+      {
+        "term": "CERVELLO"
+      },
+      {
+        "term": "CHRIS SQUIRE"
+      },
+      {
+        "term": "CODE III"
+      },
+      {
+        "term": "COSMIC CIRCUS MUSIC"
+      },
+      {
+        "term": "CREATIVE ROCK"
+      },
+      {
+        "term": "CYKLUS"
+      },
+      {
+        "term": "CÁLIX"
+      },
+      {
+        "term": "DEEP PURPLE"
+      },
+      {
+        "term": "DIABOLUS"
+      },
+      {
+        "term": "DIO"
+      },
+      {
+        "term": "DOM"
+      },
+      {
+        "term": "DROSSELBART"
+      },
+      {
+        "term": "DULL KNIFE"
+      },
+      {
+        "term": "ELECTRIC MUD"
+      },
+      {
+        "term": "ELOY"
+      },
+      {
+        "term": "ELOY FRITSCH"
+      },
+      {
+        "term": "EMERSON LAKE AND PALMER"
+      },
+      {
+        "term": "EMERSON LAKE AND PALMER; ELP"
+      },
+      {
+        "term": "EPIDAURUS"
+      },
+      {
+        "term": "EPSILON"
+      },
+      {
+        "term": "FESTIVAL SÍTIO ROCK"
+      },
+      {
+        "term": "FESTIVAL TOTEM PROG"
+      },
+      {
+        "term": "FRAGILE"
+      },
+      {
+        "term": "FRAME"
+      },
+      {
+        "term": "FREDERICO TAFURI"
+      },
+      {
+        "term": "FRIPP and ENO"
+      },
+      {
+        "term": "FUCHSIA"
+      },
+      {
+        "term": "FUSION ORCHESTRA"
+      },
+      {
+        "term": "GLEEMEN"
+      },
+      {
+        "term": "GOBLIN"
+      },
+      {
+        "term": "GOLEM"
+      },
+      {
+        "term": "GOYA"
+      },
+      {
+        "term": "GRAND FUNK RAILROAD"
+      },
+      {
+        "term": "GRAVY TRAIN"
+      },
+      {
+        "term": "GREENSLADE"
+      },
+      {
+        "term": "GROBSCHNITT"
+      },
+      {
+        "term": "GRYPHON"
+      },
+      {
+        "term": "GÄA"
+      },
+      {
+        "term": "GÒTIC"
+      },
+      {
+        "term": "HERO"
+      },
+      {
+        "term": "IAN ANDERSON"
+      },
+      {
+        "term": "IBLISS"
+      },
+      {
+        "term": "IKARUS"
+      },
+      {
+        "term": "INDIAN SUMMER"
+      },
+      {
+        "term": "I´ UOVO DI COLOMBO"
+      },
+      {
+        "term": "JON ANDERSON"
+      },
+      {
+        "term": "KADAVAR"
+      },
+      {
+        "term": "KANSAS"
+      },
+      {
+        "term": "KAOLL"
+      },
+      {
+        "term": "KEITH EMERSON; ELP; THE NICE"
+      },
+      {
+        "term": "KESTREL"
+      },
+      {
+        "term": "KHADHU CAPANEMA"
+      },
+      {
+        "term": "KIN PING MEH"
+      },
+      {
+        "term": "KING CRIMSON"
+      },
+      {
+        "term": "KLUSTER"
+      },
+      {
+        "term": "KOSMUS"
+      },
+      {
+        "term": "KRAAN"
+      },
+      {
+        "term": "LA DÜSSELDORF"
+      },
+      {
+        "term": "LADY LIKE - BY THE POUND"
+      },
+      {
+        "term": "LAVA"
+      },
+      {
+        "term": "LILIENTAL"
+      },
+      {
+        "term": "LOCANDA DELLE FATE"
+      },
+      {
+        "term": "LOCH NESS"
+      },
+      {
+        "term": "MADISON DYKE"
+      },
+      {
+        "term": "MARCUS VIANA"
+      },
+      {
+        "term": "MARTIN BARRE"
+      },
+      {
+        "term": "MATCHING MOLE"
+      },
+      {
+        "term": "MAXOPHONE"
+      },
+      {
+        "term": "MCCHURCH SOUNDROOM"
+      },
+      {
+        "term": "METROPOLIS"
+      },
+      {
+        "term": "MUDANÇA DE LOGO"
+      },
+      {
+        "term": "NATIONAL HEALTH"
+      },
+      {
+        "term": "NIGHT SUN"
+      },
+      {
+        "term": "ORBIT FLIGHT"
+      },
+      {
+        "term": "ORQUESTRA PATAFÍSICA"
+      },
+      {
+        "term": "OZRIC TENTACLES"
+      },
+      {
+        "term": "PANNA FREDDA"
+      },
+      {
+        "term": "PATERNOSTER"
+      },
+      {
+        "term": "PENTACLE"
+      },
+      {
+        "term": "PHOLAS DACTYLUS"
+      },
+      {
+        "term": "PLANET GONG"
+      },
+      {
+        "term": "PROG CAMP"
+      },
+      {
+        "term": "PROGNOISE"
+      },
+      {
+        "term": "PROGSKY Web Rock Radio Station"
+      },
+      {
+        "term": "QUIET SUN"
+      },
+      {
+        "term": "RAINBOW"
+      },
+      {
+        "term": "RALFE RODRIGUES"
+      },
+      {
+        "term": "ROCKY'S FILJ"
+      },
+      {
+        "term": "SABARÁ INSTRUMENTAL"
+      },
+      {
+        "term": "SAGRADO CORAÇÃO DA TERRA"
+      },
+      {
+        "term": "SANDROSE"
+      },
+      {
+        "term": "SIGMA"
+      },
+      {
+        "term": "SIMON - GARFUNKEL"
+      },
+      {
+        "term": "SPOTIFY"
+      },
+      {
+        "term": "STEVE HILLAGE"
+      },
+      {
+        "term": "SUB ROSA"
+      },
+      {
+        "term": "SUPERSISTER"
+      },
+      {
+        "term": "SÉRGIO FERRAZ"
+      },
+      {
+        "term": "TAU CETI"
+      },
+      {
+        "term": "THE COSMIC JOKERS"
+      },
+      {
+        "term": "THE NAZGÜL"
+      },
+      {
+        "term": "THE NICE"
+      },
+      {
+        "term": "THREE FRIENDS"
+      },
+      {
+        "term": "TIBET"
+      },
+      {
+        "term": "TROYA"
+      },
+      {
+        "term": "TYBURN TALL"
+      },
+      {
+        "term": "VELUDO"
+      },
+      {
+        "term": "VINEGAR"
+      },
+      {
+        "term": "VIOLETA DE OUTONO"
+      },
+      {
+        "term": "WISHBONE ASH"
+      },
+      {
+        "term": "YATHA SIDHRA"
+      },
+      {
+        "term": "YOUTUBE"
+      },
+      {
+        "term": "ZIPPO ZETTERLINK"
+      },
+      {
+        "term": "ÄLGARNAS TRADGARD"
+      },
+      {
+        "term": "ÚNITRI & TEMPUS FUGIT"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "PROGROCKVINTAGE"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": ""
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://www.progrockvintage.com/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/6199280065741814618/posts/default?alt=json&max-results=5&q=DROSSELBART"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.progrockvintage.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Luciana Aun"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/13046975688270297921"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "31",
+          "height": "21",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkLZZnOv7HoRDRJVuBn8VzeMaJP7bOwlfB6dfjlzPsww_23RBoCuElovwElDNn4F_CFgvDQ-pm34KKQAwevOokGjTKTuvAM74gs3-rTAQmX65vYXbgfZkRF1Ft-1gQw/s220/BatterseaPowerStation.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6199280065741814618.post-6210834178872581516"
+        },
+        "published": {
+          "$t": "2026-02-22T00:04:00.004-03:00"
+        },
+        "updated": {
+          "$t": "2026-02-22T00:04:40.419-03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "DROSSELBART"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "DROSSELBART - Drosselbart - 1970"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_nVVXmEmKpy8dui3NR1rxFcxNEo1FxO-utVFD_0-lEagLl1pELDYtPKqEKhMzrM25ci2WVd4oRXf2R3umtvXJmehcOYnlBPZulXXyJP1tQCCvcI80wQ3VooETS03sFOtrAyApit-1jCjJ/s1600/f.jpg\" style=\"margin-left: 1em; margin-right: 1em; text-align: center;\"><img border=\"0\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_nVVXmEmKpy8dui3NR1rxFcxNEo1FxO-utVFD_0-lEagLl1pELDYtPKqEKhMzrM25ci2WVd4oRXf2R3umtvXJmehcOYnlBPZulXXyJP1tQCCvcI80wQ3VooETS03sFOtrAyApit-1jCjJ/s400/f.jpg\" width=\"396\" /></a></div><div class=\"separator\" style=\"clear: both; text-align: center;\"><b><span style=\"color: #800180; font-size: x-small;\">(Publicado originalmente em setembro de 2013. Atualizado em fevereiro de 2026)</span></b></div><p><span style=\"font-family: inherit; font-size: medium;\"><b>Talvez este seja um dos discos mais injustiçados de toda a Alemanha. Seus músicos eram totalmente desconhecidos e a proposta criada pela banda não agradou à maioria dos ouvintes. Penso de forma diferente, pois considero o álbum bastante cativante, com harmonias variadas que transitam pelo experimentalismo do Krautrock, mesclado ao Heavy Prog e a um leve toque de Folk.</b></span></p><p><span style=\"font-family: inherit; font-size: medium;\"><b>Os belos e imponentes vocais são executados na língua nativa pelo guitarrista Peter Randt, acompanhado da bela voz de Jemima, que confere um toque feminino fundamental, com nítida influência da música erudita. A segunda faixa, que leva o nome da banda, é certamente um dos grandes destaques de todo o disco. Nota-se também algumas passagens tímidas de órgão de igreja, que adicionam um caráter religioso a determinadas faixas, remetendo a cânticos da religião católica de séculos passados.</b></span></p><p><span style=\"font-family: inherit; font-size: medium;\"><b>A banda contava com duas guitarras fortes que se entrelaçavam a um Hammond agressivo, gerando um certo caos quando se encontravam com as vozes do duo de vocalistas. Trata-se de um disco obscuro, típico do cenário alemão do início dos anos 70 e, mais uma vez, de difícil digestão em um primeiro contato.</b></span></p><p><span style=\"font-family: inherit; font-size: medium;\"><b>Certamente não está entre os melhores do gênero, mas algumas canções revelam sentimentos impressionantemente envolventes dentro de uma estética musical bastante agradável.</b></span></p><p><span style=\"font-family: inherit; font-size: medium;\"><b>Seu único registro oficial foi lançado originalmente em 1970 pelo selo Polydor e relançado em CD pela gravadora alemã Long Hair em 2004. Existem ainda dois raros registros lançados em formato de EP entre os anos de 1970 e 1971, também pela Polydor. Cada EP contém duas faixas, e não se sabe ao certo se ainda se encontram disponíveis em catálogo.</b></span></p><p><br /></p><p><b><span style=\"font-family: inherit;\">TRACKS:</span></b></p><p><b><span style=\"font-family: inherit;\">1. Inferno - Drosselbart</span></b></p><p><b><span style=\"font-family: inherit;\">2. Jemima</span></b></p><p><b><span style=\"font-family: inherit;\">3. Liebe ist nur ein Wort</span></b></p><p><b><span style=\"font-family: inherit;\">4. Du bist der eine Weg</span></b></p><p><b><span style=\"font-family: inherit;\">5. Engel des Todes</span></b></p><p><b><span style=\"font-family: inherit;\">6. Böse Buben</span></b></p><p><b><span style=\"font-family: inherit;\">7. Vater unser</span></b></p><p><b><span style=\"font-family: inherit;\">8. Folg mir</span></b></p><p><b><span style=\"font-family: inherit;\">9. Montag</span></b></p><p><b><span style=\"font-family: inherit;\">10. Nach einer langen Nacht</span></b></p><p><b><span style=\"font-family: inherit;\">11. Der Sommer (Inclusive Der Sturm)</span></b></p><p><b><span style=\"font-family: inherit;\">Bonus tracks:</span></b></p><p><b><span style=\"font-family: inherit;\">12. An einem Tag im August</span></b></p><p><b><span style=\"font-family: inherit;\">13. O'Driscoll</span></b></p><p><br /></p><p><a href=\"https://mega.nz/file/6dVigSoa#S7AI6rONAqIxU-ysQiWShrsaWb9WSUPeXEUo85cWCuc\" target=\"_blank\"><b><span style=\"color: #ff00fe;\">MEGA</span></b></a></p>"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.progrockvintage.com/feeds/6210834178872581516/comments/default",
+            "title": "Postar comentários"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.progrockvintage.com/2026/02/publicado-originalmente-em-setembro-de.html#comment-form",
+            "title": "0 Comentários"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/6199280065741814618/posts/default/6210834178872581516"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/6199280065741814618/posts/default/6210834178872581516"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.progrockvintage.com/2026/02/publicado-originalmente-em-setembro-de.html",
+            "title": "DROSSELBART - Drosselbart - 1970"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Luciana Aun"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/13046975688270297921"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "31",
+              "height": "21",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkLZZnOv7HoRDRJVuBn8VzeMaJP7bOwlfB6dfjlzPsww_23RBoCuElovwElDNn4F_CFgvDQ-pm34KKQAwevOokGjTKTuvAM74gs3-rTAQmX65vYXbgfZkRF1Ft-1gQw/s220/BatterseaPowerStation.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_nVVXmEmKpy8dui3NR1rxFcxNEo1FxO-utVFD_0-lEagLl1pELDYtPKqEKhMzrM25ci2WVd4oRXf2R3umtvXJmehcOYnlBPZulXXyJP1tQCCvcI80wQ3VooETS03sFOtrAyApit-1jCjJ/s72-c/f.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "custom_ezhevika",
+    "name": "Ezhevika",
+    "format": "json",
+    "endpoint": "https://ezhevika.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_josephbarulho",
+    "name": "Cova-Argh!!!!",
+    "format": "json",
+    "endpoint": "https://josephbarulho.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_urbanaspirines",
+    "name": "Urban Asprines",
+    "format": "json",
+    "endpoint": "https://urbanaspirines.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_paradiseofgaragecomps",
+    "name": "Paradise of Garage Comps",
+    "format": "json",
+    "endpoint": "https://paradiseofgaragecomps.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_flatblackandclassical",
+    "name": "FlatblackAndClassical",
+    "format": "json",
+    "endpoint": "https://www.flatblackandclassical.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_music_republic_world_traditional",
+    "name": "MusicRepublic",
+    "format": "json",
+    "endpoint": "https://music-republic-world-traditional.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_nathannothinsez",
+    "name": "Nothin' Sez Somethin'",
+    "format": "json",
+    "endpoint": "https://nathannothinsez.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_inconstantsol",
+    "name": "inconstant sol",
+    "format": "json",
+    "endpoint": "https://inconstantsol.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_toneandwave",
+    "name": "Tone and Wave",
+    "format": "json",
+    "endpoint": "https://toneandwave.blogspot.com/feeds/posts/default",
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "respect_robots": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "interval": 2,
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1
+  },
+  {
+    "id": "custom_ccmixter",
+    "name": "ccMixter",
+    "format": "html",
+    "endpoint": "https://ccmixter.org/search",
+    "query_param": "search_text",
+    "results_path": "#search_result_list .search_results_link",
+    "fields": {
+      "title": "a.cc_file_link",
+      "url": "a.cc_file_link@href",
+      "artist": "a.cc_user_link"
+    },
+    "kind": "track",
+    "limit_param": null,
+    "interval": 2,
+    "params": {
+      "search_type": "all",
+      "search_in": "uploads",
+      "search": "classname"
+    }
+  },
+  {
+    "id": "custom_canna",
+    "name": "Canna",
+    "format": "html",
+    "endpoint": "https://canna.to/suche",
+    "query_param": "s_string",
+    "results_path": "td.cp-su-sp-name",
+    "fields": {
+      "title": "a",
+      "url": "a@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 10,
+    "method": "POST",
+    "params": {
+      "s_select": "",
+      "s_sort": "datum desc",
+      "s_beschreibung": "1",
+      "s_kat_id": "alle",
+      "s_filename": "1",
+      "action": "suche",
+      "s_val": "s_val",
+      "cj1": "1"
+    }
+  },
+  {
+    "id": "custom_cannapower",
+    "name": "CannaPower",
+    "format": "html",
+    "endpoint": "https://canna-power.to/suche",
+    "query_param": "s_string",
+    "results_path": "td.cp-su-sp-name",
+    "fields": {
+      "title": "a",
+      "url": "a@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 10,
+    "method": "POST",
+    "params": {
+      "s_select": "",
+      "s_sort": "datum desc",
+      "s_beschreibung": "1",
+      "s_kat_id": "alle",
+      "s_filename": "1",
+      "action": "suche",
+      "s_val": "s_val",
+      "cj1": "1"
+    }
+  },
+  {
+    "id": "custom_geocities_midis",
+    "name": "Geocities MIDIs",
+    "format": "html",
+    "endpoint": "https://www.midicities.com/geocities-search",
+    "query_param": "geocitiesSearch",
+    "results_path": "h3.item-title",
+    "fields": {
+      "title": "a",
+      "url": "a@href"
+    },
+    "kind": "track",
+    "limit_param": null,
+    "interval": 2
+  },
+  {
+    "id": "custom_rapload",
+    "name": "Rapload",
+    "format": "html",
+    "endpoint": "https://rapload.org/",
+    "query_param": "s",
+    "results_path": "h2.blog-arc-heading",
+    "fields": {
+      "title": "a[rel=bookmark]",
+      "url": "a[rel=bookmark]@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 2
+  },
+  {
+    "id": "custom_gabber",
+    "name": "Gabber",
+    "format": "html",
+    "endpoint": "https://gabber.od.ua/tt",
+    "query_param": "t",
+    "results_path": "h4.media-heading",
+    "fields": {
+      "title": "a",
+      "url": "a@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 10
+  },
+  {
+    "id": "custom_globaldjmix",
+    "name": "GlobalDJMix",
+    "format": "html",
+    "endpoint": "https://globaldjmix.com/search-result",
+    "query_param": "search",
+    "results_path": "body.search-result .single-panel .mix-list-wrapper .item-mix",
+    "fields": {
+      "title": ":scope > a[rel=bookmark]",
+      "url": ":scope > a[rel=bookmark]@href",
+      "artwork": "img.mix-img@src"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 2
+  },
+  {
+    "id": "custom_systems_of_romance",
+    "name": "Systems of Romance",
+    "format": "html",
+    "endpoint": "https://www.systemsofromance.com/blog/",
+    "query_param": "s",
+    "results_path": "#content .post h2",
+    "fields": {
+      "title": "a[rel=bookmark]",
+      "url": "a[rel=bookmark]@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 10
+  },
+  {
+    "id": "custom_classical_music_download",
+    "name": "Classical Music Download",
+    "format": "html",
+    "endpoint": "https://classical-music-download.com/",
+    "query_param": "story",
+    "results_path": ".short",
+    "fields": {
+      "title": "a.short-t",
+      "url": "a.short-t@href",
+      "artwork": ".short-i img@src"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 2,
+    "method": "POST",
+    "params": {
+      "do": "search",
+      "subaction": "search"
+    }
+  },
+  {
+    "id": "custom_certifiedmixtapez",
+    "name": "Certified Mixtapez",
+    "format": "json",
+    "method": "POST",
+    "request_encoding": "json",
+    "endpoint": "https://www.certifiedmixtapez.com/Main/GetSearchResults",
+    "query_param": "Title",
+    "params": {
+      "SearchOptionType": "1"
+    },
+    "results_path": "data",
+    "fields": {
+      "title": "title",
+      "artist": "artists",
+      "id": "refId",
+      "artwork": "coverImageUrl"
+    },
+    "link_template": "https://www.certifiedmixtapez.com/Main/Details?refId={id}",
+    "kind": "album",
+    "limit_param": "ItemsPerPage",
+    "respect_robots": true,
+    "interval": 2
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "index": 13,
+  "method": "GET",
+  "endpoint": "https://rapload.org/",
+  "params": {
+    "s": "Nas"
+  },
+  "status": 200,
+  "final_url": "https://rapload.org/?s=Nas"
+}

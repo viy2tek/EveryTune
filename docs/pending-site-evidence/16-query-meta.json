@@ -1,0 +1,10 @@
+{
+  "index": 16,
+  "method": "GET",
+  "endpoint": "https://1techno.org/f",
+  "params": {
+    "t": "Adam Beyer"
+  },
+  "status": 200,
+  "final_url": "https://1techno.org/?t=Adam%20Beyer"
+}

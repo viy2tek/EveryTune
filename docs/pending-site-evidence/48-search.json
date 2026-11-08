@@ -1,0 +1,6332 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-5386067321948512043"
+    },
+    "updated": {
+      "$t": "2026-11-05T08:50:21.835-08:00"
+    },
+    "category": [
+      {
+        "term": "compilation"
+      },
+      {
+        "term": "punk rock"
+      },
+      {
+        "term": "hardcore"
+      },
+      {
+        "term": "indie rock"
+      },
+      {
+        "term": "alternative"
+      },
+      {
+        "term": "london"
+      },
+      {
+        "term": "meet me in the dollar bin"
+      },
+      {
+        "term": "free stuff"
+      },
+      {
+        "term": "mojo magazine"
+      },
+      {
+        "term": "sampler"
+      },
+      {
+        "term": "new york city"
+      },
+      {
+        "term": "garage rock"
+      },
+      {
+        "term": "2020"
+      },
+      {
+        "term": "los angeles"
+      },
+      {
+        "term": "mojo mondays"
+      },
+      {
+        "term": "emo"
+      },
+      {
+        "term": "1996"
+      },
+      {
+        "term": "post-punk"
+      },
+      {
+        "term": "post-hardcore"
+      },
+      {
+        "term": "1995"
+      },
+      {
+        "term": "noise rock"
+      },
+      {
+        "term": "1994"
+      },
+      {
+        "term": "1993"
+      },
+      {
+        "term": "movies"
+      },
+      {
+        "term": "reissue"
+      },
+      {
+        "term": "out-of-print"
+      },
+      {
+        "term": "Washington D.C."
+      },
+      {
+        "term": "Baltimore"
+      },
+      {
+        "term": "2001"
+      },
+      {
+        "term": "indie pop"
+      },
+      {
+        "term": "new wave"
+      },
+      {
+        "term": "1992"
+      },
+      {
+        "term": "1997"
+      },
+      {
+        "term": "1999"
+      },
+      {
+        "term": "reggae"
+      },
+      {
+        "term": "live"
+      },
+      {
+        "term": "soundtrack"
+      },
+      {
+        "term": "demo"
+      },
+      {
+        "term": "soul"
+      },
+      {
+        "term": "2003"
+      },
+      {
+        "term": "2005"
+      },
+      {
+        "term": "power pop"
+      },
+      {
+        "term": "2002"
+      },
+      {
+        "term": "experimental"
+      },
+      {
+        "term": "hip-hop"
+      },
+      {
+        "term": "tribute"
+      },
+      {
+        "term": "1991"
+      },
+      {
+        "term": "2009"
+      },
+      {
+        "term": "2004"
+      },
+      {
+        "term": "industrial rock"
+      },
+      {
+        "term": "pop punk"
+      },
+      {
+        "term": "psychedelic rock"
+      },
+      {
+        "term": "seattle"
+      },
+      {
+        "term": "san francisco"
+      },
+      {
+        "term": "ska"
+      },
+      {
+        "term": "2006"
+      },
+      {
+        "term": "dub"
+      },
+      {
+        "term": "art rock"
+      },
+      {
+        "term": "infinite zero"
+      },
+      {
+        "term": "metal"
+      },
+      {
+        "term": "rock 'n' roll"
+      },
+      {
+        "term": "screamo"
+      },
+      {
+        "term": "1998"
+      },
+      {
+        "term": "2007"
+      },
+      {
+        "term": "2008"
+      },
+      {
+        "term": "avant garde"
+      },
+      {
+        "term": "grunge"
+      },
+      {
+        "term": "mixtape"
+      },
+      {
+        "term": "power violence"
+      },
+      {
+        "term": "rhythm & blues"
+      },
+      {
+        "term": "2000"
+      },
+      {
+        "term": "folk rock"
+      },
+      {
+        "term": "jamaica"
+      },
+      {
+        "term": "jazz"
+      },
+      {
+        "term": "pop"
+      },
+      {
+        "term": "scamp"
+      },
+      {
+        "term": "thrash"
+      },
+      {
+        "term": "2010"
+      },
+      {
+        "term": "crust"
+      },
+      {
+        "term": "easy listening"
+      },
+      {
+        "term": "grindcore"
+      },
+      {
+        "term": "indie folk"
+      },
+      {
+        "term": "no wave"
+      },
+      {
+        "term": "self-released"
+      },
+      {
+        "term": "trash punk"
+      },
+      {
+        "term": "blues rock"
+      },
+      {
+        "term": "bootleg"
+      },
+      {
+        "term": "folk"
+      },
+      {
+        "term": "ska-punk"
+      },
+      {
+        "term": ".org-core"
+      },
+      {
+        "term": "1990"
+      },
+      {
+        "term": "2011"
+      },
+      {
+        "term": "ambient"
+      },
+      {
+        "term": "lo-fi"
+      },
+      {
+        "term": "riot grrrl"
+      },
+      {
+        "term": "1988"
+      },
+      {
+        "term": "boston"
+      },
+      {
+        "term": "country"
+      },
+      {
+        "term": "delta blues"
+      },
+      {
+        "term": "house"
+      },
+      {
+        "term": "the criterion collection"
+      },
+      {
+        "term": "2021"
+      },
+      {
+        "term": "alt-country"
+      },
+      {
+        "term": "bandcamp"
+      },
+      {
+        "term": "blues"
+      },
+      {
+        "term": "free jazz"
+      },
+      {
+        "term": "funk"
+      },
+      {
+        "term": "glam"
+      },
+      {
+        "term": "hard rock"
+      },
+      {
+        "term": "lounge"
+      },
+      {
+        "term": "olympia"
+      },
+      {
+        "term": "promo"
+      },
+      {
+        "term": "tokyo"
+      },
+      {
+        "term": "1987"
+      },
+      {
+        "term": "Philadelphia"
+      },
+      {
+        "term": "electric blues"
+      },
+      {
+        "term": "math rock"
+      },
+      {
+        "term": "spoken word"
+      },
+      {
+        "term": "synth-pop"
+      },
+      {
+        "term": "1981"
+      },
+      {
+        "term": "1982"
+      },
+      {
+        "term": "1985"
+      },
+      {
+        "term": "1986"
+      },
+      {
+        "term": "1989"
+      },
+      {
+        "term": "benefit"
+      },
+      {
+        "term": "chicago blues"
+      },
+      {
+        "term": "cover band"
+      },
+      {
+        "term": "discography"
+      },
+      {
+        "term": "oi!"
+      },
+      {
+        "term": "post-rock"
+      },
+      {
+        "term": "proto punk"
+      },
+      {
+        "term": "rhino records"
+      },
+      {
+        "term": "roots reggae"
+      },
+      {
+        "term": "synthpunk"
+      },
+      {
+        "term": "2013"
+      },
+      {
+        "term": "2022"
+      },
+      {
+        "term": "Matador Records"
+      },
+      {
+        "term": "Peel Sessions"
+      },
+      {
+        "term": "college rock"
+      },
+      {
+        "term": "country blues"
+      },
+      {
+        "term": "electro"
+      },
+      {
+        "term": "electronic"
+      },
+      {
+        "term": "gkids"
+      },
+      {
+        "term": "gospel"
+      },
+      {
+        "term": "japanese hardcore"
+      },
+      {
+        "term": "minneapolis"
+      },
+      {
+        "term": "portland"
+      },
+      {
+        "term": "post rock"
+      },
+      {
+        "term": "rocksteady"
+      },
+      {
+        "term": "scream factory"
+      },
+      {
+        "term": "shout! factory"
+      },
+      {
+        "term": "2015"
+      },
+      {
+        "term": "chicago"
+      },
+      {
+        "term": "disco"
+      },
+      {
+        "term": "doom metal"
+      },
+      {
+        "term": "film score"
+      },
+      {
+        "term": "folk punk"
+      },
+      {
+        "term": "pub rock"
+      },
+      {
+        "term": "rockabilly"
+      },
+      {
+        "term": "twee"
+      },
+      {
+        "term": "vinegar syndrome"
+      },
+      {
+        "term": "1977"
+      },
+      {
+        "term": "Richmond"
+      },
+      {
+        "term": "berkeley"
+      },
+      {
+        "term": "budget rock"
+      },
+      {
+        "term": "dance punk"
+      },
+      {
+        "term": "detroit"
+      },
+      {
+        "term": "exotica"
+      },
+      {
+        "term": "goth"
+      },
+      {
+        "term": "mod"
+      },
+      {
+        "term": "mummies"
+      },
+      {
+        "term": "shoegaze"
+      },
+      {
+        "term": "shout! select"
+      },
+      {
+        "term": "soul jazz"
+      },
+      {
+        "term": "space-age"
+      },
+      {
+        "term": "splits"
+      },
+      {
+        "term": "surf rock"
+      },
+      {
+        "term": "trojan records"
+      },
+      {
+        "term": "umeå"
+      },
+      {
+        "term": "1979"
+      },
+      {
+        "term": "1984"
+      },
+      {
+        "term": "2019"
+      },
+      {
+        "term": "columbus"
+      },
+      {
+        "term": "cowpunk"
+      },
+      {
+        "term": "jazz funk"
+      },
+      {
+        "term": "lookout records"
+      },
+      {
+        "term": "no idea records"
+      },
+      {
+        "term": "osaka"
+      },
+      {
+        "term": "queercore"
+      },
+      {
+        "term": "rabbit rabbit"
+      },
+      {
+        "term": "san bruno"
+      },
+      {
+        "term": "shout! studios"
+      },
+      {
+        "term": "skramz"
+      },
+      {
+        "term": "space rock"
+      },
+      {
+        "term": "toys"
+      },
+      {
+        "term": "1971"
+      },
+      {
+        "term": "1974"
+      },
+      {
+        "term": "1983"
+      },
+      {
+        "term": "2014"
+      },
+      {
+        "term": "2017"
+      },
+      {
+        "term": "2018"
+      },
+      {
+        "term": "4ad"
+      },
+      {
+        "term": "Krautrock"
+      },
+      {
+        "term": "Leatherface"
+      },
+      {
+        "term": "Reptilian Records"
+      },
+      {
+        "term": "arlington"
+      },
+      {
+        "term": "art punk"
+      },
+      {
+        "term": "atlanta"
+      },
+      {
+        "term": "britpop"
+      },
+      {
+        "term": "deejay"
+      },
+      {
+        "term": "heartbeat records"
+      },
+      {
+        "term": "kino lorber"
+      },
+      {
+        "term": "martin denny"
+      },
+      {
+        "term": "martin scorsese"
+      },
+      {
+        "term": "memphis"
+      },
+      {
+        "term": "metalcore"
+      },
+      {
+        "term": "noise"
+      },
+      {
+        "term": "prog rock"
+      },
+      {
+        "term": "psychobilly"
+      },
+      {
+        "term": "relapse records"
+      },
+      {
+        "term": "skinhead"
+      },
+      {
+        "term": "spin magazine"
+      },
+      {
+        "term": "stoner rock"
+      },
+      {
+        "term": "streetpunk"
+      },
+      {
+        "term": "techno"
+      },
+      {
+        "term": "toronto"
+      },
+      {
+        "term": "trip hop"
+      },
+      {
+        "term": "1959"
+      },
+      {
+        "term": "1972"
+      },
+      {
+        "term": "1976"
+      },
+      {
+        "term": "1978"
+      },
+      {
+        "term": "1980"
+      },
+      {
+        "term": "2 tone"
+      },
+      {
+        "term": "2012"
+      },
+      {
+        "term": "2023"
+      },
+      {
+        "term": "Gainesville"
+      },
+      {
+        "term": "Sunderland"
+      },
+      {
+        "term": "agfa"
+      },
+      {
+        "term": "amphetamine reptile"
+      },
+      {
+        "term": "best of"
+      },
+      {
+        "term": "big beat"
+      },
+      {
+        "term": "birfday"
+      },
+      {
+        "term": "blues masters"
+      },
+      {
+        "term": "books"
+      },
+      {
+        "term": "boot power"
+      },
+      {
+        "term": "bovver"
+      },
+      {
+        "term": "classical"
+      },
+      {
+        "term": "cmj"
+      },
+      {
+        "term": "code red"
+      },
+      {
+        "term": "comedy"
+      },
+      {
+        "term": "country rock"
+      },
+      {
+        "term": "d-beat"
+      },
+      {
+        "term": "dance music"
+      },
+      {
+        "term": "death metal"
+      },
+      {
+        "term": "deathrock"
+      },
+      {
+        "term": "dream pop"
+      },
+      {
+        "term": "expanded version"
+      },
+      {
+        "term": "gang of four"
+      },
+      {
+        "term": "hammer films"
+      },
+      {
+        "term": "ifc films"
+      },
+      {
+        "term": "island records"
+      },
+      {
+        "term": "italo-disco"
+      },
+      {
+        "term": "jade tree records"
+      },
+      {
+        "term": "james chance"
+      },
+      {
+        "term": "jazz rock"
+      },
+      {
+        "term": "john waters"
+      },
+      {
+        "term": "kingston"
+      },
+      {
+        "term": "lee perry"
+      },
+      {
+        "term": "leeds"
+      },
+      {
+        "term": "leftfield"
+      },
+      {
+        "term": "library music"
+      },
+      {
+        "term": "live in the studio"
+      },
+      {
+        "term": "modern classical"
+      },
+      {
+        "term": "mysterious guy hardcore"
+      },
+      {
+        "term": "neo-soul"
+      },
+      {
+        "term": "new bomb turks"
+      },
+      {
+        "term": "new jersey"
+      },
+      {
+        "term": "new releases"
+      },
+      {
+        "term": "ny våg records"
+      },
+      {
+        "term": "paul weller"
+      },
+      {
+        "term": "pizza of death records"
+      },
+      {
+        "term": "prank calls"
+      },
+      {
+        "term": "razors edge"
+      },
+      {
+        "term": "rock"
+      },
+      {
+        "term": "san diego"
+      },
+      {
+        "term": "scientist"
+      },
+      {
+        "term": "studio ghibli"
+      },
+      {
+        "term": "studio one"
+      },
+      {
+        "term": "sub pop"
+      },
+      {
+        "term": "suedehead"
+      },
+      {
+        "term": "sympathy for the record industry"
+      },
+      {
+        "term": "texas blues"
+      },
+      {
+        "term": "touch and go records"
+      },
+      {
+        "term": "virgin"
+      },
+      {
+        "term": "your choice live"
+      },
+      {
+        "term": "ze records"
+      },
+      {
+        "term": "1958"
+      },
+      {
+        "term": "1962"
+      },
+      {
+        "term": "1963"
+      },
+      {
+        "term": "1966"
+      },
+      {
+        "term": "1969"
+      },
+      {
+        "term": "1970"
+      },
+      {
+        "term": "2016"
+      },
+      {
+        "term": "Allied Recordings"
+      },
+      {
+        "term": "Deranged Records"
+      },
+      {
+        "term": "East Bay"
+      },
+      {
+        "term": "Envy"
+      },
+      {
+        "term": "Fucked Up"
+      },
+      {
+        "term": "Kind of Like Spitting"
+      },
+      {
+        "term": "Lucero"
+      },
+      {
+        "term": "Revelation Records"
+      },
+      {
+        "term": "Sense Field"
+      },
+      {
+        "term": "Superchinchillarescuemission"
+      },
+      {
+        "term": "Warner Bros Records"
+      },
+      {
+        "term": "a&m records"
+      },
+      {
+        "term": "abstract"
+      },
+      {
+        "term": "acoustic"
+      },
+      {
+        "term": "afro-cuban"
+      },
+      {
+        "term": "afrobeat"
+      },
+      {
+        "term": "alan vega"
+      },
+      {
+        "term": "alternative tentacles"
+      },
+      {
+        "term": "austin"
+      },
+      {
+        "term": "birmingham"
+      },
+      {
+        "term": "boom bap"
+      },
+      {
+        "term": "bop"
+      },
+      {
+        "term": "bossa nova"
+      },
+      {
+        "term": "brighton"
+      },
+      {
+        "term": "british folk"
+      },
+      {
+        "term": "cambridge"
+      },
+      {
+        "term": "celluloid"
+      },
+      {
+        "term": "certain damage"
+      },
+      {
+        "term": "clancy eccles"
+      },
+      {
+        "term": "dark wave"
+      },
+      {
+        "term": "dischord records"
+      },
+      {
+        "term": "doo wop"
+      },
+      {
+        "term": "dutch east india trading"
+      },
+      {
+        "term": "feral ward records"
+      },
+      {
+        "term": "gospel blues"
+      },
+      {
+        "term": "grind"
+      },
+      {
+        "term": "hamburg"
+      },
+      {
+        "term": "havoc records"
+      },
+      {
+        "term": "hits post modern syndrome"
+      },
+      {
+        "term": "hollywood"
+      },
+      {
+        "term": "houston"
+      },
+      {
+        "term": "idm"
+      },
+      {
+        "term": "impulse! records"
+      },
+      {
+        "term": "indie"
+      },
+      {
+        "term": "j-pop"
+      },
+      {
+        "term": "james white & the blacks"
+      },
+      {
+        "term": "john barry"
+      },
+      {
+        "term": "john coltrane"
+      },
+      {
+        "term": "kill rock stars"
+      },
+      {
+        "term": "king tubby"
+      },
+      {
+        "term": "kino studio classics"
+      },
+      {
+        "term": "long island"
+      },
+      {
+        "term": "lost & found records"
+      },
+      {
+        "term": "louisiana blues"
+      },
+      {
+        "term": "math-rock"
+      },
+      {
+        "term": "modal jazz"
+      },
+      {
+        "term": "mojo music guide"
+      },
+      {
+        "term": "montreal"
+      },
+      {
+        "term": "musidisc"
+      },
+      {
+        "term": "mvp records"
+      },
+      {
+        "term": "new age"
+      },
+      {
+        "term": "political hardcore"
+      },
+      {
+        "term": "pornography"
+      },
+      {
+        "term": "punk funk"
+      },
+      {
+        "term": "punk pop"
+      },
+      {
+        "term": "rap"
+      },
+      {
+        "term": "rawkus records"
+      },
+      {
+        "term": "react entertainment corp"
+      },
+      {
+        "term": "regulations"
+      },
+      {
+        "term": "rock and roll"
+      },
+      {
+        "term": "rykodisc"
+      },
+      {
+        "term": "shockabilly"
+      },
+      {
+        "term": "simple machines records"
+      },
+      {
+        "term": "skronk"
+      },
+      {
+        "term": "slocore"
+      },
+      {
+        "term": "stockholm"
+      },
+      {
+        "term": "swing"
+      },
+      {
+        "term": "third wave"
+      },
+      {
+        "term": "troubleman unlimited"
+      },
+      {
+        "term": "vagrant records"
+      },
+      {
+        "term": "video games"
+      },
+      {
+        "term": "vinegar syndrome archives"
+      },
+      {
+        "term": "vocal jazz"
+      },
+      {
+        "term": "vocal pop"
+      },
+      {
+        "term": "what didja buy?"
+      },
+      {
+        "term": "yoyo recordings"
+      },
+      {
+        "term": "zines"
+      },
+      {
+        "term": "1957"
+      },
+      {
+        "term": "1964"
+      },
+      {
+        "term": "1973"
+      },
+      {
+        "term": "1975"
+      },
+      {
+        "term": "199?"
+      },
+      {
+        "term": "7 seconds"
+      },
+      {
+        "term": "924 Gilman"
+      },
+      {
+        "term": "A.D.D. Records"
+      },
+      {
+        "term": "Bridge 9 Records"
+      },
+      {
+        "term": "Burning Heart Records"
+      },
+      {
+        "term": "Charm City Suicides"
+      },
+      {
+        "term": "Double Dagger"
+      },
+      {
+        "term": "Earache Records"
+      },
+      {
+        "term": "Ebullition Records"
+      },
+      {
+        "term": "Fighting Dogs"
+      },
+      {
+        "term": "Japan"
+      },
+      {
+        "term": "Lifter Puller"
+      },
+      {
+        "term": "MP3"
+      },
+      {
+        "term": "Midiron Blast Shaft"
+      },
+      {
+        "term": "Minutemen"
+      },
+      {
+        "term": "Skene Records"
+      },
+      {
+        "term": "Sound Pollution Records"
+      },
+      {
+        "term": "Super Electro Sound Recordings"
+      },
+      {
+        "term": "Sweden"
+      },
+      {
+        "term": "Talking Head"
+      },
+      {
+        "term": "Tigerstyle Records"
+      },
+      {
+        "term": "Unsane"
+      },
+      {
+        "term": "action figures"
+      },
+      {
+        "term": "anarchism"
+      },
+      {
+        "term": "anime"
+      },
+      {
+        "term": "anison"
+      },
+      {
+        "term": "antifa"
+      },
+      {
+        "term": "asian man records"
+      },
+      {
+        "term": "astralwerks"
+      },
+      {
+        "term": "athens"
+      },
+      {
+        "term": "atlantic records"
+      },
+      {
+        "term": "augustus pablo"
+      },
+      {
+        "term": "bad brains"
+      },
+      {
+        "term": "bayou funk"
+      },
+      {
+        "term": "bedroom pop"
+      },
+      {
+        "term": "beginnings"
+      },
+      {
+        "term": "belfast"
+      },
+      {
+        "term": "berlin"
+      },
+      {
+        "term": "better youth organization"
+      },
+      {
+        "term": "black flag"
+      },
+      {
+        "term": "black metal"
+      },
+      {
+        "term": "blood & fire"
+      },
+      {
+        "term": "boss tuneage records"
+      },
+      {
+        "term": "bristol"
+      },
+      {
+        "term": "broken rekids"
+      },
+      {
+        "term": "brooklyn"
+      },
+      {
+        "term": "burning spirits"
+      },
+      {
+        "term": "candy machine"
+      },
+      {
+        "term": "cardiff"
+      },
+      {
+        "term": "caroline records"
+      },
+      {
+        "term": "catcall"
+      },
+      {
+        "term": "cd-r"
+      },
+      {
+        "term": "chainsaw"
+      },
+      {
+        "term": "chanson"
+      },
+      {
+        "term": "christmas"
+      },
+      {
+        "term": "chromatics"
+      },
+      {
+        "term": "chunklet"
+      },
+      {
+        "term": "cleveland"
+      },
+      {
+        "term": "coalition records"
+      },
+      {
+        "term": "cock rock"
+      },
+      {
+        "term": "concrete city"
+      },
+      {
+        "term": "crossover"
+      },
+      {
+        "term": "datapanik records"
+      },
+      {
+        "term": "david axelrod"
+      },
+      {
+        "term": "deep six records"
+      },
+      {
+        "term": "denver"
+      },
+      {
+        "term": "designer toys"
+      },
+      {
+        "term": "doghouse records"
+      },
+      {
+        "term": "downtempo"
+      },
+      {
+        "term": "durham city"
+      },
+      {
+        "term": "ebm"
+      },
+      {
+        "term": "electroclash"
+      },
+      {
+        "term": "electropop"
+      },
+      {
+        "term": "enemymine"
+      },
+      {
+        "term": "engine"
+      },
+      {
+        "term": "epitaph"
+      },
+      {
+        "term": "estrus records"
+      },
+      {
+        "term": "extremo"
+      },
+      {
+        "term": "fagersta"
+      },
+      {
+        "term": "fake band"
+      },
+      {
+        "term": "fall-outs"
+      },
+      {
+        "term": "fast-core"
+      },
+      {
+        "term": "frankie stubbs"
+      },
+      {
+        "term": "fueled by ramen"
+      },
+      {
+        "term": "fun city editions"
+      },
+      {
+        "term": "gaunt"
+      },
+      {
+        "term": "germany"
+      },
+      {
+        "term": "gern blandsten"
+      },
+      {
+        "term": "giant records"
+      },
+      {
+        "term": "go go"
+      },
+      {
+        "term": "godspeed you! black emperor"
+      },
+      {
+        "term": "gold standard laboratories"
+      },
+      {
+        "term": "goregrind"
+      },
+      {
+        "term": "grand theft audio"
+      },
+      {
+        "term": "great plains"
+      },
+      {
+        "term": "greenhorn"
+      },
+      {
+        "term": "hard bop"
+      },
+      {
+        "term": "heavy nuggets"
+      },
+      {
+        "term": "hillbilly"
+      },
+      {
+        "term": "home alive"
+      },
+      {
+        "term": "huggy bear"
+      },
+      {
+        "term": "huntington beach"
+      },
+      {
+        "term": "iggy and the stooges"
+      },
+      {
+        "term": "iggy pop"
+      },
+      {
+        "term": "insound"
+      },
+      {
+        "term": "intended play"
+      },
+      {
+        "term": "iron lung records"
+      },
+      {
+        "term": "isao tomita"
+      },
+      {
+        "term": "j church"
+      },
+      {
+        "term": "jamaican gold"
+      },
+      {
+        "term": "jass records"
+      },
+      {
+        "term": "jump blues"
+      },
+      {
+        "term": "k records"
+      },
+      {
+        "term": "kpm"
+      },
+      {
+        "term": "l.a. witch"
+      },
+      {
+        "term": "lancaster"
+      },
+      {
+        "term": "latin jazz"
+      },
+      {
+        "term": "latin music"
+      },
+      {
+        "term": "leonard cohen"
+      },
+      {
+        "term": "level plane records"
+      },
+      {
+        "term": "live from the masque"
+      },
+      {
+        "term": "louisville"
+      },
+      {
+        "term": "lovers rock"
+      },
+      {
+        "term": "major league baseball"
+      },
+      {
+        "term": "mall punk"
+      },
+      {
+        "term": "manchester"
+      },
+      {
+        "term": "mash-up"
+      },
+      {
+        "term": "mca records"
+      },
+      {
+        "term": "measles mumps rubella"
+      },
+      {
+        "term": "monte serrano"
+      },
+      {
+        "term": "music monitor network"
+      },
+      {
+        "term": "mutant disco"
+      },
+      {
+        "term": "nashville"
+      },
+      {
+        "term": "nemesis records"
+      },
+      {
+        "term": "new line records"
+      },
+      {
+        "term": "new order"
+      },
+      {
+        "term": "newcastle"
+      },
+      {
+        "term": "nick cave & the bad seeds"
+      },
+      {
+        "term": "nirvana"
+      },
+      {
+        "term": "nu metal"
+      },
+      {
+        "term": "oglio records"
+      },
+      {
+        "term": "ottobar"
+      },
+      {
+        "term": "p-vine records"
+      },
+      {
+        "term": "pageninetynine"
+      },
+      {
+        "term": "paint it black"
+      },
+      {
+        "term": "paisley underground"
+      },
+      {
+        "term": "peekarama"
+      },
+      {
+        "term": "pittsburgh"
+      },
+      {
+        "term": "poetry"
+      },
+      {
+        "term": "post bop"
+      },
+      {
+        "term": "prince jammy"
+      },
+      {
+        "term": "profile"
+      },
+      {
+        "term": "punk"
+      },
+      {
+        "term": "pusmort records"
+      },
+      {
+        "term": "ragtime"
+      },
+      {
+        "term": "rca red seal"
+      },
+      {
+        "term": "reaction figures"
+      },
+      {
+        "term": "reason to believe"
+      },
+      {
+        "term": "red hot +"
+      },
+      {
+        "term": "relapse underground series"
+      },
+      {
+        "term": "roanoke"
+      },
+      {
+        "term": "roir"
+      },
+      {
+        "term": "rolling stones"
+      },
+      {
+        "term": "sXe"
+      },
+      {
+        "term": "sacramento"
+      },
+      {
+        "term": "salem"
+      },
+      {
+        "term": "santa cruz"
+      },
+      {
+        "term": "scion audio/visual"
+      },
+      {
+        "term": "scorpion releasing"
+      },
+      {
+        "term": "shellac"
+      },
+      {
+        "term": "simpsons"
+      },
+      {
+        "term": "singles"
+      },
+      {
+        "term": "six weeks"
+      },
+      {
+        "term": "slap a ham records"
+      },
+      {
+        "term": "small faces"
+      },
+      {
+        "term": "sound effects"
+      },
+      {
+        "term": "space music"
+      },
+      {
+        "term": "stateside"
+      },
+      {
+        "term": "stax records"
+      },
+      {
+        "term": "step-1 records"
+      },
+      {
+        "term": "sterling"
+      },
+      {
+        "term": "stones throw records"
+      },
+      {
+        "term": "strange fruit"
+      },
+      {
+        "term": "suburban home records"
+      },
+      {
+        "term": "suburban voice"
+      },
+      {
+        "term": "sugar not corn syrup"
+      },
+      {
+        "term": "super7"
+      },
+      {
+        "term": "swami records"
+      },
+      {
+        "term": "tampa"
+      },
+      {
+        "term": "teen-beat"
+      },
+      {
+        "term": "temporary residence ltd."
+      },
+      {
+        "term": "the beatles"
+      },
+      {
+        "term": "the clash"
+      },
+      {
+        "term": "the cramps"
+      },
+      {
+        "term": "the hague"
+      },
+      {
+        "term": "the masque"
+      },
+      {
+        "term": "the netherlands"
+      },
+      {
+        "term": "the who"
+      },
+      {
+        "term": "thomas jefferson slave apartments"
+      },
+      {
+        "term": "too pure"
+      },
+      {
+        "term": "trance"
+      },
+      {
+        "term": "tsunami"
+      },
+      {
+        "term": "turntablism"
+      },
+      {
+        "term": "uk82"
+      },
+      {
+        "term": "uncut magazine"
+      },
+      {
+        "term": "universal horror"
+      },
+      {
+        "term": "unknown artist"
+      },
+      {
+        "term": "vancouver"
+      },
+      {
+        "term": "venom"
+      },
+      {
+        "term": "voorhees"
+      },
+      {
+        "term": "willja records"
+      },
+      {
+        "term": "year one records"
+      },
+      {
+        "term": "youth attack"
+      },
+      {
+        "term": "youth crew"
+      },
+      {
+        "term": "#50"
+      },
+      {
+        "term": "1-2-3-4 go! records"
+      },
+      {
+        "term": "101 strings"
+      },
+      {
+        "term": "11 pm records"
+      },
+      {
+        "term": "125 Rue Montmartre"
+      },
+      {
+        "term": "1954"
+      },
+      {
+        "term": "1960"
+      },
+      {
+        "term": "1961"
+      },
+      {
+        "term": "1965"
+      },
+      {
+        "term": "1968"
+      },
+      {
+        "term": "1976-1979"
+      },
+      {
+        "term": "1977-1991"
+      },
+      {
+        "term": "2000-2018"
+      },
+      {
+        "term": "200?"
+      },
+      {
+        "term": "2026"
+      },
+      {
+        "term": "Agnès Varda"
+      },
+      {
+        "term": "Amber Inn"
+      },
+      {
+        "term": "American Nightmare"
+      },
+      {
+        "term": "Anti-Matter"
+      },
+      {
+        "term": "Ashes"
+      },
+      {
+        "term": "BOMP!"
+      },
+      {
+        "term": "Bachelor-Recordlabel"
+      },
+      {
+        "term": "Big Rock Records"
+      },
+      {
+        "term": "Björk"
+      },
+      {
+        "term": "Boston crew"
+      },
+      {
+        "term": "Botch"
+      },
+      {
+        "term": "Boylan's Natural Cane Cola"
+      },
+      {
+        "term": "Braid"
+      },
+      {
+        "term": "COVID-19"
+      },
+      {
+        "term": "Canada"
+      },
+      {
+        "term": "Career Suicide"
+      },
+      {
+        "term": "Clarissa explains it all"
+      },
+      {
+        "term": "Crude"
+      },
+      {
+        "term": "Dag Nasty"
+      },
+      {
+        "term": "Dan Yemin worship"
+      },
+      {
+        "term": "Daytrotter Session"
+      },
+      {
+        "term": "Emo Summer"
+      },
+      {
+        "term": "Empirical Recordings"
+      },
+      {
+        "term": "Flowers In The Attic"
+      },
+      {
+        "term": "Frenchkiss Records"
+      },
+      {
+        "term": "Fugazi songs"
+      },
+      {
+        "term": "Gandhi"
+      },
+      {
+        "term": "Give Up the Ghost"
+      },
+      {
+        "term": "Grand Archives"
+      },
+      {
+        "term": "Henry's Finest Recordings"
+      },
+      {
+        "term": "Heresy"
+      },
+      {
+        "term": "Hold Steady"
+      },
+      {
+        "term": "Hydra Head Records"
+      },
+      {
+        "term": "I like drugs"
+      },
+      {
+        "term": "In The Red Records"
+      },
+      {
+        "term": "Interscope Records"
+      },
+      {
+        "term": "Iron and Wine"
+      },
+      {
+        "term": "José Ramón Larraz"
+      },
+      {
+        "term": "Jûzô Itami"
+      },
+      {
+        "term": "Liars Academy"
+      },
+      {
+        "term": "Little Brother Records"
+      },
+      {
+        "term": "Loopy Rocket"
+      },
+      {
+        "term": "MIA"
+      },
+      {
+        "term": "Margarethe von Trotta"
+      },
+      {
+        "term": "Maryland"
+      },
+      {
+        "term": "McCarthyism"
+      },
+      {
+        "term": "Medic"
+      },
+      {
+        "term": "Mega City Four"
+      },
+      {
+        "term": "Minor Threat"
+      },
+      {
+        "term": "Negative Approach"
+      },
+      {
+        "term": "Network Sound Records"
+      },
+      {
+        "term": "Nothing Enterprises"
+      },
+      {
+        "term": "NØ MAN"
+      },
+      {
+        "term": "Old Glory Records"
+      },
+      {
+        "term": "OnGuard"
+      },
+      {
+        "term": "Polyvinyl Records"
+      },
+      {
+        "term": "Reactionary 3"
+      },
+      {
+        "term": "Red Sound Records"
+      },
+      {
+        "term": "René Manzor"
+      },
+      {
+        "term": "Roughneck Records"
+      },
+      {
+        "term": "Rubén Galindo Jr."
+      },
+      {
+        "term": "SARS"
+      },
+      {
+        "term": "SOMETHING TOTALLY NEW AND ORIGINAL"
+      },
+      {
+        "term": "SST Records"
+      },
+      {
+        "term": "Screamers"
+      },
+      {
+        "term": "Selfless Records"
+      },
+      {
+        "term": "Shook Ones"
+      },
+      {
+        "term": "Shōmyō"
+      },
+      {
+        "term": "Sick Fix"
+      },
+      {
+        "term": "Sidekicks Records"
+      },
+      {
+        "term": "Skull Kontrol"
+      },
+      {
+        "term": "Soda Freak"
+      },
+      {
+        "term": "Spazz"
+      },
+      {
+        "term": "Spitboy"
+      },
+      {
+        "term": "Submit Records"
+      },
+      {
+        "term": "Sweep the Leg Johnny"
+      },
+      {
+        "term": "This Song Is A Mess But So Am I"
+      },
+      {
+        "term": "Thursday"
+      },
+      {
+        "term": "Tomte Tumme Tott"
+      },
+      {
+        "term": "Trenchmouth"
+      },
+      {
+        "term": "UK"
+      },
+      {
+        "term": "Uniform Choice"
+      },
+      {
+        "term": "Vivian Girls"
+      },
+      {
+        "term": "Volker Schlöndorff"
+      },
+      {
+        "term": "Wishing Well Records"
+      },
+      {
+        "term": "a clockwork orange"
+      },
+      {
+        "term": "a389 recordings"
+      },
+      {
+        "term": "aaron cometbus"
+      },
+      {
+        "term": "abbis kiarostami"
+      },
+      {
+        "term": "aberdeen"
+      },
+      {
+        "term": "absolut"
+      },
+      {
+        "term": "ac/dc"
+      },
+      {
+        "term": "accidente"
+      },
+      {
+        "term": "ace of hearts records"
+      },
+      {
+        "term": "ace records"
+      },
+      {
+        "term": "acid jazz"
+      },
+      {
+        "term": "adrian sherwood"
+      },
+      {
+        "term": "adulkt life"
+      },
+      {
+        "term": "african"
+      },
+      {
+        "term": "afrika korps"
+      },
+      {
+        "term": "ak press audio"
+      },
+      {
+        "term": "al goldstein"
+      },
+      {
+        "term": "alan pillay"
+      },
+      {
+        "term": "albany"
+      },
+      {
+        "term": "albert brooks"
+      },
+      {
+        "term": "albuquerque"
+      },
+      {
+        "term": "alejandro gonzález iñárritu"
+      },
+      {
+        "term": "algorithm"
+      },
+      {
+        "term": "alien snatch records"
+      },
+      {
+        "term": "aliens"
+      },
+      {
+        "term": "all hits"
+      },
+      {
+        "term": "all tomorrow's parties"
+      },
+      {
+        "term": "alleycats"
+      },
+      {
+        "term": "alphabet city"
+      },
+      {
+        "term": "alt comedy"
+      },
+      {
+        "term": "american cheeseburger"
+      },
+      {
+        "term": "american international pictures"
+      },
+      {
+        "term": "american recordings"
+      },
+      {
+        "term": "american steel"
+      },
+      {
+        "term": "an unmarried woman"
+      },
+      {
+        "term": "anasazi"
+      },
+      {
+        "term": "andrea bianchi"
+      },
+      {
+        "term": "andrzej bartkowiak"
+      },
+      {
+        "term": "angry samoans"
+      },
+      {
+        "term": "animal records"
+      },
+      {
+        "term": "annapolis"
+      },
+      {
+        "term": "another planet records"
+      },
+      {
+        "term": "answer records"
+      },
+      {
+        "term": "apartment 213"
+      },
+      {
+        "term": "apm music"
+      },
+      {
+        "term": "arista"
+      },
+      {
+        "term": "arizona"
+      },
+      {
+        "term": "arkansas"
+      },
+      {
+        "term": "arnhem"
+      },
+      {
+        "term": "art of the underground"
+      },
+      {
+        "term": "arthur baker"
+      },
+      {
+        "term": "arthur lyman"
+      },
+      {
+        "term": "arthur lyman group"
+      },
+      {
+        "term": "arts & crafts"
+      },
+      {
+        "term": "artsploitation films"
+      },
+      {
+        "term": "asmr"
+      },
+      {
+        "term": "asthmatic kitty records"
+      },
+      {
+        "term": "atlas"
+      },
+      {
+        "term": "attitude adjustment"
+      },
+      {
+        "term": "auch"
+      },
+      {
+        "term": "auchardcore"
+      },
+      {
+        "term": "auralux recordings"
+      },
+      {
+        "term": "australia"
+      },
+      {
+        "term": "awefull records"
+      },
+      {
+        "term": "axiom"
+      },
+      {
+        "term": "bad brains records"
+      },
+      {
+        "term": "bad religion"
+      },
+      {
+        "term": "bad taste records"
+      },
+      {
+        "term": "baggy"
+      },
+      {
+        "term": "baistophe"
+      },
+      {
+        "term": "bar rock"
+      },
+      {
+        "term": "baroness"
+      },
+      {
+        "term": "baroque pop"
+      },
+      {
+        "term": "barry music co."
+      },
+      {
+        "term": "bastard"
+      },
+      {
+        "term": "baths of power"
+      },
+      {
+        "term": "be a man"
+      },
+      {
+        "term": "be@rbrick"
+      },
+      {
+        "term": "beach boys"
+      },
+      {
+        "term": "bearbrick"
+      },
+      {
+        "term": "beast arts"
+      },
+      {
+        "term": "beat"
+      },
+      {
+        "term": "beatniks"
+      },
+      {
+        "term": "bebe barron"
+      },
+      {
+        "term": "bebop"
+      },
+      {
+        "term": "beggars banquet"
+      },
+      {
+        "term": "beggars group"
+      },
+      {
+        "term": "belgium"
+      },
+      {
+        "term": "ben folds"
+      },
+      {
+        "term": "best friends forever"
+      },
+      {
+        "term": "best song titles ever"
+      },
+      {
+        "term": "beth lapides"
+      },
+      {
+        "term": "bifocal media"
+      },
+      {
+        "term": "big band"
+      },
+      {
+        "term": "big cat"
+      },
+      {
+        "term": "big dipper"
+      },
+      {
+        "term": "big rig"
+      },
+      {
+        "term": "big wheel recreation"
+      },
+      {
+        "term": "big youth"
+      },
+      {
+        "term": "big'n"
+      },
+      {
+        "term": "bill laswell"
+      },
+      {
+        "term": "bill naud"
+      },
+      {
+        "term": "billy wilder"
+      },
+      {
+        "term": "bing liu"
+      },
+      {
+        "term": "binky griptite"
+      },
+      {
+        "term": "birds of prey"
+      },
+      {
+        "term": "birthday party"
+      },
+      {
+        "term": "bis"
+      },
+      {
+        "term": "bitchin bout work"
+      },
+      {
+        "term": "bitter lake recordings"
+      },
+      {
+        "term": "bizarre sounds productions"
+      },
+      {
+        "term": "black keys"
+      },
+      {
+        "term": "black randy and the metrosquad"
+      },
+      {
+        "term": "black sabbath"
+      },
+      {
+        "term": "black star recordings"
+      },
+      {
+        "term": "blackbox records"
+      },
+      {
+        "term": "blackout! records"
+      },
+      {
+        "term": "blitz"
+      },
+      {
+        "term": "blog business"
+      },
+      {
+        "term": "blood on the flat track"
+      },
+      {
+        "term": "blood sucker records"
+      },
+      {
+        "term": "bloodshot records"
+      },
+      {
+        "term": "bloodwave"
+      },
+      {
+        "term": "bloomington"
+      },
+      {
+        "term": "blow your mind"
+      },
+      {
+        "term": "blue collar press"
+      },
+      {
+        "term": "bluedisguise records"
+      },
+      {
+        "term": "bluegrass"
+      },
+      {
+        "term": "bob dylan"
+      },
+      {
+        "term": "bob seger"
+      },
+      {
+        "term": "bobbito"
+      },
+      {
+        "term": "bong joon ho"
+      },
+      {
+        "term": "boogaloo"
+      },
+      {
+        "term": "boon jong-ho"
+      },
+      {
+        "term": "boulder"
+      },
+      {
+        "term": "bounce"
+      },
+      {
+        "term": "box set"
+      },
+      {
+        "term": "branding!"
+      },
+      {
+        "term": "bratmobile"
+      },
+      {
+        "term": "brazil"
+      },
+      {
+        "term": "brian de palma"
+      },
+      {
+        "term": "brian eno"
+      },
+      {
+        "term": "brise-glace"
+      },
+      {
+        "term": "bronco bullfrog"
+      },
+      {
+        "term": "bruce lee"
+      },
+      {
+        "term": "bubblegum"
+      },
+      {
+        "term": "buddah"
+      },
+      {
+        "term": "buddyhead"
+      },
+      {
+        "term": "buffalo"
+      },
+      {
+        "term": "bukkake boys"
+      },
+      {
+        "term": "bummer jams"
+      },
+      {
+        "term": "buzz or howl"
+      },
+      {
+        "term": "byron haskin"
+      },
+      {
+        "term": "cage match federation"
+      },
+      {
+        "term": "calamity jane"
+      },
+      {
+        "term": "calico ghost town"
+      },
+      {
+        "term": "california"
+      },
+      {
+        "term": "calypso"
+      },
+      {
+        "term": "capitol radio"
+      },
+      {
+        "term": "capsule reviews"
+      },
+      {
+        "term": "captain oi!"
+      },
+      {
+        "term": "carl franklin"
+      },
+      {
+        "term": "caroline distribution"
+      },
+      {
+        "term": "carpenters"
+      },
+      {
+        "term": "cassettes"
+      },
+      {
+        "term": "castle communications"
+      },
+      {
+        "term": "cat food money records"
+      },
+      {
+        "term": "cave in"
+      },
+      {
+        "term": "cdbaby"
+      },
+      {
+        "term": "cecil mcbee"
+      },
+      {
+        "term": "celebrated summer records"
+      },
+      {
+        "term": "celtic"
+      },
+      {
+        "term": "change zine"
+      },
+      {
+        "term": "chaotic noise"
+      },
+      {
+        "term": "chapel hill"
+      },
+      {
+        "term": "charlie brissette"
+      },
+      {
+        "term": "charlotte"
+      },
+      {
+        "term": "charly"
+      },
+      {
+        "term": "chase"
+      },
+      {
+        "term": "cherubic delusions"
+      },
+      {
+        "term": "chicano soul"
+      },
+      {
+        "term": "chris hegedus"
+      },
+      {
+        "term": "christer petterson"
+      },
+      {
+        "term": "chrysalis"
+      },
+      {
+        "term": "chunk records"
+      },
+      {
+        "term": "chunksaah records"
+      },
+      {
+        "term": "cincinnati"
+      },
+      {
+        "term": "cinema sewer"
+      },
+      {
+        "term": "city slang"
+      },
+      {
+        "term": "clare denis"
+      },
+      {
+        "term": "claremont"
+      },
+      {
+        "term": "classic rock"
+      },
+      {
+        "term": "classic rock magazine"
+      },
+      {
+        "term": "claude debussy"
+      },
+      {
+        "term": "claudia weill"
+      },
+      {
+        "term": "cleopatra"
+      },
+      {
+        "term": "clever titles"
+      },
+      {
+        "term": "cliff martinez"
+      },
+      {
+        "term": "clitboys"
+      },
+      {
+        "term": "closer"
+      },
+      {
+        "term": "cnn films"
+      },
+      {
+        "term": "cohen media group"
+      },
+      {
+        "term": "coldfront records"
+      },
+      {
+        "term": "collectibles"
+      },
+      {
+        "term": "columbia records"
+      },
+      {
+        "term": "come and see"
+      },
+      {
+        "term": "comics"
+      },
+      {
+        "term": "commentary"
+      },
+      {
+        "term": "communicator"
+      },
+      {
+        "term": "connecticut"
+      },
+      {
+        "term": "contortions"
+      },
+      {
+        "term": "coolidge records"
+      },
+      {
+        "term": "coop"
+      },
+      {
+        "term": "cop shoot cop"
+      },
+      {
+        "term": "coriolos records"
+      },
+      {
+        "term": "cotali"
+      },
+      {
+        "term": "covington"
+      },
+      {
+        "term": "coxsone dodd"
+      },
+      {
+        "term": "crank!"
+      },
+      {
+        "term": "crass"
+      },
+      {
+        "term": "creation rebel"
+      },
+      {
+        "term": "crimethinc."
+      },
+      {
+        "term": "crimson wave"
+      },
+      {
+        "term": "crisis of faith"
+      },
+      {
+        "term": "criticism"
+      },
+      {
+        "term": "crossed out"
+      },
+      {
+        "term": "crow"
+      },
+      {
+        "term": "crucial unit"
+      },
+      {
+        "term": "crypt records"
+      },
+      {
+        "term": "cuz I got the good stuff that kids go for"
+      },
+      {
+        "term": "d.a. pennebaker"
+      },
+      {
+        "term": "dahlia seed"
+      },
+      {
+        "term": "dan sartain"
+      },
+      {
+        "term": "dan the automator"
+      },
+      {
+        "term": "dancehall"
+      },
+      {
+        "term": "daniel lanois"
+      },
+      {
+        "term": "daniel striped tiger"
+      },
+      {
+        "term": "danny steinmann"
+      },
+      {
+        "term": "danzig"
+      },
+      {
+        "term": "daphne the painted lady"
+      },
+      {
+        "term": "daptone records"
+      },
+      {
+        "term": "dave nada"
+      },
+      {
+        "term": "david bowie"
+      },
+      {
+        "term": "david cronenberg"
+      },
+      {
+        "term": "david greene"
+      },
+      {
+        "term": "david lean"
+      },
+      {
+        "term": "david lynch"
+      },
+      {
+        "term": "david miller"
+      },
+      {
+        "term": "david murray"
+      },
+      {
+        "term": "dcc jazz"
+      },
+      {
+        "term": "de la mente records"
+      },
+      {
+        "term": "dead celebrity"
+      },
+      {
+        "term": "dead hero"
+      },
+      {
+        "term": "dead low tide"
+      },
+      {
+        "term": "deadline music"
+      },
+      {
+        "term": "deathmutt"
+      },
+      {
+        "term": "deathwish"
+      },
+      {
+        "term": "decon"
+      },
+      {
+        "term": "deep six record"
+      },
+      {
+        "term": "def-con 4"
+      },
+      {
+        "term": "defiant hearts records"
+      },
+      {
+        "term": "definite jux"
+      },
+      {
+        "term": "demolition derby"
+      },
+      {
+        "term": "dennis bovell"
+      },
+      {
+        "term": "depeche mode"
+      },
+      {
+        "term": "derry"
+      },
+      {
+        "term": "desoto records"
+      },
+      {
+        "term": "devil's records"
+      },
+      {
+        "term": "devo"
+      },
+      {
+        "term": "devoid of faith"
+      },
+      {
+        "term": "dfa"
+      },
+      {
+        "term": "dgc"
+      },
+      {
+        "term": "dhr records"
+      },
+      {
+        "term": "digital hardcore"
+      },
+      {
+        "term": "dillinger four"
+      },
+      {
+        "term": "dim mak"
+      },
+      {
+        "term": "dine alone records"
+      },
+      {
+        "term": "dinosaur discs"
+      },
+      {
+        "term": "discobelle"
+      },
+      {
+        "term": "discount"
+      },
+      {
+        "term": "dismemberment plan"
+      },
+      {
+        "term": "divot records"
+      },
+      {
+        "term": "dixieland"
+      },
+      {
+        "term": "djibril diop mambéty"
+      },
+      {
+        "term": "djing"
+      },
+      {
+        "term": "doctor bird"
+      },
+      {
+        "term": "dojo"
+      },
+      {
+        "term": "dom america"
+      },
+      {
+        "term": "don coscarelli"
+      },
+      {
+        "term": "doom"
+      },
+      {
+        "term": "dorothy arzner"
+      },
+      {
+        "term": "doubling cube"
+      },
+      {
+        "term": "doug ulrich"
+      },
+      {
+        "term": "doughboys"
+      },
+      {
+        "term": "dove"
+      },
+      {
+        "term": "downcast"
+      },
+      {
+        "term": "drag the river"
+      },
+      {
+        "term": "draw blank records"
+      },
+      {
+        "term": "dreams"
+      },
+      {
+        "term": "drew daniel"
+      },
+      {
+        "term": "drive"
+      },
+      {
+        "term": "drive-thru records"
+      },
+      {
+        "term": "drum n bass"
+      },
+      {
+        "term": "duke reid"
+      },
+      {
+        "term": "dumbrock"
+      },
+      {
+        "term": "duran duran"
+      },
+      {
+        "term": "durham"
+      },
+      {
+        "term": "düsseldorf"
+      },
+      {
+        "term": "ear bleeding disorder"
+      },
+      {
+        "term": "earthride"
+      },
+      {
+        "term": "eastwest america"
+      },
+      {
+        "term": "eastwest records"
+      },
+      {
+        "term": "ed walters records"
+      },
+      {
+        "term": "edward r. murrow"
+      },
+      {
+        "term": "egotrip"
+      },
+      {
+        "term": "ekwa msangi"
+      },
+      {
+        "term": "elektra records"
+      },
+      {
+        "term": "elemental records"
+      },
+      {
+        "term": "elton motello"
+      },
+      {
+        "term": "elvin jones"
+      },
+      {
+        "term": "elvis presley"
+      },
+      {
+        "term": "embrace"
+      },
+      {
+        "term": "emeric pressburger"
+      },
+      {
+        "term": "emi"
+      },
+      {
+        "term": "emperor norton"
+      },
+      {
+        "term": "empire"
+      },
+      {
+        "term": "empty records"
+      },
+      {
+        "term": "encinitas"
+      },
+      {
+        "term": "encyclopedia of american traitors"
+      },
+      {
+        "term": "ennio morricone"
+      },
+      {
+        "term": "epic records"
+      },
+      {
+        "term": "epic reocrds"
+      },
+      {
+        "term": "epic show fail"
+      },
+      {
+        "term": "eric clapton"
+      },
+      {
+        "term": "eric davidson"
+      },
+      {
+        "term": "eric rohmer"
+      },
+      {
+        "term": "erotica"
+      },
+      {
+        "term": "ethereal"
+      },
+      {
+        "term": "ethiopian"
+      },
+      {
+        "term": "excreted alive"
+      },
+      {
+        "term": "excuse 17"
+      },
+      {
+        "term": "exhumed"
+      },
+      {
+        "term": "exploitation"
+      },
+      {
+        "term": "extreme noise terror"
+      },
+      {
+        "term": "eyes"
+      },
+      {
+        "term": "f-word"
+      },
+      {
+        "term": "faction"
+      },
+      {
+        "term": "factory 13 skateboards"
+      },
+      {
+        "term": "failure design"
+      },
+      {
+        "term": "fake punk"
+      },
+      {
+        "term": "fan death records"
+      },
+      {
+        "term": "fania"
+      },
+      {
+        "term": "far out records"
+      },
+      {
+        "term": "farnborough"
+      },
+      {
+        "term": "fartz"
+      },
+      {
+        "term": "fast beer"
+      },
+      {
+        "term": "federico fellini"
+      },
+      {
+        "term": "fire records"
+      },
+      {
+        "term": "flash gordon"
+      },
+      {
+        "term": "fleetwood mac"
+      },
+      {
+        "term": "flipper"
+      },
+      {
+        "term": "flipside records"
+      },
+      {
+        "term": "floppy cow"
+      },
+      {
+        "term": "florianopolis"
+      },
+      {
+        "term": "flux of pink indians"
+      },
+      {
+        "term": "fondle 'em"
+      },
+      {
+        "term": "format notes"
+      },
+      {
+        "term": "fortuna pop!"
+      },
+      {
+        "term": "fountain of youth records"
+      },
+      {
+        "term": "foxcore"
+      },
+      {
+        "term": "francesco rosi"
+      },
+      {
+        "term": "frank darabont"
+      },
+      {
+        "term": "frank herbert"
+      },
+      {
+        "term": "frank sinatra"
+      },
+      {
+        "term": "fred mcdowell"
+      },
+      {
+        "term": "freestyle"
+      },
+      {
+        "term": "french pop"
+      },
+      {
+        "term": "fuck this year in its ear"
+      },
+      {
+        "term": "fuel"
+      },
+      {
+        "term": "fugazi"
+      },
+      {
+        "term": "full-length"
+      },
+      {
+        "term": "funk metal"
+      },
+      {
+        "term": "fuses"
+      },
+      {
+        "term": "fy fan"
+      },
+      {
+        "term": "g.i.s.m."
+      },
+      {
+        "term": "gain ground"
+      },
+      {
+        "term": "gangsta rap"
+      },
+      {
+        "term": "garden variety"
+      },
+      {
+        "term": "gary panter"
+      },
+      {
+        "term": "gasoline boost"
+      },
+      {
+        "term": "gearhead records"
+      },
+      {
+        "term": "geinhausen"
+      },
+      {
+        "term": "geldern"
+      },
+      {
+        "term": "general smartassery"
+      },
+      {
+        "term": "generic crib death"
+      },
+      {
+        "term": "george miller"
+      },
+      {
+        "term": "george pal"
+      },
+      {
+        "term": "georgia"
+      },
+      {
+        "term": "geraldine fibbers"
+      },
+      {
+        "term": "ghost buffalo"
+      },
+      {
+        "term": "ghostface killah"
+      },
+      {
+        "term": "ghostfunk"
+      },
+      {
+        "term": "giant"
+      },
+      {
+        "term": "girl trouble"
+      },
+      {
+        "term": "girls against boys"
+      },
+      {
+        "term": "glasgow"
+      },
+      {
+        "term": "glendale"
+      },
+      {
+        "term": "glenn branca"
+      },
+      {
+        "term": "gloom records"
+      },
+      {
+        "term": "glue factory"
+      },
+      {
+        "term": "go for the throat"
+      },
+      {
+        "term": "goatsnake"
+      },
+      {
+        "term": "godheadsilo"
+      },
+      {
+        "term": "gofundme"
+      },
+      {
+        "term": "gold plated rocket car"
+      },
+      {
+        "term": "good smile company"
+      },
+      {
+        "term": "gordon parks"
+      },
+      {
+        "term": "grand mal"
+      },
+      {
+        "term": "grand royal"
+      },
+      {
+        "term": "grass records"
+      },
+      {
+        "term": "graves at sea"
+      },
+      {
+        "term": "greensboro"
+      },
+      {
+        "term": "greensleeves records"
+      },
+      {
+        "term": "greenville"
+      },
+      {
+        "term": "grey march"
+      },
+      {
+        "term": "grime"
+      },
+      {
+        "term": "grind today"
+      },
+      {
+        "term": "grindfather productions"
+      },
+      {
+        "term": "gross"
+      },
+      {
+        "term": "gsl"
+      },
+      {
+        "term": "gulcher records"
+      },
+      {
+        "term": "gvsb"
+      },
+      {
+        "term": "haircut"
+      },
+      {
+        "term": "hakim bey"
+      },
+      {
+        "term": "hal hartley"
+      },
+      {
+        "term": "hal needham"
+      },
+      {
+        "term": "hamilton"
+      },
+      {
+        "term": "hanover"
+      },
+      {
+        "term": "happy flowers"
+      },
+      {
+        "term": "happy squid records"
+      },
+      {
+        "term": "hard attack"
+      },
+      {
+        "term": "harley quinn"
+      },
+      {
+        "term": "hatred surge"
+      },
+      {
+        "term": "havana"
+      },
+      {
+        "term": "hawaiian"
+      },
+      {
+        "term": "headhunter records"
+      },
+      {
+        "term": "heavenly"
+      },
+      {
+        "term": "hedgecore"
+      },
+      {
+        "term": "henry fiat's open sore"
+      },
+      {
+        "term": "henry king"
+      },
+      {
+        "term": "hepcat"
+      },
+      {
+        "term": "heptones"
+      },
+      {
+        "term": "hertfordshire"
+      },
+      {
+        "term": "hey I know how to embed video"
+      },
+      {
+        "term": "hey gift for you"
+      },
+      {
+        "term": "hi nrg"
+      },
+      {
+        "term": "hi records"
+      },
+      {
+        "term": "highlife"
+      },
+      {
+        "term": "hindustani"
+      },
+      {
+        "term": "hip hop"
+      },
+      {
+        "term": "his name is a killing sound"
+      },
+      {
+        "term": "hissing choir"
+      },
+      {
+        "term": "hits magazine"
+      },
+      {
+        "term": "hives"
+      },
+      {
+        "term": "hockey"
+      },
+      {
+        "term": "holiday"
+      },
+      {
+        "term": "holland"
+      },
+      {
+        "term": "homestead records"
+      },
+      {
+        "term": "honey you're gonna be late records"
+      },
+      {
+        "term": "honolulu"
+      },
+      {
+        "term": "hose.got.cable"
+      },
+      {
+        "term": "humble pie"
+      },
+      {
+        "term": "hüsker dü"
+      },
+      {
+        "term": "i wore an onion on my belt as was the custom at the time"
+      },
+      {
+        "term": "i.r.s. records"
+      },
+      {
+        "term": "ibiza"
+      },
+      {
+        "term": "idle worship"
+      },
+      {
+        "term": "iggy"
+      },
+      {
+        "term": "illbient"
+      },
+      {
+        "term": "immoral roberts"
+      },
+      {
+        "term": "important announcements"
+      },
+      {
+        "term": "indecent exposure"
+      },
+      {
+        "term": "indianapolis"
+      },
+      {
+        "term": "indie jazz"
+      },
+      {
+        "term": "indigesti"
+      },
+      {
+        "term": "indonesia"
+      },
+      {
+        "term": "infomatik"
+      },
+      {
+        "term": "inhumanoids"
+      },
+      {
+        "term": "inside out"
+      },
+      {
+        "term": "internet"
+      },
+      {
+        "term": "invalid format"
+      },
+      {
+        "term": "iron lung"
+      },
+      {
+        "term": "island def jam"
+      },
+      {
+        "term": "italians do it better"
+      },
+      {
+        "term": "italy"
+      },
+      {
+        "term": "jack white"
+      },
+      {
+        "term": "jackie gleason"
+      },
+      {
+        "term": "jacques rivette"
+      },
+      {
+        "term": "jacques tati"
+      },
+      {
+        "term": "jaime hernandez"
+      },
+      {
+        "term": "jakarta"
+      },
+      {
+        "term": "james brown"
+      },
+      {
+        "term": "jangle pop"
+      },
+      {
+        "term": "japan records"
+      },
+      {
+        "term": "jawbox"
+      },
+      {
+        "term": "jazz time"
+      },
+      {
+        "term": "jazzcore"
+      },
+      {
+        "term": "jealous butcher"
+      },
+      {
+        "term": "jean renoir"
+      },
+      {
+        "term": "jean-luc godard"
+      },
+      {
+        "term": "jean-michael basquiat"
+      },
+      {
+        "term": "jeffrey taylor"
+      },
+      {
+        "term": "jerk off records"
+      },
+      {
+        "term": "jetset records"
+      },
+      {
+        "term": "jim jarmusch"
+      },
+      {
+        "term": "jimi hendrix"
+      },
+      {
+        "term": "jimmy eat world"
+      },
+      {
+        "term": "jimmy smith"
+      },
+      {
+        "term": "joachim trier"
+      },
+      {
+        "term": "joel schumacher"
+      },
+      {
+        "term": "john berry"
+      },
+      {
+        "term": "john carpenter"
+      },
+      {
+        "term": "john cassavetes"
+      },
+      {
+        "term": "john coltrane quartet"
+      },
+      {
+        "term": "john k."
+      },
+      {
+        "term": "john sharkey iii"
+      },
+      {
+        "term": "john sturges"
+      },
+      {
+        "term": "john yates"
+      },
+      {
+        "term": "johnny guitar watson"
+      },
+      {
+        "term": "joie de vivre"
+      },
+      {
+        "term": "jon savage"
+      },
+      {
+        "term": "jonathan r. betuel"
+      },
+      {
+        "term": "jools holland"
+      },
+      {
+        "term": "joseph losey"
+      },
+      {
+        "term": "judas cradle recordings"
+      },
+      {
+        "term": "jules dassin"
+      },
+      {
+        "term": "jumbled"
+      },
+      {
+        "term": "juneteenth"
+      },
+      {
+        "term": "jungle records"
+      },
+      {
+        "term": "junk records"
+      },
+      {
+        "term": "just add water"
+      },
+      {
+        "term": "k-tel"
+      },
+      {
+        "term": "kansas city"
+      },
+      {
+        "term": "karate"
+      },
+      {
+        "term": "karate brand records"
+      },
+      {
+        "term": "karl hendricks trio"
+      },
+      {
+        "term": "kbd"
+      },
+      {
+        "term": "keith richards"
+      },
+      {
+        "term": "kenny vance"
+      },
+      {
+        "term": "kent"
+      },
+      {
+        "term": "kerum"
+      },
+      {
+        "term": "khanate"
+      },
+      {
+        "term": "khazad-dûm"
+      },
+      {
+        "term": "kick n' punch records"
+      },
+      {
+        "term": "kid dynamite"
+      },
+      {
+        "term": "kid rhino"
+      },
+      {
+        "term": "killer pussy"
+      },
+      {
+        "term": "kim yong-hoon"
+      },
+      {
+        "term": "king jammy"
+      },
+      {
+        "term": "kingpin records"
+      },
+      {
+        "term": "kino classics"
+      },
+      {
+        "term": "knives out"
+      },
+      {
+        "term": "korog"
+      },
+      {
+        "term": "kortrijk"
+      },
+      {
+        "term": "kpfk"
+      },
+      {
+        "term": "kyoufu shinbun"
+      },
+      {
+        "term": "ladrones de tumbas"
+      },
+      {
+        "term": "lagrecia"
+      },
+      {
+        "term": "lake elisnor"
+      },
+      {
+        "term": "lance hahn"
+      },
+      {
+        "term": "land of 1000 bands"
+      },
+      {
+        "term": "larisa shepitko"
+      },
+      {
+        "term": "larry bird"
+      },
+      {
+        "term": "las vegas"
+      },
+      {
+        "term": "laura greene"
+      },
+      {
+        "term": "lauren records"
+      },
+      {
+        "term": "lawrence"
+      },
+      {
+        "term": "laytonville"
+      },
+      {
+        "term": "leaving records"
+      },
+      {
+        "term": "lee frost"
+      },
+      {
+        "term": "left for dead"
+      },
+      {
+        "term": "les disques du crépuscule"
+      },
+      {
+        "term": "les savy fav"
+      },
+      {
+        "term": "life sentence records"
+      },
+      {
+        "term": "light in the attic"
+      },
+      {
+        "term": "light the fuse and run"
+      },
+      {
+        "term": "like Scorcese in his bearded years"
+      },
+      {
+        "term": "limbo"
+      },
+      {
+        "term": "limited edition records"
+      },
+      {
+        "term": "link records"
+      },
+      {
+        "term": "liquid assets"
+      },
+      {
+        "term": "liquid meat"
+      },
+      {
+        "term": "little richard"
+      },
+      {
+        "term": "little rocket records"
+      },
+      {
+        "term": "liverpool"
+      },
+      {
+        "term": "lo wei"
+      },
+      {
+        "term": "lofty storm records"
+      },
+      {
+        "term": "london records"
+      },
+      {
+        "term": "los campesinos!"
+      },
+      {
+        "term": "loud + clear records"
+      },
+      {
+        "term": "louis barron"
+      },
+      {
+        "term": "louise huebner"
+      },
+      {
+        "term": "lounge punk"
+      },
+      {
+        "term": "luigi batzelli"
+      },
+      {
+        "term": "luis buñuel"
+      },
+      {
+        "term": "lungfish"
+      },
+      {
+        "term": "lydia loveless"
+      },
+      {
+        "term": "lärm"
+      },
+      {
+        "term": "m port records"
+      },
+      {
+        "term": "macon"
+      },
+      {
+        "term": "mad decent"
+      },
+      {
+        "term": "madrid"
+      },
+      {
+        "term": "mail on sunday"
+      },
+      {
+        "term": "malaysia"
+      },
+      {
+        "term": "man-eaters"
+      },
+      {
+        "term": "manifesto"
+      },
+      {
+        "term": "manson rec."
+      },
+      {
+        "term": "mantra recordings"
+      },
+      {
+        "term": "manuela iwansson"
+      },
+      {
+        "term": "marty thau"
+      },
+      {
+        "term": "mary monday"
+      },
+      {
+        "term": "mary wharton"
+      },
+      {
+        "term": "masaki watanabe"
+      },
+      {
+        "term": "masasiorangutan"
+      },
+      {
+        "term": "masshysteri"
+      },
+      {
+        "term": "matmos"
+      },
+      {
+        "term": "matthew shipp"
+      },
+      {
+        "term": "matthew shipp trio"
+      },
+      {
+        "term": "mattress records"
+      },
+      {
+        "term": "max tannone"
+      },
+      {
+        "term": "mccoy tyner"
+      },
+      {
+        "term": "mclusky"
+      },
+      {
+        "term": "medford lakes"
+      },
+      {
+        "term": "medicom toy"
+      },
+      {
+        "term": "mel henke"
+      },
+      {
+        "term": "melbourne"
+      },
+      {
+        "term": "melvins"
+      },
+      {
+        "term": "memorial day massacre"
+      },
+      {
+        "term": "mercenary records"
+      },
+      {
+        "term": "merchant-ivoty"
+      },
+      {
+        "term": "mercury records"
+      },
+      {
+        "term": "merge records"
+      },
+      {
+        "term": "merseyside"
+      },
+      {
+        "term": "message"
+      },
+      {
+        "term": "metal sucks"
+      },
+      {
+        "term": "miami"
+      },
+      {
+        "term": "mic media"
+      },
+      {
+        "term": "michael powell"
+      },
+      {
+        "term": "microcosm publishing"
+      },
+      {
+        "term": "middle-man records"
+      },
+      {
+        "term": "mighty mighty bosstones"
+      },
+      {
+        "term": "mika miko"
+      },
+      {
+        "term": "mike leigh"
+      },
+      {
+        "term": "mike worm"
+      },
+      {
+        "term": "milestone"
+      },
+      {
+        "term": "milestones"
+      },
+      {
+        "term": "miller freeman"
+      },
+      {
+        "term": "mineral"
+      },
+      {
+        "term": "mira nair"
+      },
+      {
+        "term": "mission of burma"
+      },
+      {
+        "term": "mmm cheeseburgers"
+      },
+      {
+        "term": "modern records"
+      },
+      {
+        "term": "monks"
+      },
+      {
+        "term": "monolog"
+      },
+      {
+        "term": "monorchid"
+      },
+      {
+        "term": "monument records"
+      },
+      {
+        "term": "mood music"
+      },
+      {
+        "term": "moombahton"
+      },
+      {
+        "term": "moon ska"
+      },
+      {
+        "term": "moonpig"
+      },
+      {
+        "term": "mothmen"
+      },
+      {
+        "term": "motörhead"
+      },
+      {
+        "term": "moving target"
+      },
+      {
+        "term": "mtl records"
+      },
+      {
+        "term": "mubi"
+      },
+      {
+        "term": "mumia abu-jamal"
+      },
+      {
+        "term": "murder city devils"
+      },
+      {
+        "term": "muscle shoals"
+      },
+      {
+        "term": "music club"
+      },
+      {
+        "term": "music video"
+      },
+      {
+        "term": "musical progression"
+      },
+      {
+        "term": "myspace records"
+      },
+      {
+        "term": "nagold"
+      },
+      {
+        "term": "nathalie lete"
+      },
+      {
+        "term": "nation of ulysses"
+      },
+      {
+        "term": "nba 2k7"
+      },
+      {
+        "term": "neanderthal"
+      },
+      {
+        "term": "neat records"
+      },
+      {
+        "term": "neca"
+      },
+      {
+        "term": "necros"
+      },
+      {
+        "term": "necrose"
+      },
+      {
+        "term": "ned rifle"
+      },
+      {
+        "term": "nendoroid"
+      },
+      {
+        "term": "neofolk"
+      },
+      {
+        "term": "neon hearts"
+      },
+      {
+        "term": "neos"
+      },
+      {
+        "term": "nero"
+      },
+      {
+        "term": "nervous intent records"
+      },
+      {
+        "term": "nettwerk"
+      },
+      {
+        "term": "network of friends"
+      },
+      {
+        "term": "neurotic records"
+      },
+      {
+        "term": "new age steppers"
+      },
+      {
+        "term": "new brunswick"
+      },
+      {
+        "term": "new mills"
+      },
+      {
+        "term": "new red archives"
+      },
+      {
+        "term": "new zealand"
+      },
+      {
+        "term": "next step up"
+      },
+      {
+        "term": "nick cave"
+      },
+      {
+        "term": "nico"
+      },
+      {
+        "term": "night school records"
+      },
+      {
+        "term": "nisshin"
+      },
+      {
+        "term": "no alternative"
+      },
+      {
+        "term": "no comment"
+      },
+      {
+        "term": "no front teeth records"
+      },
+      {
+        "term": "no future records"
+      },
+      {
+        "term": "noah baumbach"
+      },
+      {
+        "term": "nomeansno"
+      },
+      {
+        "term": "none more black"
+      },
+      {
+        "term": "norman jewison"
+      },
+      {
+        "term": "nosferatu"
+      },
+      {
+        "term": "novelty"
+      },
+      {
+        "term": "now sound"
+      },
+      {
+        "term": "noxious fumes"
+      },
+      {
+        "term": "nsfw"
+      },
+      {
+        "term": "nux organization"
+      },
+      {
+        "term": "nwobhm"
+      },
+      {
+        "term": "oakland"
+      },
+      {
+        "term": "oakland faders"
+      },
+      {
+        "term": "obsessed"
+      },
+      {
+        "term": "ocean pacific"
+      },
+      {
+        "term": "oi! records"
+      },
+      {
+        "term": "old record labels"
+      },
+      {
+        "term": "omaha"
+      },
+      {
+        "term": "on-u sound"
+      },
+      {
+        "term": "one little indian"
+      },
+      {
+        "term": "ooo shoooes"
+      },
+      {
+        "term": "operation ivy"
+      },
+      {
+        "term": "orcustus"
+      },
+      {
+        "term": "organic"
+      },
+      {
+        "term": "out_circuit"
+      },
+      {
+        "term": "outback records"
+      },
+      {
+        "term": "outlaw order"
+      },
+      {
+        "term": "oxford american"
+      },
+      {
+        "term": "p. trash records"
+      },
+      {
+        "term": "pacifica radio"
+      },
+      {
+        "term": "pains of being pure at heart"
+      },
+      {
+        "term": "pandemonium"
+      },
+      {
+        "term": "paris"
+      },
+      {
+        "term": "parts unknown records"
+      },
+      {
+        "term": "patti smith"
+      },
+      {
+        "term": "paul dano"
+      },
+      {
+        "term": "paul schrader"
+      },
+      {
+        "term": "paul williams"
+      },
+      {
+        "term": "pauly shore"
+      },
+      {
+        "term": "pay your bills"
+      },
+      {
+        "term": "peanuts"
+      },
+      {
+        "term": "pee tanks"
+      },
+      {
+        "term": "perfect strangers"
+      },
+      {
+        "term": "perpetually twelve"
+      },
+      {
+        "term": "perth"
+      },
+      {
+        "term": "peterbilt records"
+      },
+      {
+        "term": "pharoah sanders"
+      },
+      {
+        "term": "phase five"
+      },
+      {
+        "term": "philips"
+      },
+      {
+        "term": "phoenix"
+      },
+      {
+        "term": "piedmont blues"
+      },
+      {
+        "term": "pig destroyer"
+      },
+      {
+        "term": "pillsbury hardcore"
+      },
+      {
+        "term": "pilot to gunner"
+      },
+      {
+        "term": "pinpoint music"
+      },
+      {
+        "term": "pipeline records"
+      },
+      {
+        "term": "pipyu"
+      },
+      {
+        "term": "pissed off!! records"
+      },
+      {
+        "term": "pixies"
+      },
+      {
+        "term": "pj harvey"
+      },
+      {
+        "term": "place of skulls"
+      },
+      {
+        "term": "planaria recordings"
+      },
+      {
+        "term": "planes mistaken for stars"
+      },
+      {
+        "term": "planned parenthood"
+      },
+      {
+        "term": "plate or shrimp or plate of shrimp"
+      },
+      {
+        "term": "platform toys"
+      },
+      {
+        "term": "playgroup"
+      },
+      {
+        "term": "pnkslm recordings"
+      },
+      {
+        "term": "polydor"
+      },
+      {
+        "term": "polygram distribution"
+      },
+      {
+        "term": "poorly packaged products"
+      },
+      {
+        "term": "pop rock"
+      },
+      {
+        "term": "pope"
+      },
+      {
+        "term": "portishead"
+      },
+      {
+        "term": "portrait of a lady on fire"
+      },
+      {
+        "term": "posh boy"
+      },
+      {
+        "term": "positive force records"
+      },
+      {
+        "term": "positive no"
+      },
+      {
+        "term": "post present medium"
+      },
+      {
+        "term": "powerade"
+      },
+      {
+        "term": "pre-b.s. records"
+      },
+      {
+        "term": "preston sturges"
+      },
+      {
+        "term": "primal scream"
+      },
+      {
+        "term": "primal scream nyc"
+      },
+      {
+        "term": "probot"
+      },
+      {
+        "term": "productions"
+      },
+      {
+        "term": "professor"
+      },
+      {
+        "term": "prog-core"
+      },
+      {
+        "term": "puerto rico flowers"
+      },
+      {
+        "term": "pump up the volume"
+      },
+      {
+        "term": "pun rock"
+      },
+      {
+        "term": "pure junk"
+      },
+      {
+        "term": "pure noise records"
+      },
+      {
+        "term": "pussy galore"
+      },
+      {
+        "term": "q-burns abstract message"
+      },
+      {
+        "term": "quadrophenia"
+      },
+      {
+        "term": "quannum projects"
+      },
+      {
+        "term": "quit life"
+      },
+      {
+        "term": "r radical records"
+      },
+      {
+        "term": "r&b"
+      },
+      {
+        "term": "r.a.p.s. records"
+      },
+      {
+        "term": "r.e.m."
+      },
+      {
+        "term": "rad"
+      },
+      {
+        "term": "rad girlfriend records"
+      },
+      {
+        "term": "radical haiju"
+      },
+      {
+        "term": "ragga"
+      },
+      {
+        "term": "rai"
+      },
+      {
+        "term": "rail recordings"
+      },
+      {
+        "term": "rain"
+      },
+      {
+        "term": "rainbow bridge"
+      },
+      {
+        "term": "ramones"
+      },
+      {
+        "term": "randoms"
+      },
+      {
+        "term": "raooul"
+      },
+      {
+        "term": "rap-a-lot"
+      },
+      {
+        "term": "rathouse records"
+      },
+      {
+        "term": "raunch and roll"
+      },
+      {
+        "term": "razorcake"
+      },
+      {
+        "term": "rca victor"
+      },
+      {
+        "term": "re-upload"
+      },
+      {
+        "term": "really red"
+      },
+      {
+        "term": "recess records"
+      },
+      {
+        "term": "record store day"
+      },
+      {
+        "term": "record stores"
+      },
+      {
+        "term": "reflections records"
+      },
+      {
+        "term": "remix"
+      },
+      {
+        "term": "ren & stimpy"
+      },
+      {
+        "term": "reno"
+      },
+      {
+        "term": "repeater records"
+      },
+      {
+        "term": "repo man"
+      },
+      {
+        "term": "reprise records"
+      },
+      {
+        "term": "reservoir"
+      },
+      {
+        "term": "resin records"
+      },
+      {
+        "term": "rest in power"
+      },
+      {
+        "term": "restless records"
+      },
+      {
+        "term": "revolution summer"
+      },
+      {
+        "term": "richard hell"
+      },
+      {
+        "term": "righteous"
+      },
+      {
+        "term": "rio de janeiro"
+      },
+      {
+        "term": "rivers edge"
+      },
+      {
+        "term": "roadracer records"
+      },
+      {
+        "term": "rob swift"
+      },
+      {
+        "term": "robert bresson"
+      },
+      {
+        "term": "robert clouse"
+      },
+      {
+        "term": "robert mitchum"
+      },
+      {
+        "term": "rockford"
+      },
+      {
+        "term": "rocky nelson"
+      },
+      {
+        "term": "rocky votolato"
+      },
+      {
+        "term": "roger eno"
+      },
+      {
+        "term": "rok lok records"
+      },
+      {
+        "term": "rooky ricardo's records"
+      },
+      {
+        "term": "ross brothers"
+      },
+      {
+        "term": "rough trade"
+      },
+      {
+        "term": "roulette"
+      },
+      {
+        "term": "roy haynes"
+      },
+      {
+        "term": "rpm records"
+      },
+      {
+        "term": "rugger bugger records"
+      },
+      {
+        "term": "running from dharma"
+      },
+      {
+        "term": "ryan white"
+      },
+      {
+        "term": "ryusuke hamaguchi"
+      },
+      {
+        "term": "s.h.i.t."
+      },
+      {
+        "term": "sacred bones records"
+      },
+      {
+        "term": "saddle creek records"
+      },
+      {
+        "term": "sailor moon"
+      },
+      {
+        "term": "saint vitus"
+      },
+      {
+        "term": "salsa"
+      },
+      {
+        "term": "salvador dali"
+      },
+      {
+        "term": "samba"
+      },
+      {
+        "term": "samiam"
+      },
+      {
+        "term": "san andreas records"
+      },
+      {
+        "term": "san pedro"
+      },
+      {
+        "term": "san rafael"
+      },
+      {
+        "term": "sanctuary publishing"
+      },
+      {
+        "term": "santa barbara"
+      },
+      {
+        "term": "savannah"
+      },
+      {
+        "term": "scandal"
+      },
+      {
+        "term": "scavenger of death"
+      },
+      {
+        "term": "scene"
+      },
+      {
+        "term": "science fiction"
+      },
+      {
+        "term": "scott crawford"
+      },
+      {
+        "term": "scrawl"
+      },
+      {
+        "term": "screamin' lederhosen"
+      },
+      {
+        "term": "sea of cortez"
+      },
+      {
+        "term": "seacaucus"
+      },
+      {
+        "term": "secret santa"
+      },
+      {
+        "term": "section 5"
+      },
+      {
+        "term": "select cuts"
+      },
+      {
+        "term": "selfish records"
+      },
+      {
+        "term": "seoul"
+      },
+      {
+        "term": "sequel records"
+      },
+      {
+        "term": "servotron"
+      },
+      {
+        "term": "sex vid"
+      },
+      {
+        "term": "shanachie"
+      },
+      {
+        "term": "sharon jones & the dap-kings"
+      },
+      {
+        "term": "shepard fairey"
+      },
+      {
+        "term": "sherman oaks"
+      },
+      {
+        "term": "shitcore"
+      },
+      {
+        "term": "short films"
+      },
+      {
+        "term": "shove records"
+      },
+      {
+        "term": "shredder records"
+      },
+      {
+        "term": "shudder to think"
+      },
+      {
+        "term": "sick pleasure"
+      },
+      {
+        "term": "silent era"
+      },
+      {
+        "term": "silver lake"
+      },
+      {
+        "term": "singers & players"
+      },
+      {
+        "term": "siouxie sioux"
+      },
+      {
+        "term": "sire"
+      },
+      {
+        "term": "six moral tales"
+      },
+      {
+        "term": "ska-core"
+      },
+      {
+        "term": "skaloid"
+      },
+      {
+        "term": "skanless records"
+      },
+      {
+        "term": "skin graft records"
+      },
+      {
+        "term": "skinned teen"
+      },
+      {
+        "term": "skydog"
+      },
+      {
+        "term": "slamdek record company"
+      },
+      {
+        "term": "slampt"
+      },
+      {
+        "term": "slant"
+      },
+      {
+        "term": "slowcore"
+      },
+      {
+        "term": "sludge rock"
+      },
+      {
+        "term": "slumberland records"
+      },
+      {
+        "term": "sly & robbie"
+      },
+      {
+        "term": "smog veil records"
+      },
+      {
+        "term": "smr records"
+      },
+      {
+        "term": "sneezeguard records"
+      },
+      {
+        "term": "soccer"
+      },
+      {
+        "term": "social coma"
+      },
+      {
+        "term": "sofia coppola"
+      },
+      {
+        "term": "soft pink truth"
+      },
+      {
+        "term": "solitary records"
+      },
+      {
+        "term": "som libre"
+      },
+      {
+        "term": "something weird"
+      },
+      {
+        "term": "sometimes aunt martha does dreadful things"
+      },
+      {
+        "term": "sonic youth"
+      },
+      {
+        "term": "sonny vincent"
+      },
+      {
+        "term": "sons of arqa"
+      },
+      {
+        "term": "sony music imports"
+      },
+      {
+        "term": "sonzai records"
+      },
+      {
+        "term": "sophis-pop"
+      },
+      {
+        "term": "sorry state records"
+      },
+      {
+        "term": "soul force records"
+      },
+      {
+        "term": "soul glo"
+      },
+      {
+        "term": "soul jazz records"
+      },
+      {
+        "term": "sound effects library"
+      },
+      {
+        "term": "southern california"
+      },
+      {
+        "term": "southern lord"
+      },
+      {
+        "term": "southern rock"
+      },
+      {
+        "term": "spaghetti westerns"
+      },
+      {
+        "term": "spanish love songs"
+      },
+      {
+        "term": "spellcaster"
+      },
+      {
+        "term": "spokane"
+      },
+      {
+        "term": "standup"
+      },
+      {
+        "term": "stanley kwan"
+      },
+      {
+        "term": "stationary heart recordings"
+      },
+      {
+        "term": "status recordings"
+      },
+      {
+        "term": "stephen frears"
+      },
+      {
+        "term": "stephen nomura schible"
+      },
+      {
+        "term": "steve albini"
+      },
+      {
+        "term": "steve marriott"
+      },
+      {
+        "term": "steve severin"
+      },
+      {
+        "term": "stiff little fingers"
+      },
+      {
+        "term": "stoke on trent"
+      },
+      {
+        "term": "straight ahead"
+      },
+      {
+        "term": "straight edge"
+      },
+      {
+        "term": "stranglers"
+      },
+      {
+        "term": "street jams"
+      },
+      {
+        "term": "stuck ups"
+      },
+      {
+        "term": "sunn o)))"
+      },
+      {
+        "term": "sunspring"
+      },
+      {
+        "term": "supercharger"
+      },
+      {
+        "term": "suppression"
+      },
+      {
+        "term": "swank"
+      },
+      {
+        "term": "sweetbelly freakdown"
+      },
+      {
+        "term": "swing revival"
+      },
+      {
+        "term": "swiz"
+      },
+      {
+        "term": "sxsw"
+      },
+      {
+        "term": "symarip"
+      },
+      {
+        "term": "são paulo"
+      },
+      {
+        "term": "t-shirt"
+      },
+      {
+        "term": "t.s.o.l."
+      },
+      {
+        "term": "takashi yamazaki"
+      },
+      {
+        "term": "tamra davis"
+      },
+      {
+        "term": "tarantulas records"
+      },
+      {
+        "term": "tawny kitaen"
+      },
+      {
+        "term": "ted leo / pharmacists"
+      },
+      {
+        "term": "teenage rebel records"
+      },
+      {
+        "term": "television"
+      },
+      {
+        "term": "tempe"
+      },
+      {
+        "term": "temporary autonomous zone"
+      },
+      {
+        "term": "ten23 records"
+      },
+      {
+        "term": "terminal bliss"
+      },
+      {
+        "term": "terrible feelings"
+      },
+      {
+        "term": "testors"
+      },
+      {
+        "term": "texas is the reason"
+      },
+      {
+        "term": "the body shop"
+      },
+      {
+        "term": "the brit awards"
+      },
+      {
+        "term": "the caller"
+      },
+      {
+        "term": "the cameraman"
+      },
+      {
+        "term": "the curse"
+      },
+      {
+        "term": "the dickies"
+      },
+      {
+        "term": "the drags"
+      },
+      {
+        "term": "the eleventh commandment"
+      },
+      {
+        "term": "the empty bottle"
+      },
+      {
+        "term": "the eros"
+      },
+      {
+        "term": "the fog"
+      },
+      {
+        "term": "the gories"
+      },
+      {
+        "term": "the hard report"
+      },
+      {
+        "term": "the klf"
+      },
+      {
+        "term": "the makers"
+      },
+      {
+        "term": "the naughty victorians"
+      },
+      {
+        "term": "the party of helicopters"
+      },
+      {
+        "term": "the rapture"
+      },
+      {
+        "term": "the red hot organization"
+      },
+      {
+        "term": "the smiths"
+      },
+      {
+        "term": "the worst"
+      },
+      {
+        "term": "thedeathset"
+      },
+      {
+        "term": "thermals"
+      },
+      {
+        "term": "thin the herd records"
+      },
+      {
+        "term": "third sex"
+      },
+      {
+        "term": "this i believe"
+      },
+      {
+        "term": "this is what it sounds like when doves cry"
+      },
+      {
+        "term": "this machine kills"
+      },
+      {
+        "term": "this time it's war"
+      },
+      {
+        "term": "thorns of life"
+      },
+      {
+        "term": "thorp"
+      },
+      {
+        "term": "thorr's hammer"
+      },
+      {
+        "term": "thrasher magazine"
+      },
+      {
+        "term": "thrasher skate rock"
+      },
+      {
+        "term": "throk"
+      },
+      {
+        "term": "thump records"
+      },
+      {
+        "term": "tic tac totally! records"
+      },
+      {
+        "term": "tiger trap"
+      },
+      {
+        "term": "tigerbeat6"
+      },
+      {
+        "term": "tim baron"
+      },
+      {
+        "term": "tim barry"
+      },
+      {
+        "term": "tim version"
+      },
+      {
+        "term": "tko records"
+      },
+      {
+        "term": "tokyo olympiad"
+      },
+      {
+        "term": "tom waits"
+      },
+      {
+        "term": "tomato head records"
+      },
+      {
+        "term": "tony hawk"
+      },
+      {
+        "term": "too fast to mosh"
+      },
+      {
+        "term": "top circle records"
+      },
+      {
+        "term": "topshelf records"
+      },
+      {
+        "term": "tori amos"
+      },
+      {
+        "term": "torino"
+      },
+      {
+        "term": "torn apart"
+      },
+      {
+        "term": "torrance"
+      },
+      {
+        "term": "toto"
+      },
+      {
+        "term": "tour support series"
+      },
+      {
+        "term": "toxic flyer fanzine"
+      },
+      {
+        "term": "toy's factory"
+      },
+      {
+        "term": "tracy + the plastics"
+      },
+      {
+        "term": "tragedy"
+      },
+      {
+        "term": "tragedy records"
+      },
+      {
+        "term": "trance syndicate"
+      },
+      {
+        "term": "transistor transistor"
+      },
+      {
+        "term": "treasure isle"
+      },
+      {
+        "term": "trial by fire"
+      },
+      {
+        "term": "tribal"
+      },
+      {
+        "term": "troma"
+      },
+      {
+        "term": "trouble funk"
+      },
+      {
+        "term": "trustkill records"
+      },
+      {
+        "term": "truth cult"
+      },
+      {
+        "term": "tuareg"
+      },
+      {
+        "term": "tumblr"
+      },
+      {
+        "term": "tvt"
+      },
+      {
+        "term": "u.s. maple"
+      },
+      {
+        "term": "ukhc"
+      },
+      {
+        "term": "ultraman"
+      },
+      {
+        "term": "ultrasound records"
+      },
+      {
+        "term": "unband"
+      },
+      {
+        "term": "uncabaret"
+      },
+      {
+        "term": "unconcious records"
+      },
+      {
+        "term": "underground"
+      },
+      {
+        "term": "unicorn"
+      },
+      {
+        "term": "united artists"
+      },
+      {
+        "term": "united kingdom"
+      },
+      {
+        "term": "united mutation"
+      },
+      {
+        "term": "unreleased"
+      },
+      {
+        "term": "unruh"
+      },
+      {
+        "term": "unwound"
+      },
+      {
+        "term": "update"
+      },
+      {
+        "term": "urban vinyl"
+      },
+      {
+        "term": "urban void"
+      },
+      {
+        "term": "urinals"
+      },
+      {
+        "term": "urisine records"
+      },
+      {
+        "term": "vacation house records"
+      },
+      {
+        "term": "vaz"
+      },
+      {
+        "term": "velocette records"
+      },
+      {
+        "term": "vermiform"
+      },
+      {
+        "term": "vermin scum records"
+      },
+      {
+        "term": "vero beach"
+      },
+      {
+        "term": "vesper."
+      },
+      {
+        "term": "vice"
+      },
+      {
+        "term": "vicious"
+      },
+      {
+        "term": "victoria"
+      },
+      {
+        "term": "victory records"
+      },
+      {
+        "term": "vile cherubs"
+      },
+      {
+        "term": "vinegar syndrome ultra"
+      },
+      {
+        "term": "vinehell records"
+      },
+      {
+        "term": "vinyl rights"
+      },
+      {
+        "term": "virginia"
+      },
+      {
+        "term": "visions"
+      },
+      {
+        "term": "vital music"
+      },
+      {
+        "term": "viva knieval"
+      },
+      {
+        "term": "voice of authority"
+      },
+      {
+        "term": "voice of the sky"
+      },
+      {
+        "term": "void"
+      },
+      {
+        "term": "volcom entertainment"
+      },
+      {
+        "term": "wales"
+      },
+      {
+        "term": "walter wanderly"
+      },
+      {
+        "term": "waltrop"
+      },
+      {
+        "term": "wantage usa"
+      },
+      {
+        "term": "warning label"
+      },
+      {
+        "term": "watermark records"
+      },
+      {
+        "term": "waxing deep records"
+      },
+      {
+        "term": "wayne wang"
+      },
+      {
+        "term": "welcome back kotter"
+      },
+      {
+        "term": "well this is shit innit?"
+      },
+      {
+        "term": "what the fuck is mathcore"
+      },
+      {
+        "term": "what's your rupture?"
+      },
+      {
+        "term": "which band do you think I give a rat's ass about?"
+      },
+      {
+        "term": "whirled records"
+      },
+      {
+        "term": "white cross"
+      },
+      {
+        "term": "white heap records"
+      },
+      {
+        "term": "white shit"
+      },
+      {
+        "term": "white stripes"
+      },
+      {
+        "term": "wichita"
+      },
+      {
+        "term": "william greaves"
+      },
+      {
+        "term": "william shatner"
+      },
+      {
+        "term": "wimps"
+      },
+      {
+        "term": "witchcraft"
+      },
+      {
+        "term": "wolfmen"
+      },
+      {
+        "term": "wolverhampton"
+      },
+      {
+        "term": "wonder woman"
+      },
+      {
+        "term": "wonderdrug records"
+      },
+      {
+        "term": "wong kar-wai"
+      },
+      {
+        "term": "work"
+      },
+      {
+        "term": "worst people production"
+      },
+      {
+        "term": "wow what a long record title"
+      },
+      {
+        "term": "wrens"
+      },
+      {
+        "term": "wrong records"
+      },
+      {
+        "term": "wtg records"
+      },
+      {
+        "term": "wymyns prysyn"
+      },
+      {
+        "term": "wynton marsalis"
+      },
+      {
+        "term": "x"
+      },
+      {
+        "term": "x-ecutioners"
+      },
+      {
+        "term": "yaphet kotto"
+      },
+      {
+        "term": "yellow ghost records"
+      },
+      {
+        "term": "yokohama"
+      },
+      {
+        "term": "you and i"
+      },
+      {
+        "term": "young fresh fellows"
+      },
+      {
+        "term": "young pioneers"
+      },
+      {
+        "term": "yuanding"
+      },
+      {
+        "term": "yusuke homma"
+      },
+      {
+        "term": "zombie 5"
+      },
+      {
+        "term": "¡por supuesto! records"
+      },
+      {
+        "term": "Żegota"
+      },
+      {
+        "term": "МИШКА"
+      },
+      {
+        "term": "Мирумир"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Primitive Offerings"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "...the thing we do instead of the things we&#39;re supposed to do...\nPosts on Mondays &amp; Thursdays"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://primitiveofferings.blogspot.com/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default?alt=json&max-results=5&q=various"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://primitiveofferings.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Ape Mummy"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/07477555333510792158"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKrD4OnxXI8py5GtBbEhSmNxrLanmH3trAGLqkpoSuQzf71lY-0rwUkBNVh_dvCMnVBbIQKBdKEHwXgQlefLZQ8cgVq1PtQhYEQjnluBk7c8plclLYd1OcWhwyVSEAjA/s113/Ape+Mummy.png"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "5"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5386067321948512043.post-2285900256593019312"
+        },
+        "published": {
+          "$t": "2026-11-05T00:00:00.000-08:00"
+        },
+        "updated": {
+          "$t": "2026-11-05T00:00:00.181-08:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "2005"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "alternative"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "indie rock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "intended play"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Matador Records"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "new york city"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "promo"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "sampler"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "stoner rock"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "various artists - Intended Play 2005: Wrongs Of Spring"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "It's pretty much the direct opposite of spring here in the PNW. But, as I often say, there's never a bad time for a spring sampler, and Matador's 2005 entry in their long-running Intended Play series fits the bill. It leads off with one of my all-time favorite Interpol cuts, contributes a Yo La Tengo demo, and samples Mission Of Burma's digital-only, post-reunion live record, \"Snapshot\". Dead "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://primitiveofferings.blogspot.com/feeds/2285900256593019312/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/2285900256593019312",
+            "title": "1 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/2285900256593019312"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/2285900256593019312"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://primitiveofferings.blogspot.com/2026/11/various-artists-intended-play-2005.html",
+            "title": "various artists - Intended Play 2005: Wrongs Of Spring"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Ape Mummy"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/07477555333510792158"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKrD4OnxXI8py5GtBbEhSmNxrLanmH3trAGLqkpoSuQzf71lY-0rwUkBNVh_dvCMnVBbIQKBdKEHwXgQlefLZQ8cgVq1PtQhYEQjnluBk7c8plclLYd1OcWhwyVSEAjA/s113/Ape+Mummy.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkAaPCPQTX7Ek-J5t-IarSUiIO2weedllslDQbTCIwm1IiJ8jTg2F1wz2ZQpWQViBxedqpEt8aXVhRpoMHbdUGV0hDavgYDjHXKAigqh1tuMjb5D4T1oxGzNolsGdhZhX0UThL6BA8lVdWjb40Xaq3PmMKrBwhYuRV6JQtX3jSssLjsNUQV2wrVqJVFzxm/s72-c/Intended.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5386067321948512043.post-3359222655189706459"
+        },
+        "published": {
+          "$t": "2026-11-02T00:00:00.000-08:00"
+        },
+        "updated": {
+          "$t": "2026-11-02T00:00:00.177-08:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1988"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "arthur baker"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "electro"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "giant records"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "les disques du crépuscule"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "new order"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "new york city"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "soundtrack"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "synth-pop"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "various artists - Salvation! Original Soundtrack"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "It was a great week last week for crate digging. Things kicked off after a rare work-from-the-office day when I stopped by one of my regular haunts before coming home. I had seen a picture of their Monday night restock, showing two bookshelves full of CDs and cassettes. I knew there was quality to be found; I was proven correct when I walked out with 25 CDs at $2 a piece. Yesterday, I stopped in "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://primitiveofferings.blogspot.com/feeds/3359222655189706459/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/3359222655189706459",
+            "title": "2 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/3359222655189706459"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/3359222655189706459"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://primitiveofferings.blogspot.com/2026/11/various-artists-salvation-original.html",
+            "title": "various artists - Salvation! Original Soundtrack"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Ape Mummy"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/07477555333510792158"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKrD4OnxXI8py5GtBbEhSmNxrLanmH3trAGLqkpoSuQzf71lY-0rwUkBNVh_dvCMnVBbIQKBdKEHwXgQlefLZQ8cgVq1PtQhYEQjnluBk7c8plclLYd1OcWhwyVSEAjA/s113/Ape+Mummy.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdAlPzyt05pBMWcy0wnhO1gAii9QPaJ64WQP6jlprnC0RIBwXwI0a7kG7FMLGsUuDy6eGCCUYJlBU6LJr8JJrQtMHFb38i8FHo_OA95AcdGjAj2_7esAO3GY1yAyVKcY2m2q2cLlS4R2QUpkViul4UMoAn142YOIqP4XAbqLfQUIGpLKjkjEQzKMUazVyJ/s72-c/Salvation!.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5386067321948512043.post-7485734913027221888"
+        },
+        "published": {
+          "$t": "2026-10-29T00:00:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2026-10-29T00:00:00.114-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1995"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "alternative"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "britpop"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "grunge"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "hits post modern syndrome"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "indie rock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "los angeles"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "promo"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "punk rock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "trip hop"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "various artists - Babe, You're No. 1"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "As mid-90s rock radio promos go, this one is pretty good. It's hard to beat a lineup that leads off with Foo Fighters/Ben Folds 5/Buffalo Tom/Edwyn Collins. Add in some British indie from Teenage Fanclub, the Verve, and Sleeper, a pair of covers by Circle Jerks and Tricky, and a contribution by the tragically-underheard China Drum, and I'm left thinking, \"I'd listen to this radio station RIGHT "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://primitiveofferings.blogspot.com/feeds/7485734913027221888/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/7485734913027221888",
+            "title": "3 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7485734913027221888"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7485734913027221888"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://primitiveofferings.blogspot.com/2026/10/various-artists-babe-youre-no-1.html",
+            "title": "various artists - Babe, You're No. 1"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Ape Mummy"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/07477555333510792158"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKrD4OnxXI8py5GtBbEhSmNxrLanmH3trAGLqkpoSuQzf71lY-0rwUkBNVh_dvCMnVBbIQKBdKEHwXgQlefLZQ8cgVq1PtQhYEQjnluBk7c8plclLYd1OcWhwyVSEAjA/s113/Ape+Mummy.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEum_nYb5Hn0J9iTKU8wI7R-6GbTeEAVywO6q_lWAIZhkob8_4oaY5ubgDtdxaPgOIqGPf0Pk1I3q5mWVvB_b7saBr67YHBU4TRP2hE5BZcfL67-h66JJD6vysG3pYuCBbYaa8lZi5gk4eauATT7Mk2oYZw0mya8FzKoInXnzLKz4J3f4YXXShqoTZ03HL/s72-c/R-2510329-1287952898.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5386067321948512043.post-7961629826226565970"
+        },
+        "published": {
+          "$t": "2026-10-26T00:00:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2026-10-26T00:00:00.113-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "2018"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "abstract"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "ambient"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "avant garde"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "experimental"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "free stuff"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Krautrock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "london"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "mojo magazine"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "mojo mondays"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "prog rock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "psychedelic rock"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "various artists - Bright Ambassadors Of Morning: Mojo Presents 12 Cosmic Echoes From The Psychedelic Universe"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "The summer is officially over, here in the deep south of Alaska. It is wet again, and 50 degrees, and it looks like the sun is always rising or setting. For a few weeks, it will be golden hour all day long, and it has both glory and sadness in its coming.I loaded this into my phone when I was rebuilding the Workupload folder, having forgotten I picked it up as part of a lot of CDs. It makes for a"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://primitiveofferings.blogspot.com/feeds/7961629826226565970/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/7961629826226565970",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7961629826226565970"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/7961629826226565970"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://primitiveofferings.blogspot.com/2026/10/various-artists-bright-ambassadors-of.html",
+            "title": "various artists - Bright Ambassadors Of Morning: Mojo Presents 12 Cosmic Echoes From The Psychedelic Universe"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Ape Mummy"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/07477555333510792158"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKrD4OnxXI8py5GtBbEhSmNxrLanmH3trAGLqkpoSuQzf71lY-0rwUkBNVh_dvCMnVBbIQKBdKEHwXgQlefLZQ8cgVq1PtQhYEQjnluBk7c8plclLYd1OcWhwyVSEAjA/s113/Ape+Mummy.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiBPQmJzFlmwQP4rsx40M5AKh3XaoW98cxr1shukf2JbfrfMatpCBcE8pRHJfD0mEbqRZMLcb5oxu8W5roactCSVvSVM9oyrFlOBz_NjRHJ67RFgMoJ1Wc8l3vAAugYhi_6Q_2lV6cnouB8t1zu9b4vQVNcIaXKK8HH_yuRKQ2py8ArKX7LvNomu1y2uTY/s72-c/Bright.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5386067321948512043.post-1736187768449630849"
+        },
+        "published": {
+          "$t": "2026-10-22T00:00:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2026-10-22T00:00:00.173-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "1984"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "alternative"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "art rock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "compilation"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "indie"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "industrial rock"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "japan records"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "london"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "post-punk"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "rough trade"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "tokyo"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "various artists - Requiem By Rough Trade"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "A brief update: I've reuploaded the rest of the missing 2026 posts. I'm debating what from 2025 or before I'm going to reupload, but, as is still the fashion online, please feel free to drop a comment asking for a fresh upload.This also came from the estate sale where I obtained Monday's \"Cohen Covered\" blog. And, boy howdy!, does it check a lot of boxes for me:It's a compilation.It's a Japanese "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://primitiveofferings.blogspot.com/feeds/1736187768449630849/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/5386067321948512043/1736187768449630849",
+            "title": "2 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/1736187768449630849"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5386067321948512043/posts/default/1736187768449630849"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://primitiveofferings.blogspot.com/2026/10/various-artists-requiem-by-rough-trade.html",
+            "title": "various artists - Requiem By Rough Trade"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Ape Mummy"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/07477555333510792158"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKrD4OnxXI8py5GtBbEhSmNxrLanmH3trAGLqkpoSuQzf71lY-0rwUkBNVh_dvCMnVBbIQKBdKEHwXgQlefLZQ8cgVq1PtQhYEQjnluBk7c8plclLYd1OcWhwyVSEAjA/s113/Ape+Mummy.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoH04GjKAr3nurj_vbI940yz7fa0lKwLjTVULpk2Lesc_PJRQg7TEtjT6dA_3i3GtmPZ7ZcTKEjFBE6eM4_URFcp3WvOHlDH0DDUP9cI06u6dBY_QZg1-vDRZeAgrHBY-5S1a0wWr_0iZB7z_F5CMWBQ8IaVbl5VOVQIztOtJZQZWun8pqucD_j_xDZUgz/s72-c/R-27075015-1684066150-3797.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "2"
+        }
+      }
+    ]
+  }
+}

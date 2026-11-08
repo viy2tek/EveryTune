@@ -1,0 +1,1908 @@
+{
+  "scope": "One known result per available configured website; metadata only, no file transfers",
+  "sources": [
+    {
+      "source": "custom_ucsb_cylinders",
+      "name": "UCSB Cylinder Audio Archive",
+      "page_url": "https://cylinders.library.ucsb.edu/detail.php?query_type=mms_id&query=990029995950203776&r=1&of=5",
+      "status": "options_found",
+      "direct": 1,
+      "external": 0,
+      "kinds": {
+        "other": 1
+      },
+      "formats": [
+        "PHP"
+      ],
+      "examples": [
+        {
+          "label": "Download",
+          "filename": "download.php",
+          "format": "PHP",
+          "kind": "other",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_vgmrips",
+      "name": "VGMRips",
+      "page_url": "https://vgmrips.net/packs/pack/arm-wrestling-arcade",
+      "status": "options_found",
+      "direct": 3,
+      "external": 0,
+      "kinds": {
+        "audio": 1,
+        "artwork": 1,
+        "archive": 1
+      },
+      "formats": [
+        "PNG",
+        "VGZ",
+        "ZIP"
+      ],
+      "examples": [
+        {
+          "label": "Download vgz",
+          "filename": "01 Got Money Bag.vgz",
+          "format": "VGZ",
+          "kind": "audio",
+          "delivery": "direct"
+        },
+        {
+          "label": "Arm_Wrestling_(Arcade).png",
+          "filename": "Arm_Wrestling_(Arcade).png",
+          "format": "PNG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Download",
+          "filename": "Arm_Wrestling_(Arcade).zip",
+          "format": "ZIP",
+          "kind": "archive",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_ocremix",
+      "name": "OC ReMix",
+      "page_url": "https://ocremix.org/remix/OCR02572",
+      "status": "options_found",
+      "direct": 3,
+      "external": 0,
+      "kinds": {
+        "audio": 3
+      },
+      "formats": [
+        "MP3"
+      ],
+      "examples": [
+        {
+          "label": "Download from Aplus",
+          "filename": "Chrono_Cross_A_Dream_Between_Worlds_OC_ReMix.mp3",
+          "format": "MP3",
+          "kind": "audio",
+          "delivery": "direct"
+        },
+        {
+          "label": "Download from ocrmirror.org",
+          "filename": "Chrono_Cross_A_Dream_Between_Worlds_OC_ReMix.mp3",
+          "format": "MP3",
+          "kind": "audio",
+          "delivery": "direct"
+        },
+        {
+          "label": "Download from BlueBlue.fr",
+          "filename": "Chrono_Cross_A_Dream_Between_Worlds_OC_ReMix.mp3",
+          "format": "MP3",
+          "kind": "audio",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_d02871ffde",
+      "name": "iPlusFree",
+      "page_url": "https://www7.iplusfree.org/the-beatles-abbey-road-2019-mix-itunes-plus-aac-m4a/",
+      "status": "options_found",
+      "direct": 0,
+      "external": 1,
+      "kinds": {
+        "other": 1
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "Download",
+          "filename": "czQJ",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_5262b0d57a",
+      "name": "Music Rider",
+      "page_url": "https://musicrider.org/jah-wobble-tian-qiyi-mystic-liverpool-the-beatles-psychedelic-psongbook-2026/",
+      "status": "options_found",
+      "direct": 0,
+      "external": 1,
+      "kinds": {
+        "other": 1
+      },
+      "formats": [
+        "MP3"
+      ],
+      "examples": [
+        {
+          "label": "Download Album: [Mp3]",
+          "filename": "EE6AB70E44.html",
+          "format": "MP3",
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_b4f1a48023",
+      "name": "SongsLover",
+      "page_url": "https://songslover.net/video/eric-bellinger-black-beatles.html",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_web_d87da2b843",
+      "name": "Exystence",
+      "page_url": "https://exystence.net/blog/2020/03/10/al-di-meola-across-the-universe-the-beatles-vol-2-2020/",
+      "status": "options_found",
+      "direct": 1,
+      "external": 2,
+      "kinds": {
+        "artwork": 1,
+        "other": 2
+      },
+      "formats": [
+        "FLAC",
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "Meola.jpg",
+          "filename": "Meola.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "320",
+          "filename": "5DF8E44719.html",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "FLAC",
+          "filename": "97C21322AA.html",
+          "format": "FLAC",
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_fb11b0edbb",
+      "name": "Hipstrumentals",
+      "page_url": "https://hipstrumentals.com/2022/04/rae-sremmurd-feat-gucci-mane-black-beatles-instrumental/",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "audio": 1,
+        "other": 1
+      },
+      "formats": [
+        "MP3"
+      ],
+      "examples": [
+        {
+          "label": "https://hipstrumentals.com/wp-content/uploads/2022/04/Rae-Sremmurd-Ft.-Gucci-Mane-Black-Beatles-Instrumental.mp3",
+          "filename": "Rae-Sremmurd-Ft.-Gucci-Mane-Black-Beatles-Instrumental.mp3",
+          "format": "MP3",
+          "kind": "audio",
+          "delivery": "direct"
+        },
+        {
+          "label": "Download",
+          "filename": "arquivo",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_c08f92175f",
+      "name": "EDMWaves",
+      "page_url": "https://edmwaves.org/2025/06/30/bp-tiesto-streaming-classics/",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "other": 1,
+        "artwork": 1
+      },
+      "formats": [
+        "JPEG"
+      ],
+      "examples": [
+        {
+          "label": "House",
+          "filename": "arquivo",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "bp-tiesto-streaming-classics-2.jpeg",
+          "filename": "bp-tiesto-streaming-classics-2.jpeg",
+          "format": "JPEG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_2d78815b16",
+      "name": "EssentialHouse",
+      "page_url": "https://essentialhouse.club/2020/04/km-with-the-beatles-xcape-rhythm-records/",
+      "status": "options_found",
+      "direct": 0,
+      "external": 2,
+      "kinds": {
+        "other": 2
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "Download",
+          "filename": "9mm7pts55icf",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "Direct Downloads",
+          "filename": "arquivo",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_9237b6cbf7",
+      "name": "IntMusic",
+      "page_url": "https://intmusic.net/319412/jah-wobble-mystic-liverpool-the-beatles-psychedelic-psongbook-2026",
+      "status": "options_found",
+      "direct": 0,
+      "external": 2,
+      "kinds": {
+        "other": 2
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "Download",
+          "filename": "MzE5NDEyLWYzNDU3MjcyODk4MGFlM2FjMDE3NzVmN2QyNThlMDQwLTY0NjE0NQ==",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "Download",
+          "filename": "MzE5NDEyLTY4ZTdhNzc4MTU4N2EwNzViZTM2MWZjZmU2M2E4NTQ1LTY0NjE0Ng==",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_8a8ad82469",
+      "name": "⁠Old School Metal Music",
+      "page_url": "https://oldschoolmetalmusicz.blogspot.com/2021/05/metal-mania-4-best-of-metallica.html",
+      "status": "options_found",
+      "direct": 4,
+      "external": 0,
+      "kinds": {
+        "artwork": 4
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "Scan0001.jpg",
+          "filename": "Scan0001.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Scan0004.jpg",
+          "filename": "Scan0004.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Scan0014.jpg",
+          "filename": "Scan0014.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Scan0012.jpg",
+          "filename": "Scan0012.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_eadcc74fc6",
+      "name": "Metalminos",
+      "page_url": "https://metalminos.net/metallica-72-seasons-320-kbps/",
+      "status": "options_found",
+      "direct": 0,
+      "external": 3,
+      "kinds": {
+        "other": 3
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "RAPIDGATOR",
+          "filename": "214BED92C8.html",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "FIRELOAD (MEGA’S ALT)",
+          "filename": "449BC2953F.html",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "DDOWNLOAD",
+          "filename": "147BFD1C56.html",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_9260a78439",
+      "name": "FondSound",
+      "page_url": "https://www.fondsound.com/the-beatles-strawberry-fields-foreverpenny-lane-1967/",
+      "status": "options_found",
+      "direct": 2,
+      "external": 0,
+      "kinds": {
+        "artwork": 2
+      },
+      "formats": [
+        "JPEG",
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "1e831-beattless.jpeg",
+          "filename": "1e831-beattless.jpeg",
+          "format": "JPEG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "07a0a-strwabpenny.jpg",
+          "filename": "07a0a-strwabpenny.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_258b795d84",
+      "name": "1Gabba",
+      "page_url": "https://1gabba.pw/node/87341/tiesto-traffic-longtimemixer-bootleg",
+      "status": "options_found",
+      "direct": 1,
+      "external": 2,
+      "kinds": {
+        "other": 3
+      },
+      "formats": [
+        "XML"
+      ],
+      "examples": [
+        {
+          "label": "rss.xml",
+          "filename": "rss.xml",
+          "format": "XML",
+          "kind": "other",
+          "delivery": "direct"
+        },
+        {
+          "label": "Tiesto - Traffic (Longtimemixer Bootleg) *Free Download* Hardstyle",
+          "filename": "tiesto-traffic-longtimemixer",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "https://hypeddit.com/tiesto/trafficlongtimemixerbootlegfreedownloadhardstyle",
+          "filename": "trafficlongtimemixerbootlegfreedownloadhardstyle",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_dae4eed600",
+      "name": "Discografias Completas",
+      "page_url": "https://www.discografias-completas.org/fort-minor-320-kbps-mega/",
+      "status": "unavailable",
+      "reason": "ConnectTimeout"
+    },
+    {
+      "source": "custom_web_65ad9057cd",
+      "name": "Rap War",
+      "page_url": "https://rap-war-fam.blogspot.com/2026/11/sites-kid-mind-state-2026.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "cover.jpg",
+          "filename": "cover.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "BJkkWRLY",
+          "filename": "BJkkWRLY",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_web_8d99a7ea25",
+      "name": "Lost Songs",
+      "page_url": "https://lostsongshc.blogspot.com/2026/11/88-miles-per-hour-2004-are-you-listening.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG",
+        "M4A"
+      ],
+      "examples": [
+        {
+          "label": "cover.jpg",
+          "filename": "cover.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Download (m4a)",
+          "filename": "Lrr5VL1jdxVjKQ",
+          "format": "M4A",
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_ezhevika",
+      "name": "Ezhevika",
+      "page_url": "https://ezhevika.blogspot.com/2026/10/halifax-halifax-1981.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "R-8223627-1570633585-1042.jpg",
+          "filename": "R-8223627-1570633585-1042.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "enjoy",
+          "filename": "XgdyjQrA",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_josephbarulho",
+      "name": "Cova-Argh!!!!",
+      "page_url": "https://josephbarulho.blogspot.com/2026/11/destruction-birth-of-malice-2025.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "3591140.jpg",
+          "filename": "3591140.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Download",
+          "filename": "cZ1iBRaA",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_urbanaspirines",
+      "name": "Urban Asprines",
+      "page_url": "https://urbanaspirines.blogspot.com/2026/11/john-lee-hooker-with-groundhogs-hooker.html",
+      "status": "options_found",
+      "direct": 18,
+      "external": 1,
+      "kinds": {
+        "artwork": 18,
+        "other": 1
+      },
+      "formats": [
+        "FLAC",
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "John Lee Hooker With The Groundhogs – Hooker & The Hogs - Front Cover.jpg",
+          "filename": "John Lee Hooker With The Groundhogs – Hooker & The Hogs - Front Cover.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "John Lee Hooker  - Photo 6.jpg",
+          "filename": "John Lee Hooker  - Photo 6.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "The Grounfhogs - Photo 5.jpg",
+          "filename": "The Grounfhogs - Photo 5.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "The Grounfhogs - Photo 3.jpg",
+          "filename": "The Grounfhogs - Photo 3.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_paradiseofgaragecomps",
+      "name": "Paradise of Garage Comps",
+      "page_url": "https://paradiseofgaragecomps.blogspot.com/2026/09/reuploads-2016.html",
+      "status": "options_found",
+      "direct": 0,
+      "external": 3,
+      "kinds": {
+        "other": 3
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "DOWNLOAD PT.1!",
+          "filename": "eUxpi",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "DOWNLOAD PT.2!",
+          "filename": "j2Mg8",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "DOWNLOAD PT.3!",
+          "filename": "e5ptK",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_flatblackandclassical",
+      "name": "FlatblackAndClassical",
+      "page_url": "https://www.flatblackandclassical.com/2025/03/dagar-brothers-moae-135-lp-recorded-and.html",
+      "status": "options_found",
+      "direct": 7,
+      "external": 0,
+      "kinds": {
+        "artwork": 4,
+        "archive": 3
+      },
+      "formats": [
+        "JPEG",
+        "JPG",
+        "ZIP"
+      ],
+      "examples": [
+        {
+          "label": "[MOAE 135] front.jpeg",
+          "filename": "[MOAE 135] front.jpeg",
+          "format": "JPEG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "[MOAE 135] back.jpeg",
+          "filename": "[MOAE 135] back.jpeg",
+          "format": "JPEG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "[MOAE 135] label A.jpg",
+          "filename": "[MOAE 135] label A.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "[MOAE 135] label B.jpg",
+          "filename": "[MOAE 135] label B.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_music_republic_world_traditional",
+      "name": "MusicRepublic",
+      "page_url": "https://music-republic-world-traditional.blogspot.com/2026/10/angola-malawi-cameroon-nigeria-egypt.html",
+      "status": "options_found",
+      "direct": 8,
+      "external": 2,
+      "kinds": {
+        "artwork": 8,
+        "other": 2
+      },
+      "formats": [
+        "FLAC",
+        "JPG",
+        "MP3"
+      ],
+      "examples": [
+        {
+          "label": "1 08072026033938-0001 7 54.jpg",
+          "filename": "1 08072026033938-0001 7 54.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "2 08072026033956-0001 2 -23 26.jpg",
+          "filename": "2 08072026033956-0001 2 -23 26.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "3 08072026034021-0001 2 -23 36.jpg",
+          "filename": "3 08072026034021-0001 2 -23 36.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Flac",
+          "filename": "view",
+          "format": "FLAC",
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_nathannothinsez",
+      "name": "Nothin' Sez Somethin'",
+      "page_url": "https://nathannothinsez.blogspot.com/2026/11/musick-that-needed-work-u-unkle.html",
+      "status": "options_found",
+      "direct": 3,
+      "external": 1,
+      "kinds": {
+        "artwork": 3,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "the letter U.jpg",
+          "filename": "the letter U.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "UNKLE live with DJ Shadow.jpg",
+          "filename": "UNKLE live with DJ Shadow.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Psyence Fiction front.JPG",
+          "filename": "Psyence Fiction front.JPG",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "UNKLE - Psyence Fiction",
+          "filename": "38kTwZrD",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_inconstantsol",
+      "name": "inconstant sol",
+      "page_url": "https://inconstantsol.blogspot.com/2011/01/what-long-strange-trip.html",
+      "status": "options_found",
+      "direct": 2,
+      "external": 5,
+      "kinds": {
+        "artwork": 2,
+        "other": 5
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "misha_mengelberg-home-1978--roberto-masotti.jpg",
+          "filename": "misha_mengelberg-home-1978--roberto-masotti.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "bobby-hutcherson.jpg",
+          "filename": "bobby-hutcherson.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Link publicado na origem",
+          "filename": "arquivo",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "Link publicado na origem",
+          "filename": "view",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_toneandwave",
+      "name": "Tone and Wave",
+      "page_url": "https://toneandwave.blogspot.com/2026/11/sparker-demo-tape-1993.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "sparker1.jpg",
+          "filename": "sparker1.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "DOWNLOAD",
+          "filename": "r4Z1BJYa",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_ccmixter",
+      "name": "ccMixter",
+      "page_url": "https://ccmixter.org/files/MalreDeszik/71326",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_canna",
+      "name": "Canna",
+      "page_url": "https://canna.to/u/689142-100-hits-of-the-70-s-80-s-90-s-2020",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_cannapower",
+      "name": "CannaPower",
+      "page_url": "https://canna-power.to/u/689142-100-hits-of-the-70-s-80-s-90-s-2020",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_geocities_midis",
+      "name": "Geocities MIDIs",
+      "page_url": "https://www.midicities.com/ViewGeocitiesSong?token=1880c7a4-6820-48f0-85a8-f3c1eda30235",
+      "status": "options_found",
+      "direct": 0,
+      "external": 1,
+      "kinds": {
+        "other": 1
+      },
+      "formats": [
+        "MIDI"
+      ],
+      "examples": [
+        {
+          "label": "Download Midi file (.MID)",
+          "filename": "ViewGeocitiesSong",
+          "format": "MIDI",
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_rapload",
+      "name": "Rapload",
+      "page_url": "https://rapload.org/?audio=nasaan-method-acting-2026",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_gabber",
+      "name": "Gabber",
+      "page_url": "https://gabber.od.ua/node/44505/angerfist-t78-psycho-killa-2026",
+      "status": "options_found",
+      "direct": 0,
+      "external": 2,
+      "kinds": {
+        "other": 2
+      },
+      "formats": [
+        "RAR"
+      ],
+      "examples": [
+        {
+          "label": "Download",
+          "filename": "special",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "Angerfist_and_T78-Psycho_Killa-(TDM068)-SINGLE-WEB-2026-wAx.rar",
+          "filename": "Angerfist_and_T78-Psycho_Killa-(TDM068)-SINGLE-WEB-2026-wAx.rar.html",
+          "format": "RAR",
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_globaldjmix",
+      "name": "GlobalDJMix",
+      "page_url": "https://globaldjmix.com/solomun-live-tomorrowland-2025-week-2-freedom-stage-2025-july-26/",
+      "status": "options_found",
+      "direct": 1,
+      "external": 0,
+      "kinds": {
+        "artwork": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "tomorrowland_2025.jpg",
+          "filename": "tomorrowland_2025.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_systems_of_romance",
+      "name": "Systems of Romance",
+      "page_url": "https://www.systemsofromance.com/blog/2012/03/coldwave-grab-bag-red-rain-coat-jus-dorange/",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_classical_music_download",
+      "name": "Classical Music Download",
+      "page_url": "https://classical-music-download.com/piano/19620-nils-anders-mortensen-js-bach-partitas-nos-2-3-amp-4-bwv-826-828-2026-flac-hi-res.html",
+      "status": "options_found",
+      "direct": 0,
+      "external": 1,
+      "kinds": {
+        "other": 1
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "DOWNLOAD FROM HOTLINK.CC >>>",
+          "filename": "go",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_certifiedmixtapez",
+      "name": "Certified Mixtapez",
+      "page_url": "https://www.certifiedmixtapez.com/Main/Details?refId=49e8528e",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_fed_a50d4a54a4",
+      "name": "madrotter-treasure-hunt",
+      "page_url": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-sweet-and-beautiful.html",
+      "status": "options_found",
+      "direct": 2,
+      "external": 1,
+      "kinds": {
+        "artwork": 2,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "apo1.jpg",
+          "filename": "apo1.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "apo2.jpg",
+          "filename": "apo2.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "GET IT HERE",
+          "filename": "view",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_f34b86bf6d",
+      "name": "Tape Attack",
+      "page_url": "https://tapeattack.blogspot.com/2026/09/glenn-branca-4symphonie-west-berlin.html",
+      "status": "options_found",
+      "direct": 2,
+      "external": 0,
+      "kinds": {
+        "artwork": 2
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "cover.jpg",
+          "filename": "cover.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "cover1.jpg",
+          "filename": "cover1.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_d2502d0890",
+      "name": "DeadPulpit",
+      "page_url": "https://www.deadpulpit.com/2026/10/scrape-st-ep.html",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_fed_fffec4cd01",
+      "name": "Butterboy Compilations",
+      "page_url": "https://butterboycompilations.blogspot.com/2026/11/va-hope-butterboy-compilation-4-x-cds.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "VA - HOPE (A Butterboy Compilation) ALL.jpg",
+          "filename": "VA - HOPE (A Butterboy Compilation) ALL.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "L3Thg1b9",
+          "filename": "L3Thg1b9",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_ef84abba30",
+      "name": "Primitive Offerings",
+      "page_url": "https://primitiveofferings.blogspot.com/2026/11/various-artists-intended-play-2005.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "PNG"
+      ],
+      "examples": [
+        {
+          "label": "Intended.png",
+          "filename": "Intended.png",
+          "format": "PNG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "here",
+          "filename": "rNpkppgQzJr",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_ea5a9f3554",
+      "name": "KTI Music",
+      "page_url": "https://ktimusic.blogspot.com/2026/04/style-house-date-2026-country-ukraine.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 0,
+      "kinds": {
+        "artwork": 1
+      },
+      "formats": [
+        "PNG"
+      ],
+      "examples": [
+        {
+          "label": "rmx_pack_ss.png",
+          "filename": "rmx_pack_ss.png",
+          "format": "PNG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_4154642616",
+      "name": "Die or DIY",
+      "page_url": "https://dieordiy2.blogspot.com/2026/10/various-artists-cambodian-nuggets.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "R-13863247-1597957138-3963.jpg",
+          "filename": "R-13863247-1597957138-3963.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "DOWNLOAD to find out who's in command HERE!",
+          "filename": "view",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_55cee8fe7f",
+      "name": "With The Song Of Life",
+      "page_url": "https://forwardwiththesong.blogspot.com/2019/03/jo-stafford-reflections-ultimate.html",
+      "status": "options_found",
+      "direct": 2,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "archive": 2
+      },
+      "formats": [
+        "JPG",
+        "RAR"
+      ],
+      "examples": [
+        {
+          "label": "front1.jpg",
+          "filename": "front1.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "https://nitroflare.com/view/9E017A40845D239/JoStafford_ReflectionsTheUltimateCollection-fl.rar",
+          "filename": "JoStafford_ReflectionsTheUltimateCollection-fl.rar",
+          "format": "RAR",
+          "kind": "archive",
+          "delivery": "external"
+        },
+        {
+          "label": "https://filejoker.net/wniqhbd2u5pz/JoStafford_ReflectionsTheUltimateCollection-fl.rar",
+          "filename": "JoStafford_ReflectionsTheUltimateCollection-fl.rar",
+          "format": "RAR",
+          "kind": "archive",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_671986d195",
+      "name": "Sophie's Floorboard",
+      "page_url": "https://sophiesfloorboard.blogspot.com/2026/09/heavens-to-betsy.html",
+      "status": "options_found",
+      "direct": 6,
+      "external": 6,
+      "kinds": {
+        "artwork": 6,
+        "other": 6
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "Heavens To Betsy band.jpg",
+          "filename": "Heavens To Betsy band.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Heavens To Betsy Demo.jpg",
+          "filename": "Heavens To Betsy Demo.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Demo (1992)",
+          "filename": "w2cVmRyJ",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "Heavens To Betsy Bratmobile.jpg",
+          "filename": "Heavens To Betsy Bratmobile.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_eb991fa4d0",
+      "name": "ProgRockVintage",
+      "page_url": "https://www.progrockvintage.com/2026/02/publicado-originalmente-em-setembro-de.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 1,
+      "kinds": {
+        "artwork": 1,
+        "other": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "f.jpg",
+          "filename": "f.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "MEGA",
+          "filename": "6dVigSoa",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_e96ef97a26",
+      "name": "aboutdisco",
+      "page_url": "https://aboutdiscowithlove.blogspot.com/2026/03/convertible-like-rain-ep.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 0,
+      "kinds": {
+        "artwork": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "Like The Rain E.P.jpg",
+          "filename": "Like The Rain E.P.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_fcee38b372",
+      "name": "The T-SQUARE Plaza",
+      "page_url": "https://tsquareplaza.blogspot.com/2026/06/voyage-2026.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 0,
+      "kinds": {
+        "artwork": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "4573221581086.jpg",
+          "filename": "4573221581086.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_5074d94813",
+      "name": "1000 Flights",
+      "page_url": "https://1000flights.blogspot.com/2026/10/disciplina-disciplina-alampo-records.html",
+      "status": "options_found",
+      "direct": 2,
+      "external": 0,
+      "kinds": {
+        "artwork": 2
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "img149.jpg",
+          "filename": "img149.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "img150.jpg",
+          "filename": "img150.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_4ccff89824",
+      "name": "LosslessAlbums",
+      "page_url": "https://losslessalbums.club/hi-res/201392-computerwife-born-from-a-wish-2026-hi-res.html",
+      "status": "options_found",
+      "direct": 0,
+      "external": 1,
+      "kinds": {
+        "other": 1
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "DOWNLOAD LINK >>>",
+          "filename": "leech_out.php",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_a113644fe2",
+      "name": "nodata",
+      "page_url": "https://nodata.tv/149934",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_fed_4bd247adc4",
+      "name": "FlacMusic",
+      "page_url": "https://flacmusic.info/42842-va-spin-the-bottle-an-all-star-tribute-to-kiss-2004.html",
+      "status": "options_found",
+      "direct": 1,
+      "external": 0,
+      "kinds": {
+        "artwork": 1
+      },
+      "formats": [
+        "JPG"
+      ],
+      "examples": [
+        {
+          "label": "1427800950_folder.jpg",
+          "filename": "1427800950_folder.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_449990f36e",
+      "name": "FreeMIDI",
+      "page_url": "https://freemidi.org/artist-251-beatles",
+      "status": "options_found",
+      "direct": 0,
+      "external": 50,
+      "kinds": {
+        "other": 50
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "A Day In The Life",
+          "filename": "download3-1135-a-day-in-the-life-beatles",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "A Day in the Life (2)",
+          "filename": "download3-26746-a-day-in-the-life-2-beatles",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "A Hard Day's Nigth",
+          "filename": "download3-25874-a-hard-days-nigth-beatles",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        },
+        {
+          "label": "A Hard Days Night",
+          "filename": "download3-1003-a-hard-days-night-beatles",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_111401798a",
+      "name": "Grime Archive",
+      "page_url": "https://www.grimearchive.org/mix/4537731",
+      "status": "options_found",
+      "direct": 1,
+      "external": 0,
+      "kinds": {
+        "other": 1
+      },
+      "formats": [],
+      "examples": [
+        {
+          "label": "[Download]",
+          "filename": "4537731",
+          "format": null,
+          "kind": "other",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_91354dbc18",
+      "name": "HQ Hip Hop",
+      "page_url": "https://94hiphop.com/va-the-genesis-of-nasty-english-ep-cd-2026-flac-320-kbps",
+      "status": "no_options",
+      "direct": 0,
+      "external": 0,
+      "kinds": {},
+      "formats": [],
+      "examples": [],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem.",
+        "Nenhuma opção de arquivo foi confirmada por este conector. Você ainda pode abrir a página de origem."
+      ]
+    },
+    {
+      "source": "custom_fed_b963b1a376",
+      "name": "BurningTheGround",
+      "page_url": "https://burningtheground.net/?p=30517",
+      "status": "options_found",
+      "direct": 4,
+      "external": 0,
+      "kinds": {
+        "artwork": 3,
+        "archive": 1
+      },
+      "formats": [
+        "JPG",
+        "RAR"
+      ],
+      "examples": [
+        {
+          "label": "A.-Front-10.jpg",
+          "filename": "A.-Front-10.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "ladiesofthe80s.jpg",
+          "filename": "ladiesofthe80s.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "B.-Back-9.jpg",
+          "filename": "B.-Back-9.jpg",
+          "format": "JPG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "gambler16.rar",
+          "filename": "gambler16.rar",
+          "format": "RAR",
+          "kind": "archive",
+          "delivery": "direct"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_fed_5332c157cb",
+      "name": "Tom Lehrer Songs",
+      "page_url": "https://tomlehrersongs.com/the-elements/",
+      "status": "options_found",
+      "direct": 7,
+      "external": 1,
+      "kinds": {
+        "document": 2,
+        "artwork": 1,
+        "other": 2,
+        "audio": 3
+      },
+      "formats": [
+        "JPEG",
+        "MP3",
+        "PDF"
+      ],
+      "examples": [
+        {
+          "label": "view or download PDF",
+          "filename": "the-elements.pdf",
+          "format": "PDF",
+          "kind": "document",
+          "delivery": "direct"
+        },
+        {
+          "label": "view or download PDF",
+          "filename": "the-elements-music.pdf",
+          "format": "PDF",
+          "kind": "document",
+          "delivery": "direct"
+        },
+        {
+          "label": "view or download JPEG",
+          "filename": "Elements-Aristotle.jpeg",
+          "format": "JPEG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "view or download DOCX",
+          "filename": "Elements-103-to-118-.docx",
+          "format": null,
+          "kind": "other",
+          "delivery": "external"
+        }
+      ],
+      "notices": [
+        "Links identificados na página da origem. Formato vem do nome/metadados; disponibilidade será conferida ao preparar o arquivo. Espelhos externos podem exigir interação na origem."
+      ]
+    },
+    {
+      "source": "custom_we_need_match",
+      "name": "We Need Match",
+      "page_url": "https://we-need-match.ru/forums/topic/4478-various-artists-metal-hammer-decades-of-destruction-1986-2016-flac/?do=findComment&comment=7450",
+      "status": "unavailable",
+      "reason": "O destino retornou mídia/binário em vez de metadados."
+    },
+    {
+      "source": "archive",
+      "name": "Internet Archive",
+      "page_url": "https://archive.org/details/sam-torres-still",
+      "status": "options_found",
+      "direct": 10,
+      "external": 0,
+      "kinds": {
+        "audio": 3,
+        "artwork": 3,
+        "other": 4
+      },
+      "formats": [
+        "Archive BitTorrent",
+        "Flac",
+        "Item Tile",
+        "Metadata",
+        "PNG",
+        "Spectrogram",
+        "VBR MP3",
+        "WAVE"
+      ],
+      "examples": [
+        {
+          "label": "Sam Torres - Still.flac",
+          "filename": "Sam Torres - Still.flac",
+          "format": "Flac",
+          "kind": "audio",
+          "delivery": "direct"
+        },
+        {
+          "label": "Sam Torres - Still.mp3",
+          "filename": "Sam Torres - Still.mp3",
+          "format": "VBR MP3",
+          "kind": "audio",
+          "delivery": "direct"
+        },
+        {
+          "label": "Sam Torres - Still.png",
+          "filename": "Sam Torres - Still.png",
+          "format": "PNG",
+          "kind": "artwork",
+          "delivery": "direct"
+        },
+        {
+          "label": "Sam Torres - Still.wav",
+          "filename": "Sam Torres - Still.wav",
+          "format": "WAVE",
+          "kind": "audio",
+          "delivery": "direct"
+        }
+      ],
+      "notices": []
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "index": 35,
+  "name": "madrotter-treasure-hunt",
+  "url": "https://madrotter-treasure-hunt.blogspot.com/",
+  "status": 200,
+  "final_url": "https://madrotter-treasure-hunt.blogspot.com/",
+  "title": "madrotter-treasure-hunt",
+  "searchlinks": [
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/70%27s",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/70%27s%20pop",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/hong%20kong",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/oscar%20young",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/the%20apollo",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/60%27s",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/60%27s%20pop",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/japan",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/60%27s",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/60%27s%20pop",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/japan",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/movie%20score",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/takashi%20ogawa%20%26%20the%20blue%20hawaiians",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/Takeshi%20Terauchi%20%26%20His%20Blue%20Jeans",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/Indonesia",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/mus%20w.",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/orkes%20empat%20sekawan",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/pop%20sunda",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/tati%20s.",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/bao%20sonjaya",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/dedeh%20djuwita%20sari",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/Degung",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/degung%20gunung%20jati%20group",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/Indonesia",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/pipin%20supini",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/70%27s",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/70%27s%20pop",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/ervinna",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/Indonesia",
+    "https://madrotter-treasure-hunt.blogspot.com/search/label/Singapore"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://madrotter-treasure-hunt.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "APOLLO",
+  "feed_matches": [
+    {
+      "title": "THE APOLLO - SWEET AND BEAUTIFUL",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/feeds/3148498691025345714/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-sweet-and-beautiful.html#comment-form",
+          "title": "1 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/3148498691025345714"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/3148498691025345714"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-sweet-and-beautiful.html",
+          "title": "THE APOLLO - SWEET AND BEAUTIFUL"
+        }
+      ]
+    },
+    {
+      "title": "THE APOLLO - HONG KONG FASCINATION",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/feeds/8756422984079181571/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-hong-kong-fascination.html#comment-form",
+          "title": "1 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/8756422984079181571"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/8756422984079181571"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-hong-kong-fascination.html",
+          "title": "THE APOLLO - HONG KONG FASCINATION"
+        }
+      ]
+    },
+    {
+      "title": "POPULAR HITS BY THE APOLLO: SMILE",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/feeds/6492465648250226006/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/popular-hits-by-apollo-smile.html#comment-form",
+          "title": "1 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/6492465648250226006"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/6492465648250226006"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/popular-hits-by-apollo-smile.html",
+          "title": "POPULAR HITS BY THE APOLLO: SMILE"
+        }
+      ]
+    },
+    {
+      "title": "THE APOLLO - THOUSANDS OF WORDS",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/feeds/6191984789075749526/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-thousands-of-words.html#comment-form",
+          "title": "1 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/6191984789075749526"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/6191984789075749526"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-thousands-of-words.html",
+          "title": "THE APOLLO - THOUSANDS OF WORDS"
+        }
+      ]
+    },
+    {
+      "title": "THE APOLLO - MORNING IN THE SOUTH SEAS",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/feeds/5658849670685348193/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-morning-in-south-seas.html#comment-form",
+          "title": "1 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/5658849670685348193"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/7881678896529888992/posts/default/5658849670685348193"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-morning-in-south-seas.html",
+          "title": "THE APOLLO - MORNING IN THE SOUTH SEAS"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://madrotter-treasure-hunt.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

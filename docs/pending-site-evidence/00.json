@@ -1,0 +1,34 @@
+{
+  "index": 0,
+  "name": "ShareMania",
+  "url": "https://sharemania.us/",
+  "status": 200,
+  "final_url": "https://sharemania.us/",
+  "title": "ShareMania.US",
+  "forms": [
+    {
+      "method": "post",
+      "action": "login/login",
+      "input_names": [
+        "login",
+        "register",
+        "register",
+        "password",
+        "remember",
+        "cookie_check",
+        "redirect",
+        "_xfToken"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js",
+    "https://sharemania.us/styles/revo/xenforo/js/stylec.js?_v=740231f4",
+    "https://sharemania.us/js/xenforo/xenforo.js?_v=740231f4",
+    "https://sharemania.us/js/WidgetFramework/default.min.js?_v=740231f4",
+    "https://madurird.com/tag.min.js",
+    "https://bellnewyork.org/22/20983daec5e8de7e01393e9580f8e6c8",
+    "https://bellnewyork.org/22/20983daec5e8de7e01393e9580f8e6c8"
+  ],
+  "searchlinks": []
+}

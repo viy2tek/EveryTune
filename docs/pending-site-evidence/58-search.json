@@ -1,0 +1,7224 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-277276459473513904"
+    },
+    "updated": {
+      "$t": "2026-11-05T22:55:56.071+03:00"
+    },
+    "category": [
+      {
+        "term": "VA"
+      },
+      {
+        "term": "Bear Family"
+      },
+      {
+        "term": "Jasmine"
+      },
+      {
+        "term": "Time Life"
+      },
+      {
+        "term": "Not Now"
+      },
+      {
+        "term": "The Beatles"
+      },
+      {
+        "term": "Elvis Presley"
+      },
+      {
+        "term": "One Day"
+      },
+      {
+        "term": "Fantastic Voyage"
+      },
+      {
+        "term": "Christmas"
+      },
+      {
+        "term": "The Rolling Stones"
+      },
+      {
+        "term": "The Golden Years"
+      },
+      {
+        "term": "Bob Dylan"
+      },
+      {
+        "term": "Johnny Cash"
+      },
+      {
+        "term": "The Real"
+      },
+      {
+        "term": "The Ventures"
+      },
+      {
+        "term": "David Bowie"
+      },
+      {
+        "term": "Trojan Box Set"
+      },
+      {
+        "term": "Backbeats"
+      },
+      {
+        "term": "Ricky Nelson"
+      },
+      {
+        "term": "Uncut"
+      },
+      {
+        "term": "Cliff Richard"
+      },
+      {
+        "term": "Roy Orbison"
+      },
+      {
+        "term": "The Shadows"
+      },
+      {
+        "term": "Super Deluxe Edition"
+      },
+      {
+        "term": "Milestones"
+      },
+      {
+        "term": "Mojo Magazine"
+      },
+      {
+        "term": "Jerry Lee Lewis"
+      },
+      {
+        "term": "Jimi Hendrix"
+      },
+      {
+        "term": "Bobby Bare"
+      },
+      {
+        "term": "Connie Francis"
+      },
+      {
+        "term": "Chuck Berry"
+      },
+      {
+        "term": "Rock"
+      },
+      {
+        "term": "John Denver"
+      },
+      {
+        "term": "Paul McCartney"
+      },
+      {
+        "term": "John Lennon"
+      },
+      {
+        "term": "Pop"
+      },
+      {
+        "term": "Studio One"
+      },
+      {
+        "term": "The Everly Brothers"
+      },
+      {
+        "term": "Dean Martin"
+      },
+      {
+        "term": "Fats Domino"
+      },
+      {
+        "term": "Frank Sinatra"
+      },
+      {
+        "term": "Ray Charles"
+      },
+      {
+        "term": "Simon & Garfunkel"
+      },
+      {
+        "term": "Bill Haley & His Comets"
+      },
+      {
+        "term": "Ella Fitzgerald"
+      },
+      {
+        "term": "Fleetwood Mac"
+      },
+      {
+        "term": "Ultra-Lounge"
+      },
+      {
+        "term": "Glen Campbell"
+      },
+      {
+        "term": "Harris Emmylou"
+      },
+      {
+        "term": "Herman's Hermits"
+      },
+      {
+        "term": "Led Zeppelin"
+      },
+      {
+        "term": "B.B. King"
+      },
+      {
+        "term": "Bee Gees"
+      },
+      {
+        "term": "Rock'n'Roll"
+      },
+      {
+        "term": "Doris Day"
+      },
+      {
+        "term": "Duane Eddy"
+      },
+      {
+        "term": "Etta James"
+      },
+      {
+        "term": "Jackie DeShannon"
+      },
+      {
+        "term": "Louis Armstrong"
+      },
+      {
+        "term": "Sam Cooke"
+      },
+      {
+        "term": "The Supremes"
+      },
+      {
+        "term": "Anita O'Day"
+      },
+      {
+        "term": "Brenda Lee"
+      },
+      {
+        "term": "Numero Group"
+      },
+      {
+        "term": "Aretha Franklin"
+      },
+      {
+        "term": "Bruce Springsteen"
+      },
+      {
+        "term": "Dolly Parton"
+      },
+      {
+        "term": "Hank Snow"
+      },
+      {
+        "term": "J.J. Cale"
+      },
+      {
+        "term": "John Lee Hooker"
+      },
+      {
+        "term": "Little Richard"
+      },
+      {
+        "term": "Marvin Gaye"
+      },
+      {
+        "term": "Nina Simone"
+      },
+      {
+        "term": "The Kinks"
+      },
+      {
+        "term": "Wanda Jackson"
+      },
+      {
+        "term": "Bo Diddley"
+      },
+      {
+        "term": "Carl Perkins"
+      },
+      {
+        "term": "Eric Clapton"
+      },
+      {
+        "term": "Jim Reeves"
+      },
+      {
+        "term": "Louis Prima"
+      },
+      {
+        "term": "Marty Robbins"
+      },
+      {
+        "term": "Neil Young"
+      },
+      {
+        "term": "Paul Anka"
+      },
+      {
+        "term": "The Who"
+      },
+      {
+        "term": "Billie Holiday"
+      },
+      {
+        "term": "Bobby Vee"
+      },
+      {
+        "term": "Charley Pride"
+      },
+      {
+        "term": "George Harrison"
+      },
+      {
+        "term": "Ike & Tina Turner"
+      },
+      {
+        "term": "Keely Smith"
+      },
+      {
+        "term": "Smokie"
+      },
+      {
+        "term": "Benny Goodman"
+      },
+      {
+        "term": "Buddy Holly"
+      },
+      {
+        "term": "Eddie Cochran"
+      },
+      {
+        "term": "George Strait"
+      },
+      {
+        "term": "Grand Funk Railroad"
+      },
+      {
+        "term": "Hank Williams"
+      },
+      {
+        "term": "Muddy Waters"
+      },
+      {
+        "term": "Nat 'King' Cole"
+      },
+      {
+        "term": "Peter Alexander"
+      },
+      {
+        "term": "Charlie Christian"
+      },
+      {
+        "term": "Del Shannon"
+      },
+      {
+        "term": "George Jones"
+      },
+      {
+        "term": "Glenn Miller"
+      },
+      {
+        "term": "Ike Turner"
+      },
+      {
+        "term": "Johnny Burnette"
+      },
+      {
+        "term": "Lulu"
+      },
+      {
+        "term": "Merle Haggard"
+      },
+      {
+        "term": "Peter Kraus"
+      },
+      {
+        "term": "Petula Clark"
+      },
+      {
+        "term": "Pink Floyd"
+      },
+      {
+        "term": "Tennessee Ernie Ford"
+      },
+      {
+        "term": "Willie Nelson"
+      },
+      {
+        "term": "Bing Crosby"
+      },
+      {
+        "term": "Buck Owens"
+      },
+      {
+        "term": "Chet Atkins"
+      },
+      {
+        "term": "Dion"
+      },
+      {
+        "term": "Fats Waller"
+      },
+      {
+        "term": "Gene Vincent"
+      },
+      {
+        "term": "Manfred Mann"
+      },
+      {
+        "term": "Pat Boone"
+      },
+      {
+        "term": "The Diva Series"
+      },
+      {
+        "term": "The Yardbirds"
+      },
+      {
+        "term": "Art Garfunkel"
+      },
+      {
+        "term": "Deep Purple"
+      },
+      {
+        "term": "Dinah Washington"
+      },
+      {
+        "term": "Helen Shapiro"
+      },
+      {
+        "term": "Howlin' Wolf"
+      },
+      {
+        "term": "Jackie Wilson"
+      },
+      {
+        "term": "Jeff Beck"
+      },
+      {
+        "term": "Lee Hazlewood"
+      },
+      {
+        "term": "The Coasters"
+      },
+      {
+        "term": "The Doors"
+      },
+      {
+        "term": "Bay City Rollers"
+      },
+      {
+        "term": "Bob Marley & The Wailers"
+      },
+      {
+        "term": "Bobby Darin"
+      },
+      {
+        "term": "Carpenters"
+      },
+      {
+        "term": "Conway Twitty"
+      },
+      {
+        "term": "Daryl Hall & John Oates"
+      },
+      {
+        "term": "Diana Ross"
+      },
+      {
+        "term": "Elmore James"
+      },
+      {
+        "term": "Ernest Tubb"
+      },
+      {
+        "term": "Esther Phillips"
+      },
+      {
+        "term": "Floyd Cramer"
+      },
+      {
+        "term": "Frankie Laine"
+      },
+      {
+        "term": "Freddy Quinn"
+      },
+      {
+        "term": "James Brown"
+      },
+      {
+        "term": "Jo Stafford"
+      },
+      {
+        "term": "John Barry"
+      },
+      {
+        "term": "John Fogerty"
+      },
+      {
+        "term": "Keith Richards"
+      },
+      {
+        "term": "Lightnin' Hopkins"
+      },
+      {
+        "term": "Oscar Peterson"
+      },
+      {
+        "term": "Patti Page"
+      },
+      {
+        "term": "Slade"
+      },
+      {
+        "term": "Sonny James"
+      },
+      {
+        "term": "The Andrews Sisters"
+      },
+      {
+        "term": "The Beach Boys"
+      },
+      {
+        "term": "The Hollies"
+      },
+      {
+        "term": "The Platters"
+      },
+      {
+        "term": "Andy Williams"
+      },
+      {
+        "term": "Betty Wright"
+      },
+      {
+        "term": "Big Joe Turner"
+      },
+      {
+        "term": "Bill Haley"
+      },
+      {
+        "term": "Bill Monroe"
+      },
+      {
+        "term": "Billy Fury"
+      },
+      {
+        "term": "Bob Stanley"
+      },
+      {
+        "term": "Charlie Rich"
+      },
+      {
+        "term": "Connie Smith"
+      },
+      {
+        "term": "Count Basie"
+      },
+      {
+        "term": "Don Gibson"
+      },
+      {
+        "term": "Duke Ellington"
+      },
+      {
+        "term": "Eddy Arnold"
+      },
+      {
+        "term": "Elton John"
+      },
+      {
+        "term": "Frank Zappa"
+      },
+      {
+        "term": "Gerhard Wendland"
+      },
+      {
+        "term": "Hank Ballard & The Midnighters"
+      },
+      {
+        "term": "Johnny Horton"
+      },
+      {
+        "term": "Link Wray"
+      },
+      {
+        "term": "Lloyd Price"
+      },
+      {
+        "term": "Neil Sedaka"
+      },
+      {
+        "term": "Patsy Cline"
+      },
+      {
+        "term": "Peggy Lee"
+      },
+      {
+        "term": "Perry Como"
+      },
+      {
+        "term": "Porter Wagoner"
+      },
+      {
+        "term": "Queen"
+      },
+      {
+        "term": "Ray Conniff"
+      },
+      {
+        "term": "Rosemary Clooney"
+      },
+      {
+        "term": "Ted Herold"
+      },
+      {
+        "term": "Waylon Jennings"
+      },
+      {
+        "term": "Ann-Margret"
+      },
+      {
+        "term": "Bill Ramsey"
+      },
+      {
+        "term": "Bob Seger"
+      },
+      {
+        "term": "Chet Baker"
+      },
+      {
+        "term": "Chubby Checker"
+      },
+      {
+        "term": "Clifford T. Ward"
+      },
+      {
+        "term": "Dorsey Burnette"
+      },
+      {
+        "term": "Freddy King"
+      },
+      {
+        "term": "Genesis"
+      },
+      {
+        "term": "Henry Mancini"
+      },
+      {
+        "term": "Jack Scott"
+      },
+      {
+        "term": "Johnnie Ray"
+      },
+      {
+        "term": "Kenny Rogers"
+      },
+      {
+        "term": "Kitty Wells"
+      },
+      {
+        "term": "Larry Williams"
+      },
+      {
+        "term": "Leonard Cohen"
+      },
+      {
+        "term": "Margaret Whiting"
+      },
+      {
+        "term": "Mary Wells"
+      },
+      {
+        "term": "Pete Wiggs"
+      },
+      {
+        "term": "Ronnie Hawkins"
+      },
+      {
+        "term": "Roy Brown"
+      },
+      {
+        "term": "Screamin' Jay Hawkins"
+      },
+      {
+        "term": "Slim Whitman"
+      },
+      {
+        "term": "Tammi Terrell"
+      },
+      {
+        "term": "The Champs"
+      },
+      {
+        "term": "The Drifters"
+      },
+      {
+        "term": "The Isley Brothers"
+      },
+      {
+        "term": "The Marvelettes"
+      },
+      {
+        "term": "Tommy Sands"
+      },
+      {
+        "term": "Tony Bennett"
+      },
+      {
+        "term": "Vico Torriani"
+      },
+      {
+        "term": "Adam Faith"
+      },
+      {
+        "term": "Artie Shaw"
+      },
+      {
+        "term": "Ben E. King"
+      },
+      {
+        "term": "Bibi Johns"
+      },
+      {
+        "term": "Bobby Bland"
+      },
+      {
+        "term": "Burl Ives"
+      },
+      {
+        "term": "Carole King"
+      },
+      {
+        "term": "Caterina Valente"
+      },
+      {
+        "term": "Conny Froboess"
+      },
+      {
+        "term": "Dion & The Belmonts"
+      },
+      {
+        "term": "Dionne Warwick"
+      },
+      {
+        "term": "Django Reinhardt"
+      },
+      {
+        "term": "Dusty Springfield"
+      },
+      {
+        "term": "Edith Piaf"
+      },
+      {
+        "term": "Frankie Valli & The Four Seasons"
+      },
+      {
+        "term": "George Hamilton IV"
+      },
+      {
+        "term": "Gerry Mulligan"
+      },
+      {
+        "term": "Gus Backus"
+      },
+      {
+        "term": "Guy Mitchell"
+      },
+      {
+        "term": "Harry Belafonte"
+      },
+      {
+        "term": "Jan & Dean"
+      },
+      {
+        "term": "Jean Shepard"
+      },
+      {
+        "term": "Jethro Tull"
+      },
+      {
+        "term": "Jimmie Rodgers"
+      },
+      {
+        "term": "LaVern Baker"
+      },
+      {
+        "term": "Louis Jordan"
+      },
+      {
+        "term": "Mantovani"
+      },
+      {
+        "term": "Marty Wilde"
+      },
+      {
+        "term": "Memphis Slim"
+      },
+      {
+        "term": "Miles Davis"
+      },
+      {
+        "term": "Otis Redding"
+      },
+      {
+        "term": "Peggy March"
+      },
+      {
+        "term": "Phil Spector"
+      },
+      {
+        "term": "René Carol"
+      },
+      {
+        "term": "Rod Stewart"
+      },
+      {
+        "term": "Roy Black"
+      },
+      {
+        "term": "Ruth Brown"
+      },
+      {
+        "term": "Sarah Vaughan"
+      },
+      {
+        "term": "T-Bone Walker"
+      },
+      {
+        "term": "The BBC Big Band"
+      },
+      {
+        "term": "The Byrds"
+      },
+      {
+        "term": "The Crickets"
+      },
+      {
+        "term": "The Shangri-Las"
+      },
+      {
+        "term": "The Sons Of The Pioneers"
+      },
+      {
+        "term": "The Tremeloes"
+      },
+      {
+        "term": "Tom Jones"
+      },
+      {
+        "term": "101 Strings Orchestra"
+      },
+      {
+        "term": "Albert King"
+      },
+      {
+        "term": "Ann Peebles"
+      },
+      {
+        "term": "Bert Kaempfert"
+      },
+      {
+        "term": "Billy Vaughn"
+      },
+      {
+        "term": "Blues"
+      },
+      {
+        "term": "Bob Luman"
+      },
+      {
+        "term": "Bob Wills & His Texas Playboys"
+      },
+      {
+        "term": "Bobby Vinton"
+      },
+      {
+        "term": "Brian Poole"
+      },
+      {
+        "term": "Brook Benton"
+      },
+      {
+        "term": "Carl Smith"
+      },
+      {
+        "term": "Cher"
+      },
+      {
+        "term": "Dave Brubeck"
+      },
+      {
+        "term": "David Allan Coe"
+      },
+      {
+        "term": "Della Reese"
+      },
+      {
+        "term": "Dick Haymes"
+      },
+      {
+        "term": "Ella Mae Morse"
+      },
+      {
+        "term": "Fabian"
+      },
+      {
+        "term": "Faron Young"
+      },
+      {
+        "term": "Ferlin Husky"
+      },
+      {
+        "term": "Folk"
+      },
+      {
+        "term": "Frank Ifield"
+      },
+      {
+        "term": "Frankie Avalon"
+      },
+      {
+        "term": "Freddie King"
+      },
+      {
+        "term": "Freddy Cannon"
+      },
+      {
+        "term": "Gene Pitney"
+      },
+      {
+        "term": "Gerry & The Pacemakers"
+      },
+      {
+        "term": "Hank Locklin"
+      },
+      {
+        "term": "Hank Thompson"
+      },
+      {
+        "term": "Harry Nilsson"
+      },
+      {
+        "term": "Heidi Brühl"
+      },
+      {
+        "term": "Helen Forrest"
+      },
+      {
+        "term": "Jerry Butler"
+      },
+      {
+        "term": "John Coltrane"
+      },
+      {
+        "term": "John D. Loudermilk"
+      },
+      {
+        "term": "Johnny O'Keefe"
+      },
+      {
+        "term": "Johnny Otis"
+      },
+      {
+        "term": "Johnny Winter"
+      },
+      {
+        "term": "Julie London"
+      },
+      {
+        "term": "Kay Starr"
+      },
+      {
+        "term": "King Curtis"
+      },
+      {
+        "term": "Lowell Fulson"
+      },
+      {
+        "term": "Mac Wiseman"
+      },
+      {
+        "term": "Margot Eskens"
+      },
+      {
+        "term": "Marianne Faithfull"
+      },
+      {
+        "term": "Mickey Baker"
+      },
+      {
+        "term": "Moon Mullican"
+      },
+      {
+        "term": "Mott The Hoople"
+      },
+      {
+        "term": "Nana Mouskouri"
+      },
+      {
+        "term": "Neil Diamond"
+      },
+      {
+        "term": "Paul Simon"
+      },
+      {
+        "term": "Pete Seeger"
+      },
+      {
+        "term": "Peter Paul And Mary"
+      },
+      {
+        "term": "Professor Longhair"
+      },
+      {
+        "term": "Ringo Starr"
+      },
+      {
+        "term": "Rush"
+      },
+      {
+        "term": "Sammy Davis Jr."
+      },
+      {
+        "term": "Sanford Clark"
+      },
+      {
+        "term": "Shirley Bassey"
+      },
+      {
+        "term": "Siw Malmkvist"
+      },
+      {
+        "term": "Teresa Brewer"
+      },
+      {
+        "term": "The Chordettes"
+      },
+      {
+        "term": "The Ink Spots"
+      },
+      {
+        "term": "The Kingston Trio"
+      },
+      {
+        "term": "The Mamas & The Papas"
+      },
+      {
+        "term": "The McGuire Sisters"
+      },
+      {
+        "term": "The Osborne Brothers"
+      },
+      {
+        "term": "The Peanuts"
+      },
+      {
+        "term": "The Shirelles"
+      },
+      {
+        "term": "The Stanley Brothers"
+      },
+      {
+        "term": "The Temptations"
+      },
+      {
+        "term": "The Tielman Brothers"
+      },
+      {
+        "term": "Timi Yuro"
+      },
+      {
+        "term": "Tommy Dorsey"
+      },
+      {
+        "term": "Tommy Steele"
+      },
+      {
+        "term": "U2"
+      },
+      {
+        "term": "Vera Lynn"
+      },
+      {
+        "term": "Wilf Carter"
+      },
+      {
+        "term": "Aerosmith"
+      },
+      {
+        "term": "Al Casey"
+      },
+      {
+        "term": "Al Martino"
+      },
+      {
+        "term": "Alex Harvey"
+      },
+      {
+        "term": "Amanda Lear"
+      },
+      {
+        "term": "Amii Stewart"
+      },
+      {
+        "term": "Amos Milburn"
+      },
+      {
+        "term": "Angèle Durand"
+      },
+      {
+        "term": "Anita Kerr"
+      },
+      {
+        "term": "Art Tatum"
+      },
+      {
+        "term": "Arthur Alexander"
+      },
+      {
+        "term": "Ayshea Brough"
+      },
+      {
+        "term": "BBC Big Band"
+      },
+      {
+        "term": "Baby Washington"
+      },
+      {
+        "term": "Barbara Lynn"
+      },
+      {
+        "term": "Bert Weedon"
+      },
+      {
+        "term": "Big Mama Thornton"
+      },
+      {
+        "term": "Bill Anderson"
+      },
+      {
+        "term": "Bill Wyman"
+      },
+      {
+        "term": "Billy Walker"
+      },
+      {
+        "term": "Bobby Day"
+      },
+      {
+        "term": "Buddy Holly & The Crickets"
+      },
+      {
+        "term": "Buddy Knox"
+      },
+      {
+        "term": "Bully Buhlan"
+      },
+      {
+        "term": "Burt Bacharach"
+      },
+      {
+        "term": "Champion Jack Dupree"
+      },
+      {
+        "term": "Charles Aznavour"
+      },
+      {
+        "term": "Charlie Parker"
+      },
+      {
+        "term": "Clifton Chenier"
+      },
+      {
+        "term": "Corry Brokken"
+      },
+      {
+        "term": "Country"
+      },
+      {
+        "term": "Creedence Clearwater Revival"
+      },
+      {
+        "term": "Dale Hawkins"
+      },
+      {
+        "term": "Dee Dee Sharp"
+      },
+      {
+        "term": "Dick Curless"
+      },
+      {
+        "term": "Eric Dolphy"
+      },
+      {
+        "term": "Eydie Gormé"
+      },
+      {
+        "term": "Fairport Convention"
+      },
+      {
+        "term": "Flatt & Scruggs"
+      },
+      {
+        "term": "Floyd Dixon"
+      },
+      {
+        "term": "Françoise Hardy"
+      },
+      {
+        "term": "Fred Astaire"
+      },
+      {
+        "term": "Gale Storm"
+      },
+      {
+        "term": "George Morgan"
+      },
+      {
+        "term": "Gerd Böttcher"
+      },
+      {
+        "term": "Gitte"
+      },
+      {
+        "term": "Gladys Knight And The Pips"
+      },
+      {
+        "term": "Golden Earring"
+      },
+      {
+        "term": "Gram Parsons"
+      },
+      {
+        "term": "Grateful Dead"
+      },
+      {
+        "term": "Gunter Gabriel"
+      },
+      {
+        "term": "Harry James"
+      },
+      {
+        "term": "Jack Bruce"
+      },
+      {
+        "term": "Jack Teagarden"
+      },
+      {
+        "term": "Jan & Kjeld"
+      },
+      {
+        "term": "Janis Joplin"
+      },
+      {
+        "term": "Janis Martin"
+      },
+      {
+        "term": "Jefferson Airplane"
+      },
+      {
+        "term": "Jerry Keller"
+      },
+      {
+        "term": "Jerry Reed"
+      },
+      {
+        "term": "Jesse Belvin"
+      },
+      {
+        "term": "Jimmy McCracklin"
+      },
+      {
+        "term": "Jimmy Page"
+      },
+      {
+        "term": "Jimmy Reed"
+      },
+      {
+        "term": "Jimmy Wakely"
+      },
+      {
+        "term": "Joe Simon"
+      },
+      {
+        "term": "Johnny & The Hurricanes"
+      },
+      {
+        "term": "Johnny 'Guitar' Watson"
+      },
+      {
+        "term": "Johnny Mathis"
+      },
+      {
+        "term": "Johnny Rivers"
+      },
+      {
+        "term": "Judy Garland"
+      },
+      {
+        "term": "Jörg Maria Berg"
+      },
+      {
+        "term": "Kim Lenz"
+      },
+      {
+        "term": "Lale Andersen"
+      },
+      {
+        "term": "Lambert Hendricks & Ross"
+      },
+      {
+        "term": "Laurie London"
+      },
+      {
+        "term": "Lee Curtis"
+      },
+      {
+        "term": "Lee Dorsey"
+      },
+      {
+        "term": "Lefty Frizzell"
+      },
+      {
+        "term": "Leo Sayer"
+      },
+      {
+        "term": "Leon McAuliffe"
+      },
+      {
+        "term": "Leroy Van Dyke"
+      },
+      {
+        "term": "Lesley Gore"
+      },
+      {
+        "term": "Linda Ronstadt"
+      },
+      {
+        "term": "Lolita"
+      },
+      {
+        "term": "Mahalia Jackson"
+      },
+      {
+        "term": "Marilyn Monroe"
+      },
+      {
+        "term": "Martha Reeves & The Vandellas"
+      },
+      {
+        "term": "Marty Stuart"
+      },
+      {
+        "term": "Marvin Rainwater"
+      },
+      {
+        "term": "Mel Tormé"
+      },
+      {
+        "term": "Nelson Riddle"
+      },
+      {
+        "term": "Nitty Gritty Dirt Band"
+      },
+      {
+        "term": "Paul Kuhn"
+      },
+      {
+        "term": "Pee Wee King"
+      },
+      {
+        "term": "Q65"
+      },
+      {
+        "term": "Ral Donner"
+      },
+      {
+        "term": "Randy Weston"
+      },
+      {
+        "term": "Ray Campi"
+      },
+      {
+        "term": "Ray Price"
+      },
+      {
+        "term": "Red Prysock"
+      },
+      {
+        "term": "Rex Allen"
+      },
+      {
+        "term": "Rex Gildo"
+      },
+      {
+        "term": "Ritchie Valens"
+      },
+      {
+        "term": "Robert Gordon"
+      },
+      {
+        "term": "Ronnie Self"
+      },
+      {
+        "term": "Roy Hamilton"
+      },
+      {
+        "term": "Sam Butera"
+      },
+      {
+        "term": "Sandy Nelson"
+      },
+      {
+        "term": "Shirley & Lee"
+      },
+      {
+        "term": "Sister Rosetta Tharpe"
+      },
+      {
+        "term": "Slim Harpo"
+      },
+      {
+        "term": "Smiley Lewis"
+      },
+      {
+        "term": "Smokey Robinson & The Miracles"
+      },
+      {
+        "term": "Solomon Burke"
+      },
+      {
+        "term": "Sonny & Cher"
+      },
+      {
+        "term": "Sonny Terry"
+      },
+      {
+        "term": "Stan Kenton"
+      },
+      {
+        "term": "Steve Lawrence"
+      },
+      {
+        "term": "Steve Lawrence & Eydie Gormé"
+      },
+      {
+        "term": "Stonewall Jackson"
+      },
+      {
+        "term": "Suzi Quatro"
+      },
+      {
+        "term": "The '5' Royales"
+      },
+      {
+        "term": "The 13th Floor Elevators"
+      },
+      {
+        "term": "The Animals"
+      },
+      {
+        "term": "The Astronauts"
+      },
+      {
+        "term": "The Beverley Sisters"
+      },
+      {
+        "term": "The Browns"
+      },
+      {
+        "term": "The Cadillacs"
+      },
+      {
+        "term": "The Carter Family"
+      },
+      {
+        "term": "The Cats"
+      },
+      {
+        "term": "The Collins Kids"
+      },
+      {
+        "term": "The Eagles"
+      },
+      {
+        "term": "The Easybeats"
+      },
+      {
+        "term": "The Flamingos"
+      },
+      {
+        "term": "The Four Freshmen"
+      },
+      {
+        "term": "The Four Preps"
+      },
+      {
+        "term": "The Jordanaires"
+      },
+      {
+        "term": "The Lollipops"
+      },
+      {
+        "term": "The Louvin Brothers"
+      },
+      {
+        "term": "The Mills Brothers"
+      },
+      {
+        "term": "The Miracles"
+      },
+      {
+        "term": "The Outsiders"
+      },
+      {
+        "term": "The Rat Pack"
+      },
+      {
+        "term": "The Royal Philharmonic Orchestra"
+      },
+      {
+        "term": "Tim Buckley"
+      },
+      {
+        "term": "Tina Turner"
+      },
+      {
+        "term": "Tony Sheridan"
+      },
+      {
+        "term": "Trini Lopez"
+      },
+      {
+        "term": "Van Morrison"
+      },
+      {
+        "term": "Vince Taylor"
+      },
+      {
+        "term": "Walter Jackson"
+      },
+      {
+        "term": "Warren Smith"
+      },
+      {
+        "term": "Woody Herman"
+      },
+      {
+        "term": "Z.Z. Hill"
+      },
+      {
+        "term": "ABBA"
+      },
+      {
+        "term": "Abbe Lane"
+      },
+      {
+        "term": "Abbey Lincoln"
+      },
+      {
+        "term": "Acker Bilk"
+      },
+      {
+        "term": "Adam Wade"
+      },
+      {
+        "term": "Al Stewart"
+      },
+      {
+        "term": "Alan Freed"
+      },
+      {
+        "term": "Alice & Ellen Kessler"
+      },
+      {
+        "term": "Alice Babs"
+      },
+      {
+        "term": "Alison Krauss"
+      },
+      {
+        "term": "Alvin Lee"
+      },
+      {
+        "term": "Andy Starr"
+      },
+      {
+        "term": "Anita Bryant"
+      },
+      {
+        "term": "Anita Carter"
+      },
+      {
+        "term": "Annette Funicello"
+      },
+      {
+        "term": "Arbee Stidham"
+      },
+      {
+        "term": "Arrows"
+      },
+      {
+        "term": "Arthur 'Big Boy' Crudup"
+      },
+      {
+        "term": "Arthur Lyman"
+      },
+      {
+        "term": "Barbara Mason"
+      },
+      {
+        "term": "Barry Mann"
+      },
+      {
+        "term": "Beegie Adair"
+      },
+      {
+        "term": "Ben Hewitt"
+      },
+      {
+        "term": "Benny Joy"
+      },
+      {
+        "term": "Betty Carter"
+      },
+      {
+        "term": "Big Bill Broonzy"
+      },
+      {
+        "term": "Big Bopper"
+      },
+      {
+        "term": "Big Joe Williams"
+      },
+      {
+        "term": "Big John Greer"
+      },
+      {
+        "term": "Billy 'Crash' Craddock"
+      },
+      {
+        "term": "Billy Childish"
+      },
+      {
+        "term": "Billy Joel"
+      },
+      {
+        "term": "Blind Boy Fuller"
+      },
+      {
+        "term": "Blind Faith"
+      },
+      {
+        "term": "Bob Crosby"
+      },
+      {
+        "term": "Bobbie Gentry"
+      },
+      {
+        "term": "Bobby 'Blue' Bland"
+      },
+      {
+        "term": "Bobby Freeman"
+      },
+      {
+        "term": "Bobby Helms"
+      },
+      {
+        "term": "Bobby Rydell"
+      },
+      {
+        "term": "Booker T. & The MG's"
+      },
+      {
+        "term": "Bread"
+      },
+      {
+        "term": "Brenda Holloway"
+      },
+      {
+        "term": "Brian Hyland"
+      },
+      {
+        "term": "Brian Jones"
+      },
+      {
+        "term": "Brian Setzer"
+      },
+      {
+        "term": "Brownie McGhee"
+      },
+      {
+        "term": "Bruce Low"
+      },
+      {
+        "term": "Buddy Guy"
+      },
+      {
+        "term": "Buddy Rich"
+      },
+      {
+        "term": "Carl Butler"
+      },
+      {
+        "term": "Carl Dobkins Jr"
+      },
+      {
+        "term": "Carl Mann"
+      },
+      {
+        "term": "Carla Thomas"
+      },
+      {
+        "term": "Carmen McRae"
+      },
+      {
+        "term": "Chad & Jeremy"
+      },
+      {
+        "term": "Charles Brown"
+      },
+      {
+        "term": "Charlie Walker"
+      },
+      {
+        "term": "Christine Kittrell"
+      },
+      {
+        "term": "Chuck Jackson"
+      },
+      {
+        "term": "Chuck Willis"
+      },
+      {
+        "term": "Clarence 'Frogman' Henry"
+      },
+      {
+        "term": "Clarence Carter"
+      },
+      {
+        "term": "Claude Gray"
+      },
+      {
+        "term": "Clyde McPhatter"
+      },
+      {
+        "term": "Coleman Hawkins"
+      },
+      {
+        "term": "Colin Hicks"
+      },
+      {
+        "term": "Commodores"
+      },
+      {
+        "term": "Country Joe & The Fish"
+      },
+      {
+        "term": "Cream"
+      },
+      {
+        "term": "Crosby Stills Nash"
+      },
+      {
+        "term": "Curtis Lee"
+      },
+      {
+        "term": "Curtis Mayfield"
+      },
+      {
+        "term": "Dakota Staton"
+      },
+      {
+        "term": "Dalida"
+      },
+      {
+        "term": "Danny & The Juniors"
+      },
+      {
+        "term": "Dany Mann"
+      },
+      {
+        "term": "Darrow Fletcher"
+      },
+      {
+        "term": "Dave Edmunds"
+      },
+      {
+        "term": "Dave Mason"
+      },
+      {
+        "term": "Dave Stewart"
+      },
+      {
+        "term": "David Gilmour"
+      },
+      {
+        "term": "Dee Clark"
+      },
+      {
+        "term": "Dick Dale"
+      },
+      {
+        "term": "Dicky Doo & The Don'ts"
+      },
+      {
+        "term": "Dizzy Gillespie"
+      },
+      {
+        "term": "Donna Summer"
+      },
+      {
+        "term": "Donovan"
+      },
+      {
+        "term": "Doris Troy"
+      },
+      {
+        "term": "Dr. John"
+      },
+      {
+        "term": "Earl King"
+      },
+      {
+        "term": "Eartha Kitt"
+      },
+      {
+        "term": "Eddie Constantine"
+      },
+      {
+        "term": "Eddie Fisher"
+      },
+      {
+        "term": "Eddie Kendricks"
+      },
+      {
+        "term": "Eden Kane"
+      },
+      {
+        "term": "Electric Light Orchestra"
+      },
+      {
+        "term": "Elizabeth Cotten"
+      },
+      {
+        "term": "Emerson Lake & Palmer"
+      },
+      {
+        "term": "Emile Ford & The Checkmates"
+      },
+      {
+        "term": "Ennio Morricone"
+      },
+      {
+        "term": "Erich Kunzel"
+      },
+      {
+        "term": "Erroll Garner"
+      },
+      {
+        "term": "Esquivel"
+      },
+      {
+        "term": "Esther Ofarim"
+      },
+      {
+        "term": "Fats & His Cats"
+      },
+      {
+        "term": "Focus"
+      },
+      {
+        "term": "Four Tops"
+      },
+      {
+        "term": "Frank Chacksfield"
+      },
+      {
+        "term": "Frank Virtue & The Virtues"
+      },
+      {
+        "term": "Frankie Ford"
+      },
+      {
+        "term": "Frankie Lymon & The Teenagers"
+      },
+      {
+        "term": "Frankie Valli"
+      },
+      {
+        "term": "Frankie Vaughan"
+      },
+      {
+        "term": "Freddy Fender"
+      },
+      {
+        "term": "Garnet Mimms"
+      },
+      {
+        "term": "Gary Moore"
+      },
+      {
+        "term": "Gary U.S. Bonds"
+      },
+      {
+        "term": "Gene Autry"
+      },
+      {
+        "term": "Gene Krupa"
+      },
+      {
+        "term": "Gene McDaniels"
+      },
+      {
+        "term": "George Martin"
+      },
+      {
+        "term": "Gigliola Cinquetti"
+      },
+      {
+        "term": "Gilbert Bécaud"
+      },
+      {
+        "term": "Gisele MacKenzie"
+      },
+      {
+        "term": "Gitta Lind"
+      },
+      {
+        "term": "Glam Rock"
+      },
+      {
+        "term": "Goldie Hill"
+      },
+      {
+        "term": "Grandpa Jones"
+      },
+      {
+        "term": "Guy Lombardo"
+      },
+      {
+        "term": "Hawkshaw Hawkins"
+      },
+      {
+        "term": "Henry Glover"
+      },
+      {
+        "term": "Honey Cone"
+      },
+      {
+        "term": "Huey 'Piano' Smith"
+      },
+      {
+        "term": "Ian Hunter"
+      },
+      {
+        "term": "Ivo Robić"
+      },
+      {
+        "term": "Jack Hammer"
+      },
+      {
+        "term": "Jack Jones"
+      },
+      {
+        "term": "Jackie Gleason"
+      },
+      {
+        "term": "Jackie Lee"
+      },
+      {
+        "term": "Jackie Mittoo"
+      },
+      {
+        "term": "James Last"
+      },
+      {
+        "term": "Jane Birkin"
+      },
+      {
+        "term": "Jay & The Americans"
+      },
+      {
+        "term": "Jeri Southern"
+      },
+      {
+        "term": "Jerry Douglas"
+      },
+      {
+        "term": "Jerry Lewis"
+      },
+      {
+        "term": "Jerry Vale"
+      },
+      {
+        "term": "Jerry Wilton"
+      },
+      {
+        "term": "Jim & Jesse"
+      },
+      {
+        "term": "Jimmie Logsdon"
+      },
+      {
+        "term": "Jimmy Bryant"
+      },
+      {
+        "term": "Jimmy Dorsey"
+      },
+      {
+        "term": "Jimmy Giuffre"
+      },
+      {
+        "term": "Jimmy Makulis"
+      },
+      {
+        "term": "Jimmy Martin"
+      },
+      {
+        "term": "Jimmy Rogers"
+      },
+      {
+        "term": "Jimmy Ruffin"
+      },
+      {
+        "term": "Jimmy Webb"
+      },
+      {
+        "term": "Jo Ann Campbell"
+      },
+      {
+        "term": "Joan Baez"
+      },
+      {
+        "term": "Joanie Sommers"
+      },
+      {
+        "term": "Jody Reynolds"
+      },
+      {
+        "term": "Joe Brown"
+      },
+      {
+        "term": "Joe Cocker"
+      },
+      {
+        "term": "Joe Dowell"
+      },
+      {
+        "term": "Joe Gibbs & The Professionals"
+      },
+      {
+        "term": "Joey Dee & The Starliters"
+      },
+      {
+        "term": "John Leyton"
+      },
+      {
+        "term": "John Mayall"
+      },
+      {
+        "term": "John Mayall & The Bluesbreakers"
+      },
+      {
+        "term": "Johnny Ace"
+      },
+      {
+        "term": "Johnny Carroll"
+      },
+      {
+        "term": "Johnny Duncan"
+      },
+      {
+        "term": "Johnny Kidd"
+      },
+      {
+        "term": "Johnny Mercer"
+      },
+      {
+        "term": "Johnny Preston"
+      },
+      {
+        "term": "Johnny Tillotson"
+      },
+      {
+        "term": "Julia Lee"
+      },
+      {
+        "term": "June Christy"
+      },
+      {
+        "term": "Junior Wells"
+      },
+      {
+        "term": "Justin Tubb"
+      },
+      {
+        "term": "Kate Bush"
+      },
+      {
+        "term": "Kilima Hawaiians"
+      },
+      {
+        "term": "Kim Weston"
+      },
+      {
+        "term": "King Crimson"
+      },
+      {
+        "term": "Kris Jensen"
+      },
+      {
+        "term": "Kurt Edelhagen"
+      },
+      {
+        "term": "Lazy Lester"
+      },
+      {
+        "term": "Leroy Holmes"
+      },
+      {
+        "term": "Lester Flatt"
+      },
+      {
+        "term": "Lester Young"
+      },
+      {
+        "term": "Lieutenant Pigeon"
+      },
+      {
+        "term": "Linda Lewis"
+      },
+      {
+        "term": "Linda Scott"
+      },
+      {
+        "term": "Lionel Hampton"
+      },
+      {
+        "term": "Lisa Marie Presley"
+      },
+      {
+        "term": "Liselotte Malkowsky"
+      },
+      {
+        "term": "Little Esther Phillips"
+      },
+      {
+        "term": "Little Jimmy Dickens"
+      },
+      {
+        "term": "Little Junior Parker"
+      },
+      {
+        "term": "Little Walter"
+      },
+      {
+        "term": "Little Willie John"
+      },
+      {
+        "term": "Livin' Blues"
+      },
+      {
+        "term": "Lonnie Donegan"
+      },
+      {
+        "term": "Loretta Lynn"
+      },
+      {
+        "term": "Lou Rawls"
+      },
+      {
+        "term": "Lou Reed"
+      },
+      {
+        "term": "Luther Ingram"
+      },
+      {
+        "term": "Lys Assia"
+      },
+      {
+        "term": "Mac Curtis"
+      },
+      {
+        "term": "Magazine"
+      },
+      {
+        "term": "Marc Bolan & T.Rex"
+      },
+      {
+        "term": "Margie Singleton"
+      },
+      {
+        "term": "Marianne Mendt"
+      },
+      {
+        "term": "Memphis Minnie"
+      },
+      {
+        "term": "Merle Travis"
+      },
+      {
+        "term": "Merrill Moore"
+      },
+      {
+        "term": "Michael Bolton"
+      },
+      {
+        "term": "Michel Legrand"
+      },
+      {
+        "term": "Milt Jackson"
+      },
+      {
+        "term": "Mitchell Torok"
+      },
+      {
+        "term": "Mud"
+      },
+      {
+        "term": "Nana Gualdi"
+      },
+      {
+        "term": "Nancy Sinatra"
+      },
+      {
+        "term": "Nat King Cole"
+      },
+      {
+        "term": "Ned Miller"
+      },
+      {
+        "term": "Nelson Eddy"
+      },
+      {
+        "term": "Nino Tempo & April Stevens"
+      },
+      {
+        "term": "Orion"
+      },
+      {
+        "term": "Ornella Vanoni"
+      },
+      {
+        "term": "PDF"
+      },
+      {
+        "term": "Paul Desmond"
+      },
+      {
+        "term": "Paul Würges"
+      },
+      {
+        "term": "Perez Prado"
+      },
+      {
+        "term": "Peter Thomas"
+      },
+      {
+        "term": "Phil Harris"
+      },
+      {
+        "term": "Quincy Jones"
+      },
+      {
+        "term": "Randy Starr"
+      },
+      {
+        "term": "Ray Anthony"
+      },
+      {
+        "term": "Ray Davies"
+      },
+      {
+        "term": "Ray Peterson"
+      },
+      {
+        "term": "Ray Smith"
+      },
+      {
+        "term": "Red Sovine"
+      },
+      {
+        "term": "Renate Kern"
+      },
+      {
+        "term": "Rich Amerson"
+      },
+      {
+        "term": "Richard Berry"
+      },
+      {
+        "term": "Richard Germer"
+      },
+      {
+        "term": "Ricky King"
+      },
+      {
+        "term": "Robin Luke"
+      },
+      {
+        "term": "Rod McKuen"
+      },
+      {
+        "term": "Roger Miller"
+      },
+      {
+        "term": "Roger Williams"
+      },
+      {
+        "term": "Ronnie Aldrich"
+      },
+      {
+        "term": "Roosevelt Sykes"
+      },
+      {
+        "term": "Rory Gallagher"
+      },
+      {
+        "term": "Rose Maddox"
+      },
+      {
+        "term": "Roy Acuff"
+      },
+      {
+        "term": "Sabrina Ascacibar"
+      },
+      {
+        "term": "Sacha Distel"
+      },
+      {
+        "term": "Sandie Shaw"
+      },
+      {
+        "term": "Sandy Coast"
+      },
+      {
+        "term": "Santana"
+      },
+      {
+        "term": "Santo & Johnny"
+      },
+      {
+        "term": "Scott Engel"
+      },
+      {
+        "term": "Sheb Wooley"
+      },
+      {
+        "term": "Sheila"
+      },
+      {
+        "term": "Shocking Blue"
+      },
+      {
+        "term": "Sleepy LaBeef"
+      },
+      {
+        "term": "Smokey Hogg"
+      },
+      {
+        "term": "Son House"
+      },
+      {
+        "term": "Sonny Burgess"
+      },
+      {
+        "term": "Sonny Burns"
+      },
+      {
+        "term": "Sonny Rollins"
+      },
+      {
+        "term": "Sophia Loren"
+      },
+      {
+        "term": "Speedy West"
+      },
+      {
+        "term": "Status Quo"
+      },
+      {
+        "term": "Steve Harley"
+      },
+      {
+        "term": "Stevie Ray Vaughan"
+      },
+      {
+        "term": "Sunny"
+      },
+      {
+        "term": "Sweet"
+      },
+      {
+        "term": "Tampa Red"
+      },
+      {
+        "term": "Ten Years After"
+      },
+      {
+        "term": "Tex Ritter"
+      },
+      {
+        "term": "The Ames Brothers"
+      },
+      {
+        "term": "The Bellamy Brothers"
+      },
+      {
+        "term": "The Blue Diamonds"
+      },
+      {
+        "term": "The Bobby Fuller Four"
+      },
+      {
+        "term": "The Boston Pops Orchestra"
+      },
+      {
+        "term": "The Box Tops"
+      },
+      {
+        "term": "The Brian Setzer Orchestra"
+      },
+      {
+        "term": "The Burnette Brothers"
+      },
+      {
+        "term": "The Chantels"
+      },
+      {
+        "term": "The Clinch Mountain Boys"
+      },
+      {
+        "term": "The Delmore Brothers"
+      },
+      {
+        "term": "The Doobie Brothers"
+      },
+      {
+        "term": "The Easy Riders"
+      },
+      {
+        "term": "The Elgins"
+      },
+      {
+        "term": "The Flairs"
+      },
+      {
+        "term": "The Fontane Sisters"
+      },
+      {
+        "term": "The Four Lads"
+      },
+      {
+        "term": "The Hitmen"
+      },
+      {
+        "term": "The Intruders"
+      },
+      {
+        "term": "The Jam"
+      },
+      {
+        "term": "The Journeymen"
+      },
+      {
+        "term": "The Kalin Twins"
+      },
+      {
+        "term": "The King Sisters"
+      },
+      {
+        "term": "The Larry Page Orchestra"
+      },
+      {
+        "term": "The Lords"
+      },
+      {
+        "term": "The Mar-Keys"
+      },
+      {
+        "term": "The Millennium"
+      },
+      {
+        "term": "The Million Dollar Quartet"
+      },
+      {
+        "term": "The Monkees"
+      },
+      {
+        "term": "The Motions"
+      },
+      {
+        "term": "The Move"
+      },
+      {
+        "term": "The Ravens"
+      },
+      {
+        "term": "The Ronettes"
+      },
+      {
+        "term": "The Searchers"
+      },
+      {
+        "term": "The Seekers"
+      },
+      {
+        "term": "The Spencer Davis Group"
+      },
+      {
+        "term": "The Spotnicks"
+      },
+      {
+        "term": "The Sunshine Company"
+      },
+      {
+        "term": "The Trashmen"
+      },
+      {
+        "term": "The Troggs"
+      },
+      {
+        "term": "The Vibrations"
+      },
+      {
+        "term": "The Walker Brothers"
+      },
+      {
+        "term": "The Wilburn Brothers"
+      },
+      {
+        "term": "Tom And Jerry"
+      },
+      {
+        "term": "Tony Christie"
+      },
+      {
+        "term": "Tony Joe White"
+      },
+      {
+        "term": "Tony Williams"
+      },
+      {
+        "term": "Vicky Leandros"
+      },
+      {
+        "term": "Volker Lechtenbrink"
+      },
+      {
+        "term": "Wally Whyton"
+      },
+      {
+        "term": "Warner Mack"
+      },
+      {
+        "term": "Wayne Cochran"
+      },
+      {
+        "term": "Webb Pierce"
+      },
+      {
+        "term": "Wilbert Harrison"
+      },
+      {
+        "term": "Willie Dixon"
+      },
+      {
+        "term": "Wings"
+      },
+      {
+        "term": "Wynn Stewart"
+      },
+      {
+        "term": "Wynonie Harris"
+      },
+      {
+        "term": "Yes"
+      },
+      {
+        "term": "Yma Sumac"
+      },
+      {
+        "term": "38 Special"
+      },
+      {
+        "term": "AC/DC"
+      },
+      {
+        "term": "Aaron Tippin"
+      },
+      {
+        "term": "Ace Cannon"
+      },
+      {
+        "term": "Adam & Eve"
+      },
+      {
+        "term": "Adrian Baker"
+      },
+      {
+        "term": "After Tea"
+      },
+      {
+        "term": "Air Supply"
+      },
+      {
+        "term": "Al Green"
+      },
+      {
+        "term": "Al Jolson"
+      },
+      {
+        "term": "Al Morgan"
+      },
+      {
+        "term": "Al Terry"
+      },
+      {
+        "term": "Alan Hull"
+      },
+      {
+        "term": "Albert Hammond"
+      },
+      {
+        "term": "Alec Wilder"
+      },
+      {
+        "term": "Alexander Vertinsky"
+      },
+      {
+        "term": "Allen Toussaint"
+      },
+      {
+        "term": "Alma Cogan"
+      },
+      {
+        "term": "Alquin"
+      },
+      {
+        "term": "Althea And Donna"
+      },
+      {
+        "term": "Alton Ellis"
+      },
+      {
+        "term": "Alvin Cash"
+      },
+      {
+        "term": "American Heartbreak"
+      },
+      {
+        "term": "Amy Grant"
+      },
+      {
+        "term": "Anders & Poncia"
+      },
+      {
+        "term": "Andrew Gold"
+      },
+      {
+        "term": "André Previn"
+      },
+      {
+        "term": "Andy Fairweather Low"
+      },
+      {
+        "term": "Andy Fisher"
+      },
+      {
+        "term": "Andy Lloyd"
+      },
+      {
+        "term": "Andy Razaf"
+      },
+      {
+        "term": "Angelika Thomas"
+      },
+      {
+        "term": "Ann Cole"
+      },
+      {
+        "term": "Ann-Louise Hanson"
+      },
+      {
+        "term": "Anna-Lena"
+      },
+      {
+        "term": "Anne Brigss"
+      },
+      {
+        "term": "Annette Hanshaw"
+      },
+      {
+        "term": "Annie Laurie"
+      },
+      {
+        "term": "Annie Marie Lewis"
+      },
+      {
+        "term": "Annie Philippe"
+      },
+      {
+        "term": "Annie Ross"
+      },
+      {
+        "term": "Anthony Perkins"
+      },
+      {
+        "term": "Anthony Ventura"
+      },
+      {
+        "term": "Any Trouble"
+      },
+      {
+        "term": "April Stevens"
+      },
+      {
+        "term": "Arthur Godfrey"
+      },
+      {
+        "term": "Arthur Gunter"
+      },
+      {
+        "term": "Arthur Prysock"
+      },
+      {
+        "term": "Arthur Schwartz"
+      },
+      {
+        "term": "Astrud Gilberto"
+      },
+      {
+        "term": "Attila Fias & The Avalon Pit Band"
+      },
+      {
+        "term": "Augie Meyers"
+      },
+      {
+        "term": "Average White Band"
+      },
+      {
+        "term": "BZN"
+      },
+      {
+        "term": "Baby Face Willette"
+      },
+      {
+        "term": "Bachman-Turner Overdrive"
+      },
+      {
+        "term": "Bacon Fat"
+      },
+      {
+        "term": "Bad Company"
+      },
+      {
+        "term": "Baker Knight"
+      },
+      {
+        "term": "Band Of The Irish Guards"
+      },
+      {
+        "term": "Bar-Kays"
+      },
+      {
+        "term": "Barbara & The Browns"
+      },
+      {
+        "term": "Barbara Dane"
+      },
+      {
+        "term": "Barbara George"
+      },
+      {
+        "term": "Barbecue Bob"
+      },
+      {
+        "term": "Barney Kessel"
+      },
+      {
+        "term": "Barry White"
+      },
+      {
+        "term": "Bea Wain"
+      },
+      {
+        "term": "Beady Eye"
+      },
+      {
+        "term": "Ben Webster"
+      },
+      {
+        "term": "Benny Carter"
+      },
+      {
+        "term": "Benny Quick"
+      },
+      {
+        "term": "Benny Spellman"
+      },
+      {
+        "term": "Bernd Spier"
+      },
+      {
+        "term": "Berry Lipman"
+      },
+      {
+        "term": "Bert Jansch"
+      },
+      {
+        "term": "Bert Varell"
+      },
+      {
+        "term": "Bertus Borgers & Sweetd'Buster"
+      },
+      {
+        "term": "Beryl Marsden"
+      },
+      {
+        "term": "Betty Grable"
+      },
+      {
+        "term": "Betty Madigan"
+      },
+      {
+        "term": "Beverly Kenney"
+      },
+      {
+        "term": "Big Al Downing"
+      },
+      {
+        "term": "Big Bob Kornegay"
+      },
+      {
+        "term": "Big Jay McNeely"
+      },
+      {
+        "term": "Big Jeff Bess"
+      },
+      {
+        "term": "Big Jim Sullivan"
+      },
+      {
+        "term": "Big Maybelle"
+      },
+      {
+        "term": "Big Youth"
+      },
+      {
+        "term": "Bill Carter"
+      },
+      {
+        "term": "Bill Clifton"
+      },
+      {
+        "term": "Bill Doggett"
+      },
+      {
+        "term": "Bill Nelson"
+      },
+      {
+        "term": "Bill Withers"
+      },
+      {
+        "term": "Billie Davis"
+      },
+      {
+        "term": "Billie Jo Spears"
+      },
+      {
+        "term": "Billy 'Boy' Arnold"
+      },
+      {
+        "term": "Billy 'The Kid' Emerson"
+      },
+      {
+        "term": "Billy Bland"
+      },
+      {
+        "term": "Billy Brown"
+      },
+      {
+        "term": "Billy Eckstine"
+      },
+      {
+        "term": "Billy Grammer"
+      },
+      {
+        "term": "Billy J. Kramer With The Dakotas"
+      },
+      {
+        "term": "Billy Jack Wills"
+      },
+      {
+        "term": "Billy Mo"
+      },
+      {
+        "term": "Billy Ocean"
+      },
+      {
+        "term": "Billy Paul"
+      },
+      {
+        "term": "Billy Sanders"
+      },
+      {
+        "term": "Billy Storm"
+      },
+      {
+        "term": "Billy Strange"
+      },
+      {
+        "term": "Billy Swan"
+      },
+      {
+        "term": "Billy Ward And His Dominoes"
+      },
+      {
+        "term": "Billy Williams"
+      },
+      {
+        "term": "Bintangs"
+      },
+      {
+        "term": "Birth Control"
+      },
+      {
+        "term": "Bix Beiderbecke"
+      },
+      {
+        "term": "Blackburn & Snow"
+      },
+      {
+        "term": "Blackfoot"
+      },
+      {
+        "term": "Blind Willie Johnson"
+      },
+      {
+        "term": "Blossom Dearie"
+      },
+      {
+        "term": "Blossom Toes"
+      },
+      {
+        "term": "Bo Carter"
+      },
+      {
+        "term": "Bob & The Bearcats"
+      },
+      {
+        "term": "Bob Gallion"
+      },
+      {
+        "term": "Bob Kirkpatrick"
+      },
+      {
+        "term": "Bob Martin"
+      },
+      {
+        "term": "Bob Und Eddy"
+      },
+      {
+        "term": "Bob Welch"
+      },
+      {
+        "term": "Bob Wilber"
+      },
+      {
+        "term": "Bob Wills"
+      },
+      {
+        "term": "Bobbejaan"
+      },
+      {
+        "term": "Bobby Barnett"
+      },
+      {
+        "term": "Bobby Charles"
+      },
+      {
+        "term": "Bobby Franco"
+      },
+      {
+        "term": "Bobby Goldsboro"
+      },
+      {
+        "term": "Bobby Gosh"
+      },
+      {
+        "term": "Bobby Hatfield"
+      },
+      {
+        "term": "Bobby Hendricks"
+      },
+      {
+        "term": "Bobby Lee Trammell"
+      },
+      {
+        "term": "Bobby Lewis"
+      },
+      {
+        "term": "Bobby Lord"
+      },
+      {
+        "term": "Bobby Marchan"
+      },
+      {
+        "term": "Bobby Mitchell"
+      },
+      {
+        "term": "Bobby Solo"
+      },
+      {
+        "term": "Bobby Whitlock"
+      },
+      {
+        "term": "Bobby Wills"
+      },
+      {
+        "term": "Bobby Womack"
+      },
+      {
+        "term": "Bojoura"
+      },
+      {
+        "term": "Bolland & Bolland"
+      },
+      {
+        "term": "Bon Jovi"
+      },
+      {
+        "term": "Bonnie Guitar"
+      },
+      {
+        "term": "Bonnie Owens"
+      },
+      {
+        "term": "Boots Randolph"
+      },
+      {
+        "term": "Boris Gardiner"
+      },
+      {
+        "term": "Boudewijn De Groot"
+      },
+      {
+        "term": "Boy Berger"
+      },
+      {
+        "term": "Boz Scaggs"
+      },
+      {
+        "term": "Bradley Kincaid"
+      },
+      {
+        "term": "Brainbox & Kaz Lux"
+      },
+      {
+        "term": "Brian May"
+      },
+      {
+        "term": "Brian Protheroe"
+      },
+      {
+        "term": "Bridget St. John"
+      },
+      {
+        "term": "Brigitte Bardot"
+      },
+      {
+        "term": "Britt Jordan"
+      },
+      {
+        "term": "Brooks O'Dell"
+      },
+      {
+        "term": "Brownsville Station"
+      },
+      {
+        "term": "Bruce Channel"
+      },
+      {
+        "term": "Bryan Adams"
+      },
+      {
+        "term": "Bryan Ferry"
+      },
+      {
+        "term": "Bud Ashton And His Group"
+      },
+      {
+        "term": "Bud Tutmarc"
+      },
+      {
+        "term": "Buddy & Ella Johnson"
+      },
+      {
+        "term": "Buddy Guy & Junior Wells"
+      },
+      {
+        "term": "Buddy Guy & Magic Sam"
+      },
+      {
+        "term": "Buddy Miller"
+      },
+      {
+        "term": "Buddy Moss"
+      },
+      {
+        "term": "Buffalo Springfield"
+      },
+      {
+        "term": "Bull Moose Jackson"
+      },
+      {
+        "term": "Burning Spear"
+      },
+      {
+        "term": "Buster Brown"
+      },
+      {
+        "term": "Buzz Clifford"
+      },
+      {
+        "term": "Byther Smith"
+      },
+      {
+        "term": "Cactus"
+      },
+      {
+        "term": "Cal Tjader"
+      },
+      {
+        "term": "Cameo"
+      },
+      {
+        "term": "Cannonball Adderley"
+      },
+      {
+        "term": "Carla Olson"
+      },
+      {
+        "term": "Carmela Corren"
+      },
+      {
+        "term": "Carmen Miranda"
+      },
+      {
+        "term": "Carol Fran"
+      },
+      {
+        "term": "Carol Woods"
+      },
+      {
+        "term": "Carolyn Franklin"
+      },
+      {
+        "term": "Carolyn Hester"
+      },
+      {
+        "term": "Cass Daley"
+      },
+      {
+        "term": "Cat Stevens"
+      },
+      {
+        "term": "Catapult"
+      },
+      {
+        "term": "Celia Cruz"
+      },
+      {
+        "term": "Central Line"
+      },
+      {
+        "term": "Champ Butler"
+      },
+      {
+        "term": "Charles Mingus"
+      },
+      {
+        "term": "Charley Jordan"
+      },
+      {
+        "term": "Charlie Barnet"
+      },
+      {
+        "term": "Charlie Chaplin"
+      },
+      {
+        "term": "Charlie Feathers"
+      },
+      {
+        "term": "Charlie Gracie"
+      },
+      {
+        "term": "Charlie Monroe"
+      },
+      {
+        "term": "Charlie Phillips"
+      },
+      {
+        "term": "Charlie Ventura"
+      },
+      {
+        "term": "Charlie Whitehead"
+      },
+      {
+        "term": "Charline Arthur"
+      },
+      {
+        "term": "Chicago"
+      },
+      {
+        "term": "Chico O'Farrill"
+      },
+      {
+        "term": "Chris Clark"
+      },
+      {
+        "term": "Chris Darrow"
+      },
+      {
+        "term": "Chris Howland"
+      },
+      {
+        "term": "Chris Rea"
+      },
+      {
+        "term": "Chris Roberts"
+      },
+      {
+        "term": "Christa Williams"
+      },
+      {
+        "term": "Chuck Higgins"
+      },
+      {
+        "term": "Cilla Black"
+      },
+      {
+        "term": "Cincinnati Pops Orchestra"
+      },
+      {
+        "term": "Clannad"
+      },
+      {
+        "term": "Clarence 'Gatemouth' Brown"
+      },
+      {
+        "term": "Clarence Hollimon"
+      },
+      {
+        "term": "Clash"
+      },
+      {
+        "term": "Claude King"
+      },
+      {
+        "term": "Claudine Longet"
+      },
+      {
+        "term": "Claus Herwig"
+      },
+      {
+        "term": "Clifford Brown"
+      },
+      {
+        "term": "Clint Eastwood"
+      },
+      {
+        "term": "Clodagh Rodgers"
+      },
+      {
+        "term": "Cockney Rebel"
+      },
+      {
+        "term": "Colin Hicks & The Cabin Boys"
+      },
+      {
+        "term": "Compay Segundo"
+      },
+      {
+        "term": "Connie Stevens"
+      },
+      {
+        "term": "Conny Quick"
+      },
+      {
+        "term": "Cornell Campbell"
+      },
+      {
+        "term": "Count Five"
+      },
+      {
+        "term": "Craig Douglas"
+      },
+      {
+        "term": "Crawford"
+      },
+      {
+        "term": "Crazy Otto"
+      },
+      {
+        "term": "Cuby+Blizzards"
+      },
+      {
+        "term": "Curt Boettcher"
+      },
+      {
+        "term": "Curtis Gordon"
+      },
+      {
+        "term": "Cy Coleman"
+      },
+      {
+        "term": "Danny B. Harvey"
+      },
+      {
+        "term": "Danny Williams"
+      },
+      {
+        "term": "Dark"
+      },
+      {
+        "term": "Darrel Higham & The Enforcers"
+      },
+      {
+        "term": "Darrell McCall"
+      },
+      {
+        "term": "Darts"
+      },
+      {
+        "term": "Dave Bartholomew"
+      },
+      {
+        "term": "Dave Berry"
+      },
+      {
+        "term": "Dave Kelly"
+      },
+      {
+        "term": "Dave King"
+      },
+      {
+        "term": "Dave Ray"
+      },
+      {
+        "term": "David Crosby"
+      },
+      {
+        "term": "David Grisman"
+      },
+      {
+        "term": "David Grisman Quintet"
+      },
+      {
+        "term": "David Lindley"
+      },
+      {
+        "term": "David Morrison"
+      },
+      {
+        "term": "De Dijk"
+      },
+      {
+        "term": "Deanna Durbin"
+      },
+      {
+        "term": "Debbie Reynolds"
+      },
+      {
+        "term": "Dee Dee Warwick"
+      },
+      {
+        "term": "Def Leppard"
+      },
+      {
+        "term": "Derrick Morgan"
+      },
+      {
+        "term": "Desert Rose Band"
+      },
+      {
+        "term": "Detlef Engel"
+      },
+      {
+        "term": "Detroit Junior"
+      },
+      {
+        "term": "Dexter Gordon"
+      },
+      {
+        "term": "Dexys Midnight Runners"
+      },
+      {
+        "term": "Diana Dors"
+      },
+      {
+        "term": "Dick & Dee Dee"
+      },
+      {
+        "term": "Dick Brave & The Backbeats"
+      },
+      {
+        "term": "Dick Dale And His Del-Tones"
+      },
+      {
+        "term": "Dick Damron"
+      },
+      {
+        "term": "Dick Farney"
+      },
+      {
+        "term": "Dick Glasser"
+      },
+      {
+        "term": "Dick Hyman"
+      },
+      {
+        "term": "Dickey Lee"
+      },
+      {
+        "term": "Dickie Bishop"
+      },
+      {
+        "term": "Dickie Pride"
+      },
+      {
+        "term": "Die 3 Travellers"
+      },
+      {
+        "term": "Die Flippers"
+      },
+      {
+        "term": "Die Javalins"
+      },
+      {
+        "term": "Die Kettels"
+      },
+      {
+        "term": "Die Missouris"
+      },
+      {
+        "term": "Die Montecarlos"
+      },
+      {
+        "term": "Die Mustangs Mit Udo Lindenberg"
+      },
+      {
+        "term": "Die Nilsen Brothers"
+      },
+      {
+        "term": "Die Nordwinds"
+      },
+      {
+        "term": "Die Peanuts"
+      },
+      {
+        "term": "Die Rattles"
+      },
+      {
+        "term": "Die Teddies"
+      },
+      {
+        "term": "Dion 'N' Little Kings"
+      },
+      {
+        "term": "Dire Straits"
+      },
+      {
+        "term": "Dizzy Man's Band"
+      },
+      {
+        "term": "Doc Bagby"
+      },
+      {
+        "term": "Doc Watson"
+      },
+      {
+        "term": "Doctor Hook And The Medicine Show"
+      },
+      {
+        "term": "Dodie Stevens"
+      },
+      {
+        "term": "Doe Maar"
+      },
+      {
+        "term": "Dollar"
+      },
+      {
+        "term": "Don & Juan"
+      },
+      {
+        "term": "Don Byas"
+      },
+      {
+        "term": "Don Cornell"
+      },
+      {
+        "term": "Don Covay"
+      },
+      {
+        "term": "Don Lang"
+      },
+      {
+        "term": "Don Lusher"
+      },
+      {
+        "term": "Don Robertson"
+      },
+      {
+        "term": "Don Rondo"
+      },
+      {
+        "term": "Don Williams"
+      },
+      {
+        "term": "Donald Byrd"
+      },
+      {
+        "term": "Dooley Silverspoon"
+      },
+      {
+        "term": "Doris Allen"
+      },
+      {
+        "term": "Dorothy Collins"
+      },
+      {
+        "term": "Dorothy Squires"
+      },
+      {
+        "term": "Dottie West"
+      },
+      {
+        "term": "Doug Sahm"
+      },
+      {
+        "term": "Doug Sahm & Friends"
+      },
+      {
+        "term": "Doug Sheldon"
+      },
+      {
+        "term": "Dr. Feelgood"
+      },
+      {
+        "term": "Drukwerk"
+      },
+      {
+        "term": "Duncan Browne"
+      },
+      {
+        "term": "Dutch Swing College Band"
+      },
+      {
+        "term": "Dwight Twilley"
+      },
+      {
+        "term": "Eagles"
+      },
+      {
+        "term": "Earl Grant"
+      },
+      {
+        "term": "Earth And Fire"
+      },
+      {
+        "term": "Earth Wind & Fire"
+      },
+      {
+        "term": "Eath"
+      },
+      {
+        "term": "Echo & The Bunnymen"
+      },
+      {
+        "term": "Ed Bruce"
+      },
+      {
+        "term": "Ed Townsend"
+      },
+      {
+        "term": "Edd 'Kookie' Byrnes"
+      },
+      {
+        "term": "Eddie & Ernie"
+      },
+      {
+        "term": "Eddie 'Cleanhead' Vinson"
+      },
+      {
+        "term": "Eddie 'Guitar' Burns"
+      },
+      {
+        "term": "Eddie Bo"
+      },
+      {
+        "term": "Eddie Bond"
+      },
+      {
+        "term": "Eddie Cantor"
+      },
+      {
+        "term": "Eddie Holland"
+      },
+      {
+        "term": "Eddie Noack"
+      },
+      {
+        "term": "Eddie Vedder And Beck"
+      },
+      {
+        "term": "Eddie Wilson"
+      },
+      {
+        "term": "Eden Ahbez"
+      },
+      {
+        "term": "Edmond Hall"
+      },
+      {
+        "term": "Edna McGriff"
+      },
+      {
+        "term": "Eileen Barton"
+      },
+      {
+        "term": "Eileen Rodgers"
+      },
+      {
+        "term": "Ekseption"
+      },
+      {
+        "term": "Electra"
+      },
+      {
+        "term": "Elton Britt"
+      },
+      {
+        "term": "Engelbert Humperdinck"
+      },
+      {
+        "term": "England Dan & John Ford Coley"
+      },
+      {
+        "term": "Enoch Light"
+      },
+      {
+        "term": "Ernestine Anderson"
+      },
+      {
+        "term": "Erni Bieler"
+      },
+      {
+        "term": "Ernie Freeman"
+      },
+      {
+        "term": "Ernie K-Doe"
+      },
+      {
+        "term": "Ernie Maresca"
+      },
+      {
+        "term": "Errol Garner"
+      },
+      {
+        "term": "Erwin Halletz"
+      },
+      {
+        "term": "Esquerita"
+      },
+      {
+        "term": "Ethel Waters"
+      },
+      {
+        "term": "Eva May"
+      },
+      {
+        "term": "Eve Young"
+      },
+      {
+        "term": "Evelyn Künneke"
+      },
+      {
+        "term": "Exile"
+      },
+      {
+        "term": "Faces"
+      },
+      {
+        "term": "Fanny Brice"
+      },
+      {
+        "term": "Faye Adams"
+      },
+      {
+        "term": "Flavium"
+      },
+      {
+        "term": "Floyd Robinson"
+      },
+      {
+        "term": "Floyd Tillman"
+      },
+      {
+        "term": "Fontella Bass"
+      },
+      {
+        "term": "Francis Goya"
+      },
+      {
+        "term": "Franck Pourcel"
+      },
+      {
+        "term": "Frank Boeijen Groep"
+      },
+      {
+        "term": "Frank Forster"
+      },
+      {
+        "term": "Frank Loesser"
+      },
+      {
+        "term": "Frank Marino"
+      },
+      {
+        "term": "Frank Mills"
+      },
+      {
+        "term": "Frank Valdor"
+      },
+      {
+        "term": "Frankie Carle"
+      },
+      {
+        "term": "Frankie Lee Sims"
+      },
+      {
+        "term": "Frankie Miller"
+      },
+      {
+        "term": "Franz Grothe"
+      },
+      {
+        "term": "Franzl Lang"
+      },
+      {
+        "term": "Fred Bertelmann"
+      },
+      {
+        "term": "Fred Kinglee & Die King-Kols"
+      },
+      {
+        "term": "Fred Neil"
+      },
+      {
+        "term": "Freddie & The Dreamers"
+      },
+      {
+        "term": "Freddie Bell & The Bell Boys"
+      },
+      {
+        "term": "Freddie Bell & The Bellboys"
+      },
+      {
+        "term": "Freddie Hart"
+      },
+      {
+        "term": "Freddie Scott"
+      },
+      {
+        "term": "Free"
+      },
+      {
+        "term": "Friedel Hensch & Die Cyprys"
+      },
+      {
+        "term": "Frl. Menke"
+      },
+      {
+        "term": "Gabriel"
+      },
+      {
+        "term": "Garrett Lund"
+      },
+      {
+        "term": "Garry Mills"
+      },
+      {
+        "term": "Gary Stewart"
+      },
+      {
+        "term": "Gary Williams"
+      },
+      {
+        "term": "Gatemouth Moore"
+      },
+      {
+        "term": "Gene Chandler"
+      },
+      {
+        "term": "Gene Clark"
+      },
+      {
+        "term": "Geno Washington"
+      },
+      {
+        "term": "George 'Harmonica' Smith"
+      },
+      {
+        "term": "George And Earl"
+      },
+      {
+        "term": "George Baker Selection"
+      },
+      {
+        "term": "George Feyer"
+      },
+      {
+        "term": "George Smith"
+      },
+      {
+        "term": "George Thorogood"
+      },
+      {
+        "term": "Georges Jouvin"
+      },
+      {
+        "term": "Georgie Fame"
+      },
+      {
+        "term": "Gerhard Heinz"
+      },
+      {
+        "term": "German Blue Flames"
+      },
+      {
+        "term": "Gerry And The Pacemakers"
+      },
+      {
+        "term": "Gert Wilden"
+      },
+      {
+        "term": "Gigi & The Charmains"
+      },
+      {
+        "term": "Ginny Simms"
+      },
+      {
+        "term": "Ginny Wright"
+      },
+      {
+        "term": "Gipsy Kings"
+      },
+      {
+        "term": "Gitte Hænning"
+      },
+      {
+        "term": "Glen Glenn"
+      },
+      {
+        "term": "Glen Gray"
+      },
+      {
+        "term": "Glenda Collins"
+      },
+      {
+        "term": "Glenn Hughes"
+      },
+      {
+        "term": "Glenn Reeves"
+      },
+      {
+        "term": "Gogi Grant"
+      },
+      {
+        "term": "Golden Earrings"
+      },
+      {
+        "term": "Goldy & Peter De Vries"
+      },
+      {
+        "term": "Gone Hepsville"
+      },
+      {
+        "term": "Gordon Lightfoot"
+      },
+      {
+        "term": "Gordon MacRae"
+      },
+      {
+        "term": "Gordon Matthew Thomas Sumner"
+      },
+      {
+        "term": "Goree Carter"
+      },
+      {
+        "term": "Grady Martin And The Slew Foot Five"
+      },
+      {
+        "term": "Grant Green"
+      },
+      {
+        "term": "Greenfield & Cook"
+      },
+      {
+        "term": "Greetje Kauffeld"
+      },
+      {
+        "term": "Greg Lake"
+      },
+      {
+        "term": "Gregory Isaacs"
+      },
+      {
+        "term": "Groep 1850"
+      },
+      {
+        "term": "Gruppo Sportivo"
+      },
+      {
+        "term": "Guitar Slim"
+      },
+      {
+        "term": "Gus Jenkins"
+      },
+      {
+        "term": "Hadda Brooks"
+      },
+      {
+        "term": "Hank Ballard"
+      },
+      {
+        "term": "Hank Cochran"
+      },
+      {
+        "term": "Hank Mobley"
+      },
+      {
+        "term": "Hank Penny"
+      },
+      {
+        "term": "Hank The Knife And The Jets"
+      },
+      {
+        "term": "Hank Williams Jr"
+      },
+      {
+        "term": "Hannelore Cremer"
+      },
+      {
+        "term": "Hans Albers"
+      },
+      {
+        "term": "Hans-Jürgen Bäumler"
+      },
+      {
+        "term": "Hans-Martin Majewski"
+      },
+      {
+        "term": "Happy Hate Me Nots"
+      },
+      {
+        "term": "Harald Juhnke"
+      },
+      {
+        "term": "Harold Mabern"
+      },
+      {
+        "term": "Harold Melvin & The Blue Notes"
+      },
+      {
+        "term": "Harry Warren"
+      },
+      {
+        "term": "Hartmut"
+      },
+      {
+        "term": "Hayley Mills"
+      },
+      {
+        "term": "Hazel Scott"
+      },
+      {
+        "term": "Hazy Osterwald Sextett"
+      },
+      {
+        "term": "Heatwave"
+      },
+      {
+        "term": "Hedy West"
+      },
+      {
+        "term": "Helen Humes"
+      },
+      {
+        "term": "Helen O’Connell"
+      },
+      {
+        "term": "Helmut Zacharias"
+      },
+      {
+        "term": "Henri René"
+      },
+      {
+        "term": "Henry Earl Sinks"
+      },
+      {
+        "term": "Henry Gray"
+      },
+      {
+        "term": "Henry Jerome"
+      },
+      {
+        "term": "Henry Junjo Lawes"
+      },
+      {
+        "term": "Herb Alpert"
+      },
+      {
+        "term": "Herbie Hancock"
+      },
+      {
+        "term": "Herbie Mann"
+      },
+      {
+        "term": "Herman Brood & His Wild Romance"
+      },
+      {
+        "term": "Het Goede Doel"
+      },
+      {
+        "term": "Hickory Wind"
+      },
+      {
+        "term": "Hodges"
+      },
+      {
+        "term": "Holland-Dozier"
+      },
+      {
+        "term": "Homer & Jethro"
+      },
+      {
+        "term": "Honey Twins"
+      },
+      {
+        "term": "Horst Jankowski"
+      },
+      {
+        "term": "Horst Winter"
+      },
+      {
+        "term": "Hot Chocolate"
+      },
+      {
+        "term": "Houston Wells"
+      },
+      {
+        "term": "Howard Carpendale"
+      },
+      {
+        "term": "Howard Keel"
+      },
+      {
+        "term": "Hugo Montenegro"
+      },
+      {
+        "term": "Hula Hawaiians"
+      },
+      {
+        "term": "Ike Quebec"
+      },
+      {
+        "term": "Ilja Glusgal"
+      },
+      {
+        "term": "Illo Schieder"
+      },
+      {
+        "term": "Irving Berlin"
+      },
+      {
+        "term": "Ivie Anderson"
+      },
+      {
+        "term": "Ivory Joe Hunter"
+      },
+      {
+        "term": "J.B. Lenoir"
+      },
+      {
+        "term": "Jack Bradshaw"
+      },
+      {
+        "term": "Jack Jersey"
+      },
+      {
+        "term": "Jack Parnell"
+      },
+      {
+        "term": "Jackie Davis"
+      },
+      {
+        "term": "Jackie Edwards"
+      },
+      {
+        "term": "Jackson Browne"
+      },
+      {
+        "term": "Jacob Do Bandolim"
+      },
+      {
+        "term": "Jacqueline Boyer"
+      },
+      {
+        "term": "Jacques Brel"
+      },
+      {
+        "term": "Jamaica Johnny & His Milagro Boys"
+      },
+      {
+        "term": "James"
+      },
+      {
+        "term": "James 'Sugar Boy' Crawford"
+      },
+      {
+        "term": "James Brothers"
+      },
+      {
+        "term": "James Burton"
+      },
+      {
+        "term": "James Carr"
+      },
+      {
+        "term": "James Cotton"
+      },
+      {
+        "term": "James Darren"
+      },
+      {
+        "term": "James Gang"
+      },
+      {
+        "term": "James Ray"
+      },
+      {
+        "term": "James Taylor"
+      },
+      {
+        "term": "James Van Heusen"
+      },
+      {
+        "term": "Jamie Coe"
+      },
+      {
+        "term": "Jan Akkerman"
+      },
+      {
+        "term": "Jan Howard"
+      },
+      {
+        "term": "Jan Savitt"
+      },
+      {
+        "term": "Jane Froman"
+      },
+      {
+        "term": "Jane Morgan"
+      },
+      {
+        "term": "Jane Relf"
+      },
+      {
+        "term": "Jane's Addiction"
+      },
+      {
+        "term": "Jay & The Techniques"
+      },
+      {
+        "term": "Jay McShann"
+      },
+      {
+        "term": "Jay McShann & Priscilla Bowman"
+      },
+      {
+        "term": "Jaye P. Morgan"
+      },
+      {
+        "term": "Jazz"
+      },
+      {
+        "term": "Jazz Gillum"
+      },
+      {
+        "term": "Jean Calder"
+      },
+      {
+        "term": "Jean Paul & Angelique"
+      },
+      {
+        "term": "Jeanette MacDonald"
+      },
+      {
+        "term": "Jeanne Black"
+      },
+      {
+        "term": "Jeannie C. Riley"
+      },
+      {
+        "term": "Jelly Roll Morton"
+      },
+      {
+        "term": "Jerry Cole"
+      },
+      {
+        "term": "Jerry Colonna"
+      },
+      {
+        "term": "Jerry Fielding"
+      },
+      {
+        "term": "Jerry Lordan"
+      },
+      {
+        "term": "Jerry Wallace"
+      },
+      {
+        "term": "Jess Conrad"
+      },
+      {
+        "term": "Jess Willard"
+      },
+      {
+        "term": "Jesse Lee Turner"
+      },
+      {
+        "term": "Jesse Stone"
+      },
+      {
+        "term": "Jesse Winchester"
+      },
+      {
+        "term": "Jet Harris & Tony Meehan"
+      },
+      {
+        "term": "Jim Dale"
+      },
+      {
+        "term": "Jim Hall"
+      },
+      {
+        "term": "Jim Lowe"
+      },
+      {
+        "term": "Jimmie Davis"
+      },
+      {
+        "term": "Jimmie Dolan"
+      },
+      {
+        "term": "Jimmie Driftwood"
+      },
+      {
+        "term": "Jimmie Lunceford"
+      },
+      {
+        "term": "Jimmie Skinner"
+      },
+      {
+        "term": "Jimmy 'Orion' Ellis"
+      },
+      {
+        "term": "Jimmy Boyd"
+      },
+      {
+        "term": "Jimmy Browen"
+      },
+      {
+        "term": "Jimmy C. Newman"
+      },
+      {
+        "term": "Jimmy Cavallo"
+      },
+      {
+        "term": "Jimmy Clanton"
+      },
+      {
+        "term": "Jimmy Day"
+      },
+      {
+        "term": "Jimmy Dean"
+      },
+      {
+        "term": "Jimmy Donley"
+      },
+      {
+        "term": "Jimmy Edwards"
+      },
+      {
+        "term": "Jimmy Ellis"
+      },
+      {
+        "term": "Jimmy Gilmer"
+      },
+      {
+        "term": "Jimmy Holiday"
+      },
+      {
+        "term": "Jimmy Hughes"
+      },
+      {
+        "term": "Jimmy Jones"
+      },
+      {
+        "term": "Jimmy Justice"
+      },
+      {
+        "term": "Jimmy Liggins"
+      },
+      {
+        "term": "Jimmy Nolen"
+      },
+      {
+        "term": "Jimmy Rushing"
+      },
+      {
+        "term": "Jimmy Shand"
+      },
+      {
+        "term": "Jimmy Smith"
+      },
+      {
+        "term": "Jimmy Spellman"
+      },
+      {
+        "term": "Jimmy Witherspoon"
+      },
+      {
+        "term": "Jimmy Work"
+      },
+      {
+        "term": "Jo Ann Greer"
+      },
+      {
+        "term": "Jo Jo Benson"
+      },
+      {
+        "term": "Jo Jones"
+      },
+      {
+        "term": "Jodie Sands"
+      },
+      {
+        "term": "Joe Bennett & The Sparkletones"
+      },
+      {
+        "term": "Joe Carson"
+      },
+      {
+        "term": "Joe Dassin"
+      },
+      {
+        "term": "Joe Dolan"
+      },
+      {
+        "term": "Joe Dolan And The Drifters Showband"
+      },
+      {
+        "term": "Joe Ely"
+      },
+      {
+        "term": "Joe Hill Louis"
+      },
+      {
+        "term": "Joe Liggins And His Honeydrippers"
+      },
+      {
+        "term": "Joe Melson"
+      },
+      {
+        "term": "Joe South"
+      },
+      {
+        "term": "Joe Tex"
+      },
+      {
+        "term": "Johannes Heesters"
+      },
+      {
+        "term": "John Anderson"
+      },
+      {
+        "term": "John Brim"
+      },
+      {
+        "term": "John Buck & The Blazers"
+      },
+      {
+        "term": "John Fahey"
+      },
+      {
+        "term": "John Hartford"
+      },
+      {
+        "term": "John Peel"
+      },
+      {
+        "term": "John Renbourn"
+      },
+      {
+        "term": "John Schroeder"
+      },
+      {
+        "term": "John Tennent"
+      },
+      {
+        "term": "John Wayne"
+      },
+      {
+        "term": "John Williams"
+      },
+      {
+        "term": "Johnnie & Jack"
+      },
+      {
+        "term": "Johnnie And Jack"
+      },
+      {
+        "term": "Johnnie Lee Wills"
+      },
+      {
+        "term": "Johnny Adams"
+      },
+      {
+        "term": "Johnny And The Moondogs"
+      },
+      {
+        "term": "Johnny Bond"
+      },
+      {
+        "term": "Johnny Burnette Trio"
+      },
+      {
+        "term": "Johnny Copeland"
+      },
+      {
+        "term": "Johnny Crawford"
+      },
+      {
+        "term": "Johnny Cymbal"
+      },
+      {
+        "term": "Johnny Depp"
+      },
+      {
+        "term": "Johnny Desmond"
+      },
+      {
+        "term": "Johnny Devlin"
+      },
+      {
+        "term": "Johnny Douglas"
+      },
+      {
+        "term": "Johnny Fuller"
+      },
+      {
+        "term": "Johnny Hallyday"
+      },
+      {
+        "term": "Johnny Hartman"
+      },
+      {
+        "term": "Johnny Johnson & The Bandwagon"
+      },
+      {
+        "term": "Johnny Kendall"
+      },
+      {
+        "term": "Johnny Kidd & The Pirates"
+      },
+      {
+        "term": "Johnny Moore"
+      },
+      {
+        "term": "Johnny Nash"
+      },
+      {
+        "term": "Johnny Otis & Friends"
+      },
+      {
+        "term": "Johnny Pearson"
+      },
+      {
+        "term": "Johnny Restivo"
+      },
+      {
+        "term": "Johnny Seay"
+      },
+      {
+        "term": "Johnny Temple"
+      },
+      {
+        "term": "Johnny Western"
+      },
+      {
+        "term": "Jon Hendricks"
+      },
+      {
+        "term": "Joni Mitchell"
+      },
+      {
+        "term": "Josef Locke"
+      },
+      {
+        "term": "Josh White"
+      },
+      {
+        "term": "Joséphine Baker"
+      },
+      {
+        "term": "Judy Collins"
+      },
+      {
+        "term": "Judy Henske"
+      },
+      {
+        "term": "Judy Holliday"
+      },
+      {
+        "term": "Jula De Palma"
+      },
+      {
+        "term": "Juliane Werding"
+      },
+      {
+        "term": "Julie Andrews"
+      },
+      {
+        "term": "Julie Covington"
+      },
+      {
+        "term": "Julie Grant"
+      },
+      {
+        "term": "Julio Iglesias"
+      },
+      {
+        "term": "Julius La Rosa"
+      },
+      {
+        "term": "June Valli"
+      },
+      {
+        "term": "Justin Hinds & The Dominoes"
+      },
+      {
+        "term": "Justin Johnson"
+      },
+      {
+        "term": "Jørgen Ingmann"
+      },
+      {
+        "term": "Jürgen Drews"
+      },
+      {
+        "term": "K.T. Oslin"
+      },
+      {
+        "term": "KC & The Sunshine Band"
+      },
+      {
+        "term": "Kadanz"
+      },
+      {
+        "term": "Kai Warner"
+      },
+      {
+        "term": "Karen Chandler"
+      },
+      {
+        "term": "Karl-Heinz Bender"
+      },
+      {
+        "term": "Kathy Mattea"
+      },
+      {
+        "term": "Kayak"
+      },
+      {
+        "term": "Keith Allison"
+      },
+      {
+        "term": "Keith Whitley"
+      },
+      {
+        "term": "Ken Dodd"
+      },
+      {
+        "term": "Ken Griffin"
+      },
+      {
+        "term": "Kenneth Spencer"
+      },
+      {
+        "term": "Kenny Baker"
+      },
+      {
+        "term": "Kenny Dorham"
+      },
+      {
+        "term": "Kenny Lynch"
+      },
+      {
+        "term": "Kenny Roberts"
+      },
+      {
+        "term": "Ketty Lester"
+      },
+      {
+        "term": "Kid Thomas"
+      },
+      {
+        "term": "Kim Carmel"
+      },
+      {
+        "term": "King Size Taylor"
+      },
+      {
+        "term": "Kirsten Heiberg"
+      },
+      {
+        "term": "Kirsti"
+      },
+      {
+        "term": "Kitty Kallen"
+      },
+      {
+        "term": "Klaus 'Major' Heuser"
+      },
+      {
+        "term": "Klein Orkest"
+      },
+      {
+        "term": "Knut & Sigrun Kiesewetter"
+      },
+      {
+        "term": "Kokomo Arnold"
+      },
+      {
+        "term": "Kylie Minogue"
+      },
+      {
+        "term": "Larry Finnegan"
+      },
+      {
+        "term": "Larry Hall"
+      },
+      {
+        "term": "Larry Johnson"
+      },
+      {
+        "term": "Latin"
+      },
+      {
+        "term": "Laura Lee Perkins"
+      },
+      {
+        "term": "Laura Nyro"
+      },
+      {
+        "term": "Lead Belly"
+      },
+      {
+        "term": "Leadbelly"
+      },
+      {
+        "term": "Lee 'Scratch' Perry"
+      },
+      {
+        "term": "Lee Bowman"
+      },
+      {
+        "term": "Lee Emerson"
+      },
+      {
+        "term": "Lee Morgan"
+      },
+      {
+        "term": "Lee Towers"
+      },
+      {
+        "term": "Lee Wiley"
+      },
+      {
+        "term": "Lena Horne"
+      },
+      {
+        "term": "Lenny Dee"
+      },
+      {
+        "term": "Leon Russell"
+      },
+      {
+        "term": "Leona Williams"
+      },
+      {
+        "term": "Leroy Carr"
+      },
+      {
+        "term": "Leroy Pullins"
+      },
+      {
+        "term": "Les Baroques"
+      },
+      {
+        "term": "Les Baxter"
+      },
+      {
+        "term": "Les Brown"
+      },
+      {
+        "term": "Les Chaussettes Noires"
+      },
+      {
+        "term": "Les Guitares Du Diable"
+      },
+      {
+        "term": "Les Paul"
+      },
+      {
+        "term": "Les Paul & Friends"
+      },
+      {
+        "term": "Les Paul & Mary Ford"
+      },
+      {
+        "term": "Les Wilson"
+      },
+      {
+        "term": "Li'l Son Jackson"
+      },
+      {
+        "term": "Liane Augustin"
+      },
+      {
+        "term": "Lill Babs"
+      },
+      {
+        "term": "Lillian Briggs"
+      },
+      {
+        "term": "Linda Hopkins"
+      },
+      {
+        "term": "Linkin' Louisiana Peps & Blues Quality"
+      },
+      {
+        "term": "Linval Thompson"
+      },
+      {
+        "term": "Lita Roza"
+      },
+      {
+        "term": "Little Ann"
+      },
+      {
+        "term": "Little Anthony & The Imperials"
+      },
+      {
+        "term": "Little Eva"
+      },
+      {
+        "term": "Little Georgie & The Shuffling Hungarians"
+      },
+      {
+        "term": "Little Joe Cook"
+      },
+      {
+        "term": "Little Milton"
+      },
+      {
+        "term": "Liverpool Echo"
+      },
+      {
+        "term": "Living The Blues"
+      },
+      {
+        "term": "Long Tall Ernie & The Shakers"
+      },
+      {
+        "term": "Lonnie Johnson"
+      },
+      {
+        "term": "Lorrie Morgan"
+      },
+      {
+        "term": "Lou Van Burg"
+      },
+      {
+        "term": "Louise Cordet"
+      },
+      {
+        "term": "Lucifer & Margriet Eshuijs Band"
+      },
+      {
+        "term": "Lucky Millinder And His Orchestra"
+      },
+      {
+        "term": "Lucy Ann Polk"
+      },
+      {
+        "term": "Luke Simmons"
+      },
+      {
+        "term": "Lula Reed"
+      },
+      {
+        "term": "Maddox Brothers And Rose"
+      },
+      {
+        "term": "Magna Carta"
+      },
+      {
+        "term": "Major Lance"
+      },
+      {
+        "term": "Mal Sondock"
+      },
+      {
+        "term": "Malcolm Roberts"
+      },
+      {
+        "term": "Manfred Mann's Earth Band"
+      },
+      {
+        "term": "Marc Williams"
+      },
+      {
+        "term": "Margie Rayburn"
+      },
+      {
+        "term": "Margrit Imlau"
+      },
+      {
+        "term": "Maria & Franco Duval"
+      },
+      {
+        "term": "Maria Mucke"
+      },
+      {
+        "term": "Maria Von Schmedes"
+      },
+      {
+        "term": "Marie Fredriksson"
+      },
+      {
+        "term": "Marie Knight"
+      },
+      {
+        "term": "Marika Kilius"
+      },
+      {
+        "term": "Marika Rökk"
+      },
+      {
+        "term": "Marion Maerz"
+      },
+      {
+        "term": "Marion Ryan"
+      },
+      {
+        "term": "Mark Dinning"
+      },
+      {
+        "term": "Mark Knopfler"
+      },
+      {
+        "term": "Mark Mills"
+      },
+      {
+        "term": "Mark Murphy"
+      },
+      {
+        "term": "Mark Wynter"
+      },
+      {
+        "term": "Marlene Dietrich"
+      },
+      {
+        "term": "Martha Davis & Spouse"
+      },
+      {
+        "term": "Martha Tilton"
+      },
+      {
+        "term": "Martin Böttcher"
+      },
+      {
+        "term": "Martin Denny"
+      },
+      {
+        "term": "Martin Lauer"
+      },
+      {
+        "term": "Martin Rushent"
+      },
+      {
+        "term": "Marv Johnson"
+      },
+      {
+        "term": "Mary Martin"
+      },
+      {
+        "term": "Mary Roos"
+      },
+      {
+        "term": "Mary Small"
+      },
+      {
+        "term": "Massada"
+      },
+      {
+        "term": "Massive Hits"
+      },
+      {
+        "term": "Matt Monro"
+      },
+      {
+        "term": "Matthew & Gunnar Nelson"
+      },
+      {
+        "term": "Maureen Evans"
+      },
+      {
+        "term": "Max Bygraves"
+      },
+      {
+        "term": "Max Romeo"
+      },
+      {
+        "term": "Maxine Brown"
+      },
+      {
+        "term": "Maxwell Davis"
+      },
+      {
+        "term": "Maywood"
+      },
+      {
+        "term": "Medium Terzett"
+      },
+      {
+        "term": "Melanie"
+      },
+      {
+        "term": "Melvin Endsley"
+      },
+      {
+        "term": "Merv Griffin"
+      },
+      {
+        "term": "Michael Chapman"
+      },
+      {
+        "term": "Michael Holliday"
+      },
+      {
+        "term": "Michael Jackson"
+      },
+      {
+        "term": "Michael McDonald"
+      },
+      {
+        "term": "Mick Jagger"
+      },
+      {
+        "term": "Mick Taylor"
+      },
+      {
+        "term": "Micke Muster"
+      },
+      {
+        "term": "Mickey & Sylvia"
+      },
+      {
+        "term": "Mickie Most"
+      },
+      {
+        "term": "Middle Of The Road"
+      },
+      {
+        "term": "Mieke Telkamp"
+      },
+      {
+        "term": "Mike Clifford"
+      },
+      {
+        "term": "Mike Cotton"
+      },
+      {
+        "term": "Mildred Bailey"
+      },
+      {
+        "term": "Milt Buckner"
+      },
+      {
+        "term": "Mimi Roman"
+      },
+      {
+        "term": "Mina"
+      },
+      {
+        "term": "Minnie Pearl"
+      },
+      {
+        "term": "Mireille Mathieu"
+      },
+      {
+        "term": "Miss Toni Fisher"
+      },
+      {
+        "term": "Mississippi Fred McDowell"
+      },
+      {
+        "term": "Mississippi Sheiks"
+      },
+      {
+        "term": "Modern Jazz Quartet"
+      },
+      {
+        "term": "Molly O'Day"
+      },
+      {
+        "term": "Morris Stoloff"
+      },
+      {
+        "term": "Morrissey"
+      },
+      {
+        "term": "Mungo Jerry"
+      },
+      {
+        "term": "Musikanten Quartett"
+      },
+      {
+        "term": "Myrna Lorrie"
+      },
+      {
+        "term": "Nancy Wilson"
+      },
+      {
+        "term": "Nappy Brown"
+      },
+      {
+        "term": "Narvel Felts"
+      },
+      {
+        "term": "Natalie Cole"
+      },
+      {
+        "term": "Nazareth"
+      },
+      {
+        "term": "New Adventures"
+      },
+      {
+        "term": "New Barbarians"
+      },
+      {
+        "term": "New Sun Pops Orchestra"
+      },
+      {
+        "term": "New World"
+      },
+      {
+        "term": "Nick Cave"
+      },
+      {
+        "term": "Nick Lowe"
+      },
+      {
+        "term": "Nick Noble"
+      },
+      {
+        "term": "Nits"
+      },
+      {
+        "term": "Norma Jean"
+      },
+      {
+        "term": "Normaal"
+      },
+      {
+        "term": "Norman Candler"
+      },
+      {
+        "term": "Norman Wisdom"
+      },
+      {
+        "term": "Noël Coward"
+      },
+      {
+        "term": "O.C. Tolbert"
+      },
+      {
+        "term": "Oasis"
+      },
+      {
+        "term": "Odetta"
+      },
+      {
+        "term": "Ol' 55"
+      },
+      {
+        "term": "Old Merry Tale Jazzband"
+      },
+      {
+        "term": "Olivia Newton-John"
+      },
+      {
+        "term": "Onesko Bogert Ceo Project"
+      },
+      {
+        "term": "Orval Prophet"
+      },
+      {
+        "term": "Oscar Benton"
+      },
+      {
+        "term": "Oscar Brand"
+      },
+      {
+        "term": "Oscar McLollie"
+      },
+      {
+        "term": "Oscar Toney Jr."
+      },
+      {
+        "term": "Otis Clyde"
+      },
+      {
+        "term": "Otis Spann"
+      },
+      {
+        "term": "Otis Williams"
+      },
+      {
+        "term": "Ottilie Patterson"
+      },
+      {
+        "term": "Ougenweide"
+      },
+      {
+        "term": "Owen Gray"
+      },
+      {
+        "term": "P. J. Proby"
+      },
+      {
+        "term": "Paddy Roberts"
+      },
+      {
+        "term": "Pam Tillis"
+      },
+      {
+        "term": "Pat Longo Super Big Band"
+      },
+      {
+        "term": "Patience And Prudence"
+      },
+      {
+        "term": "Patrice Holloway"
+      },
+      {
+        "term": "Patricia Paay"
+      },
+      {
+        "term": "Paul Evans"
+      },
+      {
+        "term": "Paul Kelly"
+      },
+      {
+        "term": "Paul Kossoff"
+      },
+      {
+        "term": "Paul Petersen"
+      },
+      {
+        "term": "Paul Simon & Art Garfunkel"
+      },
+      {
+        "term": "Paul Weller"
+      },
+      {
+        "term": "Pearl Bailey"
+      },
+      {
+        "term": "Peggy Brown"
+      },
+      {
+        "term": "Peggy King"
+      },
+      {
+        "term": "Peggy Lipton"
+      },
+      {
+        "term": "Peggy Scott"
+      },
+      {
+        "term": "Pentangle"
+      },
+      {
+        "term": "Peppermint Harris"
+      },
+      {
+        "term": "Percy Faith"
+      },
+      {
+        "term": "Percy Mayfield"
+      },
+      {
+        "term": "Pete Haycock"
+      },
+      {
+        "term": "Pete Lancaster"
+      },
+      {
+        "term": "Peter Beil"
+      },
+      {
+        "term": "Peter Frampton"
+      },
+      {
+        "term": "Peter Green"
+      },
+      {
+        "term": "Peter Hinnen"
+      },
+      {
+        "term": "Peter Koelewijn"
+      },
+      {
+        "term": "Peter Reese & The Pages"
+      },
+      {
+        "term": "Peter Sandloff"
+      },
+      {
+        "term": "Peter Steffen"
+      },
+      {
+        "term": "Peter Ustinov"
+      },
+      {
+        "term": "Phil Collins"
+      },
+      {
+        "term": "Phil Spector & The Teddy Bears"
+      },
+      {
+        "term": "Phyllis Dillon"
+      },
+      {
+        "term": "Piano Red Aka Dr. Feelgood"
+      },
+      {
+        "term": "Picadilly Line"
+      },
+      {
+        "term": "Pinetop Perkins"
+      },
+      {
+        "term": "Pirko Manola Und Wyn Hoop"
+      },
+      {
+        "term": "Placido Domingo"
+      },
+      {
+        "term": "Poco"
+      },
+      {
+        "term": "Poison Gardner"
+      },
+      {
+        "term": "Polly Bergen"
+      },
+      {
+        "term": "Poor Things"
+      },
+      {
+        "term": "Powder"
+      },
+      {
+        "term": "Powerplay"
+      },
+      {
+        "term": "Preston Epps"
+      },
+      {
+        "term": "Pretenders"
+      },
+      {
+        "term": "Priscilla Paris"
+      },
+      {
+        "term": "Procol Harum"
+      },
+      {
+        "term": "Pussycat"
+      },
+      {
+        "term": "Racey"
+      },
+      {
+        "term": "Rainer Bertram"
+      },
+      {
+        "term": "Ralf Bendix"
+      },
+      {
+        "term": "Ralf Roberts"
+      },
+      {
+        "term": "Ralph Hunter Choir"
+      },
+      {
+        "term": "Ralph Peña"
+      },
+      {
+        "term": "Ralph Willis"
+      },
+      {
+        "term": "Ramones"
+      },
+      {
+        "term": "Ray Stevens"
+      },
+      {
+        "term": "Red Callender"
+      },
+      {
+        "term": "Red Foley & His Crossroad Boys"
+      },
+      {
+        "term": "Red Hot Chili Peppers"
+      },
+      {
+        "term": "Red Simpson"
+      },
+      {
+        "term": "Reg Lindsay"
+      },
+      {
+        "term": "Reg Owen"
+      },
+      {
+        "term": "Renate Holm"
+      },
+      {
+        "term": "René And His Alligators"
+      },
+      {
+        "term": "René Hall"
+      },
+      {
+        "term": "René Kollo"
+      },
+      {
+        "term": "Reparata & The Delrons"
+      },
+      {
+        "term": "Restless Heart"
+      },
+      {
+        "term": "Ria Solar"
+      },
+      {
+        "term": "Ric Cartey"
+      },
+      {
+        "term": "Richard Bargel"
+      },
+      {
+        "term": "Richard Chamberlain"
+      },
+      {
+        "term": "Richard Hayes"
+      },
+      {
+        "term": "Richard Thompson"
+      },
+      {
+        "term": "Richard Whiting"
+      },
+      {
+        "term": "Rick Danko"
+      },
+      {
+        "term": "Rick Nelson"
+      },
+      {
+        "term": "Rita Coolidge"
+      },
+      {
+        "term": "Rita Paul"
+      },
+      {
+        "term": "Rita Pavone"
+      },
+      {
+        "term": "Rita Reys"
+      },
+      {
+        "term": "Ro-d-ys"
+      },
+      {
+        "term": "Rob De Nijs"
+      },
+      {
+        "term": "Rob Hoeke"
+      },
+      {
+        "term": "Robert Charlebois"
+      },
+      {
+        "term": "Robert Farnon"
+      },
+      {
+        "term": "Robert Fuller"
+      },
+      {
+        "term": "Robert Johnson"
+      },
+      {
+        "term": "Robert Knight"
+      },
+      {
+        "term": "Robert Nighthawk"
+      },
+      {
+        "term": "Robert Plant"
+      },
+      {
+        "term": "Roberta Sherwood"
+      },
+      {
+        "term": "Roky Erickson"
+      },
+      {
+        "term": "Rolf Simson"
+      },
+      {
+        "term": "Rolf Wilhelm"
+      },
+      {
+        "term": "Ron Goodwin"
+      },
+      {
+        "term": "Ron Wood"
+      },
+      {
+        "term": "Ronnie Carroll"
+      },
+      {
+        "term": "Ronnie Dawson"
+      },
+      {
+        "term": "Ronnie Milsap"
+      },
+      {
+        "term": "Rose Murphy"
+      },
+      {
+        "term": "Roxy Music"
+      },
+      {
+        "term": "Roy C"
+      },
+      {
+        "term": "Roy Eldridge"
+      },
+      {
+        "term": "Roy Hall"
+      },
+      {
+        "term": "Roy Lanham"
+      },
+      {
+        "term": "Roy Lee Johnson"
+      },
+      {
+        "term": "Roy Milton"
+      },
+      {
+        "term": "Roy Milton & His Solid Senders"
+      },
+      {
+        "term": "Ruby Murray"
+      },
+      {
+        "term": "Rudi Hofstetter"
+      },
+      {
+        "term": "Rudy Grayzell"
+      },
+      {
+        "term": "Runrig"
+      },
+      {
+        "term": "Ruperts People"
+      },
+      {
+        "term": "Russ Conway"
+      },
+      {
+        "term": "Russ Hamilton"
+      },
+      {
+        "term": "Russ Morgan"
+      },
+      {
+        "term": "Rusty And Doug"
+      },
+      {
+        "term": "Rusty Warren"
+      },
+      {
+        "term": "Rusty York"
+      },
+      {
+        "term": "Ruth Etting"
+      },
+      {
+        "term": "Saga"
+      },
+      {
+        "term": "Sal Mineo"
+      },
+      {
+        "term": "Salvatore Adamo"
+      },
+      {
+        "term": "Sam & Dave"
+      },
+      {
+        "term": "Sam Dees"
+      },
+      {
+        "term": "Sam Lazar"
+      },
+      {
+        "term": "Sammy Price"
+      },
+      {
+        "term": "Sammy Salvo"
+      },
+      {
+        "term": "Sammy Turner"
+      },
+      {
+        "term": "Sandy Denny"
+      },
+      {
+        "term": "Sara & Maybelle Carter"
+      },
+      {
+        "term": "Savannah Churchill"
+      },
+      {
+        "term": "Scatman Crothers"
+      },
+      {
+        "term": "Scorpions"
+      },
+      {
+        "term": "Scotty McKay"
+      },
+      {
+        "term": "Sex Pistols"
+      },
+      {
+        "term": "Shakey Jake"
+      },
+      {
+        "term": "Shakin' Stevens"
+      },
+      {
+        "term": "Shane Fenton & The Fentones"
+      },
+      {
+        "term": "Sharkey Bonano"
+      },
+      {
+        "term": "Sharon Tandy"
+      },
+      {
+        "term": "Shelley Fabares"
+      },
+      {
+        "term": "Sheryl Crow"
+      },
+      {
+        "term": "Shirley Gunter"
+      },
+      {
+        "term": "Sid King And The Five Strings"
+      },
+      {
+        "term": "Siegfried Franz"
+      },
+      {
+        "term": "Silvio Francesco"
+      },
+      {
+        "term": "Simon Dupree & The Big Sound"
+      },
+      {
+        "term": "Sir Henry & His Butlers"
+      },
+      {
+        "term": "Sir Victor Uwaifo"
+      },
+      {
+        "term": "Sister Wynona Carr"
+      },
+      {
+        "term": "Skeeter Davis"
+      },
+      {
+        "term": "Skeets McDonald"
+      },
+      {
+        "term": "Skyhooks"
+      },
+      {
+        "term": "Smith"
+      },
+      {
+        "term": "Snooks Eaglin"
+      },
+      {
+        "term": "Solution"
+      },
+      {
+        "term": "Sonny Boy Williamson"
+      },
+      {
+        "term": "Sonny Terry & Brownie McGhee"
+      },
+      {
+        "term": "Sophie Tucker"
+      },
+      {
+        "term": "Soul Five"
+      },
+      {
+        "term": "Soulful Dynamics"
+      },
+      {
+        "term": "Spencer Wiggins"
+      },
+      {
+        "term": "Stan Butcher"
+      },
+      {
+        "term": "Stan Freberg"
+      },
+      {
+        "term": "Stan Getz"
+      },
+      {
+        "term": "Stan Oliver"
+      },
+      {
+        "term": "Starry Eyed And Laughing"
+      },
+      {
+        "term": "Stealers Wheel"
+      },
+      {
+        "term": "Steely Dan"
+      },
+      {
+        "term": "Stefanie Werger"
+      },
+      {
+        "term": "Stephane Grappelli"
+      },
+      {
+        "term": "Stephen Stills"
+      },
+      {
+        "term": "Steppenwolf"
+      },
+      {
+        "term": "Steve Alaimo"
+      },
+      {
+        "term": "Steve Gibson"
+      },
+      {
+        "term": "Steve Gibson's Red Caps"
+      },
+      {
+        "term": "Steve Marriott"
+      },
+      {
+        "term": "Steve Winwood"
+      },
+      {
+        "term": "Stevie Wonder"
+      },
+      {
+        "term": "Sting"
+      },
+      {
+        "term": "Stranger Cole"
+      },
+      {
+        "term": "Strawbs"
+      },
+      {
+        "term": "Stray Cats"
+      },
+      {
+        "term": "Stuart Hamblen"
+      },
+      {
+        "term": "Su Kramer"
+      },
+      {
+        "term": "Sue & Sunny"
+      },
+      {
+        "term": "Sue Raney"
+      },
+      {
+        "term": "Sue Thompson"
+      },
+      {
+        "term": "Sugar Pie DeSanto"
+      },
+      {
+        "term": "Sunnyland Slim"
+      },
+      {
+        "term": "Sunshine-Quartett"
+      },
+      {
+        "term": "Supersister"
+      },
+      {
+        "term": "Sven Jenssen"
+      },
+      {
+        "term": "Swan Silvertones"
+      },
+      {
+        "term": "Syl Johnson"
+      },
+      {
+        "term": "Sylvia Dahl"
+      },
+      {
+        "term": "Sylvie Vartan"
+      },
+      {
+        "term": "Tab Hunter"
+      },
+      {
+        "term": "Tabu Ley Rochereau"
+      },
+      {
+        "term": "Taj Mahal"
+      },
+      {
+        "term": "Tammy Wynette"
+      },
+      {
+        "term": "Tarheel Slim"
+      },
+      {
+        "term": "Ted Taylor"
+      },
+      {
+        "term": "Teddy Parker"
+      },
+      {
+        "term": "Teddy Pendergrass"
+      },
+      {
+        "term": "Teddy Randazzo"
+      },
+      {
+        "term": "Tee-Set"
+      },
+      {
+        "term": "Tenor Giants"
+      },
+      {
+        "term": "Terry Dene"
+      },
+      {
+        "term": "Terry Jacks"
+      },
+      {
+        "term": "Terry Noland"
+      },
+      {
+        "term": "Tex Morton"
+      },
+      {
+        "term": "Texas Jim Robertson"
+      },
+      {
+        "term": "The 23rd Turnoff"
+      },
+      {
+        "term": "The 5 Keys"
+      },
+      {
+        "term": "The 50 Guitars Of Tommy Garrett"
+      },
+      {
+        "term": "The Action"
+      },
+      {
+        "term": "The Allisons"
+      },
+      {
+        "term": "The Allman Brothers Band"
+      },
+      {
+        "term": "The Animated Egg"
+      },
+      {
+        "term": "The Anita Kerr Singers"
+      },
+      {
+        "term": "The Archies"
+      },
+      {
+        "term": "The Arthur Lyman Group"
+      },
+      {
+        "term": "The Band"
+      },
+      {
+        "term": "The Beatnix"
+      },
+      {
+        "term": "The Beau Brummels"
+      },
+      {
+        "term": "The Beverly Brothers"
+      },
+      {
+        "term": "The Blackwells"
+      },
+      {
+        "term": "The Blackwood Brothers"
+      },
+      {
+        "term": "The Blizzards"
+      },
+      {
+        "term": "The Bob Crosby Bob Cats"
+      },
+      {
+        "term": "The Bobbettes"
+      },
+      {
+        "term": "The Boots"
+      },
+      {
+        "term": "The Brother Boys"
+      },
+      {
+        "term": "The Brothers Four"
+      },
+      {
+        "term": "The Buckinghams"
+      },
+      {
+        "term": "The Buffoons"
+      },
+      {
+        "term": "The Button Down Brass"
+      },
+      {
+        "term": "The Cardinals"
+      },
+      {
+        "term": "The Castells"
+      },
+      {
+        "term": "The Charms"
+      },
+      {
+        "term": "The Chas McDevitt Skiffle Group"
+      },
+      {
+        "term": "The Chipmunks"
+      },
+      {
+        "term": "The Chuck Wagon Gang"
+      },
+      {
+        "term": "The City Of Prague Philharmonic Orchestra"
+      },
+      {
+        "term": "The Clancy Brothers & Tommy Makem"
+      },
+      {
+        "term": "The Clark Sisters"
+      },
+      {
+        "term": "The Cleftones"
+      },
+      {
+        "term": "The Clovers"
+      },
+      {
+        "term": "The Cochran Brothers"
+      },
+      {
+        "term": "The Comsat Angels"
+      },
+      {
+        "term": "The Cream"
+      },
+      {
+        "term": "The Creation"
+      },
+      {
+        "term": "The Crew Cuts"
+      },
+      {
+        "term": "The Cryin' Shames"
+      },
+      {
+        "term": "The Crystalairs"
+      },
+      {
+        "term": "The Cure"
+      },
+      {
+        "term": "The Dave Brubeck Quartet"
+      },
+      {
+        "term": "The Dave Brubeck Trio"
+      },
+      {
+        "term": "The Dave Clark Five"
+      },
+      {
+        "term": "The Del Vikings"
+      },
+      {
+        "term": "The Dells"
+      },
+      {
+        "term": "The Diamonds"
+      },
+      {
+        "term": "The Dinning Sisters"
+      },
+      {
+        "term": "The Dovells"
+      },
+      {
+        "term": "The Dreamers"
+      },
+      {
+        "term": "The Du Droppers"
+      },
+      {
+        "term": "The Dubs"
+      },
+      {
+        "term": "The Duprees"
+      },
+      {
+        "term": "The Earls Of Leicester"
+      },
+      {
+        "term": "The Edsels"
+      },
+      {
+        "term": "The Electric Prunes"
+      },
+      {
+        "term": "The Elegants"
+      },
+      {
+        "term": "The Emotions"
+      },
+      {
+        "term": "The Excitements"
+      },
+      {
+        "term": "The Faces"
+      },
+      {
+        "term": "The Falcons"
+      },
+      {
+        "term": "The Fall"
+      },
+      {
+        "term": "The Fame Gang"
+      },
+      {
+        "term": "The Fantastic Baggys"
+      },
+      {
+        "term": "The Fireballs"
+      },
+      {
+        "term": "The Fireman"
+      },
+      {
+        "term": "The Five Keys"
+      },
+      {
+        "term": "The Five Satins"
+      },
+      {
+        "term": "The Fleetwoods"
+      },
+      {
+        "term": "The Flirtations"
+      },
+      {
+        "term": "The Four Aces"
+      },
+      {
+        "term": "The Four Mints"
+      },
+      {
+        "term": "The Four Seasons"
+      },
+      {
+        "term": "The Four Tunes"
+      },
+      {
+        "term": "The Fourmost"
+      },
+      {
+        "term": "The Funk Brothers"
+      },
+      {
+        "term": "The Gaylords"
+      },
+      {
+        "term": "The Genies"
+      },
+      {
+        "term": "The Gisha Brothers"
+      },
+      {
+        "term": "The Glitter Band"
+      },
+      {
+        "term": "The Green River Boys"
+      },
+      {
+        "term": "The Harptones"
+      },
+      {
+        "term": "The Hearbeats"
+      },
+      {
+        "term": "The Hep Stars"
+      },
+      {
+        "term": "The Hilltoppers"
+      },
+      {
+        "term": "The Hitmakers"
+      },
+      {
+        "term": "The Holmes Brothers"
+      },
+      {
+        "term": "The Honeycombs"
+      },
+      {
+        "term": "The Honeys"
+      },
+      {
+        "term": "The Idle Race"
+      },
+      {
+        "term": "The Ikettes"
+      },
+      {
+        "term": "The Impalas"
+      },
+      {
+        "term": "The Impressions"
+      },
+      {
+        "term": "The J. Geils Band"
+      },
+      {
+        "term": "The Jerry Garcia Band"
+      },
+      {
+        "term": "The Jive 5"
+      },
+      {
+        "term": "The John Barry Seven"
+      },
+      {
+        "term": "The Jumping Jewels"
+      },
+      {
+        "term": "The Kaye Sisters"
+      },
+      {
+        "term": "The King Brothers"
+      },
+      {
+        "term": "The King Cole Trio"
+      },
+      {
+        "term": "The King-Beats"
+      },
+      {
+        "term": "The Knickerbockers"
+      },
+      {
+        "term": "The Lana Sisters"
+      },
+      {
+        "term": "The Leiber-Stoller Big Band"
+      },
+      {
+        "term": "The Lennerockers"
+      },
+      {
+        "term": "The Lennon Sisters"
+      },
+      {
+        "term": "The Les Humphries Singers"
+      },
+      {
+        "term": "The Limeliters"
+      },
+      {
+        "term": "The Living Strings"
+      },
+      {
+        "term": "The Lonelys & Mike Warner And His New Stars"
+      },
+      {
+        "term": "The Luvvers"
+      },
+      {
+        "term": "The Marcels"
+      },
+      {
+        "term": "The Mariners"
+      },
+      {
+        "term": "The Marketts"
+      },
+      {
+        "term": "The Mell-O-Tones"
+      },
+      {
+        "term": "The Mello-Kings"
+      },
+      {
+        "term": "The Mighty Diamonds"
+      },
+      {
+        "term": "The Mighty Hannibal"
+      },
+      {
+        "term": "The Mindbenders"
+      },
+      {
+        "term": "The Modernaires"
+      },
+      {
+        "term": "The Monotones"
+      },
+      {
+        "term": "The Moody Blues"
+      },
+      {
+        "term": "The Moonglows"
+      },
+      {
+        "term": "The Music Machine"
+      },
+      {
+        "term": "The Mystic Moods Orchestra"
+      },
+      {
+        "term": "The Nazz"
+      },
+      {
+        "term": "The New Christy Minstrels"
+      },
+      {
+        "term": "The Nitecaps"
+      },
+      {
+        "term": "The Norman Luboff Choir"
+      },
+      {
+        "term": "The Norman Petty Trio"
+      },
+      {
+        "term": "The O'Jays"
+      },
+      {
+        "term": "The Odd Persons"
+      },
+      {
+        "term": "The Olympics"
+      },
+      {
+        "term": "The Only Ones"
+      },
+      {
+        "term": "The Orioles"
+      },
+      {
+        "term": "The Orlons"
+      },
+      {
+        "term": "The Outlaws & Mike Berry"
+      },
+      {
+        "term": "The Paper Dolls"
+      },
+      {
+        "term": "The Paris Sisters"
+      },
+      {
+        "term": "The Pearls"
+      },
+      {
+        "term": "The Penguins"
+      },
+      {
+        "term": "The Petards"
+      },
+      {
+        "term": "The Pied Pipers"
+      },
+      {
+        "term": "The Piltdown Men"
+      },
+      {
+        "term": "The Playmates"
+      },
+      {
+        "term": "The Plimsouls"
+      },
+      {
+        "term": "The Police"
+      },
+      {
+        "term": "The Poni-tails"
+      },
+      {
+        "term": "The Pralins"
+      },
+      {
+        "term": "The Pretty Things"
+      },
+      {
+        "term": "The Pyramidiacs"
+      },
+      {
+        "term": "The Quarry Men"
+      },
+      {
+        "term": "The Quarry-Men"
+      },
+      {
+        "term": "The Radio Kings"
+      },
+      {
+        "term": "The Rainbows"
+      },
+      {
+        "term": "The Rascals"
+      },
+      {
+        "term": "The Ray Charles Singers"
+      },
+      {
+        "term": "The Ray-O-Vacs"
+      },
+      {
+        "term": "The Retroliners"
+      },
+      {
+        "term": "The Righteous Brothers"
+      },
+      {
+        "term": "The Rivets"
+      },
+      {
+        "term": "The Robins"
+      },
+      {
+        "term": "The Rocking Stars"
+      },
+      {
+        "term": "The Rollicks"
+      },
+      {
+        "term": "The Rubettes"
+      },
+      {
+        "term": "The Runaways"
+      },
+      {
+        "term": "The Satisfiers"
+      },
+      {
+        "term": "The Scene"
+      },
+      {
+        "term": "The Scientists"
+      },
+      {
+        "term": "The Scorpions"
+      },
+      {
+        "term": "The Sensational Alex Harvey Band"
+      },
+      {
+        "term": "The Seventy Sevens"
+      },
+      {
+        "term": "The Shepherd Sisters"
+      },
+      {
+        "term": "The Shoes"
+      },
+      {
+        "term": "The Skyliners"
+      },
+      {
+        "term": "The Smithereens"
+      },
+      {
+        "term": "The Smiths"
+      },
+      {
+        "term": "The Solitaires"
+      },
+      {
+        "term": "The Southlanders"
+      },
+      {
+        "term": "The Spaniels"
+      },
+      {
+        "term": "The Springfields"
+      },
+      {
+        "term": "The Staple Singers"
+      },
+      {
+        "term": "The Statler Brothers"
+      },
+      {
+        "term": "The Stranglers"
+      },
+      {
+        "term": "The Style Council"
+      },
+      {
+        "term": "The Surfers"
+      },
+      {
+        "term": "The Sweet"
+      },
+      {
+        "term": "The Sweet Inspirations"
+      },
+      {
+        "term": "The Swinging Blue Jeans"
+      },
+      {
+        "term": "The Synthesizer Rock Orchestra"
+      },
+      {
+        "term": "The Tarriers"
+      },
+      {
+        "term": "The Team-Beats"
+      },
+      {
+        "term": "The Temperance Seven"
+      },
+      {
+        "term": "The Tornados"
+      },
+      {
+        "term": "The Treniers"
+      },
+      {
+        "term": "The Turbans"
+      },
+      {
+        "term": "The Turtles"
+      },
+      {
+        "term": "The Upsetters"
+      },
+      {
+        "term": "The Vernons Girls"
+      },
+      {
+        "term": "The Vipers Skiffle Group"
+      },
+      {
+        "term": "The Viscounts"
+      },
+      {
+        "term": "The Wallace Brothers"
+      },
+      {
+        "term": "The Wallflowers"
+      },
+      {
+        "term": "The Weavers"
+      },
+      {
+        "term": "The Wraymen"
+      },
+      {
+        "term": "The Yankees"
+      },
+      {
+        "term": "The Young Lions"
+      },
+      {
+        "term": "Thee Midniters"
+      },
+      {
+        "term": "Thelonious Monk"
+      },
+      {
+        "term": "Theodore Bikel"
+      },
+      {
+        "term": "Thin Lizzy"
+      },
+      {
+        "term": "Thom Bell"
+      },
+      {
+        "term": "Three Dog Night"
+      },
+      {
+        "term": "Thunderclap Newman"
+      },
+      {
+        "term": "Thurston Harris"
+      },
+      {
+        "term": "Time Bandits"
+      },
+      {
+        "term": "Timebox"
+      },
+      {
+        "term": "Tin Machine"
+      },
+      {
+        "term": "Tiny Bradshaw"
+      },
+      {
+        "term": "Tito Puente"
+      },
+      {
+        "term": "Titus Turner"
+      },
+      {
+        "term": "Todd Rundgren"
+      },
+      {
+        "term": "Tom Astor"
+      },
+      {
+        "term": "Tom Browne"
+      },
+      {
+        "term": "Tom Petty And The Heartbreakers"
+      },
+      {
+        "term": "Tom Robinson Band"
+      },
+      {
+        "term": "Tom T. Hall"
+      },
+      {
+        "term": "Tom Tall"
+      },
+      {
+        "term": "Tommy Collins"
+      },
+      {
+        "term": "Tommy Edwards"
+      },
+      {
+        "term": "Tommy Ridgley"
+      },
+      {
+        "term": "Tommy Roe"
+      },
+      {
+        "term": "Toni Sailer"
+      },
+      {
+        "term": "Tony Evans"
+      },
+      {
+        "term": "Tony Hatch"
+      },
+      {
+        "term": "Tony Martin"
+      },
+      {
+        "term": "Tony Orlando"
+      },
+      {
+        "term": "Tony Scott"
+      },
+      {
+        "term": "Toontje Lager"
+      },
+      {
+        "term": "Toots Thielemans"
+      },
+      {
+        "term": "Toto"
+      },
+      {
+        "term": "Townes Van Zandt"
+      },
+      {
+        "term": "Traffic"
+      },
+      {
+        "term": "Trevor Peacock"
+      },
+      {
+        "term": "Triumph"
+      },
+      {
+        "term": "Troy Shondell"
+      },
+      {
+        "term": "Turk Murphy"
+      },
+      {
+        "term": "Twinkle"
+      },
+      {
+        "term": "Uli Jon Roth"
+      },
+      {
+        "term": "Uncle Tupelo"
+      },
+      {
+        "term": "Unit Gloria"
+      },
+      {
+        "term": "Van Wilks"
+      },
+      {
+        "term": "Vaughn Monroe"
+      },
+      {
+        "term": "Vernon Oxford"
+      },
+      {
+        "term": "Vic Damone"
+      },
+      {
+        "term": "Vic Mizzy"
+      },
+      {
+        "term": "Victor Jara"
+      },
+      {
+        "term": "Victor Young"
+      },
+      {
+        "term": "Vienna Boys' Choir"
+      },
+      {
+        "term": "Village People"
+      },
+      {
+        "term": "Vince Eager"
+      },
+      {
+        "term": "Vincent Youmans"
+      },
+      {
+        "term": "Vitesse"
+      },
+      {
+        "term": "Vittorio"
+      },
+      {
+        "term": "Vladimir Vysotsky"
+      },
+      {
+        "term": "Wade Ray"
+      },
+      {
+        "term": "Wally Tax"
+      },
+      {
+        "term": "Walter Brennan"
+      },
+      {
+        "term": "Walter Davis"
+      },
+      {
+        "term": "Warren Storm"
+      },
+      {
+        "term": "Waterloo"
+      },
+      {
+        "term": "Wayne Horsburgh"
+      },
+      {
+        "term": "Wayne King"
+      },
+      {
+        "term": "Wayne Newton"
+      },
+      {
+        "term": "Wayne Shanklin"
+      },
+      {
+        "term": "Wes Montgomery"
+      },
+      {
+        "term": "Wild Seeds"
+      },
+      {
+        "term": "Will Ackerman"
+      },
+      {
+        "term": "Will Tura"
+      },
+      {
+        "term": "William Bell"
+      },
+      {
+        "term": "Willie Egan"
+      },
+      {
+        "term": "Willie Hutch"
+      },
+      {
+        "term": "Willie Mabon"
+      },
+      {
+        "term": "Willie Mitchell"
+      },
+      {
+        "term": "Willis Jackson"
+      },
+      {
+        "term": "Willy DeVille"
+      },
+      {
+        "term": "Willy Hagara"
+      },
+      {
+        "term": "Wilma Lee And Stoney Cooper"
+      },
+      {
+        "term": "Wind & Fire"
+      },
+      {
+        "term": "Winifred Atwell"
+      },
+      {
+        "term": "Wink Martindale"
+      },
+      {
+        "term": "Wolfgang Sauer"
+      },
+      {
+        "term": "Woody Guthrie"
+      },
+      {
+        "term": "Wyn Hoop"
+      },
+      {
+        "term": "Wynona Carr"
+      },
+      {
+        "term": "Wynton Kelly"
+      },
+      {
+        "term": "XTC"
+      },
+      {
+        "term": "Yodeling Slim Clark"
+      },
+      {
+        "term": "Young Jessie"
+      },
+      {
+        "term": "Yvonne Baker & The Sensations"
+      },
+      {
+        "term": "ZZ & De Maskers"
+      },
+      {
+        "term": "ZZ Top"
+      },
+      {
+        "term": "Zarah Leander"
+      },
+      {
+        "term": "Александр Вертинский"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "With The Song Of Life"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": ""
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://forwardwiththesong.blogspot.com/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/277276459473513904/posts/default?alt=json&max-results=5&q=Stafford"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://forwardwiththesong.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Polar Bear"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/04942747361652812673"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "33",
+          "height": "23",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-R_Awjxf54Ff218ySSymJG0YJ_LNmqGBDl9tuzxnTZWFf3Hr090yE-YDRFDRmTyaLMlOGZlboB4E6QcXbCMxkngi7zzHy-XDHayIJJrGC7oSQ3X68twpLiRcwVFQHm0/s220/2951372.jpg"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "5"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-277276459473513904.post-4996176282641718386"
+        },
+        "published": {
+          "$t": "2026-11-05T20:46:00.000+03:00"
+        },
+        "updated": {
+          "$t": "2026-11-05T21:03:00.931+03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Jasmine"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Jo Stafford"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Jo Stafford - Reflections ~ The Ultimate Collection (2009)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglkVqA8ch1FN03h-8zkcxJj_vJrjaDVMmD-GA8gHbeKdEvAEzwB3Ge7gg1xtoLiAMk03ws33UWoHwodn0Gwzm-4O2HX7clv9d_EtimI3CcZLyeYt-9Nr3Tc-CT1h_xWKPsBHYxVQlGI80PqXXLFW6-mF1eBN-0KXjZ7SyD_ZgG2R3MH2EavCHrtf-cgpnL/s1000/front1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"1000\" data-original-width=\"978\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglkVqA8ch1FN03h-8zkcxJj_vJrjaDVMmD-GA8gHbeKdEvAEzwB3Ge7gg1xtoLiAMk03ws33UWoHwodn0Gwzm-4O2HX7clv9d_EtimI3CcZLyeYt-9Nr3Tc-CT1h_xWKPsBHYxVQlGI80PqXXLFW6-mF1eBN-0KXjZ7SyD_ZgG2R3MH2EavCHrtf-cgpnL/w391-h400/front1.jpg\" width=\"391\" /></a></div><br /><div dir=\"ltr\" style=\"text-align: left;\" trbidi=\"on\"><br />\n<div style=\"text-align: center;\"><span style=\"color: orange;\">Vocal, Pop | FLAC | 4 CD | 1,18 Gb</span></div><br />\nCD 1<br />\n1. You Belong To Me (3:06)<br />\n2. Keep It A Secret (2:36)<br />\n3. Nearer My Love To Me (2:59)<br />\n4. Smilin' Through (2:55)<br />\n5. Goodnight Irene (3:06)<br />\n6. I'll String Along With You (3:11)<br />\n7. Whispering Hope (3:10)<br />\n<a name='more'></a>8. If It Takes Me All My Life (3:02)<br />\n9. The Christmas Blues (2:34)<br />\n10. Blue Skies (2:00)<br />\n11. Within Your Arms (2:40)<br />\n12. If (3:19)<br />\n13. Ay-Round The Corner (Behind The Bush) (2:34)<br />\n14. My Heart Cries For You (2:52)<br />\n15. Teardrops From My Eyes (3:10)<br />\n16. Where Are You? (2:29)<br />\n17. Suddenly, There's A Valley (3:03)<br />\n18. When April Comes Again (3:17)<br />\n19. Big D (2:08)<br />\n20. With These Hands (2:50)<br />\n21. Till We Meet Again (2:45)<br />\n22. I Love You Truly (2:54)<br />\n23. When I Grow Too Old To Dream (2:34)<br />\n24. You Don't Remind Me (3:00)<br />\n25. The Temple Of An Understanding Heart (2:51)<br />\n26. Spring Is Here (2:49)<br />\n27. Don't Get Around Much Anymore (3:17)<br />\n28. Darling! Darling! Darling! (2:10)<br />\n<br />\nCD 2<br />\n1. Poor Wayfaring Stranger (2:47)<br />\n2. He's Gone Away (3:00)<br />\n3. I Wonder As I Wander (2:56)<br />\n4. Red Rosey Bush (2:53)<br />\n5. Black Is The Color (2:46)<br />\n6. The Nightingale (2:58)<br />\n7. Barbara Allen (2:46)<br />\n8. No Other Lov (2:59)<br />\n9. It Was So Beautiful (And You Were Mine) (3:24)<br />\n10. It's Great To Be Alive (2:50)<br />\n11. They Talk A Different Language(Yodel Blues) (3:15)<br />\n12. Open Door - Open Arms (3:02)<br />\n13. Ask Me No Questions (2:38)<br />\n14. Love Is A Masquerad (2:35)<br />\n15. Sometime (2:56)<br />\n16. Here I'll Stay (2:23)<br />\n17. On The Outgoing Tide (2:57)<br />\n18. White Christmas (3:02)<br />\n19. Silent Night (3:03)<br />\n20. Ave Maria (2:46)<br />\n21. Abide With Me (3:06)<br />\n22. Lead Kindly, Light (2:17)<br />\n23. In The Garden (2:25)<br />\n24. Nearer My God To Thee (3:13)<br />\n25. Rock Of Ages (2:18)<br />\n26. Battle Hymn Of The Republic (2:10)<br />\n27. He Leadeth Me (2:50)<br />\n28. The Old Rugged Cross (2:47)<br />\n<br />\nCD 3<br />\n1. Make Love To Me (2:44)<br />\n2. When It's Sleepy Time Down South (2:44)<br />\n3. Way Down Yonder In New Orleans (2:59)<br />\n4. Raminay! (The New Orleans Chimney Sweep) (2:41)<br />\n5. New Orleans (3:14)<br />\n6. Jambalaya (2:56)<br />\n7. Floatin' Down To Cotton Town (2:28)<br />\n8. Do You Know What It Means To Miss New Orleans? (3:31)<br />\n9. Shrimp Boats (2:50)<br />\n10. Basin Street Blues (3:17)<br />\n11. Hey, Good Lookin' (2:18)<br />\n12. Gambella(The Gamblin' Lady) (2:46)<br />\n13. Early Autumn (2:45)<br />\n14. What Good Am I Without You? (2:58)<br />\n15. Thank You For Calling (2:32)<br />\n16. I'm Your Girl (2:54)<br />\n17. It Is No Secret (3:13)<br />\n18. Star Of Hope (2:38)<br />\n19. He Bought My Soul At Calvary (2:45)<br />\n20. I Found A Friend (3:13)<br />\n21. Beautiful Isle Of Somewhere (2:50)<br />\n22. Invisible Hands (2:57)<br />\n23. (There'll Be) Peace In The Valley (2:53)<br />\n24. The Beautiful Garden Of Prayer (2:22)<br />\n25. The Lord Is My Shepherd (3:04)<br />\n26. Each Step Of The Way (2:34)<br />\n27. It Is Springtime (2:45)<br />\n28. Lord, Keep Your Hand On Me (2:43)<br />\n<br />\nCD 4<br />\n1. Pine Top's Boogie (2:24)<br />\n2. Every Night When The Sun Goes In (2:10)<br />\n3. Star Of Love (2:27)<br />\n4. My Heart Is From Missouri (2:11)<br />\n5. Echoes In The Night (2:15)<br />\n6. KIng Of Paris (3:13)<br />\n7. You're Starting To Get To Me (2:22)<br />\n8. It's Never Quite The Same (2:55)<br />\n9. It Won't Be Easy (2:14)<br />\n10. Hibiscus (2:41)<br />\n11. On London Bridge (2:31)<br />\n12. All Night Long (2:49)<br />\n13. Sweet Little Darlin' (2:25)<br />\n14. How Can We Say Goodbye? (2:36)<br />\n15. Wind In The Willow (3:05)<br />\n16. I'll Buy It (2:03)<br />\n17. With A Little Bit Of Luck (2:22)<br />\n18. Beyond The Stars (2:17)<br />\n19. What's Botherin' You, Baby? (3:00)<br />\n20. All Yours (3:00)<br />\n21. Lazy Moon (2:37)<br />\n22. Underneath The Overpass (2:01)<br />\n23. Warm All Over (2:30)<br />\n24. As I Love You (2:56)<br />\n25. Love Me Good (2:41)<br />\n26. A Perfect Love (2:45)<br />\n27. I'll Be There (When You Get Lonely) (3:05)<br />\n28. Bells Are Ringing (2:24)<br />\n29. The Nightwatch (2:47)<br />\n30. I May Never Pass This Way Again (2:40)<br />\n<br />\n<div><input onclick=\"if(this.parentNode.getElementsByTagName('div')[0].style.display != ''){this.parentNode.getElementsByTagName('div')[0].style.display = '';this.value = '*** LINKS ***';}else{this.parentNode.getElementsByTagName('div')[0].style.display = 'none'; this.value = '*** DOWNLOAD ***';}\" type=\"button\" value=\"*** DOWNLOAD ***\" /><div style=\"display: none;\"><br />\n<a href=\"https://nitroflare.com/view/9E017A40845D239/JoStafford_ReflectionsTheUltimateCollection-fl.rar\" target=\"_blank\">https://nitroflare.com/view/9E017A40845D239/JoStafford_ReflectionsTheUltimateCollection-fl.rar</a><br />\n<br />\n<a href=\"https://filejoker.net/wniqhbd2u5pz/JoStafford_ReflectionsTheUltimateCollection-fl.rar\" target=\"_blank\">https://filejoker.net/wniqhbd2u5pz/JoStafford_ReflectionsTheUltimateCollection-fl.rar</a></div></div></div><br />\npass: polarbear<br />"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://forwardwiththesong.blogspot.com/feeds/4996176282641718386/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2019/03/jo-stafford-reflections-ultimate.html#comment-form",
+            "title": "1 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/4996176282641718386"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/4996176282641718386"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2019/03/jo-stafford-reflections-ultimate.html",
+            "title": "Jo Stafford - Reflections ~ The Ultimate Collection (2009)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Polar Bear"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/04942747361652812673"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "33",
+              "height": "23",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-R_Awjxf54Ff218ySSymJG0YJ_LNmqGBDl9tuzxnTZWFf3Hr090yE-YDRFDRmTyaLMlOGZlboB4E6QcXbCMxkngi7zzHy-XDHayIJJrGC7oSQ3X68twpLiRcwVFQHm0/s220/2951372.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglkVqA8ch1FN03h-8zkcxJj_vJrjaDVMmD-GA8gHbeKdEvAEzwB3Ge7gg1xtoLiAMk03ws33UWoHwodn0Gwzm-4O2HX7clv9d_EtimI3CcZLyeYt-9Nr3Tc-CT1h_xWKPsBHYxVQlGI80PqXXLFW6-mF1eBN-0KXjZ7SyD_ZgG2R3MH2EavCHrtf-cgpnL/s72-w391-h400-c/front1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-277276459473513904.post-9124430792376505673"
+        },
+        "published": {
+          "$t": "2026-10-18T20:26:00.000+03:00"
+        },
+        "updated": {
+          "$t": "2026-10-18T20:27:55.598+03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Bear Family"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "VA"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "VA - The Complete D Singles Collection ~ Volume 5 (2002)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHS0FlkCvpilNKQkrOZCDyJFwqu9vXjZgP8_rUvmEGpHeKJc60dqqJ3Uavpj61njDUvjlWzqfUvlocarMHMxtKJKWBFFBZbWe5XqVQ3cwnuCpE03K9q1OyaVU2GaxjXP7e2d0Y4xMyPjWWqGdGPXKfcKL1gemDIIP8OssczMKfvUlzsyjjswYUnO6zXnLY/s1000/front1.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"1000\" data-original-width=\"1000\" height=\"400\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHS0FlkCvpilNKQkrOZCDyJFwqu9vXjZgP8_rUvmEGpHeKJc60dqqJ3Uavpj61njDUvjlWzqfUvlocarMHMxtKJKWBFFBZbWe5XqVQ3cwnuCpE03K9q1OyaVU2GaxjXP7e2d0Y4xMyPjWWqGdGPXKfcKL1gemDIIP8OssczMKfvUlzsyjjswYUnO6zXnLY/w400-h400/front1.jpg\" width=\"400\" /></a></div><br /></div><div style=\"text-align: center;\">&nbsp;<span style=\"color: #ffa400;\">Country | Mp3 320 kbps | 4 CD | 745 Mb</span></div><p></p>CD 1<br />&nbsp;1. Tex Wayne - My Empty Arms (2:33)<br />&nbsp;2. Tex Wayne - Where The Honky Tonk Fiddles Play (2:56)<br />&nbsp;3. Hershal Garflunkey - Parrott Song (2:53)<br />&nbsp;4. Hershal Garflunkey - Bad Luck (2:50)<br />&nbsp;5. Billy Jack Hale - Resting Place (2:43)<br />&nbsp;6. Billy Jack Hale - Black Widow (2:26)<br />&nbsp;7. Carlton Norris - Load Dem Wagons (2:14)<br /><a name='more'></a>&nbsp;8. Carlton Norris - Go South Little Man (2:13)<br />&nbsp;9. Al Dean - I'll Win Again (2:49)<br />&nbsp;10. Al Dean - One Heartache From The Blues (2:33)<br />&nbsp;11. Jimmie Martin - World's Apart (2:45)<br />&nbsp;12. Jimmie Martin - Signifyin' Monkey (2:40)<br />&nbsp;13. Eddie Noack - It's Hard To Tell An Old Love Goodbye (2:20)<br />&nbsp;14. Eddie Noack - Love's Other Face (2:35)<br />&nbsp;15. Ernie Kucera - Rose Blossom Waltz (2:21)<br />&nbsp;16. Ernie Kucera - Lost Love Polka (3:14)<br />&nbsp;17. Harry Choates - Oh-Meon (2:26)<br />&nbsp;18. Harry Choates - Big Woods (2:43)<br />&nbsp;19. George Self - Those Pretty Words (2:18)<br />&nbsp;20. George Self - Forever You'll Be Mine (2:22)<br />&nbsp;21. Joyce Cornish - The Guy You Used To Be (2:32)<br />&nbsp;22. Joyce Cornish - My World Slows Down (2:05)<br />&nbsp;23. Dave Edge - Chained To A Love (2:18)<br />&nbsp;24. Dave Edge - Tears That I Wasted (2:27)<br />&nbsp;25. George Jones - Maybe Next Christmas (2:10)<br />&nbsp;26. George Jones - New Baby For Christmas (2:18)<br />&nbsp;27. Billy Parker - Dark As The Night (2:18)<br />&nbsp;28. Billy Parker - Out Of Your Heart (2:33)<br />&nbsp;29. Eddie Noack - The Same Old Mistakes (2:01)<br />&nbsp;30. Eddie Noack - You've Got A Woman (2:56)<br /><br />CD 2<br />&nbsp;1. Durwood Haddock - How Lonesome Can I Get (2:04)<br />&nbsp;2. Durwood Haddock - Start All Over (2:01)<br />&nbsp;3. Johnny Dollar - Lonesome Trains (1:56)<br />&nbsp;4. Johnny Dollar - West Texas (1:48)<br />&nbsp;5. Jack Newman - The Sun Turned Blue (2:16)<br />&nbsp;6. Jack Newman - Make Me A Member (2:29)<br />&nbsp;7. Merl Lindsay - Tied To The Bottle (2:03)<br />&nbsp;8. Merl Lindsay - She's The One For Me (2:03)<br />&nbsp;9. Jim Eanes - Crazy Dreams (2:06)<br />&nbsp;10. Jim Eanes - Your Troubles Are Mine (2:20)<br />&nbsp;11. Jim Eanes - Across The Table (3:01)<br />&nbsp;12. Lynn Stafford - Tonight I'll Celebrate (2:13)<br />&nbsp;13. Lynn Stafford - My Past Is A Chain (2:51)<br />&nbsp;14. Billy Parker - Unexpected Heartaches (2:32)<br />&nbsp;15. Billy Parker - Alomst Gone (2:56)<br />&nbsp;16. George Cooper - I Finally Broke The Spell (2:29)<br />&nbsp;17. George Cooper - The Ways Of Life (2:31)<br />&nbsp;18. Jerry Jericho - Just For The Thrill (2:21)<br />&nbsp;19. Jerry Jericho - Tears Fall Again (2:35)<br />&nbsp;20. Curtis Haskins - Those Places (2:04)<br />&nbsp;21. Curtis Haskins - You're Making Believe (2:21)<br />&nbsp;22. Bobby Fields - Your Jealous Heart (2:30)<br />&nbsp;23. Bobby Fields - I've Lost Everything (2:25)<br />&nbsp;24. Billy Western - Worn Out Words (2:37)<br />&nbsp;25. Billy Western - His And Hers (2:46)<br />&nbsp;26. Al Gressett - You Gotta Hurry (1:50)<br />&nbsp;27. Al Gressett - Do You Realize (2:41)<br />&nbsp;28. Margie Word - The Farmers Wife (1:59)<br />&nbsp;29. Margie Word - Honky Tonk Love (3:04)<br />&nbsp;30. Doyle Grisham - The Shadow (1:43)<br />&nbsp;31. Doyle Grisham - I Can't Change Overnight (3:09)<br /><br />CD 3<br />&nbsp;1. Red River Dave - We'll Bury You (2:21)<br />&nbsp;2. Red River Dave - Moon Over The Wall (In East Berlin) (2:07)<br />&nbsp;3. Booth Kinner - How I Wish I Was Him (2:31)<br />&nbsp;4. Booth Kinner - Aisle Of I Do (2:44)<br />&nbsp;5. Billy Western - My Blue Room (2:50)<br />&nbsp;6. Billy Western - Say When (You Want Me To Leave) (2:08)<br />&nbsp;7. Hank Roby - Might As Well Stick With You (2:32)<br />&nbsp;8. Hank Roby - Wasted Love (2:11)<br />&nbsp;9. Johnny Nelms - I'm So Ashamed (2:33)<br />&nbsp;10. Johnny Nelms - The Sulphur Queen (1:54)<br />&nbsp;11. Johnny Nelms - Blue Tomorrow (2:38)<br />&nbsp;12. Tex Wayne - Angel With A Ponytail (1:56)<br />&nbsp;13. Tex Wayne - Standing At The Crossroads (2:14)<br />&nbsp;14. Booth Kinner - Walking Right Out Of My Mind (2:16)<br />&nbsp;15. Booth Kinner - I've Got A Feeling (1:52)<br />&nbsp;16. Betty &amp; Walt Riddle - I've Been Wrong Before (2:28)<br />&nbsp;17. Betty &amp; Walt Riddle - Don't Back Out Now (2:18)<br />&nbsp;18. Jack Newman - Daddy's Baby (2:57)<br />&nbsp;19. Jack Newman - Ship For Lonely Men (2:19)<br />&nbsp;20. Billy Western - Home's Not Where My House Is (2:59)<br />&nbsp;21. Billy Western &amp; Jeanne Davis - Love Enough (2:35)<br />&nbsp;22. Hank Roby - Anna Anna (2:12)<br />&nbsp;23. Hank Roby - Let's Pretend (2:39)<br />&nbsp;24. Danny &amp; Audry Harrison - Broken Love Affair (2:47)<br />&nbsp;25. Danny Harrison - Have I Wasted My Life (2:27)<br />&nbsp;26. Jimmy Dry - I Know (2:36)<br />&nbsp;27. Jimmy Dry - Incidentally (2:39)<br />&nbsp;28. Tex Wayne - She's Lying Again (2:15)<br />&nbsp;29. Tex Wayne - My Party's Over (2:22)<br /><br />CD 4<br />&nbsp;1. Truitt Forse &amp; Jerry Lynn - Searching For Someone To Love (2:12)<br />&nbsp;2. Truitt Forse &amp; Jerry Lynn - Fool You Fool (2:27)<br />&nbsp;3. Mary Fran - Tic-Tac-Toe (2:29)<br />&nbsp;4. Mary Fran - I'm Tired Of Waiting (2:18)<br />&nbsp;5. Joe Jackson - Who's This Lonely Fool (3:06)<br />&nbsp;6. Joe Jackson - Rock My Warriors Rock (1:42)<br />&nbsp;7. Don Gilbert - Your Time For Tears (2:55)<br />&nbsp;8. Don Gilbert - With Open Arms (3:10)<br />&nbsp;9. Danny &amp; Audrey Harrison - The Lord's Masterpiece (2:19)<br />&nbsp;10. Danny &amp; Audrey Harrison - He Heard Me Cry (2:08)<br />&nbsp;11. Bonny Lee - My Face Is Red (2:32)<br />&nbsp;12. Bonny Lee - No Condition For Love (2:28)<br />&nbsp;13. Dwayne Ely - Don't Look Back (2:40)<br />&nbsp;14. Dwayne Ely - It's Your Turn To Cry (2:45)<br />&nbsp;15. Bill Eidson - Your Past Life (2:15)<br />&nbsp;16. Bill Eidson - Worst Heartache (2:33)<br />&nbsp;17. Fay Frymire - Big Clown A Crying (2:42)<br />&nbsp;18. Fay Frymire - Blue Side Of Heaven (2:38)<br />&nbsp;19. Jimmy Dry - Never Too Late (2:56)<br />&nbsp;20. Jimmy Dry - Who's This Lonely Fool (2:13)<br />&nbsp;21. Jack Starr - Footsteps Of A Fool (2:29)<br />&nbsp;22. Jack Starr - And Then I Knew (2:30)<br />&nbsp;23. Don Adams - I Just Lost My Favorite Girl (2:38)<br />&nbsp;24. Don Adams - You Introduced Me To The Blues (1:59)<br />&nbsp;25. Don Adams - Heartaches Deep In Sorrow (2:12)<br />&nbsp;26. Milta Peterson - The Brush Off (2:50)<br />&nbsp;27. Milta Peterson - Forgiving You Again (3:07)<br />&nbsp;28. Stoney Stark - Face In The Crowd (2:32)<br />&nbsp;29. Stoney Stark - Your Conscience Will Hurt (2:44)<br />&nbsp;30. Danny Harrison - Beware Of Her You Fool (2:13)<br />&nbsp;31. Danny Harrison - Hush Little Baby (2:17)<p></p>\n<div><input onclick=\"if(this.parentNode.getElementsByTagName('div')[0].style.display != ''){this.parentNode.getElementsByTagName('div')[0].style.display = '';this.value = '*** LINKS ***';}else{this.parentNode.getElementsByTagName('div')[0].style.display = 'none'; this.value = '*** DOWNLOAD ***';}\" type=\"button\" value=\"*** DOWNLOAD ***\" /><div style=\"display: none;\">\n\n<p><a href=\"https://nitroflare.com/view/FF08F8FD85F9902/VA_TheCompleteDSinglesCollectionV5.rar\" target=\"_blank\">https://nitroflare.com/view/FF08F8FD85F9902/VA_TheCompleteDSinglesCollectionV5.rar</a></p><p><a href=\"https://filejoker.net/3vz9oi13svk7/VA_TheCompleteDSinglesCollectionV5.rar\" target=\"_blank\">https://filejoker.net/3vz9oi13svk7/VA_TheCompleteDSinglesCollectionV5.rar</a><br /></p></div></div>\n\npass: polarbear"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://forwardwiththesong.blogspot.com/feeds/9124430792376505673/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2022/11/va-d-singles-volume-5-2002.html#comment-form",
+            "title": "1 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/9124430792376505673"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/9124430792376505673"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2022/11/va-d-singles-volume-5-2002.html",
+            "title": "VA - The Complete D Singles Collection ~ Volume 5 (2002)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Polar Bear"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/04942747361652812673"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "33",
+              "height": "23",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-R_Awjxf54Ff218ySSymJG0YJ_LNmqGBDl9tuzxnTZWFf3Hr090yE-YDRFDRmTyaLMlOGZlboB4E6QcXbCMxkngi7zzHy-XDHayIJJrGC7oSQ3X68twpLiRcwVFQHm0/s220/2951372.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHS0FlkCvpilNKQkrOZCDyJFwqu9vXjZgP8_rUvmEGpHeKJc60dqqJ3Uavpj61njDUvjlWzqfUvlocarMHMxtKJKWBFFBZbWe5XqVQ3cwnuCpE03K9q1OyaVU2GaxjXP7e2d0Y4xMyPjWWqGdGPXKfcKL1gemDIIP8OssczMKfvUlzsyjjswYUnO6zXnLY/s72-w400-h400-c/front1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-277276459473513904.post-8242193474654076759"
+        },
+        "published": {
+          "$t": "2026-10-06T19:51:00.000+03:00"
+        },
+        "updated": {
+          "$t": "2026-10-06T19:52:53.715+03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Johnny Mercer"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "VA"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "VA - American Songbook Series ~ Johnny Mercer (1993)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiso1huE1GYYFFwTfRbNkAiYt4s3Y6g3g1Hg5PKc1-LKXE1DyMxVPNqz4KRb4RSulvgSYKWjYhB9m21JfMR8boal4wwoMuJymhbyK4S47Ryy9iQU7akmyom77d06Ebtw0qLCHkmaJLt1bDkr0qpiVMtL65sFF1q5eLmiHg6bT37ln5fJqkRFYihISKsS126/s1000/front1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"985\" data-original-width=\"1000\" height=\"394\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiso1huE1GYYFFwTfRbNkAiYt4s3Y6g3g1Hg5PKc1-LKXE1DyMxVPNqz4KRb4RSulvgSYKWjYhB9m21JfMR8boal4wwoMuJymhbyK4S47Ryy9iQU7akmyom77d06Ebtw0qLCHkmaJLt1bDkr0qpiVMtL65sFF1q5eLmiHg6bT37ln5fJqkRFYihISKsS126/w400-h394/front1.jpg\" width=\"400\" /></a></div><br /><div dir=\"ltr\" style=\"text-align: left;\" trbidi=\"on\"><br />\n<div style=\"text-align: center;\"><span style=\"color: orange;\">Vocal, Jazz | Mp3 320 kbps | 158 Mb</span></div><br />\n1. Johnny 'Scat' Davis &amp; Frances Langford - Hooray For Hollywood (3:42)<br />\n2. Johnny Mercer - Bob White (What You Gonna Swing Tonight) (3:05)<br />\n3. Louis Armstrong - Jeepers Creepers (2:41)<br />\n4. Day Out - Bob Crosby Featuring Helen Ward - Day in (2:54)<br />\n5. Mildred Bailey - Fools Rush in (3:18)<br />\n6. Dinah Shore - Dearly Beloved (2:38)<br />\n7. Jo Stafford - Dream (2:50)<br />\n<a name='more'></a>8. Helen O'Connell &amp; Bob Eberly - Tangerine (3:12)<br />\n9. Bing Crosby &amp; Mary Martin - The Waiter and the Porter and the Upstairs Maid (3:12)<br />\n10. Billie Holiday - Trav'Lin' Light (3:20)<br />\n11. Woody Herman - Laura (3:23)<br />\n12. The Mills Brothers - Glow Worm (2:41)<br />\n13. Judy Garland - Anyplace I Hang My Hat Is Home (4:07)<br />\n14. Peter Palmer, Stubby Kaye &amp; Company - The Country's in the Very Best Hands (5:17)<br />\n15. Gordon Macrae - Autumn Leaves (2:53)<br />\n16. Margaret Whiting - Hit the Road to Dreamland (2:32)<br />\n17. Diahann Carroll - Goody Goody (2:09)<br />\n18. Tony Bennett - I Wanna Be Around (2:11)<br />\n19. Mel Torme - P.s. I Love You (2:49)<br />\n20. Johnny Mathis - Whistling Away the Dark (3:22)<br />\n21. Andy Williams - Moon River (2:43)<br />\n<br />\n<div><input onclick=\"if(this.parentNode.getElementsByTagName('div')[0].style.display != ''){this.parentNode.getElementsByTagName('div')[0].style.display = '';this.value = '*** LINKS ***';}else{this.parentNode.getElementsByTagName('div')[0].style.display = 'none'; this.value = '*** DOWNLOAD ***';}\" type=\"button\" value=\"*** DOWNLOAD ***\" /><div style=\"display: none;\"><br />\n<a href=\"https://nitroflare.com/view/BAEE3AA10AD3343/VA_AmericanSongbookSeriesJohnnyMercer.rar\" target=\"_blank\">https://nitroflare.com/view/BAEE3AA10AD3343/VA_AmericanSongbookSeriesJohnnyMercer.rar</a><br />\n<br />\n<a href=\"https://filejoker.net/9uemhrjshb2y/VA_AmericanSongbookSeriesJohnnyMercer.rar\" target=\"_blank\">https://filejoker.net/9uemhrjshb2y/VA_AmericanSongbookSeriesJohnnyMercer.rar</a></div></div></div><br />\npass: polarbear<br />"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://forwardwiththesong.blogspot.com/feeds/8242193474654076759/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2020/07/va-american-songbook-series-johnny.html#comment-form",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/8242193474654076759"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/8242193474654076759"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2020/07/va-american-songbook-series-johnny.html",
+            "title": "VA - American Songbook Series ~ Johnny Mercer (1993)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Polar Bear"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/04942747361652812673"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "33",
+              "height": "23",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-R_Awjxf54Ff218ySSymJG0YJ_LNmqGBDl9tuzxnTZWFf3Hr090yE-YDRFDRmTyaLMlOGZlboB4E6QcXbCMxkngi7zzHy-XDHayIJJrGC7oSQ3X68twpLiRcwVFQHm0/s220/2951372.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiso1huE1GYYFFwTfRbNkAiYt4s3Y6g3g1Hg5PKc1-LKXE1DyMxVPNqz4KRb4RSulvgSYKWjYhB9m21JfMR8boal4wwoMuJymhbyK4S47Ryy9iQU7akmyom77d06Ebtw0qLCHkmaJLt1bDkr0qpiVMtL65sFF1q5eLmiHg6bT37ln5fJqkRFYihISKsS126/s72-w400-h394-c/front1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-277276459473513904.post-7018064435694748064"
+        },
+        "published": {
+          "$t": "2026-10-06T19:09:00.000+03:00"
+        },
+        "updated": {
+          "$t": "2026-10-06T19:11:01.974+03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Harry Warren"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "VA"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "VA - American Songbook Series ~ Harry Warren (1993)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJk_0ABTeWQODUdv9HjuXEnXqK5oZ6G0XgtD7sMKE_gqgQ4ljGeXdySRqnyBprtNEuW0lVwtRDgXudMxIEFAjPO7R2Bc4BdccC0n6cQLiPWP9moD552WpPmXm2guSNt8uM0q6ovLqYLNHYHbxXcQ0iD2BhX1hHypKX5oT_FNDVETc6EPjcKSO0O5QxQI37/s1000/front1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"996\" data-original-width=\"1000\" height=\"399\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJk_0ABTeWQODUdv9HjuXEnXqK5oZ6G0XgtD7sMKE_gqgQ4ljGeXdySRqnyBprtNEuW0lVwtRDgXudMxIEFAjPO7R2Bc4BdccC0n6cQLiPWP9moD552WpPmXm2guSNt8uM0q6ovLqYLNHYHbxXcQ0iD2BhX1hHypKX5oT_FNDVETc6EPjcKSO0O5QxQI37/w400-h399/front1.jpg\" width=\"400\" /></a></div><br /><div dir=\"ltr\" style=\"text-align: left;\" trbidi=\"on\"><br />\n<div style=\"text-align: center;\"><span style=\"color: orange;\">Vocal, Jazz | Mp3 320 kbps | 168 Mb</span></div><br />\n1. Ginger Rogers - The Gold Digger's Song (We're in the Money) (4:02)<br />\n2. Dick Powell - The Shadow Waltz (3:02)<br />\n3. Wini Shaw - Lullaby of Broadway (2:46)<br />\n4. Glenn Miller &amp; His Orchestra Featuring Tex Beneke &amp; the Modernaires - Chattanooga Choo Choo (3:29)<br />\n5. Harry James Orchestra Featuring Helen Forrest - I Had the Craziest Dream (3:26)<br />\n6. Glenn Miller &amp; His Orchestra Featuring Ray Eberle &amp; the Modernaires - Serenade in Blue (3:29)<br />\n7. Dick Haymes - The More I See You (3:05)<br />\n<a name='more'></a>8. Maxine Sullivan - This Heart of Mine (3:09)<br />\n9. Judy Garland with the Merry Macs - On the Atchison, Topeka and the Santa Fe (3:12)<br />\n10. Judy Garland - Friendly Star (3:21)<br />\n11. Fred Astaire - I Want to Be a Dancin' Man (4:12)<br />\n12. Nat King Cole Trio - I'll String Along with You (3:15)<br />\n13. Jo Stafford - No Love, No Nothin' (3:20)<br />\n14. Tony Bennett - Boulevard of Broken Dreams (2:34)<br />\n15. Rosemary Clooney - You'll Never Know (3:12)<br />\n16. Teddi King - This Is Always (2:45)<br />\n17. Vic Damone - An Affair to Remember (1:53)<br />\n18. Jackie and Roy - There Will Never Be Another You (2:49)<br />\n19. David Allyn - I Only Have Eyes For You (3:10)<br />\n20. The Hi-lo's - Lulu's Back in Town (2:57)<br />\n21. Mel Torme - 42nd Street (2:25)<br />\n22. Maureen McGovern - You're Getting to Be a Habit with Me (3:07)<br />\n<br />\n<div><input onclick=\"if(this.parentNode.getElementsByTagName('div')[0].style.display != ''){this.parentNode.getElementsByTagName('div')[0].style.display = '';this.value = '*** LINKS ***';}else{this.parentNode.getElementsByTagName('div')[0].style.display = 'none'; this.value = '*** DOWNLOAD ***';}\" type=\"button\" value=\"*** DOWNLOAD ***\" /><div style=\"display: none;\"><br />\n<a href=\"https://nitroflare.com/view/579758BBEE89393/VA_AmericanSongbookSeriesHarryWarren.rar\" target=\"_blank\">https://nitroflare.com/view/579758BBEE89393/VA_AmericanSongbookSeriesHarryWarren.rar</a><br />\n<br />\n<a href=\"https://filejoker.net/qp7j2o3rjoy4/VA_AmericanSongbookSeriesHarryWarren.rar\" target=\"_blank\">https://filejoker.net/qp7j2o3rjoy4/VA_AmericanSongbookSeriesHarryWarren.rar</a></div></div></div><br />\npass: polarbear<br />"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://forwardwiththesong.blogspot.com/feeds/7018064435694748064/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2020/06/va-american-songbook-series-harry.html#comment-form",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/7018064435694748064"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/7018064435694748064"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2020/06/va-american-songbook-series-harry.html",
+            "title": "VA - American Songbook Series ~ Harry Warren (1993)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Polar Bear"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/04942747361652812673"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "33",
+              "height": "23",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-R_Awjxf54Ff218ySSymJG0YJ_LNmqGBDl9tuzxnTZWFf3Hr090yE-YDRFDRmTyaLMlOGZlboB4E6QcXbCMxkngi7zzHy-XDHayIJJrGC7oSQ3X68twpLiRcwVFQHm0/s220/2951372.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJk_0ABTeWQODUdv9HjuXEnXqK5oZ6G0XgtD7sMKE_gqgQ4ljGeXdySRqnyBprtNEuW0lVwtRDgXudMxIEFAjPO7R2Bc4BdccC0n6cQLiPWP9moD552WpPmXm2guSNt8uM0q6ovLqYLNHYHbxXcQ0iD2BhX1hHypKX5oT_FNDVETc6EPjcKSO0O5QxQI37/s72-w400-h399-c/front1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-277276459473513904.post-4184696591998254612"
+        },
+        "published": {
+          "$t": "2026-10-06T07:52:00.000+03:00"
+        },
+        "updated": {
+          "$t": "2026-10-06T07:53:44.573+03:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Duke Ellington"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "VA"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "VA - American Songbook Series ~ Duke Ellington (1994)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div dir=\"ltr\" style=\"text-align: left;\" trbidi=\"on\"><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqd7M5zY491bHYlcBVmN1PKE3fpUlbkqteyjYE7rBJoctLtxHBnn4PMMu_-6312paZicCDswkNsNx_L1GRMOINEK5DWkdcLvgllKXBKyQtGqH6Xaw0vIq30uOAm30cTglfxwN2bEHpPI8VUBA6sAy3fs4g7J5XHsYSLraIf52OdgWBUe4Gzxx7wM51QEK/s1000/front1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"980\" data-original-width=\"1000\" height=\"393\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqd7M5zY491bHYlcBVmN1PKE3fpUlbkqteyjYE7rBJoctLtxHBnn4PMMu_-6312paZicCDswkNsNx_L1GRMOINEK5DWkdcLvgllKXBKyQtGqH6Xaw0vIq30uOAm30cTglfxwN2bEHpPI8VUBA6sAy3fs4g7J5XHsYSLraIf52OdgWBUe4Gzxx7wM51QEK/w400-h393/front1.jpg\" width=\"400\" /></a></div><br />\n<div style=\"text-align: center;\"><span style=\"color: orange;\">Vocal, Jazz | Mp3 320 kbps | 155 Mb</span></div><br />\n1. Frank Sinatra - Mood Indigo (3:33)<br />\n2. Rosemary Clooney &amp; Ellington Orchestra - Sophisticated Lady (2:59)<br />\n3. Billie Holiday - Solitude (3:15)<br />\n4. Billy Eckstine - In a Sentimental Mood (2:36)<br />\n5. Mildred Bailey - I Let a Song Go Out of My Heart (2:55)<br />\n6. Carmen McRae - Something to Live For (3:13)<br />\n7. Tony Bennett - Don't Get Around Much Anymore (2:03)<br />\n<a name='more'></a>8. Peggy Lee - All Too Soon (2:39)<br />\n9. Dinah Shore - Do Nothing Till You Hear From Me (3:32)<br />\n10. Jo Stafford - Just Squeeze Me (2:57)<br />\n11. Joe Williams - Just a-Sittin' and a-Rockin' (2:37)<br />\n12. Nat King Cole - I Got It Bad (And That Ain't Good) (3:45)<br />\n13. Joe Williams - Rocks in My Bed (3:38)<br />\n14. Kitty Kallen &amp; Harry James Orchestra - I'm Beginning to See the Light (3:16)<br />\n15. Lena Horne - I Didn't Know About You (3:06)<br />\n16. Eugenie Baird - Everything But You (2:09)<br />\n17. Lena Horne - I Ain't Got Nothin' But the Blues (2:56)<br />\n18. Ella Fitzgerald - I'm Just a Lucky So and So (2:53)<br />\n19. Mel Torme - I Like the Sunrise (3:17)<br />\n20. Ella Fitzgerald - Love You Madly (3:01)<br />\n21. Carmen McRae - Satin Doll (4:35)<br />\n<br />\n<div><input onclick=\"if(this.parentNode.getElementsByTagName('div')[0].style.display != ''){this.parentNode.getElementsByTagName('div')[0].style.display = '';this.value = '*** LINKS ***';}else{this.parentNode.getElementsByTagName('div')[0].style.display = 'none'; this.value = '*** DOWNLOAD ***';}\" type=\"button\" value=\"*** DOWNLOAD ***\" /><div style=\"display: none;\"><br />\n<a href=\"https://nitroflare.com/view/8C2AADF1BACFBC5/VA_AmericanSongbookSeriesDukeEllington.rar\" target=\"_blank\">https://nitroflare.com/view/8C2AADF1BACFBC5/VA_AmericanSongbookSeriesDukeEllington.rar</a><br />\n<br />\n<a href=\"https://filejoker.net/h00qtmya9n9o/VA_AmericanSongbookSeriesDukeEllington.rar\" target=\"_blank\">https://filejoker.net/h00qtmya9n9o/VA_AmericanSongbookSeriesDukeEllington.rar</a></div></div></div><br />\npass: polarbear<br />"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://forwardwiththesong.blogspot.com/feeds/4184696591998254612/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2020/06/va-american-songbook-series-duke.html#comment-form",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/4184696591998254612"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/277276459473513904/posts/default/4184696591998254612"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://forwardwiththesong.blogspot.com/2020/06/va-american-songbook-series-duke.html",
+            "title": "VA - American Songbook Series ~ Duke Ellington (1994)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Polar Bear"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/04942747361652812673"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "33",
+              "height": "23",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-R_Awjxf54Ff218ySSymJG0YJ_LNmqGBDl9tuzxnTZWFf3Hr090yE-YDRFDRmTyaLMlOGZlboB4E6QcXbCMxkngi7zzHy-XDHayIJJrGC7oSQ3X68twpLiRcwVFQHm0/s220/2951372.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrqd7M5zY491bHYlcBVmN1PKE3fpUlbkqteyjYE7rBJoctLtxHBnn4PMMu_-6312paZicCDswkNsNx_L1GRMOINEK5DWkdcLvgllKXBKyQtGqH6Xaw0vIq30uOAm30cTglfxwN2bEHpPI8VUBA6sAy3fs4g7J5XHsYSLraIf52OdgWBUe4Gzxx7wM51QEK/s72-w400-h393-c/front1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}

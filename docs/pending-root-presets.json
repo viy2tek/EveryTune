@@ -1,0 +1,477 @@
+[
+  {
+    "id": "custom_fed_a50d4a54a4",
+    "name": "madrotter-treasure-hunt",
+    "endpoint": "https://madrotter-treasure-hunt.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_f34b86bf6d",
+    "name": "Tape Attack",
+    "endpoint": "https://tapeattack.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_d2502d0890",
+    "name": "DeadPulpit",
+    "endpoint": "https://www.deadpulpit.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_fffec4cd01",
+    "name": "Butterboy Compilations",
+    "endpoint": "https://butterboycompilations.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_ef84abba30",
+    "name": "Primitive Offerings",
+    "endpoint": "https://primitiveofferings.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_ea5a9f3554",
+    "name": "KTI Music",
+    "endpoint": "https://ktimusic.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_4154642616",
+    "name": "Die or DIY",
+    "endpoint": "https://dieordiy2.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_55cee8fe7f",
+    "name": "With The Song Of Life",
+    "endpoint": "https://forwardwiththesong.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_671986d195",
+    "name": "Sophie's Floorboard",
+    "endpoint": "https://sophiesfloorboard.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_eb991fa4d0",
+    "name": "ProgRockVintage",
+    "endpoint": "https://www.progrockvintage.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_e96ef97a26",
+    "name": "aboutdisco",
+    "endpoint": "https://aboutdiscowithlove.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_fcee38b372",
+    "name": "The T-SQUARE Plaza",
+    "endpoint": "https://tsquareplaza.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_5074d94813",
+    "name": "1000 Flights",
+    "endpoint": "https://1000flights.blogspot.com/feeds/posts/default",
+    "format": "json",
+    "respect_robots": true,
+    "query_param": "q",
+    "params": {
+      "alt": "json"
+    },
+    "results_path": "feed.entry",
+    "results_optional": true,
+    "fields": {
+      "title": "title.$t",
+      "url": "link[rel=alternate].href",
+      "id": "id.$t"
+    },
+    "kind": "catalogue_post",
+    "limit_param": "max-results",
+    "page_param": "start-index",
+    "page_mode": "index",
+    "page_start": 1,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_4ccff89824",
+    "name": "LosslessAlbums",
+    "endpoint": "https://losslessalbums.club/",
+    "format": "html",
+    "method": "POST",
+    "query_param": "story",
+    "params": {
+      "do": "search",
+      "subaction": "search"
+    },
+    "results_path": "a.short-t",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_a113644fe2",
+    "name": "nodata",
+    "endpoint": "https://nodata.tv",
+    "format": "html",
+    "method": "GET",
+    "query_param": "s",
+    "params": {},
+    "results_path": "section.post .title h4 a",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_4bd247adc4",
+    "name": "FlacMusic",
+    "endpoint": "https://www.flacmusic.info/index.php",
+    "format": "html",
+    "method": "GET",
+    "query_param": "story",
+    "params": {
+      "do": "search",
+      "subaction": "search"
+    },
+    "results_path": "a:has(> h1.h4)",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_449990f36e",
+    "name": "FreeMIDI",
+    "endpoint": "https://freemidi.org/search",
+    "format": "html",
+    "method": "GET",
+    "query_param": "q",
+    "params": {},
+    "results_path": ".card-title a",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_111401798a",
+    "name": "Grime Archive",
+    "endpoint": "https://www.grimearchive.org/search",
+    "format": "html",
+    "method": "GET",
+    "query_param": "title",
+    "params": {},
+    "results_path": "tr.mix-row .td-title a.mix-link",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_91354dbc18",
+    "name": "HQ Hip Hop",
+    "endpoint": "https://94hiphop.com/",
+    "format": "html",
+    "method": "GET",
+    "query_param": "s",
+    "params": {},
+    "results_path": "#content article > .ttl > a",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_b963b1a376",
+    "name": "BurningTheGround",
+    "endpoint": "https://burningtheground.net/",
+    "format": "html",
+    "method": "GET",
+    "query_param": "s",
+    "params": {},
+    "results_path": "article .entry-title a",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  },
+  {
+    "id": "custom_fed_5332c157cb",
+    "name": "Tom Lehrer Songs",
+    "endpoint": "https://tomlehrersongs.com/",
+    "format": "html",
+    "method": "GET",
+    "query_param": "s",
+    "params": {},
+    "results_path": "article h2.fusion-post-title a",
+    "fields": {
+      "title": "",
+      "url": "@href"
+    },
+    "kind": "catalogue_post",
+    "limit_param": null,
+    "interval": 1.5,
+    "ttl": 3600
+  }
+]

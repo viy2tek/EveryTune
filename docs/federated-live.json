@@ -1,0 +1,934 @@
+[
+  {
+    "id": "custom_ezhevika",
+    "name": "Ezhevika",
+    "endpoint": "https://ezhevika.blogspot.com/feeds/posts/default",
+    "query": "Halifax",
+    "matches": 1,
+    "examples": [
+      {
+        "title": "Halifax - Halifax (1981)",
+        "url": "https://ezhevika.blogspot.com/2026/10/halifax-halifax-1981.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_josephbarulho",
+    "name": "Cova-Argh!!!!",
+    "endpoint": "https://josephbarulho.blogspot.com/feeds/posts/default",
+    "query": "Destruction",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Destruction - Birth of Malice (2025)",
+        "url": "https://josephbarulho.blogspot.com/2026/11/destruction-birth-of-malice-2025.html"
+      },
+      {
+        "title": "Destruction - Birth of Malice (EP 2024)",
+        "url": "https://josephbarulho.blogspot.com/2025/01/destruction-birth-of-malice-ep-2024.html"
+      },
+      {
+        "title": "Open Surgery – Absolute Destruction (2024)",
+        "url": "https://josephbarulho.blogspot.com/2024/07/open-surgery-absolute-destruction-2024.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_urbanaspirines",
+    "name": "Urban Asprines",
+    "endpoint": "https://urbanaspirines.blogspot.com/feeds/posts/default",
+    "query": "John",
+    "matches": 5,
+    "examples": [
+      {
+        "title": " John Lee Hooker With The Groundhogs – Hooker & The Hogs (May and June of 1965) 2003",
+        "url": "https://urbanaspirines.blogspot.com/2026/11/john-lee-hooker-with-groundhogs-hooker.html"
+      },
+      {
+        "title": "Gong: Discography 1970 - 1979 (11 Albums)",
+        "url": "https://urbanaspirines.blogspot.com/2026/11/gong-discography-1970-1979-11-albums.html"
+      },
+      {
+        "title": "Lou Reed: Original Album Classics + Rock 'n' Roll Animal 1974 + Street Hassle 1978 + The Blue Mask 1982",
+        "url": "https://urbanaspirines.blogspot.com/2026/10/lou-reed-original-album-classics-rock-n.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_paradiseofgaragecomps",
+    "name": "Paradise of Garage Comps",
+    "endpoint": "https://paradiseofgaragecomps.blogspot.com/feeds/posts/default",
+    "query": "Reuploads",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Reuploads-2016 !",
+        "url": "https://paradiseofgaragecomps.blogspot.com/2026/09/reuploads-2016.html"
+      },
+      {
+        "title": "Reuploads-2015 !",
+        "url": "https://paradiseofgaragecomps.blogspot.com/2026/08/reuploads-2015.html"
+      },
+      {
+        "title": "Reuploads-2014 !",
+        "url": "https://paradiseofgaragecomps.blogspot.com/2026/06/reuploads-2014.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_flatblackandclassical",
+    "name": "FlatblackAndClassical",
+    "endpoint": "https://www.flatblackandclassical.com/feeds/posts/default",
+    "query": "Dagar",
+    "matches": 2,
+    "examples": [
+      {
+        "title": "Dagar Brothers (MOAE 135) an LP recorded and released in India in 1965",
+        "url": "https://www.flatblackandclassical.com/2025/03/dagar-brothers-moae-135-lp-recorded-and.html"
+      },
+      {
+        "title": "Something unexpected",
+        "url": "https://www.flatblackandclassical.com/2018/06/something-unexpected.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_music_republic_world_traditional",
+    "name": "MusicRepublic",
+    "endpoint": "https://music-republic-world-traditional.blogspot.com/feeds/posts/default",
+    "query": "ANGOLA",
+    "matches": 3,
+    "examples": [
+      {
+        "title": "ANGOLA – MALAWI – CAMEROON – NIGERIA – EGYPT – UGANDA – TANZANIA – IRAQ – CONGO – MAURITANIA – CÔTE D’IVOIRE Afrikanische Saiteninstrumente / African String Instruments – 24 Musical Examples – Curated by Ulrich Wegner – Museum fur Volkerkunde – SMPK bln 41",
+        "url": "https://music-republic-world-traditional.blogspot.com/2026/10/angola-malawi-cameroon-nigeria-egypt.html"
+      },
+      {
+        "title": "BRAZIL – Mestre Paulo dos Anjos – Capoeira da Bahia – ABPC",
+        "url": "https://music-republic-world-traditional.blogspot.com/2023/06/brazil-bresil-mestre-paulo-dos-anjos.html"
+      },
+      {
+        "title": "CONGO – GHANA – NIGERIA – SIERRA LEONE – SOUTH AFRICA – KENYA – TANZANIA – MOZAMBIQUE – UGANDA – ETHIOPIA African Dances – Authentic 601",
+        "url": "https://music-republic-world-traditional.blogspot.com/2022/05/congo-ghana-nigeria-sierra-leone-south.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_nathannothinsez",
+    "name": "Nothin' Sez Somethin'",
+    "endpoint": "https://nathannothinsez.blogspot.com/feeds/posts/default",
+    "query": "Musick",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Musick that Needed Work: U - UNKLE",
+        "url": "https://nathannothinsez.blogspot.com/2026/11/musick-that-needed-work-u-unkle.html"
+      },
+      {
+        "title": "Musick that Needed Work: U - Unknown Passage",
+        "url": "https://nathannothinsez.blogspot.com/2026/11/musick-that-needed-work-u-unknown.html"
+      },
+      {
+        "title": "Musick that Needed Work: U - Umar Bin Hassan",
+        "url": "https://nathannothinsez.blogspot.com/2026/11/musick-that-needed-work-u-umar-bin.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_inconstantsol",
+    "name": "inconstant sol",
+    "endpoint": "https://inconstantsol.blogspot.com/feeds/posts/default",
+    "query": "What",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "What a long, strange trip ...",
+        "url": "https://inconstantsol.blogspot.com/2011/01/what-long-strange-trip.html"
+      },
+      {
+        "title": "AKIRA SAKATA ORCHESTRA  \"TOKYO, 1982\"",
+        "url": "https://inconstantsol.blogspot.com/2024/10/akira-sakata-orchestra-tokyo-1982.html"
+      },
+      {
+        "title": "RICHARD DUNBAR - RUNNING BUDDIES VOL. 2 (JAHARI RECORDS, 1983)",
+        "url": "https://inconstantsol.blogspot.com/2023/04/richard-dunbar-running-buddies-vol-2.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_toneandwave",
+    "name": "Tone and Wave",
+    "endpoint": "https://toneandwave.blogspot.com/feeds/posts/default",
+    "query": "Sparker",
+    "matches": 2,
+    "examples": [
+      {
+        "title": "Sparker - demo tape (1993)",
+        "url": "https://toneandwave.blogspot.com/2026/11/sparker-demo-tape-1993.html"
+      },
+      {
+        "title": "Sparker [Santa Barbara/Goleta, California]",
+        "url": "https://toneandwave.blogspot.com/2018/11/sparker-santa-barbaragoleta-california.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_ccmixter",
+    "name": "ccMixter",
+    "endpoint": "https://ccmixter.org/search",
+    "query": "love",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Prosthetic Summer",
+        "url": "https://ccmixter.org/files/MalreDeszik/71326"
+      },
+      {
+        "title": "Welcome to the New World",
+        "url": "https://ccmixter.org/files/VJ_Memes/71321"
+      },
+      {
+        "title": "One Love (Only One)",
+        "url": "https://ccmixter.org/files/admiralbob77/71314"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_canna",
+    "name": "Canna",
+    "endpoint": "https://canna.to/suche",
+    "query": "Abba",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "100 Hits Of The 70&#x27;s & 80&#x27;s & 90&#x27;s (2020)",
+        "url": "https://canna.to/u/689142-100-hits-of-the-70-s-80-s-90-s-2020"
+      },
+      {
+        "title": "Kontor Top Of The Pops 2026 (2026)",
+        "url": "https://canna.to/u/689082-kontor-top-of-the-pops-2026-2026"
+      },
+      {
+        "title": "All Out 80s (2021)",
+        "url": "https://canna.to/u/688838-all-out-80s-2021"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_cannapower",
+    "name": "CannaPower",
+    "endpoint": "https://canna-power.to/suche",
+    "query": "Abba",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "100 Hits Of The 70&#x27;s & 80&#x27;s & 90&#x27;s (2020)",
+        "url": "https://canna-power.to/u/689142-100-hits-of-the-70-s-80-s-90-s-2020"
+      },
+      {
+        "title": "Kontor Top Of The Pops 2026 (2026)",
+        "url": "https://canna-power.to/u/689082-kontor-top-of-the-pops-2026-2026"
+      },
+      {
+        "title": "All Out 80s (2021)",
+        "url": "https://canna-power.to/u/688838-all-out-80s-2021"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_geocities_midis",
+    "name": "Geocities MIDIs",
+    "endpoint": "https://www.midicities.com/geocities-search",
+    "query": "titanic",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "3Titanic.mid",
+        "url": "https://www.midicities.com/ViewGeocitiesSong?token=1880c7a4-6820-48f0-85a8-f3c1eda30235"
+      },
+      {
+        "title": "rose-titanic.mid",
+        "url": "https://www.midicities.com/ViewGeocitiesSong?token=d67f58c7-bc20-404c-8e7c-45dcc349732d"
+      },
+      {
+        "title": "rosetitanic.mid",
+        "url": "https://www.midicities.com/ViewGeocitiesSong?token=0202a61e-d00e-48a7-8527-38e473ea7f3d"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_rapload",
+    "name": "Rapload",
+    "endpoint": "https://rapload.org/",
+    "query": "Nas",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Nasaan – Method Acting (2026)",
+        "url": "https://rapload.org/?audio=nasaan-method-acting-2026"
+      },
+      {
+        "title": "Nas – Feature Presentation 2025 (2026)",
+        "url": "https://rapload.org/?audio=nas-feature-presentation-2025-2026"
+      },
+      {
+        "title": "Mr. Brady & Chnaski – Gods Plan (2025)",
+        "url": "https://rapload.org/?audio=mr-brady-chnaski-gods-plan-2025"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_gabber",
+    "name": "Gabber",
+    "endpoint": "https://gabber.od.ua/tt",
+    "query": "Angerfist",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Angerfist & T78 - Psycho Killa (2026)",
+        "url": "https://gabber.od.ua/node/44505/angerfist-t78-psycho-killa-2026"
+      },
+      {
+        "title": "Neophyte - Recession (Angerfist Remix) (2026)",
+        "url": "https://gabber.od.ua/node/44019/neophyte-recession-angerfist-remix-2026"
+      },
+      {
+        "title": "Angerfist - The Devils List (2026)",
+        "url": "https://gabber.od.ua/node/43667/angerfist-the-devils-list-2026"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_globaldjmix",
+    "name": "GlobalDJMix",
+    "endpoint": "https://globaldjmix.com/search-result",
+    "query": "Solomun",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Solomun - Live @ Tomorrowland 2025 (Week 2) Freedom Stage (150m)",
+        "url": "https://globaldjmix.com/solomun-live-tomorrowland-2025-week-2-freedom-stage-2025-july-26/"
+      },
+      {
+        "title": "Solomun - Live @ Tomorrowland 2025 (Week 1) (61m)",
+        "url": "https://globaldjmix.com/solomun-live-tomorrowland-2025-week-1-2025-july-20/"
+      },
+      {
+        "title": "Armin van Buuren & Solomun - Dance Department  (154m)",
+        "url": "https://globaldjmix.com/armin-van-buuren-solomun-dance-department-2025-may-24/"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_systems_of_romance",
+    "name": "Systems of Romance",
+    "endpoint": "https://www.systemsofromance.com/blog/",
+    "query": "coldwave",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Coldwave grab bag: Red Rain Coat & Jus Dorange",
+        "url": "https://www.systemsofromance.com/blog/2012/03/coldwave-grab-bag-red-rain-coat-jus-dorange/"
+      },
+      {
+        "title": "WIERD Records CD-Rs / DJ Mixes",
+        "url": "https://www.systemsofromance.com/blog/2025/09/wierd-records-cd-rs-dj-mixes/"
+      },
+      {
+        "title": "Réseau d’Ombres – Abracax K7",
+        "url": "https://www.systemsofromance.com/blog/2025/04/reseau-dombres-abracax-k7/"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_classical_music_download",
+    "name": "Classical Music Download",
+    "endpoint": "https://classical-music-download.com/",
+    "query": "Bach",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Nils Anders Mortensen - J.S. Bach: Partitas Nos. 2, 3 & 4, BWV 826-828",
+        "url": "https://classical-music-download.com/piano/19620-nils-anders-mortensen-js-bach-partitas-nos-2-3-amp-4-bwv-826-828-2026-flac-hi-res.html"
+      },
+      {
+        "title": "Víkingur Ólafsson - Continuum II (2026) FLAC + Hi-Res",
+        "url": "https://classical-music-download.com/piano/19619-vikingur-olafsson-continuum-ii-2026-flac-hi-res.html"
+      },
+      {
+        "title": "Vasily Petrenko, Royal Philharmonic Orchestra - Strauss: An Alpine Symphony",
+        "url": "https://classical-music-download.com/piano/19611-vasily-petrenko-royal-philharmonic-orchestra-strauss-an-alpine-symphony-live-2026-flac-hi-res.html"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_certifiedmixtapez",
+    "name": "Certified Mixtapez",
+    "endpoint": "https://www.certifiedmixtapez.com/Main/GetSearchResults",
+    "query": "Gucci",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Gucci Mane - Against All Odds",
+        "url": "https://www.certifiedmixtapez.com/Main/Details?refId=49e8528e"
+      },
+      {
+        "title": "bigbabygucci - Nausea",
+        "url": "https://www.certifiedmixtapez.com/Main/Details?refId=9d73920f"
+      },
+      {
+        "title": "Polo Mann - Feel Like 07 Soulja 06 Gucci",
+        "url": "https://www.certifiedmixtapez.com/Main/Details?refId=0fd69444"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_a50d4a54a4",
+    "name": "madrotter-treasure-hunt",
+    "endpoint": "https://madrotter-treasure-hunt.blogspot.com/feeds/posts/default",
+    "query": "APOLLO",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "THE APOLLO - SWEET AND BEAUTIFUL",
+        "url": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-sweet-and-beautiful.html"
+      },
+      {
+        "title": "THE APOLLO - HONG KONG FASCINATION",
+        "url": "https://madrotter-treasure-hunt.blogspot.com/2026/11/the-apollo-hong-kong-fascination.html"
+      },
+      {
+        "title": "POPULAR HITS BY THE APOLLO: SMILE",
+        "url": "https://madrotter-treasure-hunt.blogspot.com/2026/11/popular-hits-by-apollo-smile.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_f34b86bf6d",
+    "name": "Tape Attack",
+    "endpoint": "https://tapeattack.blogspot.com/feeds/posts/default",
+    "query": "Glenn",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Glenn Branca - 4.Symphonie West-Berlin 20.5.83, Metropol-Loft",
+        "url": "https://tapeattack.blogspot.com/2026/09/glenn-branca-4symphonie-west-berlin.html"
+      },
+      {
+        "title": "Tunnelvision - Tunnelvision",
+        "url": "https://tapeattack.blogspot.com/2024/02/tunnelvision-tunnelvision.html"
+      },
+      {
+        "title": "Toy Toy - A Sign Of Heat",
+        "url": "https://tapeattack.blogspot.com/2021/12/toy-toy-sign-of-heat.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_d2502d0890",
+    "name": "DeadPulpit",
+    "endpoint": "https://www.deadpulpit.com/feeds/posts/default",
+    "query": "SCRAPE",
+    "matches": 4,
+    "examples": [
+      {
+        "title": "SCRAPE - S/T EP",
+        "url": "https://www.deadpulpit.com/2026/10/scrape-st-ep.html"
+      },
+      {
+        "title": "Internal-Scrape EP (2020)",
+        "url": "https://www.deadpulpit.com/2020/06/internal-scrape-ep-2020.html"
+      },
+      {
+        "title": "Permanent Makeup-Scrape LP (2017)",
+        "url": "https://www.deadpulpit.com/2017/10/permanent-makeup-scrape-lp-2017.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_fffec4cd01",
+    "name": "Butterboy Compilations",
+    "endpoint": "https://butterboycompilations.blogspot.com/feeds/posts/default",
+    "query": "Hope",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "VA - Hope (A Butterboy Compilation) (4 x CDs)",
+        "url": "https://butterboycompilations.blogspot.com/2026/11/va-hope-butterboy-compilation-4-x-cds.html"
+      },
+      {
+        "title": "MY COMPILATION SERIES VOL. 263",
+        "url": "https://butterboycompilations.blogspot.com/2026/11/my-compilation-series-vol-263.html"
+      },
+      {
+        "title": "VA - Bare‑Beautiful Universe (A Butterboy Compilation) (4 x CDs)",
+        "url": "https://butterboycompilations.blogspot.com/2026/10/va-barebeautiful-universe-butterboy.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_ef84abba30",
+    "name": "Primitive Offerings",
+    "endpoint": "https://primitiveofferings.blogspot.com/feeds/posts/default",
+    "query": "various",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "various artists - Intended Play 2005: Wrongs Of Spring",
+        "url": "https://primitiveofferings.blogspot.com/2026/11/various-artists-intended-play-2005.html"
+      },
+      {
+        "title": "various artists - Salvation! Original Soundtrack",
+        "url": "https://primitiveofferings.blogspot.com/2026/11/various-artists-salvation-original.html"
+      },
+      {
+        "title": "various artists - Babe, You're No. 1",
+        "url": "https://primitiveofferings.blogspot.com/2026/10/various-artists-babe-youre-no-1.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_ea5a9f3554",
+    "name": "KTI Music",
+    "endpoint": "https://ktimusic.blogspot.com/feeds/posts/default",
+    "query": "Remix",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Remix PackSoul Solution",
+        "url": "https://ktimusic.blogspot.com/2026/04/style-house-date-2026-country-ukraine.html"
+      },
+      {
+        "title": "Kai TracidAnthology",
+        "url": "https://ktimusic.blogspot.com/2026/03/kai-tracid-anthology.html"
+      },
+      {
+        "title": "DJ Quicksilver / Kosmonova / Green Court Remix Anthology",
+        "url": "https://ktimusic.blogspot.com/2026/03/dj-quicksilver-kosmonova-green-court.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_4154642616",
+    "name": "Die or DIY",
+    "endpoint": "https://dieordiy2.blogspot.com/feeds/posts/default",
+    "query": "Various",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Various Artists – \"Cambodian Nuggets\" (Akenaton Records – AKENAT02) 2019",
+        "url": "https://dieordiy2.blogspot.com/2026/10/various-artists-cambodian-nuggets.html"
+      },
+      {
+        "title": "Various Artists - \"A Musical Anthology Of The Orient - Afghanistan\" (Bärenreiter-Musicaphon) 1968",
+        "url": "https://dieordiy2.blogspot.com/2026/09/various-artists-musical-anthology-of.html"
+      },
+      {
+        "title": "Mark Stewart – \"As The Veneer Of Democracy Starts To Fade\" (Mute – STUMM 24) 1985",
+        "url": "https://dieordiy2.blogspot.com/2026/07/mark-stewart-as-veneer-of-democracy.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_55cee8fe7f",
+    "name": "With The Song Of Life",
+    "endpoint": "https://forwardwiththesong.blogspot.com/feeds/posts/default",
+    "query": "Stafford",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Jo Stafford - Reflections ~ The Ultimate Collection (2009)",
+        "url": "https://forwardwiththesong.blogspot.com/2019/03/jo-stafford-reflections-ultimate.html"
+      },
+      {
+        "title": "VA - The Complete D Singles Collection ~ Volume 5 (2002)",
+        "url": "https://forwardwiththesong.blogspot.com/2022/11/va-d-singles-volume-5-2002.html"
+      },
+      {
+        "title": "VA - American Songbook Series ~ Johnny Mercer (1993)",
+        "url": "https://forwardwiththesong.blogspot.com/2020/07/va-american-songbook-series-johnny.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_671986d195",
+    "name": "Sophie's Floorboard",
+    "endpoint": "https://sophiesfloorboard.blogspot.com/feeds/posts/default",
+    "query": "Heavens",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Heavens To Betsy",
+        "url": "https://sophiesfloorboard.blogspot.com/2026/09/heavens-to-betsy.html"
+      },
+      {
+        "title": "Excuse 17",
+        "url": "https://sophiesfloorboard.blogspot.com/2026/09/excuse-17.html"
+      },
+      {
+        "title": "L'Antietam",
+        "url": "https://sophiesfloorboard.blogspot.com/2016/10/lantietam.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_eb991fa4d0",
+    "name": "ProgRockVintage",
+    "endpoint": "https://www.progrockvintage.com/feeds/posts/default",
+    "query": "DROSSELBART",
+    "matches": 1,
+    "examples": [
+      {
+        "title": "DROSSELBART - Drosselbart - 1970",
+        "url": "https://www.progrockvintage.com/2026/02/publicado-originalmente-em-setembro-de.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_e96ef97a26",
+    "name": "aboutdisco",
+    "endpoint": "https://aboutdiscowithlove.blogspot.com/feeds/posts/default",
+    "query": "Convertible",
+    "matches": 1,
+    "examples": [
+      {
+        "title": "Convertible - Like The Rain E.P",
+        "url": "https://aboutdiscowithlove.blogspot.com/2026/03/convertible-like-rain-ep.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_fcee38b372",
+    "name": "The T-SQUARE Plaza",
+    "endpoint": "https://tsquareplaza.blogspot.com/feeds/posts/default",
+    "query": "VOYAGE",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "VOYAGE (2026)",
+        "url": "https://tsquareplaza.blogspot.com/2026/06/voyage-2026.html"
+      },
+      {
+        "title": "Asterism (2024)",
+        "url": "https://tsquareplaza.blogspot.com/2024/10/asterism-2024.html"
+      },
+      {
+        "title": "BUILD UP (2024)",
+        "url": "https://tsquareplaza.blogspot.com/2024/09/build-up-2024.html"
+      }
+    ],
+    "next_cursor": "6",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_5074d94813",
+    "name": "1000 Flights",
+    "endpoint": "https://1000flights.blogspot.com/feeds/posts/default",
+    "query": "DISCIPLINA",
+    "matches": 1,
+    "examples": [
+      {
+        "title": "DISCIPLINA - Disciplina - (Alampo Records-Italy-2009)",
+        "url": "https://1000flights.blogspot.com/2026/10/disciplina-disciplina-alampo-records.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_4ccff89824",
+    "name": "LosslessAlbums",
+    "endpoint": "https://losslessalbums.club/",
+    "query": "Computerwife",
+    "matches": 3,
+    "examples": [
+      {
+        "title": "Computerwife - Born from a Wish (2026) Hi-Res",
+        "url": "https://losslessalbums.club/hi-res/201392-computerwife-born-from-a-wish-2026-hi-res.html"
+      },
+      {
+        "title": "shower curtain - words from a wishing well (Deluxe Edition) (2025) Hi-Res",
+        "url": "https://losslessalbums.club/hi-res/167226-shower-curtain-words-from-a-wishing-well-deluxe-edition-2025-hi-res.html"
+      },
+      {
+        "title": "Computerwife - Computerwife (2023) Hi-Res",
+        "url": "https://losslessalbums.club/hi-res/128820-computerwife-computerwife-2023-hi-res.html"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_a113644fe2",
+    "name": "nodata",
+    "endpoint": "https://nodata.tv",
+    "query": "Bowie",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "David Bowie / No Plan [2017]",
+        "url": "https://nodata.tv/149934"
+      },
+      {
+        "title": "David Bowie / Legacy: The Very Best Of (Deluxe Edition) [2016]",
+        "url": "https://nodata.tv/148619"
+      },
+      {
+        "title": "David Bowie / Who Can I be Now? [2016]",
+        "url": "https://nodata.tv/147199"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_4bd247adc4",
+    "name": "FlacMusic",
+    "endpoint": "https://www.flacmusic.info/index.php",
+    "query": "Beatles",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "VA - Spin The Bottle - An All-Star Tribute To Kiss (2004)",
+        "url": "https://flacmusic.info/42842-va-spin-the-bottle-an-all-star-tribute-to-kiss-2004.html"
+      },
+      {
+        "title": "The RRSO Symphony Orchestra - Beatles For Strings (1996)",
+        "url": "https://flacmusic.info/1214-the-rrso-symphony-orchestra-beatles-for-strings.html"
+      },
+      {
+        "title": "Paul McCartney - Press To Play (1986)",
+        "url": "https://flacmusic.info/53111-paul-mccartney-press-to-play-1986.html"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_449990f36e",
+    "name": "FreeMIDI",
+    "endpoint": "https://freemidi.org/search",
+    "query": "Beatles",
+    "matches": 2,
+    "examples": [
+      {
+        "title": "Beatles",
+        "url": "https://freemidi.org/artist-251-beatles"
+      },
+      {
+        "title": "I Am The Walrus (Beatles Cover)",
+        "url": "https://freemidi.org/download3-18297-i-am-the-walrus-beatles-cover--oasis"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_111401798a",
+    "name": "Grime Archive",
+    "endpoint": "https://www.grimearchive.org/search",
+    "query": "Wiley",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "Sidewinder Awards Dizzie B2B Wiley",
+        "url": "https://www.grimearchive.org/mix/4537731"
+      },
+      {
+        "title": "Wiley sending for God's Gift",
+        "url": "https://www.grimearchive.org/mix/5625866"
+      },
+      {
+        "title": "Valentines Mix 2019 / Breakfast R&G Mix",
+        "url": "https://www.grimearchive.org/mix/4080697"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_91354dbc18",
+    "name": "HQ Hip Hop",
+    "endpoint": "https://94hiphop.com/",
+    "query": "Nas",
+    "matches": 5,
+    "examples": [
+      {
+        "title": "VA – The Genesis Of Nasty English EP (CD) (2026) (FLAC + 320 kbps)",
+        "url": "https://94hiphop.com/va-the-genesis-of-nasty-english-ep-cd-2026-flac-320-kbps"
+      },
+      {
+        "title": "Nas, Wu-Tang Clan & DJ Green Lantern – Wu York State Of Mind (WEB) (2022) (320 kbps)",
+        "url": "https://94hiphop.com/nas-wu-tang-clan-dj-green-lantern-wu-york-state-of-mind-web-2022-320-kbps"
+      },
+      {
+        "title": "Nasty – DJ Clapgerm & Legend Entertainment Present… Gangsta Getty (CD) (2005) (FLAC + 320 kbps)",
+        "url": "https://94hiphop.com/nasty-dj-clapgerm-legend-entertainment-present-gangsta-getty-cd-2005-flac-320-kbps"
+      }
+    ],
+    "next_cursor": "1:5",
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_b963b1a376",
+    "name": "BurningTheGround",
+    "endpoint": "https://burningtheground.net/",
+    "query": "Madonna",
+    "matches": 4,
+    "examples": [
+      {
+        "title": "Madonna – Gambler (Extended Dance Mix) (UK 12″) (1985)",
+        "url": "https://burningtheground.net/?p=30517"
+      },
+      {
+        "title": "Madonna – Everybody (US 12″) (1982)",
+        "url": "https://burningtheground.net/?p=29468"
+      },
+      {
+        "title": "Madonna – Hanky Panky (US 12″)",
+        "url": "https://burningtheground.net/?p=26265"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_fed_5332c157cb",
+    "name": "Tom Lehrer Songs",
+    "endpoint": "https://tomlehrersongs.com/",
+    "query": "Elements",
+    "matches": 3,
+    "examples": [
+      {
+        "title": "The Elements (incl. the Aristotle version and Elements 103-118)",
+        "url": "https://tomlehrersongs.com/the-elements/"
+      },
+      {
+        "title": "Songs",
+        "url": "https://tomlehrersongs.com/songs/"
+      },
+      {
+        "title": "Songs and Lyrics by Tom Lehrer",
+        "url": "https://tomlehrersongs.com/"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  },
+  {
+    "id": "custom_we_need_match",
+    "name": "We Need Match",
+    "endpoint": "https://we-need-match.ru/search/",
+    "query": "Metallica",
+    "matches": 1,
+    "examples": [
+      {
+        "title": "Various Artists - Metal Hammer Decades of Destruction (1986-2016) (FLAC)",
+        "url": "https://we-need-match.ru/forums/topic/4478-various-artists-metal-hammer-decades-of-destruction-1986-2016-flac/?do=findComment&comment=7450"
+      }
+    ],
+    "next_cursor": null,
+    "negative_count": 0,
+    "status": "success"
+  }
+]

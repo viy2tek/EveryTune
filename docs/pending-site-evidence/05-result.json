@@ -1,0 +1,83 @@
+{
+  "index": 5,
+  "name": "Ezhevika",
+  "url": "https://ezhevika.blogspot.com/",
+  "status": 200,
+  "final_url": "https://ezhevika.blogspot.com/",
+  "title": "EZHEVIKA FIELDS",
+  "searchlinks": [
+    "https://ezhevika.blogspot.com/search/label/southern%20rock",
+    "https://ezhevika.blogspot.com/search/label/usa",
+    "https://ezhevika.blogspot.com/search/label/psych",
+    "https://ezhevika.blogspot.com/search/label/usa",
+    "https://ezhevika.blogspot.com/search/label/avantgarde",
+    "https://ezhevika.blogspot.com/search/label/electronic",
+    "https://ezhevika.blogspot.com/search/label/experimental",
+    "https://ezhevika.blogspot.com/search/label/france",
+    "https://ezhevika.blogspot.com/search/label/austria",
+    "https://ezhevika.blogspot.com/search/label/folk",
+    "https://ezhevika.blogspot.com/search/label/psych%20prog",
+    "https://ezhevika.blogspot.com/search/label/power%20pop",
+    "https://ezhevika.blogspot.com/search/label/sweden",
+    "https://ezhevika.blogspot.com/search/label/new%20wave",
+    "https://ezhevika.blogspot.com/search/label/sweden",
+    "https://ezhevika.blogspot.com/search/label/garage",
+    "https://ezhevika.blogspot.com/search/label/germany",
+    "https://ezhevika.blogspot.com/search/label/psych",
+    "https://ezhevika.blogspot.com/search/label/uk",
+    "https://ezhevika.blogspot.com/search/label/folk",
+    "https://ezhevika.blogspot.com/search/label/jugoslavia",
+    "https://ezhevika.blogspot.com/search/label/psych",
+    "https://ezhevika.blogspot.com/search/label/glam",
+    "https://ezhevika.blogspot.com/search/label/hard%20rock",
+    "https://ezhevika.blogspot.com/search/label/usa",
+    "https://ezhevika.blogspot.com/search/label/new%20wave",
+    "https://ezhevika.blogspot.com/search/label/uk",
+    "https://ezhevika.blogspot.com/search/label/art",
+    "https://ezhevika.blogspot.com/search/label/germany",
+    "https://ezhevika.blogspot.com/search/label/pop"
+  ],
+  "robots_status": 200,
+  "robots_text": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nDisallow: /share-widget\nAllow: /\n\nSitemap: https://ezhevika.blogspot.com/sitemap.xml\n\n",
+  "robots": true,
+  "feed_robots": true,
+  "feed_status": 200,
+  "feed_query": "Halifax",
+  "feed_matches": [
+    {
+      "title": "Halifax - Halifax (1981)",
+      "links": [
+        {
+          "rel": "replies",
+          "type": "application/atom+xml",
+          "href": "https://ezhevika.blogspot.com/feeds/3970452001668323533/comments/default",
+          "title": "Post Comments"
+        },
+        {
+          "rel": "replies",
+          "type": "text/html",
+          "href": "https://www.blogger.com/comment/fullpage/post/23855789/3970452001668323533?isPopup=true",
+          "title": "0 Comments"
+        },
+        {
+          "rel": "edit",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/23855789/posts/default/3970452001668323533"
+        },
+        {
+          "rel": "self",
+          "type": "application/atom+xml",
+          "href": "https://www.blogger.com/feeds/23855789/posts/default/3970452001668323533"
+        },
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://ezhevika.blogspot.com/2026/10/halifax-halifax-1981.html",
+          "title": "Halifax - Halifax (1981)"
+        }
+      ]
+    }
+  ],
+  "feed_endpoint": "https://ezhevika.blogspot.com/feeds/posts/default",
+  "empty_query_count": 0
+}

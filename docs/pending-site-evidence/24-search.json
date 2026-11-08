@@ -1,0 +1,212 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "openSearch$totalResults": {
+      "$t": "5"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8270002232971427483.post-4170474057769452929"
+        },
+        "title": {
+          "type": "text",
+          "$t": " John Lee Hooker With The Groundhogs – Hooker & The Hogs (May and June of 1965) 2003"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://urbanaspirines.blogspot.com/feeds/4170474057769452929/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/11/john-lee-hooker-with-groundhogs-hooker.html#comment-form",
+            "title": "2 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4170474057769452929"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4170474057769452929"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/11/john-lee-hooker-with-groundhogs-hooker.html",
+            "title": " John Lee Hooker With The Groundhogs – Hooker & The Hogs (May and June of 1965) 2003"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8270002232971427483.post-4494591177506827461"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Gong: Discography 1970 - 1979 (11 Albums)"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://urbanaspirines.blogspot.com/feeds/4494591177506827461/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/11/gong-discography-1970-1979-11-albums.html#comment-form",
+            "title": "13 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4494591177506827461"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4494591177506827461"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/11/gong-discography-1970-1979-11-albums.html",
+            "title": "Gong: Discography 1970 - 1979 (11 Albums)"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8270002232971427483.post-7291747660894656417"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Lou Reed: Original Album Classics + Rock 'n' Roll Animal 1974 + Street Hassle 1978 + The Blue Mask 1982"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://urbanaspirines.blogspot.com/feeds/7291747660894656417/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/10/lou-reed-original-album-classics-rock-n.html#comment-form",
+            "title": "6 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/7291747660894656417"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/7291747660894656417"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/10/lou-reed-original-album-classics-rock-n.html",
+            "title": "Lou Reed: Original Album Classics + Rock 'n' Roll Animal 1974 + Street Hassle 1978 + The Blue Mask 1982"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8270002232971427483.post-78136719405312900"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Various: The Story Of Jamaican Music (Tougher Than Tough) 1993"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://urbanaspirines.blogspot.com/feeds/78136719405312900/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/10/various-story-of-jamaican-music-tougher.html#comment-form",
+            "title": "7 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/78136719405312900"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/78136719405312900"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/10/various-story-of-jamaican-music-tougher.html",
+            "title": "Various: The Story Of Jamaican Music (Tougher Than Tough) 1993"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8270002232971427483.post-4932556306756057295"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Rainy Day: Rainy Day 1984"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://urbanaspirines.blogspot.com/feeds/4932556306756057295/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/10/rainy-day-rainy-day-1984.html#comment-form",
+            "title": "8 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4932556306756057295"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8270002232971427483/posts/default/4932556306756057295"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://urbanaspirines.blogspot.com/2026/10/rainy-day-rainy-day-1984.html",
+            "title": "Rainy Day: Rainy Day 1984"
+          }
+        ]
+      }
+    ]
+  }
+}

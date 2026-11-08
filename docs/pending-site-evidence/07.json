@@ -1,0 +1,47 @@
+{
+  "index": 7,
+  "name": "Canna",
+  "url": "https://canna.to/?lang=eng",
+  "status": 200,
+  "final_url": "https://canna.to/?lang=eng",
+  "title": "CannaPower - Latest MP3 and music, user uploads",
+  "forms": [
+    {
+      "method": "post",
+      "action": "/anmelden.php",
+      "input_names": [
+        "benutzer",
+        "passwort"
+      ]
+    },
+    {
+      "method": "POST",
+      "action": "/suche",
+      "input_names": [
+        "s_string",
+        "s_submit",
+        "r_line",
+        "s_select",
+        "s_sort",
+        "s_beschreibung",
+        "s_kat_id",
+        "s_filename",
+        "action",
+        "s_val",
+        "es"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://canna.to/zeilenmenue.js?v=1",
+    "https://canna.to/dunkelmodus.js?v=3",
+    "https://canna.to/konto.js?v=16",
+    "https://canna.to/bbc.js",
+    "https://canna.to/preview.js?v=3",
+    "https://canna.to/charts.js",
+    "https://canna.to/jquery-1.7.2.min.js",
+    "https://canna.to/schnee.js",
+    "https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"
+  ],
+  "searchlinks": []
+}

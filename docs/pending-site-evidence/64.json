@@ -1,0 +1,63 @@
+{
+  "index": 64,
+  "name": "aboutdisco",
+  "url": "https://aboutdiscowithlove.blogspot.com/",
+  "status": 200,
+  "final_url": "https://aboutdiscowithlove.blogspot.com/",
+  "title": "aboutdisco",
+  "forms": [
+    {
+      "method": "post",
+      "action": "https://www.paypal.com/donate",
+      "input_names": [
+        "hosted_button_id",
+        "submit"
+      ]
+    },
+    {
+      "method": "GET",
+      "action": "https://aboutdiscowithlove.blogspot.com/search",
+      "input_names": [
+        "q"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "https://www.paypal.com/donate",
+      "input_names": [
+        "hosted_button_id",
+        "submit"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7158796613944073&host=ca-host-pub-1556223355139109",
+    "https://apis.google.com/js/platform.js",
+    "https://www.gstatic.com/charts/loader.js",
+    "https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=a8vr048EPy_qcVZ_CBXozaGBpAvNFEcya3GNYLZ38xM",
+    "https://st.chatango.com/js/gz/emb.js",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://aboutdiscowithlove.blogspot.com/search?updated-max=2026-03-21T06:48:00-07:00&max-results=13",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Act%20Of%20Sedition",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Belpaese",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Boogiefuturo",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Brookside",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Common%20Edit",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Community%20Disc-O%27s",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Disco%20Banger",
+    "https://aboutdiscowithlove.blogspot.com/search/label/G.A.M.M.",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Gator%20Boots",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Hello%20Sailor%20Recordings",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Hot%20Biscuit%20Recordings",
+    "https://aboutdiscowithlove.blogspot.com/search/label/James%20Greenwood",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Love%20Drops",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Outerzona13",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Paradise%20Pizza",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Razor-N-Tape",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Saint%20Wax%20Edit%20Service",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Semi%E2%80%8B-%E2%80%8BSkimmed",
+    "https://aboutdiscowithlove.blogspot.com/search/label/Stamp"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "index": 6,
+  "name": "LEAKED",
+  "url": "https://leaked.cx/",
+  "status": 200,
+  "final_url": "https://leaked.cx/",
+  "title": "LEAKED",
+  "searchlinks": [],
+  "robots_status": 200,
+  "robots_text": "User-agent: *\nDisallow: /trophies/\n",
+  "robots": true
+}

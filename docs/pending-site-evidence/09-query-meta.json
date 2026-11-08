@@ -1,0 +1,10 @@
+{
+  "index": 9,
+  "method": "GET",
+  "endpoint": "https://www.midicities.com/geocities-search",
+  "params": {
+    "geocitiesSearch": "titanic"
+  },
+  "status": 200,
+  "final_url": "https://www.midicities.com/geocities-search?geocitiesSearch=titanic"
+}

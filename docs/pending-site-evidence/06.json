@@ -1,0 +1,35 @@
+{
+  "index": 6,
+  "name": "LEAKED",
+  "url": "https://leaked.cx/",
+  "status": 200,
+  "final_url": "https://leaked.cx/",
+  "title": "LEAKED",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "",
+      "input_names": [
+        "_xfClientLoadTime"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://leaked.cx/js/xf/preamble.min.js?_v=d4d5a4d6",
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+    "https://leaked.cx/js/vendor/vendor-compiled.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/xf/core-compiled.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/8wayrun/porta/portal.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/xf/notice.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/uix_dark/ripple.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/global/20180112.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/uix_dark/index.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/uix_dark/vendor/hover-intent/jquery.hoverIntent.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/foroagency/coloredusername/index.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/uix_dark/defer.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/uix_dark/deferFab.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/uix_dark/deferNodesCollapse.min.js?_v=d4d5a4d6",
+    "https://leaked.cx/js/themehouse/uix_dark/deferWidthToggle.min.js?_v=d4d5a4d6"
+  ],
+  "searchlinks": []
+}

@@ -1,0 +1,106 @@
+{
+  "index": 56,
+  "name": "PSYFP",
+  "url": "https://psyfp.ucoz.ru/",
+  "status": 200,
+  "final_url": "https://psyfp.ucoz.ru/",
+  "title": "PsyFP - Psychedelic For People",
+  "forms": [
+    {
+      "method": "get",
+      "action": "/search/",
+      "input_names": [
+        "q",
+        "sfSbm",
+        "t"
+      ]
+    },
+    {
+      "method": "get",
+      "action": "/search/",
+      "input_names": [
+        "q",
+        "sfSbm",
+        "t"
+      ]
+    },
+    {
+      "method": "post",
+      "action": "https://www.paypal.com/cgi-bin/webscr",
+      "input_names": [
+        "cmd",
+        "business",
+        "lc",
+        "item_name",
+        "no_note",
+        "currency_code",
+        "bn",
+        "submit"
+      ]
+    },
+    {
+      "method": "GET",
+      "action": "",
+      "input_names": [
+        "answer",
+        "answer",
+        "answer",
+        "answer",
+        "answer",
+        "ssid",
+        "id",
+        "a",
+        "ajax"
+      ]
+    },
+    {
+      "method": "GET",
+      "action": "",
+      "input_names": [
+        "a",
+        "ajax",
+        "numa"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://psyfp.ucoz.ru/?CnHB8n8t3br9vYcx3Iheda9BtJiWh%3BInp%5EJ3jdZDnS77MRyFm8FwKdjuGyz%5EqSQh%5E2Qgg4ZdLNEvPmSat9ZqNf4W%3B61PqXJPEmYM6z5%5ERUlfLkE9%5El9iyu2lim7%5EXlLDU%21WYCMMYFWRpkY0Ua5uu%21M4I0rb87BbC8RCg%3BT0Jn%5Ed7X%5EzVHrlTzSvjk97s63i%5Er2IsQwjpHWzNl67qWnHM1WRrngoo",
+    "https://s21.ucoz.net/src/u.js",
+    "https://psyfp.ucoz.ru/.s/src/jquery-3.6.0.min.js",
+    "https://psyfp.ucoz.ru/.s/src/uwnd.min.js",
+    "https://psyfp.ucoz.ru/.s/src/ulightbox/ulightbox.min.js",
+    "https://psyfp.ucoz.ru/widget/?8;2008|1|1|%D0%A1%D0%B0%D0%B9%D1%82%20%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82%20%3Cb%3E%25N%25%3C%2Fb%3E%20%D0%B4%D0%BD%D0%B5%D0%B9"
+  ],
+  "searchlinks": [
+    "/search/forest/",
+    "/search/PsyTrance/",
+    "/search/EP/",
+    "/search/flac/",
+    "/search/2002/",
+    "/search/Psy-Prog/",
+    "/search/techno/",
+    "/search/Psy-Trance/",
+    "/search/2001/",
+    "/search/2007/",
+    "/search/2005/",
+    "/search/2009/",
+    "/search/1996/",
+    "/search/2003/",
+    "/search/Full%20On/",
+    "/search/2004/",
+    "/search/ChillOut/",
+    "/search/2006/",
+    "/search/Psychedelic/",
+    "/search/goa/",
+    "/search/1997/",
+    "/search/1999/",
+    "/search/Progressive/",
+    "/search/Ambient/",
+    "/search/Downtempo/",
+    "/search/PsyChill/",
+    "/search/Dark/",
+    "/search/2010/",
+    "/search/VA/",
+    "/search/1998/"
+  ]
+}

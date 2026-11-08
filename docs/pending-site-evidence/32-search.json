@@ -1,0 +1,212 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "openSearch$totalResults": {
+      "$t": "5"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8357696082833015704.post-6336821423421554842"
+        },
+        "title": {
+          "type": "text",
+          "$t": "What a long, strange trip ..."
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://inconstantsol.blogspot.com/feeds/6336821423421554842/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8357696082833015704/6336821423421554842",
+            "title": "126 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/6336821423421554842"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/6336821423421554842"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://inconstantsol.blogspot.com/2011/01/what-long-strange-trip.html",
+            "title": "What a long, strange trip ..."
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8357696082833015704.post-1292716458280798234"
+        },
+        "title": {
+          "type": "text",
+          "$t": "AKIRA SAKATA ORCHESTRA  \"TOKYO, 1982\""
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://inconstantsol.blogspot.com/feeds/1292716458280798234/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8357696082833015704/1292716458280798234",
+            "title": "10 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/1292716458280798234"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/1292716458280798234"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://inconstantsol.blogspot.com/2024/10/akira-sakata-orchestra-tokyo-1982.html",
+            "title": "AKIRA SAKATA ORCHESTRA  \"TOKYO, 1982\""
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8357696082833015704.post-2929445935379853392"
+        },
+        "title": {
+          "type": "text",
+          "$t": "RICHARD DUNBAR - RUNNING BUDDIES VOL. 2 (JAHARI RECORDS, 1983)"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://inconstantsol.blogspot.com/feeds/2929445935379853392/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8357696082833015704/2929445935379853392",
+            "title": "7 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/2929445935379853392"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/2929445935379853392"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://inconstantsol.blogspot.com/2023/04/richard-dunbar-running-buddies-vol-2.html",
+            "title": "RICHARD DUNBAR - RUNNING BUDDIES VOL. 2 (JAHARI RECORDS, 1983)"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8357696082833015704.post-3276796325746142608"
+        },
+        "title": {
+          "type": "text",
+          "$t": "THE SAM RIVERS SESSIONOGRAPHY"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://inconstantsol.blogspot.com/feeds/3276796325746142608/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8357696082833015704/3276796325746142608",
+            "title": "9 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/3276796325746142608"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/3276796325746142608"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://inconstantsol.blogspot.com/2023/01/sam-rivers-sessionography.html",
+            "title": "THE SAM RIVERS SESSIONOGRAPHY"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8357696082833015704.post-6629166395998036833"
+        },
+        "title": {
+          "type": "text",
+          "$t": "COLD CASTLE NATIONAL - JAZZ 1962 - FESTIVAL MOROKA-JABAVU (NEW SOUND, GALLOTONE, 1962)"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://inconstantsol.blogspot.com/feeds/6629166395998036833/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.blogger.com/comment/fullpage/post/8357696082833015704/6629166395998036833",
+            "title": "20 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/6629166395998036833"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8357696082833015704/posts/default/6629166395998036833"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://inconstantsol.blogspot.com/2022/06/cold-castle-national-jazz-1962-festival.html",
+            "title": "COLD CASTLE NATIONAL - JAZZ 1962 - FESTIVAL MOROKA-JABAVU (NEW SOUND, GALLOTONE, 1962)"
+          }
+        ]
+      }
+    ]
+  }
+}

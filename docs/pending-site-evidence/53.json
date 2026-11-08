@@ -1,0 +1,44 @@
+{
+  "index": 53,
+  "name": "KTI Music",
+  "url": "https://ktimusic.blogspot.com/",
+  "status": 200,
+  "final_url": "https://ktimusic.blogspot.com/",
+  "title": "KTI FLAC archives",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://ktimusic.blogspot.com/search",
+      "input_names": [
+        "q"
+      ]
+    },
+    {
+      "method": "GET",
+      "action": "",
+      "input_names": [
+        "name",
+        "email"
+      ]
+    }
+  ],
+  "scripts": [
+    "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7606192888428999&host=ca-host-pub-1556223355139109",
+    "https://apis.google.com/js/platform.js",
+    "https://www.gstatic.com/charts/loader.js",
+    "https://www.blogger.com/static/v1/widgets/648255196-widgets.js"
+  ],
+  "searchlinks": [
+    "https://ktimusic.blogspot.com/search/label/Remix%20Pack",
+    "https://ktimusic.blogspot.com/search/label/Anthology",
+    "https://ktimusic.blogspot.com/search/label/Remix%20Anthology",
+    "https://ktimusic.blogspot.com/search/label/Remix%20Pack",
+    "https://ktimusic.blogspot.com/search?updated-max=2026-01-03T23:08:00%2B02:00&max-results=7",
+    "https://ktimusic.blogspot.com/search/label/%C2%B0LABEL%20CASE",
+    "https://ktimusic.blogspot.com/search/label/Anthology",
+    "https://ktimusic.blogspot.com/search/label/Catalogue",
+    "https://ktimusic.blogspot.com/search/label/Remix%20Anthology",
+    "https://ktimusic.blogspot.com/search/label/Remix%20Pack",
+    "https://ktimusic.blogspot.com/search/label/Vault"
+  ]
+}

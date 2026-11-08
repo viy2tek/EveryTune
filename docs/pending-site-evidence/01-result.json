@@ -1,0 +1,12 @@
+{
+  "index": 1,
+  "name": "AlterPortal",
+  "url": "https://alterportal.net/",
+  "status": 200,
+  "final_url": "https://alterportal.net/",
+  "title": "Alterportal V2 - портал альтернативной музыки",
+  "searchlinks": [],
+  "robots_status": 200,
+  "robots_text": "User-agent: *\nDisallow: /engine/go.php\nDisallow: /user/\nDisallow: /newposts/\nDisallow: /statistics.html\nDisallow: /*subaction=userinfo\nDisallow: /*subaction=newposts\nDisallow: /*do=lastcomments\nDisallow: /*do=feedback\nDisallow: /*do=register\nDisallow: /*do=lostpassword\nDisallow: /*do=addnews\nDisallow: /*do=stats\nDisallow: /*do=pm\nDisallow: /*do=search\nDisallow: /*do=download\nDisallow: /*do=go",
+  "robots": true
+}
