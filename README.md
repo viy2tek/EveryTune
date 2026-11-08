@@ -13,7 +13,7 @@ selecionadas; capas podem ser carregadas dos servidores delas.
 
 ### Executável Windows
 
-Na seção **Releases** do repositório, quando a beta estiver publicada, baixe o ZIP
+Na seção [Releases](https://github.com/viy2tek/EveryTune/releases) do repositório, baixe o ZIP
 para Windows x64, extraia e abra **EveryTune.exe**. O código-fonte baixado pelo
 botão Code não contém o executável; `dist/` não é versionado.
 
